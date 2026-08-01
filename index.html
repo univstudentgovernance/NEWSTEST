@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>대학 학생자치 뉴스 모니터</title>
+  <style>
+    :root{color-scheme:light;--ink:#181818;--muted:#6a6a6a;--line:#ddd;--accent:#7b001f}*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,"Noto Sans KR",sans-serif;color:var(--ink);background:#f7f7f5}header,main{width:min(1100px,calc(100% - 32px));margin:auto}header{padding:52px 0 24px}h1{margin:0 0 10px;font-size:clamp(28px,5vw,46px);letter-spacing:-.04em}.meta{color:var(--muted)}.controls{display:grid;grid-template-columns:1fr 180px;gap:10px;margin:18px 0}input,select{width:100%;padding:12px;border:1px solid var(--line);border-radius:8px;background:white;font:inherit}.list{display:grid;gap:10px;padding-bottom:60px}.card{display:block;padding:20px;background:white;border:1px solid var(--line);border-radius:10px;color:inherit;text-decoration:none}.card:hover{border-color:var(--accent)}.tag{color:var(--accent);font-weight:700;font-size:13px}.title{margin:7px 0;font-size:19px;font-weight:750;line-height:1.4}.source{color:var(--muted);font-size:14px}.empty{padding:60px;text-align:center;color:var(--muted)}@media(max-width:620px){.controls{grid-template-columns:1fr}header{padding-top:30px}}
+  </style>
+</head>
+<body>
+  <header><h1>대학 학생자치 뉴스 모니터</h1><div class="meta" id="meta">자료를 불러오는 중…</div></header>
+  <main>
+    <div class="controls"><input id="search" type="search" placeholder="기사·언론사 검색"><select id="category"><option value="">전체 분야</option></select></div>
+    <section class="list" id="list"></section>
+  </main>
+  <script>
+    const state={items:[]}; const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    function render(){const q=document.querySelector('#search').value.trim().toLowerCase(),cat=document.querySelector('#category').value;const rows=state.items.filter(x=>(!cat||x.category===cat)&&(!q||`${x.title} ${x.source} ${x.summary}`.toLowerCase().includes(q)));document.querySelector('#list').innerHTML=rows.length?rows.map(x=>`<a class="card" href="${esc(x.url)}" target="_blank" rel="noopener noreferrer"><div class="tag">${esc(x.category)}</div><div class="title">${esc(x.title)}</div><div class="source">${esc(x.source)} · ${new Date(x.published_at).toLocaleString('ko-KR')}</div></a>`).join(''):'<div class="empty">조건에 맞는 기사가 없습니다.</div>'}
+    fetch('./data/news.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(d=>{state.items=d.items||[];document.querySelector('#meta').textContent=`${state.items.length.toLocaleString()}건 · 최종 수집 ${d.updated_at?new Date(d.updated_at).toLocaleString('ko-KR'):'아직 실행 전'}`;[...new Set(state.items.map(x=>x.category))].sort().forEach(c=>document.querySelector('#category').insertAdjacentHTML('beforeend',`<option>${esc(c)}</option>`));render()}).catch(()=>document.querySelector('#meta').textContent='자료를 불러오지 못했습니다.');
+    document.querySelector('#search').addEventListener('input',render);document.querySelector('#category').addEventListener('change',render);
+  </script>
+</body>
+</html>
