@@ -1,9 +1,45 @@
 {
-  "updated_at": "2026-08-05T03:13:50.756191+09:00",
-  "item_count": 378,
+  "updated_at": "2026-08-05T19:06:28.112011+09:00",
+  "item_count": 395,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "에너지공대 총학생회 \"총장후보 심사기준 투명하게 공개해야\" - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40cWw3dFY2SWotMm82VTJlcHdDRXVLUWphSHdyRUY3eGRjZ2JiVzVYeFNubTg5YlNNdmxrdWd6SFRiN2M2Qlc0X3o0SkJDQVJfRmFBVVdUOHU5eTM2NDA5Ng?oc=5",
+      "summary": "에너지공대 총학생회 \"총장후보 심사기준 투명하게 공개해야\" 네이트",
+      "source": "네이트",
+      "published_at": "2026-08-05T08:14:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "5e4c77d1bb57de54a975",
+      "category": "선거·조직",
+      "collected_at": "2026-08-05T10:05:57.117053+00:00"
+    },
+    {
+      "title": "총학·시민단체 \"'2년8개월 공백' 한국에너지공대 총장 조속 선임\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fbjgwV2lTeEJjS3VpRTY0QnRZR3o1RDQwSURLZmVyWHVIYnE1MUFUdkFkRDN0eWZmNGJOZkVleXBnZ3B6ZkE5bG1yX0hwRzljU29QLUFHeS1aYXhjWVBnNkUyWDNFQjVlRFVRWkhvd3M3VzJsRlotbtIBeEFVX3lxTE9fbjgwV2lTeEJjS3VpRTY0QnRZR3o1RDQwSURLZmVyWHVIYnE1MUFUdkFkRDN0eWZmNGJOZkVleXBnZ3B6ZkE5bG1yX0hwRzljU29QLUFHeS1aYXhjWVBnNkUyWDNFQjVlRFVRWkhvd3M3VzJsRlotbg?oc=5",
+      "summary": "총학·시민단체 \"'2년8개월 공백' 한국에너지공대 총장 조속 선임\" 뉴시스",
+      "source": "뉴시스",
+      "published_at": "2026-08-05T06:14:25+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "cbf81677694bab423b25",
+      "category": "선거·조직",
+      "collected_at": "2026-08-05T10:05:57.117029+00:00"
+    },
+    {
+      "title": "“파란 여름을 모아봐”… 한양대 총학생회 비대위, 문화사업 ‘HY-Summer’ 진행 - 뉴스H",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81WExIdUdPY3dWUU91b0s4SkN0aU5NVDVSa1dXX1NGUlpjOTZ1LVB5Sy1MYjNQdkZmWTJVNUFaekdkQlJKRzktd2ZnZ2RtTldqOUdsQjNORXR5WVJWbmVydUg4SFkzMndPQnc?oc=5",
+      "summary": "“파란 여름을 모아봐”… 한양대 총학생회 비대위, 문화사업 ‘HY-Summer’ 진행 뉴스H",
+      "source": "뉴스H",
+      "published_at": "2026-08-05T02:08:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "04e0a2514470d89a52e9",
+      "category": "선거·조직",
+      "collected_at": "2026-08-05T10:05:57.116990+00:00"
+    },
     {
       "title": "'고연전 뒤풀이' 장소 변경 안 한다…학교·총학 합의 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QSllMQUN1NlFoNU14LXhrWjJVNUxDN19uQ0Y1ZEhqX21iRDduWWlfNEFRSVhKQVhKNFpQSVhkMTBqV3lFcXBiTFhhbWI1WTA?oc=5",
@@ -41,6 +77,18 @@
       "collected_at": "2026-08-03T12:39:43.384533+00:00"
     },
     {
+      "title": "[보도] 13개 학생자치기구 대표 공약 점검…65% 이행 - news.hallym.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52X3g1M3BPOU1tU0VWVm5vNXpyODZ6OWJ0MjVTTjVzRHdmcFZRZU10anJaWVBwYTM5cktCT2lqMUJoYzZBa1lGZi1xa0M0OUFpdkt1Y2NpbGp5Y0x0TGpfTDllUU1JczJDcUE?oc=5",
+      "summary": "[보도] 13개 학생자치기구 대표 공약 점검…65% 이행 news.hallym.ac.kr",
+      "source": "news.hallym.ac.kr",
+      "published_at": "2026-08-02T09:55:10+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "22706b5dda14a85f3543",
+      "category": "의결·자치",
+      "collected_at": "2026-08-05T10:05:58.824228+00:00"
+    },
+    {
       "title": "“참정권 침해 규탄”…전국 18개 대학 총학 동시 시국선언 [쿡 정치포토] - 쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBldTE1dWQ2UUxrNjNpc1FKSEhSVElXSHRSVDVpMU1qUE83Y1RHdUM1cXEzNVpMZFQwelg2LXRxRjVKMHdEMHBJRFU0M0YtQ0xneEtDdmVjYUxlT2o1ei1CRlJIWQ?oc=5",
       "summary": "“참정권 침해 규탄”…전국 18개 대학 총학 동시 시국선언 [쿡 정치포토] 쿠키뉴스",
@@ -51,6 +99,18 @@
       "id": "fec62c0ab86bd3623d14",
       "category": "기타",
       "collected_at": "2026-08-01T17:51:52.851514+00:00"
+    },
+    {
+      "title": "“참정권 침해 규탄”…전국 18개 대학 총학 동시 시국선언 [쿡 정치포토] - kukinews.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBldTE1dWQ2UUxrNjNpc1FKSEhSVElXSHRSVDVpMU1qUE83Y1RHdUM1cXEzNVpMZFQwelg2LXRxRjVKMHdEMHBJRFU0M0YtQ0xneEtDdmVjYUxlT2o1ei1CRlJIWQ?oc=5",
+      "summary": "“참정권 침해 규탄”…전국 18개 대학 총학 동시 시국선언 [쿡 정치포토] kukinews.com",
+      "source": "kukinews.com",
+      "published_at": "2026-08-01T10:02:10+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "9a9a8630b312ba002b16",
+      "category": "기타",
+      "collected_at": "2026-08-05T10:06:00.462183+00:00"
     },
     {
       "title": "켄텍 총학생회, 총장 선임 더 이상 미루지 말라 - 머니투데이 - 머니투데이",
@@ -390,6 +450,18 @@
       "id": "144d0fa7ab61bb94e41b",
       "category": "기타",
       "collected_at": "2026-08-01T17:27:17.516755+00:00"
+    },
+    {
+      "title": "순천대 총학생회 \"정치 논리로 대학 미래 좌우 안 돼\"…의대 설립·통합 강력 반대 - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yTHE1WVZsaDV2Mi0zUHc5d01LckpDM2RpX2NmY2hETy1jMjY4cm9rRVJMZXZGV21zQm10MGZtNXhOcWpYcE9wMmxKRTFPZHlNazRTUXFiU1VrTG9EOF9QMTJZT2REbXdEQ3J2Sk1n?oc=5",
+      "summary": "순천대 총학생회 \"정치 논리로 대학 미래 좌우 안 돼\"…의대 설립·통합 강력 반대 gukjenews.com",
+      "source": "gukjenews.com",
+      "published_at": "2026-07-21T00:00:20+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "280ede3a14be90bff343",
+      "category": "기타",
+      "collected_at": "2026-08-05T10:05:57.118042+00:00"
     },
     {
       "title": "“의과대학 전리품 아니다”…순천대 총학, 정치 개입 중단 촉구 - 진일보",
@@ -755,6 +827,18 @@
       "collected_at": "2026-08-01T17:27:17.517777+00:00"
     },
     {
+      "title": "“잊지 않겠습니다”… 계명대 총학생회, 6·25전쟁 추념식 개최 - news.unn.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5taWxaa0V2ODRxY2wwblc3enJqRGpVV1RYdlhtYVNLRDJtZWVhOS1ZTVhSMnJoR20yZmd6cUdHR2c3X0FybVRTNG56eVlQbDRJV1cxR2RsVkZNRVc0VEs3OUhpYUJhQQ?oc=5",
+      "summary": "“잊지 않겠습니다”… 계명대 총학생회, 6·25전쟁 추념식 개최 news.unn.net",
+      "source": "news.unn.net",
+      "published_at": "2026-06-24T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e0547bf4b6c8d6db592e",
+      "category": "기타",
+      "collected_at": "2026-08-05T10:05:57.118860+00:00"
+    },
+    {
       "title": "[기자수첩] 학생위원 늘리는 ‘등심위’ 개편, 등록금 갈등 풀까 - 한국대학신문",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QQjFKZ2xkb29ZdDVPQ0l3c3BHNnBCZ1VIZDU3VGNiYkV6eExEU2V4bU56VkYtcy1zb0ZWYkVISWRVa3VEMGRPS1F6X2hLTlp4UVJpc3otLVNUWkVHN1lXcWZobFk1UQ?oc=5",
       "summary": "[기자수첩] 학생위원 늘리는 ‘등심위’ 개편, 등록금 갈등 풀까 한국대학신문",
@@ -764,6 +848,30 @@
       "id": "48014e68976b6f461c32",
       "category": "등록금·교육",
       "collected_at": "2026-08-01T17:27:30.595334+00:00"
+    },
+    {
+      "title": "[기자수첩] 학생위원 늘리는 ‘등심위’ 개편, 등록금 갈등 풀까 - news.unn.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QQjFKZ2xkb29ZdDVPQ0l3c3BHNnBCZ1VIZDU3VGNiYkV6eExEU2V4bU56VkYtcy1zb0ZWYkVISWRVa3VEMGRPS1F6X2hLTlp4UVJpc3otLVNUWkVHN1lXcWZobFk1UQ?oc=5",
+      "summary": "[기자수첩] 학생위원 늘리는 ‘등심위’ 개편, 등록금 갈등 풀까 news.unn.net",
+      "source": "news.unn.net",
+      "published_at": "2026-06-23T07:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "36a03ad1a6881671f9b5",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-05T10:06:02.090798+00:00"
+    },
+    {
+      "title": "발언하는 김태윤 전현직총학생회연합 대표 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HbTExYTlTQWprOXB4WFM2VXhKakFMb2E1RTkwa051a1otNEtRWFZTRXNtNndybG1mUmlPYXlYQWZ2OVRPZkowVEY3am44QTgtT0JzeHBKUTB4UmNE?oc=5",
+      "summary": "발언하는 김태윤 전현직총학생회연합 대표 뉴스핌",
+      "source": "뉴스핌",
+      "published_at": "2026-06-21T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "15932018ae73caec14a1",
+      "category": "기타",
+      "collected_at": "2026-08-05T10:05:57.118644+00:00"
     },
     {
       "title": "충북대 총학생회, 선관위 규탄 시국선언 - 연합뉴스",
@@ -865,6 +973,18 @@
       "id": "320e942335f46da3088e",
       "category": "기타",
       "collected_at": "2026-08-03T12:39:45.108504+00:00"
+    },
+    {
+      "title": "선관위, 전국 대학총학 면담…\"선거 치르기 싫어 휴직은 오해\"(종합) - news1.kr",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UMXh3OXlRYWRTbmZFWUg3cXdoVDk4Q0p4THM4OUdtWmRRQXlad2xlV2JqR0oxdmY5MGZLbUhoU3VwX2oxbGx5THd5U1ZLMURfVkdwVElMWjladw?oc=5",
+      "summary": "선관위, 전국 대학총학 면담…\"선거 치르기 싫어 휴직은 오해\"(종합) news1.kr",
+      "source": "news1.kr",
+      "published_at": "2026-06-17T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "f221ece4994829f55b5b",
+      "category": "선거·조직",
+      "collected_at": "2026-08-05T10:06:00.463166+00:00"
     },
     {
       "title": "“청년으로서 참정권 수호할 것” 서울권 대학 총학생회 ‘투표용지 부족 사태’ 규탄해 - 대학알리",
@@ -1408,6 +1528,30 @@
       "id": "36e49612592fcfb093f7",
       "category": "선거·조직",
       "collected_at": "2026-08-04T18:13:22.575045+00:00"
+    },
+    {
+      "title": "‘투표용지 부족’에 들끓는 대학가… 18개大 총학, 선관위 부실 관리 규탄[대학가 시국선언] - news.unn.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WeE11c05kTHJZOVZ1azZITWNxQXBlZURQZTZoMDNzSjVPVWRyYnFPaTkxVGk5Z3NuNTJFbmY4QnFsWVRXZ1NoZkh1SjBsV1kxYTcxUHk0TW1RVXU5QnJvM1J3OWFMdw?oc=5",
+      "summary": "‘투표용지 부족’에 들끓는 대학가… 18개大 총학, 선관위 부실 관리 규탄[대학가 시국선언] news.unn.net",
+      "source": "news.unn.net",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "6ef2496e5f79b3e7d274",
+      "category": "기타",
+      "collected_at": "2026-08-05T10:05:57.118329+00:00"
+    },
+    {
+      "title": "전국 16개 대학총학 오늘 시국선언…\"국가기관이 참정권 침해\" - news1.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rWjdLOVB3Rm5NeTlENmQ0UjhUeGxzV192STBXZVhyY2Utck1wU2pmTXFnSTh2YnpWVFBsWWFUVkVxMWRKVnNSTkh1cHI5WXVaV1ZNNUVGOFVvdVlDTDZ2eC1R?oc=5",
+      "summary": "전국 16개 대학총학 오늘 시국선언…\"국가기관이 참정권 침해\" news1.kr",
+      "source": "news1.kr",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "ca5c54a81636b6476f91",
+      "category": "기타",
+      "collected_at": "2026-08-05T10:06:00.463843+00:00"
     },
     {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
@@ -2167,6 +2311,18 @@
       "collected_at": "2026-08-01T17:27:38.659599+00:00"
     },
     {
+      "title": "루터대 총학생회, 전국 신학교 축구축제 참가…신앙과 교류 다져 - news.unn.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aZFNSbnNlUDlPc094VnhSTUtfekZJem5DQmVLNWh1b0xRUF9mUFZfd0oxYW0yYzhob2JOMTlvNmMxNllrd1Q4bldUbjVlaDJMTVZWM3IxMkJpQnRFUm51czFCMXlHQQ?oc=5",
+      "summary": "루터대 총학생회, 전국 신학교 축구축제 참가…신앙과 교류 다져 news.unn.net",
+      "source": "news.unn.net",
+      "published_at": "2026-05-25T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "d711f14e4c6f0d6c9d9a",
+      "category": "복지·문화",
+      "collected_at": "2026-08-05T10:06:05.318754+00:00"
+    },
+    {
       "title": "총학생회 공약으로 떠오른 취득학점포기제, 실현 가능성은 - skkuw.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZcGdTU3JuNDY1VWJZM01RVWhabnRIOXhDOEZnc2RQMlhCRmMxYlNra28zMnlIUGtnM216Y0VtT3RydWRIQ1Y2bU1UWjZZdWJGVXFRRkFndHlGQlpLWWpXWjFiNWXSAWhBVV95cUxNdGNvOWZ0bDhMZC03Q2tvRUFDV3YyV2s5UHg4cG1taUU5SXFpaWhnOWZyWHUxY3lBeUFjdThWVG9EcDROVVRGVlNmQUdzOVJIT0UxcWludHZFZVZqZi1STGxrUFZmMDhacw?oc=5",
       "summary": "총학생회 공약으로 떠오른 취득학점포기제, 실현 가능성은 skkuw.com",
@@ -2619,6 +2775,18 @@
       "collected_at": "2026-08-01T17:27:38.659838+00:00"
     },
     {
+      "title": "경남대 제58대 총학생회 ‘하나’ 출범…참여형 공약으로 캠퍼스 활성화 - kukinews.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96QzhzbkcyeTJCVmtleUhWdHkxNkpWeU9XcHVqNzJFLVdHcDZrLTVMVDM5N244QVF0ek9rTEw0eE9xNEpDWFhISDhzQkJubEs1cGdGS2ZYWGdmZWMwVXNlVDFZNA?oc=5",
+      "summary": "경남대 제58대 총학생회 ‘하나’ 출범…참여형 공약으로 캠퍼스 활성화 kukinews.com",
+      "source": "kukinews.com",
+      "published_at": "2026-04-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "30a13393f6246431c00a",
+      "category": "복지·문화",
+      "collected_at": "2026-08-05T10:06:05.319039+00:00"
+    },
+    {
       "title": "국립군산대, 2026학년도 학생자치기구 출범식 및 동아리 박람회 개최 - 비즈월드",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3NDZMSTBESFRKSHg2N3Y0MTJvMjlqczdiUWgzWjU0a2ZVMWMtYklkb3ZQNlN6LVNMX1BUS3Fub3lHdjZBSzJxTTBaWmwzTDgyZ0pSRVUzNHU2NjhMWGNYZlNwVk9kZHlzRkpJ?oc=5",
       "summary": "국립군산대, 2026학년도 학생자치기구 출범식 및 동아리 박람회 개최 비즈월드",
@@ -2970,6 +3138,18 @@
       "id": "57340cd85dbb2f22be84",
       "category": "등록금·교육",
       "collected_at": "2026-08-01T17:27:30.595421+00:00"
+    },
+    {
+      "title": "등록금 오르는데 학생 목소리는 작다… “‘등심위’ 불균형 해소해야” - news.unn.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SRzZDWHRSdkdzQkJJbTVRMXFUbVE2VkRpYURJVjdINFZTOXRtZEhmazV5UHRfdklBWjVLOUhNNkh0R3BGcDlCa2p3OVROLXBuZlJoSzd1XzYxMU51aUZqZXV5SUNBUQ?oc=5",
+      "summary": "등록금 오르는데 학생 목소리는 작다… “‘등심위’ 불균형 해소해야” news.unn.net",
+      "source": "news.unn.net",
+      "published_at": "2026-03-23T07:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "eba0878625f76d977df0",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-05T10:06:02.090919+00:00"
     },
     {
       "title": "대구과학대, 학생자치 새 판 짰다 47명 전면 배치 - 대경일보",
@@ -3516,6 +3696,18 @@
       "collected_at": "2026-08-04T10:15:15.887620+00:00"
     },
     {
+      "title": "서울 사립대 총학생회 \"ATM 취급 말라…등록금 인상 중단해야\" - news1.kr",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BTmQ0XzFlVm05cVN2ZEQ1bW13dGhjNmdnOUVfdmxtR0xuWFE5eDhsTV9xNzRCNTM5V0tXUnp0blZMMG9IMHMwZXRnLU9XSzc2Y2tHQmc1Z1lMUQ?oc=5",
+      "summary": "서울 사립대 총학생회 \"ATM 취급 말라…등록금 인상 중단해야\" news1.kr",
+      "source": "news1.kr",
+      "published_at": "2026-01-20T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "a0fc9ddbcf622295b6fa",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-05T10:06:02.092035+00:00"
+    },
+    {
       "title": "5% 올리고 3% 또?...한국외대 총학생회 \"학교는 등록금 갑질 인상 멈춰라\" - 더에듀",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvUXk0V1gtSkNyQnplWFlGenlYSXlXNXViYUJRTHJwYmJHeEtKVzVtWGVsZk1JdzRPMGpNZFF5X3gwd1hHSVB4eThqaW5kSVRoOGdCY3VXTm9CdlU?oc=5",
       "summary": "5% 올리고 3% 또?...한국외대 총학생회 \"학교는 등록금 갑질 인상 멈춰라\" 더에듀",
@@ -3661,6 +3853,18 @@
       "id": "05133932f656e4eacc44",
       "category": "등록금·교육",
       "collected_at": "2026-08-01T17:27:30.595864+00:00"
+    },
+    {
+      "title": "전국총학생회협의회, 교육부에 “올해 등록금 동결 공식화 해달라” 요구 - hani.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02YTF6TzBnZDVaZWtRUGhPUWI1SkE4b3BlYjNBSy1nQThjYmhSR3hsWFd0T2hna01KWlEyNHpWRWxMNUIwVFJmam5ERklORHA1SXNwMUJaWF9tcWlOX2RzTXVBc0szeHVxQmc?oc=5",
+      "summary": "전국총학생회협의회, 교육부에 “올해 등록금 동결 공식화 해달라” 요구 hani.co.kr",
+      "source": "hani.co.kr",
+      "published_at": "2026-01-14T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "c9023e872d1e0bdb1603",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-05T10:06:02.091744+00:00"
     },
     {
       "title": "교육장관, 전국총학생회협의회 임원진과 등록금 정책 논의 - 연합뉴스",
