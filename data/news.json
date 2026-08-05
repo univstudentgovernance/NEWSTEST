@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-08-05T19:06:28.112011+09:00",
-  "item_count": 395,
+  "updated_at": "2026-08-06T02:13:33.286937+09:00",
+  "item_count": 410,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "임수혁 경북대 총학생회장, 울산소아암협회에 헌혈증 기부 - 경상일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10aVh6WkxXV3N3Ym1famtUYWdndHdZQW5qTHdveThxeDNrQTNPMzhDS1NUMEs4UkxIUV91a0lXd2xlOEFzZWcyRTZ6VHhUVm8wWWpFVGtQZWc4TkRES3VGWm5jWmpveXJ4SFNVQg?oc=5",
+      "summary": "임수혁 경북대 총학생회장, 울산소아암협회에 헌혈증 기부 경상일보",
+      "source": "경상일보",
+      "published_at": "2026-08-05T15:00:02+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "a035d49aa49596b031b6",
+      "category": "기타",
+      "collected_at": "2026-08-05T17:13:04.252314+00:00"
+    },
+    {
+      "title": "“총장 공백 장기화 경쟁력 약화”…총학생회·시민사회 한 목소리 - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TcXU0aW9lVnpsMmtGbkIzQUk2UHlPbFpzTElmTGs1a2Y0ZFJSbzcwQy1nZGxWNld1ZHkzSk9yWTVtczI2bGdJWFF0TGtIc2p5MEs1N2V3Z1FFeEdicThUVFc4aEc0dw?oc=5",
+      "summary": "“총장 공백 장기화 경쟁력 약화”…총학생회·시민사회 한 목소리 KBS 뉴스",
+      "source": "KBS 뉴스",
+      "published_at": "2026-08-05T10:39:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "fe6cab895428d81a370e",
+      "category": "선거·조직",
+      "collected_at": "2026-08-05T17:13:04.252248+00:00"
+    },
     {
       "title": "에너지공대 총학생회 \"총장후보 심사기준 투명하게 공개해야\" - 네이트",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40cWw3dFY2SWotMm82VTJlcHdDRXVLUWphSHdyRUY3eGRjZ2JiVzVYeFNubTg5YlNNdmxrdWd6SFRiN2M2Qlc0X3o0SkJDQVJfRmFBVVdUOHU5eTM2NDA5Ng?oc=5",
@@ -27,6 +51,18 @@
       "id": "cbf81677694bab423b25",
       "category": "선거·조직",
       "collected_at": "2026-08-05T10:05:57.117029+00:00"
+    },
+    {
+      "title": "총학·시민단체 \"'2년8개월 공백' 한국에너지공대 총장 조속 선임\" - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fbjgwV2lTeEJjS3VpRTY0QnRZR3o1RDQwSURLZmVyWHVIYnE1MUFUdkFkRDN0eWZmNGJOZkVleXBnZ3B6ZkE5bG1yX0hwRzljU29QLUFHeS1aYXhjWVBnNkUyWDNFQjVlRFVRWkhvd3M3VzJsRlotbtIBeEFVX3lxTE9fbjgwV2lTeEJjS3VpRTY0QnRZR3o1RDQwSURLZmVyWHVIYnE1MUFUdkFkRDN0eWZmNGJOZkVleXBnZ3B6ZkE5bG1yX0hwRzljU29QLUFHeS1aYXhjWVBnNkUyWDNFQjVlRFVRWkhvd3M3VzJsRlotbg?oc=5",
+      "summary": "총학·시민단체 \"'2년8개월 공백' 한국에너지공대 총장 조속 선임\" newsis.com",
+      "source": "newsis.com",
+      "published_at": "2026-08-05T06:14:25+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d6ed8e47428b6084b6da",
+      "category": "선거·조직",
+      "collected_at": "2026-08-05T17:13:04.252379+00:00"
     },
     {
       "title": "“파란 여름을 모아봐”… 한양대 총학생회 비대위, 문화사업 ‘HY-Summer’ 진행 - 뉴스H",
@@ -168,6 +204,18 @@
       "id": "818f545ea1059095ffef",
       "category": "기타",
       "collected_at": "2026-08-01T17:27:17.516696+00:00"
+    },
+    {
+      "title": "켄텍 총학생회 \"총장 공석 2년7개월…이사회 이젠 결단해야\" - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMSnY2dDFxcll3TGd4czBPTGNwX25OMS1QdjFFR0lGZjFsa29uWU1ZMVpTaUxTdDQ4czF0R1pQZEtqZ2RTTk8zQmk3SHk3Q0NhZGVES3lZYV9ISDJ4X2FRRtIBeEFVX3lxTFB3WmRPUUhTT2FYUmlINjdlTG9xZ3c1ODA1aDZhLXRwWFVpSGZFWWYwRWRvUTJvR3BrNUROTVFFemJ5ZmNRblhrREgzUkc5ZXFQOUpuV19GVDVkRWtCTjkwNkZpcjFsVjVuUmM4OG1acHRQdG5GaTk2QQ?oc=5",
+      "summary": "켄텍 총학생회 \"총장 공석 2년7개월…이사회 이젠 결단해야\" newsis.com",
+      "source": "newsis.com",
+      "published_at": "2026-07-30T03:53:52+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "13a9c93452e156e1d3c2",
+      "category": "기타",
+      "collected_at": "2026-08-05T17:13:04.252605+00:00"
     },
     {
       "title": "수협, 경희대 총학생회와 화성 제부도서 해양쓰레기 수거 - 어업in수산",
@@ -600,6 +648,18 @@
       "collected_at": "2026-08-04T18:13:19.348254+00:00"
     },
     {
+      "title": "순천대 총학 \"의대 신설·대학통합, 정치 아닌 국가 원칙 따라야\" - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90WGIxaEV0RHREQWxZSmZGdGhWNjdCMThZMWhFOXFwb2hleXdNenROUW9remhKbXdVWlFHTnlabkZoNWtfeFQxZ211S3phUXFFVFVoVk1sdV9pUHZoa1R4dNIBeEFVX3lxTE1fMTJSN291d3VZUkFVRE4zZ1BqNnVLNTRLTDRERWRLNnRGd3E4QUlsRDIyQmZKMEVGaEwyWjFKRGJFNzhqd2lJUmV3VDAyWENKWEdtY2FENEVTWTFWMnVOb3QycWMxX2RtVl9IcTVXRi10cHRROXlpbQ?oc=5",
+      "summary": "순천대 총학 \"의대 신설·대학통합, 정치 아닌 국가 원칙 따라야\" newsis.com",
+      "source": "newsis.com",
+      "published_at": "2026-07-20T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "841bbf5c77a9b069429e",
+      "category": "기타",
+      "collected_at": "2026-08-05T17:13:04.252944+00:00"
+    },
+    {
       "title": "부산경상대 총학생회, 몽골 글로벌 서비스러닝 프로그램 참가 - 부산일보",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcElnR3kzUmh5clBUNXpUanNVZEJ0RTZPODIzY2lBdHJEZnhaTG1hS2RlTXBpdExGVENKNXBHOGxfYzRqbTNzdC1pWGJHTG04OFRtVENwTUdEeU1ILW1mcVB6eTJ5amNXaDVodERvUVhqQW41VmFSS25uM1lEdGd5akZuNnNLdw?oc=5",
       "summary": "부산경상대 총학생회, 몽골 글로벌 서비스러닝 프로그램 참가 부산일보",
@@ -644,6 +704,18 @@
       "id": "417b74a3ee92ee16af57",
       "category": "기타",
       "collected_at": "2026-08-04T18:13:19.349762+00:00"
+    },
+    {
+      "title": "경상국립대 총학생회 “발전공기업 통합 본사 최적지는 진주” - gnnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05a2tQaHJHOHhfeHpla295aEhZT2ZmNGh3N2dYa2JQcGNlTXp0TnRYZTQ5MkdPejhJVWRpT25OUXlCcENsSy1tLTdUVUIxczBxVS1ud01YY0ZyQnlVZG51TngzaWF2VEZXUjVF?oc=5",
+      "summary": "경상국립대 총학생회 “발전공기업 통합 본사 최적지는 진주” gnnews.co.kr",
+      "source": "gnnews.co.kr",
+      "published_at": "2026-07-05T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "58bdd73ce356cf00a5e3",
+      "category": "기타",
+      "collected_at": "2026-08-05T17:13:04.254360+00:00"
     },
     {
       "title": "글로벌 패션 ‘쉬인’, 총학생회 손잡고 오프라인 영토 확장… 한국 청년층 접점 확대 - 스타패션",
@@ -2210,6 +2282,18 @@
       "collected_at": "2026-08-03T12:39:45.107557+00:00"
     },
     {
+      "title": "전국총학생회협의회 \"투표용지 부족 사태, 헌법기관의 직무유기\" - dailian.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQY0NyWFptcUVvNHQxN0M3RGpMVmJXRDQzTVd4M2RHYXlkMGZSUTkzaURNTTZ6X09iTUFzQjAzMi1rWTlKc3FwV3UyVUNJaG51UXY5aVkwVkJoZE9TbHo4S1pIMUxoMGNkY1RWdTFIRDBROXJCZTIzcUFEVzRnUVdXSVJKSTlQOHkzOUM0RFRJMGU4NmhyYk9Vdzg4Xy1hLXFEY2p1NlRMcHRaSUJHaGZNcWtQNnU1UmVkNGJaNUp4a0xFc3RjWmZ3azJQeEFxbzRza2VXcHlOai1JV0NZbWhfaUIyVWRwb25wSkwzcjg2SWdZUHpPVkdKbXZicmRMc1YxX3FBSE1SbmJyRVlKMGlQUkZuMGtWRHJSQkIzek5JcFg5Y0lpRE1IZWpDWDk4Zw?oc=5",
+      "summary": "전국총학생회협의회 \"투표용지 부족 사태, 헌법기관의 직무유기\" dailian.co.kr",
+      "source": "dailian.co.kr",
+      "published_at": "2026-06-05T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "0c9831c5f9ee4780e02f",
+      "category": "기타",
+      "collected_at": "2026-08-05T17:13:04.254860+00:00"
+    },
+    {
       "title": "[뉴스] 응통과 전 학생회장, 학생회비 700만 원 가량 사적 운용…변제 '진행 중' - 경희대학교 미디어센터",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3UUdHSXJtamQ3aWRHR1hTV1BINzIxN24wUUlfTmxTVnpNZW9EZjJHWFo5T1dMVkpqLUVSTHZaM0lQWmYySktTTy00MnY2UXF0M0ZzYkZKekhHcE1JVFFNYzV3UEdYcmhpeXlmS1k1bVZLaURpcHc?oc=5",
       "summary": "[뉴스] 응통과 전 학생회장, 학생회비 700만 원 가량 사적 운용…변제 '진행 중' 경희대학교 미디어센터",
@@ -2514,6 +2598,18 @@
       "collected_at": "2026-08-01T17:48:43.405556+00:00"
     },
     {
+      "title": "한양사이버대학교 총학생회 ‘2026 블루라이언스컵&명랑운동회’ 성료 - kdpress.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ld1JodjlsMHNMX0YyNFZKSkY5ZHhJVHo0dDEzUDF4M21iV0oxUzJDZ1FuWkNBV2lQa19JLXNzcVRuZ1JaSGZGTmxoODJWRklQNzhsRllURFNnSW1UUGJ5Nm9WREZKNEdpOEtwWQ?oc=5",
+      "summary": "한양사이버대학교 총학생회 ‘2026 블루라이언스컵&명랑운동회’ 성료 kdpress.co.kr",
+      "source": "kdpress.co.kr",
+      "published_at": "2026-05-12T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "e6781cea1f75008c9be5",
+      "category": "기타",
+      "collected_at": "2026-08-05T17:13:12.364683+00:00"
+    },
+    {
       "title": "[뉴스] 문과대학 감사위원회 발족… 학생회비 사적 운용 조사 - 경희대학교 미디어센터",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40b1ZFYkphUEctcGw3SlQyTWhMQkNXTXJxWGRIVzFJWXNuQ0JLOTV1NlRXc0JzbTd3MWNkY3B3bFRVZ2dXbW5Ub1h0eHR6WTNmeWY5VWVNWkRPZGJETlNsWTJzNDgtMmtYNGl5LWpHTTJqaTN4clE?oc=5",
       "summary": "[뉴스] 문과대학 감사위원회 발족… 학생회비 사적 운용 조사 경희대학교 미디어센터",
@@ -2686,6 +2782,18 @@
       "collected_at": "2026-08-01T17:49:09.438649+00:00"
     },
     {
+      "title": "왕복아닌 편도 8천원…총학 예비군 셔틀버스 지원 '시끌' - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SFd6WHZ2Zm5IU3dCVmkzNERxWGxwUldTRWJjanFuZUgzOWoyd3NfdVFxM29nMjFtU1l3dlBubmtKemdWd2hQc0NKRUZ5TjJhZGZkZExfQlc0R2ZDUFhpVNIBeEFVX3lxTFBQTThiYjFxWXdtX2Y0ZXAwTkMwaDhyZmZwXzZNbkh1dmhTZTZZTDE5bk1zNkRJTDRIM0hsWFpTbUN1dUpyVFZuWGlHRTdnWTF5c0ZFXzNZNXcta0NZM29maWVVYk00Q2xrblNQYXFNa2VLb3l4bDlVZw?oc=5",
+      "summary": "왕복아닌 편도 8천원…총학 예비군 셔틀버스 지원 '시끌' newsis.com",
+      "source": "newsis.com",
+      "published_at": "2026-04-16T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "74d2697737ad72f1f4e7",
+      "category": "기타",
+      "collected_at": "2026-08-05T17:13:12.364841+00:00"
+    },
+    {
       "title": "[단독] \"학생회비 1,100만 원 빼돌리자\"…대행사가 제안한 '뒷돈 거래'의 실체 - 대학알리",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTUDhIQV90RDRaanZPZW5LMjV6dm10LTIxTlJUVnZSUmxpeWJFckN5aUxaUUFHSHY1WnFzZTZvRGVfSUdnYkZ3WnBaRUsyakxjSlFsRl9BZU9zSjh1bEFibQ?oc=5",
       "summary": "[단독] \"학생회비 1,100만 원 빼돌리자\"…대행사가 제안한 '뒷돈 거래'의 실체 대학알리",
@@ -2729,6 +2837,18 @@
       "id": "7737c29bf0db833ee017",
       "category": "선거·조직",
       "collected_at": "2026-08-01T17:27:22.099626+00:00"
+    },
+    {
+      "title": "\"취업 도움 안돼 정치색도 부담\"…대학가 '학생 자치' 공백 - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ydEF1aVI1Z3QwYTM0RXhqMFNRUmlGZVprN2dFblhnREpleWtqTldCbmhFTlV5NjctNDVEUkx6blU1alRVcFhuWVk2REVTQjgzRGx6SVpHWnBaX25KbHdhdtIBeEFVX3lxTE9hdjlyd0ZrRWZkLWVNbmkzTkpVczFyalMzTWZTNDZSbFV4MjI0Yk10RDhtS3JzR3hhWnRud240X0V1c2ZacjVyMDlEUVFBUlBNSDBZNmlRRjhkRWZZZ1d5T2FMeTJpNzhZc09UYlp5YnB1M3M3ZzBzRg?oc=5",
+      "summary": "\"취업 도움 안돼 정치색도 부담\"…대학가 '학생 자치' 공백 newsis.com",
+      "source": "newsis.com",
+      "published_at": "2026-04-12T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "b5a54e709615cd34a35b",
+      "category": "선거·조직",
+      "collected_at": "2026-08-05T17:13:05.526144+00:00"
     },
     {
       "title": "루트 총학, “소통 우선하는 총학생회 될 것” 낮은 관심 확인한 선거… “일상 속 참여 넓힐 것” - 경희대학교 미디어센터",
@@ -3492,6 +3612,18 @@
       "collected_at": "2026-08-01T17:52:00.281698+00:00"
     },
     {
+      "title": "대학 등록금 줄줄이 인상에 주요 대학 총학 “절차적 정당성 없어” - news.kbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tTVRQLVBKMFJTR1pqb0VkZXhJZFgycDhETV9TbFdPWHE4bzlWYThWVXRtc0NBSVItUU1vR2Uya01OX1E0R1RiVVNaTUp5VFhUcEdfWHlocjh6MWs?oc=5",
+      "summary": "대학 등록금 줄줄이 인상에 주요 대학 총학 “절차적 정당성 없어” news.kbs.co.kr",
+      "source": "news.kbs.co.kr",
+      "published_at": "2026-02-02T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "3a1743f303d1f0c4300d",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-05T17:13:08.807178+00:00"
+    },
+    {
       "title": "사립대 등록금 인상이 ‘뉴 노멀’… ‘깜깜이 등심위’ 개선 과제로 - 국민일보",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvOUlhYkNVc2w0OWtqTnFBSFVnbmxrdTRaaUV6Z1FmbGQwM3llVUJMcm9vdloxWWpDTVA0MjhYSlVoVEtCT3cwd0d3eV9LTG5mUUhqZk9ZaGpITzl6YmtLMHdBaXVYMknSAWxBVV95cUxQZFBzc2Q1RTFpanB3Mzk3Vk5YOGtzVjVqVmZOQ2YyVTlxdGtQc1NUbnZ1MU1xQldkUWcyUmszdjFTTkJVcFM2cHpnanZHb2dXWTFkeGlrWWpWOE5IcEdfWnJ2S2U2NldWMENLVjU?oc=5",
       "summary": "사립대 등록금 인상이 ‘뉴 노멀’… ‘깜깜이 등심위’ 개선 과제로 국민일보",
@@ -3581,6 +3713,18 @@
       "id": "064c5223fe08ab5026a8",
       "category": "등록금·교육",
       "collected_at": "2026-08-02T15:47:15.495437+00:00"
+    },
+    {
+      "title": "사립대 대부분 등록금 인상 전망…총학생회단체 “대학 85곳 인상 논의” - news.kbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ud0ZJb2JyWFg4Y2xxbVBTVy0wOHNycElTYnA4NkRGeXpzVzE4dlVwSkh4UUMwNl9yRmFVV2pzZXh4NFJ6RWFBMVFrNDgtVlFQVzR2VTBJdFFYXzQ?oc=5",
+      "summary": "사립대 대부분 등록금 인상 전망…총학생회단체 “대학 85곳 인상 논의” news.kbs.co.kr",
+      "source": "news.kbs.co.kr",
+      "published_at": "2026-01-23T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "195d38d7a84fcf952895",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-05T17:13:08.807376+00:00"
     },
     {
       "title": "전주대 제53대 ‘내일’ 총학생회 출범 - 전민일보",
@@ -3752,6 +3896,18 @@
       "id": "23ff54da0f399cc43ef3",
       "category": "등록금·교육",
       "collected_at": "2026-08-04T18:13:24.133322+00:00"
+    },
+    {
+      "title": "한국외대, 등록금 3.19%↑ 추진에…총학 \"인상 철회하라\" - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XT1QwV1hscE4xY2QzdllwMXdfbHhMU3BXcjRvSjgwbzNTX3VzY25XejRXWXZ0Y0E5VFo5c3lxZHl6YnpSdTJVUnNXekExM1JTNWxKaWlrbGJPajZSeXVyTdIBeEFVX3lxTFBodURjMVBqdjE1RXprX0NNQXFIY0t1bnhWaWRZYXB0UFRfY1E2ZUFxLU5BQXNOS0NoR0FSSHkyOTVualFhM2E3S0l3RFpKUWZtMWtOTzhqY1MySVpEeEdzYkUwam9DTTZLV2d2TklMUWh5NFk0N2gxYw?oc=5",
+      "summary": "한국외대, 등록금 3.19%↑ 추진에…총학 \"인상 철회하라\" newsis.com",
+      "source": "newsis.com",
+      "published_at": "2026-01-19T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "437b727a2211f741cfc7",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-05T17:13:08.808141+00:00"
     },
     {
       "title": "등록금 3% 인상에 외대 총학 “갑질 인상 반대”…학생 반발 확산 - v.daum.net",
@@ -3991,6 +4147,18 @@
       "id": "d55bab87a67a22d1f4fb",
       "category": "기타",
       "collected_at": "2026-08-02T07:55:06.143364+00:00"
+    },
+    {
+      "title": "대학 총학생회들 “국가장학금 2유형 폐지 재검토해야” - news.kbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNWm44MDZVWHBLUXJ3d0M4Ni1zV0l5V250dUU0UERfTTY2VVlrWm5Ca0VqN2NsNmhOci1SaXNwMTFBLTA2US1OVDRJVzlzbjVrb3o5MEZNVjEzVWc?oc=5",
+      "summary": "대학 총학생회들 “국가장학금 2유형 폐지 재검토해야” news.kbs.co.kr",
+      "source": "news.kbs.co.kr",
+      "published_at": "2025-12-26T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "4da1ac4a90c67a321cb3",
+      "category": "기타",
+      "collected_at": "2026-08-05T17:13:08.808115+00:00"
     },
     {
       "title": "[단독] 인하대 총학생회장, 성폭력·성희롱으로 학내 인권센터에 신고당해 - 프레시안",
@@ -4365,6 +4533,18 @@
       "id": "9a8ad82f6ceda73854fa",
       "category": "선거·조직",
       "collected_at": "2026-08-01T17:27:22.100078+00:00"
+    },
+    {
+      "title": "[단독]서울대 총학 입후보자 선거 무산…\"대학 자치에 무관심\" - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sTWVKY0dVNUxMVmhaa3RBYThvd19NS0FJQVpMZzBXSUdsRVJLdWtKZnVZVTBsaWdBNzg0ZmpodjNGeE1ncFF4YXEyNGNxYm5tSmdsYjJ4dTQ1LUUwUTZZctIBeEFVX3lxTE1xejBVQWRRZERVZFBnN0JpV2V1SkZMMVlQb3RUdDVXa0VPRGtiMG5CMUN5LVFYY3o1OVNQMW9kdkttdUNsNVl4cXlOVGI2SzZPMjdFSS0xYVRPUmZxTzFKdEdRODFWOUlIVFBYWExZOXRlaF9XQ0Nrcg?oc=5",
+      "summary": "[단독]서울대 총학 입후보자 선거 무산…\"대학 자치에 무관심\" newsis.com",
+      "source": "newsis.com",
+      "published_at": "2025-10-27T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "b3c4944bb09ba5160f9a",
+      "category": "선거·조직",
+      "collected_at": "2026-08-05T17:13:05.527010+00:00"
     },
     {
       "title": "대학 총학생회, 역할과 위상의 변곡점 - 대학지성 In&Out",
