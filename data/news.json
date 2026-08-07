@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-08-06T19:14:39.387748+09:00",
-  "item_count": 426,
+  "updated_at": "2026-08-07T14:53:46.140306+09:00",
+  "item_count": 435,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "한양사이버대 총학생회, ‘2026 HYCU BIG FESTIVAL’ 개최 - 한국대학신문",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9URlU1VmpxU0NYSXFuQTFoS216X0x5NFh2azR3RmctTUs4Tm9ab2gxUi1hT0tjNGlOUzNJNWcwYnRrZTVtbUtZVXVLR2pWMTNuYTNQdFV2Z0d1SEdCX3M3cGxUTk1PUQ?oc=5",
+      "summary": "한양사이버대 총학생회, ‘2026 HYCU BIG FESTIVAL’ 개최 한국대학신문",
+      "source": "한국대학신문",
+      "published_at": "2026-08-07T02:24:56+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "68d638bb70add38e5eaf",
+      "category": "기타",
+      "collected_at": "2026-08-07T05:53:16.133214+00:00"
+    },
+    {
+      "title": "강원대학교 총학생회, 평창 종부3리서 농촌봉사 구슬땀 - 한국생활체육뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrY2dYbHVhb2ZnUnR1N1ZPRWV2VWtVcVRBZmdiSFlJNmdNeFFYWUUxR0l4WEthTmp5eEF6N3hDRmpCY0VFclpaaVNBTm1hMU42VHlWRXo3dWk1SldhNVktaFFiclZvMHRwb2c?oc=5",
+      "summary": "강원대학교 총학생회, 평창 종부3리서 농촌봉사 구슬땀 한국생활체육뉴스",
+      "source": "한국생활체육뉴스",
+      "published_at": "2026-08-07T01:31:03+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "32b4cf5b3ce31cdac910",
+      "category": "기타",
+      "collected_at": "2026-08-07T05:53:16.133255+00:00"
+    },
     {
       "title": "[인터뷰] 안민석 \"50명 모집에 1,850명 지원, 경기 '교권보호국' 뜨거운 관심…'폰 프리 스쿨' 스마트폰 문제 공론화\"",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008693668&plink=RSSLINK&cooper=RSSREADER",
@@ -332,6 +356,18 @@
       "id": "64ff268275f1f09a3c59",
       "category": "기타",
       "collected_at": "2026-08-01T17:27:17.516723+00:00"
+    },
+    {
+      "title": "‘청년이 주인 되는 노원’ 대학총학생회연합회와 업무협약 - seoul.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTNYYnJIU2xBN3ZaVi05QWdScVdYRjJHTzlNN3NQWFM3Nkw5R3NNY0pVTHQzOGN1UUJIc1FtNkE1OGhndjB5WE9XYnBIamkxMzlNMDY5a1djRzBkeFJKdl95ZUdGczVjakNlQkd2OXFHQmNVVVVZdUZQc0xfQkNDSVZzRXpqV3VRV00wazZPblppM2RTMEVfZjhXXy1KY2IzOUhTVFp6eWh4UXd4T3c1QTNHdU0tV05q?oc=5",
+      "summary": "‘청년이 주인 되는 노원’ 대학총학생회연합회와 업무협약 seoul.co.kr",
+      "source": "seoul.co.kr",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "82a65c158d356934df22",
+      "category": "기타",
+      "collected_at": "2026-08-07T05:53:16.133879+00:00"
     },
     {
       "title": "‘청년이 주인 되는 노원’ 대학총학생회연합회와 업무협약 - 서울신문",
@@ -1107,6 +1143,18 @@
       "collected_at": "2026-08-05T10:06:00.463166+00:00"
     },
     {
+      "title": "선관위, 전국 대학총학 면담…\"선거 치르기 싫어 휴직은 오해\"(종합) - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oeW9CZVdnaWp1QmNkWVFmb1YtM0JyZDkwU0tfNlJNMkp4cnZLUUJiQkJuSmVScVluVDNJNHpMMkh6cTZ2aHJjelRmTzdaVTA?oc=5",
+      "summary": "선관위, 전국 대학총학 면담…\"선거 치르기 싫어 휴직은 오해\"(종합) v.daum.net",
+      "source": "v.daum.net",
+      "published_at": "2026-06-17T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "56036ef5ef1dc89e1eca",
+      "category": "선거·조직",
+      "collected_at": "2026-08-07T05:53:19.346950+00:00"
+    },
+    {
       "title": "“청년으로서 참정권 수호할 것” 서울권 대학 총학생회 ‘투표용지 부족 사태’ 규탄해 - 대학알리",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzczJBTkZnYmpMVlNvZEkzcDZ6dFI0bFJBaVotNjFRZFpUNWFnaS03UHlXQ1RoLWJkWHpZeE1FbWRYd0JjUDhGZ3FiSDJUYUpRTy1lcHAtSmJ3S2c?oc=5",
       "summary": "“청년으로서 참정권 수호할 것” 서울권 대학 총학생회 ‘투표용지 부족 사태’ 규탄해 대학알리",
@@ -1686,6 +1734,18 @@
       "collected_at": "2026-08-06T10:14:11.404672+00:00"
     },
     {
+      "title": "투표용지 부족 규탄 관련, 대구권 대학 총학생회 취지에 동의하면서도 집회 등 행동엔 신중 - yeongnam.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qN05vcjI4ZjE3WDdVV2c0aWRnajNBNGVxNFR1SEd0VWlGd2lWM1JpNmlla3VWYlhQM2hURU5xUVNMRVJjTXBNd2ZKaHJjMlN4Nng2N2pXX3FrMjFGR0ZvSjI5S2FUWHNaSmZj?oc=5",
+      "summary": "투표용지 부족 규탄 관련, 대구권 대학 총학생회 취지에 동의하면서도 집회 등 행동엔 신중 yeongnam.com",
+      "source": "yeongnam.com",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "762095976e38755a0a1e",
+      "category": "인권·갈등",
+      "collected_at": "2026-08-07T05:53:19.347045+00:00"
+    },
+    {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14QXZkc01Ub0VPSjBuZjNwMkJoOUhhRllkbFpGVFhvYWVKYmVzcnNyWjN1NHNQVW5HZmJNckNPanZ3NFJPT1ZxdTNJa2Z6X1BXVl82U0wxZ2ZuSXI1eGRtTFVyYVZqWExQ?oc=5",
       "summary": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 안동MBC",
@@ -2103,6 +2163,30 @@
       "id": "481a36cdc55c61bdc79a",
       "category": "기타",
       "collected_at": "2026-08-06T10:14:07.890641+00:00"
+    },
+    {
+      "title": "12개大 총학생회, 6·10 시국선언 “부정선거 규명·재선거 실시하라” - thepublic.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkRXo0a3ZKM1hXdGV2T1EweXZqS3JMOHpmSllHeWNxYVVpY1FkYTY2Q1dQalVRTV9MQWlFZk00VWVWb2FMR09qTml1aExuWjhqWG51d3BUYm1KRzJkWFNPb0ZydUJnb1dPa1Fj0gFvQVVfeXFMUFlzbFVfNHNlcnh2d0NTQ3lnQXA1bEZpdGVXV2RUN19CcnVsZWhLS2xGWDhkVDk3Nno3czJFUE94dTJsb3RqVEVfSklQbFVuMUxPWVRUMkdaMWNoZlJ6UUlSNEd0eXg2elFFUkEwNVg4?oc=5",
+      "summary": "12개大 총학생회, 6·10 시국선언 “부정선거 규명·재선거 실시하라” thepublic.kr",
+      "source": "thepublic.kr",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "c9ad9cdecc1bc2d62d6b",
+      "category": "선거·조직",
+      "collected_at": "2026-08-07T05:53:19.348231+00:00"
+    },
+    {
+      "title": "전국 12개 대학 총학, 내일 '투표용지 부족' 규탄 시국선언 - 경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FZFBHc0FIWVpGeTRuZWtTRXBBVXRkeDhENTk3RzUyUHVzWU9tYkNBalY2bFQxdTFfTV92cndnZ1pSTUpqMi1KVFpINnI3MWpyWEgtdzlqMl9KbU9lWnJEcmRB?oc=5",
+      "summary": "전국 12개 대학 총학, 내일 '투표용지 부족' 규탄 시국선언 경기신문",
+      "source": "경기신문",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "3130fda0003b02fa3a2a",
+      "category": "기타",
+      "collected_at": "2026-08-07T05:53:19.348252+00:00"
     },
     {
       "title": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 - 중앙일보",
@@ -3804,6 +3888,18 @@
       "collected_at": "2026-08-05T17:13:08.807178+00:00"
     },
     {
+      "title": "주요 사립대 총학, 등록금 줄인상에 반발…“등심위 절차 비민주적” - seoul.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jRUN0dHN3WmVaUmtxZk1heGZxejM4dE5pLVI1Vkk3MDZXbUV3Z2l1aEM3MTJyVFFNS2haOVR4ZVkxaHQ3UmlXZ1hhNjhkaE91VGF5WVo2Y1N0ODZDOXAtdVQzcWpDNkRpRXhGRGU0TQ?oc=5",
+      "summary": "주요 사립대 총학, 등록금 줄인상에 반발…“등심위 절차 비민주적” seoul.co.kr",
+      "source": "seoul.co.kr",
+      "published_at": "2026-02-02T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "03f2a6f300825101b1ea",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-07T05:53:20.950534+00:00"
+    },
+    {
       "title": "사립대 등록금 인상이 ‘뉴 노멀’… ‘깜깜이 등심위’ 개선 과제로 - 국민일보",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvOUlhYkNVc2w0OWtqTnFBSFVnbmxrdTRaaUV6Z1FmbGQwM3llVUJMcm9vdloxWWpDTVA0MjhYSlVoVEtCT3cwd0d3eV9LTG5mUUhqZk9ZaGpITzl6YmtLMHdBaXVYMknSAWxBVV95cUxQZFBzc2Q1RTFpanB3Mzk3Vk5YOGtzVjVqVmZOQ2YyVTlxdGtQc1NUbnZ1MU1xQldkUWcyUmszdjFTTkJVcFM2cHpnanZHb2dXWTFkeGlrWWpWOE5IcEdfWnJ2S2U2NldWMENLVjU?oc=5",
       "summary": "사립대 등록금 인상이 ‘뉴 노멀’… ‘깜깜이 등심위’ 개선 과제로 국민일보",
@@ -3973,6 +4069,18 @@
       "id": "a7ff85ffaa849c00b60b",
       "category": "등록금·교육",
       "collected_at": "2026-08-04T10:15:15.887364+00:00"
+    },
+    {
+      "title": "‘대학 등록금 전쟁’ 확산에…교육부 “등심위 규정 준수하라” 통보[세상&] - biz.heraldcorp.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WVkhzQ05qbDR6WVBJTzhpQ1dnWU5QVlJrSHBuNFdPZTdia21hX1VVWF9aY19RSnB5ck5vS1dCUUsyN29BRDJhZkItbGhwbUwyUFBJQTln?oc=5",
+      "summary": "‘대학 등록금 전쟁’ 확산에…교육부 “등심위 규정 준수하라” 통보[세상&] biz.heraldcorp.com",
+      "source": "biz.heraldcorp.com",
+      "published_at": "2026-01-21T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "9e9667a67426548c20a1",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-07T05:53:20.950783+00:00"
     },
     {
       "title": "서울 사립대 총학생회 \"ATM 취급 말라…등록금 인상 중단해야\" - 뉴스1",
