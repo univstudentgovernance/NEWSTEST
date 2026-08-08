@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-08T00:11:26.244403+09:00",
-  "item_count": 442,
+  "updated_at": "2026-08-08T13:18:00.206720+09:00",
+  "item_count": 459,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -63,6 +63,18 @@
       "id": "fe6cab895428d81a370e",
       "category": "선거·조직",
       "collected_at": "2026-08-05T17:13:04.252248+00:00"
+    },
+    {
+      "title": "“총장 공백 장기화 경쟁력 약화”…총학생회·시민사회 한 목소리 - news.kbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TcXU0aW9lVnpsMmtGbkIzQUk2UHlPbFpzTElmTGs1a2Y0ZFJSbzcwQy1nZGxWNld1ZHkzSk9yWTVtczI2bGdJWFF0TGtIc2p5MEs1N2V3Z1FFeEdicThUVFc4aEc0dw?oc=5",
+      "summary": "“총장 공백 장기화 경쟁력 약화”…총학생회·시민사회 한 목소리 news.kbs.co.kr",
+      "source": "news.kbs.co.kr",
+      "published_at": "2026-08-05T10:39:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "326e90a8bc340addf4d0",
+      "category": "선거·조직",
+      "collected_at": "2026-08-08T04:17:31.770787+00:00"
     },
     {
       "title": "에너지공대 총학생회 \"총장후보 심사기준 투명하게 공개해야\" - 네이트",
@@ -298,6 +310,18 @@
       "id": "f2afdd0b12427e7218a6",
       "category": "재정·감사",
       "collected_at": "2026-08-04T10:15:10.902669+00:00"
+    },
+    {
+      "title": "국립공주대 총학생회장 탄핵 시도…\"회계 처리 등 운영 논란\" - daejonilbo.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mVGttZW43VjNJelhfS19jNDNvRDJIWGdhbVJFSHBwU0hnaUgzaUZRSlJnSDl4WHJtYTVDenp5T1FOQjlTal9hZlE5bmtyZXdjUHNsNXhrYWRpcU1KOHVmblcxMWFSQ01wVHdKS0FBaw?oc=5",
+      "summary": "국립공주대 총학생회장 탄핵 시도…\"회계 처리 등 운영 논란\" daejonilbo.com",
+      "source": "daejonilbo.com",
+      "published_at": "2026-07-29T08:46:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "55e0f14b3f7dec944a62",
+      "category": "재정·감사",
+      "collected_at": "2026-08-08T04:17:31.771603+00:00"
     },
     {
       "title": "국립공주대 총학생회 통합 반대 현수막 임의 철거자는 학내 교수 - 굿모닝충청",
@@ -1191,6 +1215,18 @@
       "collected_at": "2026-08-04T18:13:19.349921+00:00"
     },
     {
+      "title": "대학 전·현직 총학생회장, 지방선거 투표용지 부족 사태 대응 간담회 - 동북일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55Mm1HUEZsQjRwN1FvWkh3TF9JaDFLeEtwYzMzREdYYTB6VDRQaXU1Z0Z2UXlQZ3pFTF9kTi1feWFnZW51WVAwY3d6M0JRZmR6cHAycm8wNktqZTBmdFo5MS1lSW9xTlEwRlZTNVgtdw?oc=5",
+      "summary": "대학 전·현직 총학생회장, 지방선거 투표용지 부족 사태 대응 간담회 동북일보",
+      "source": "동북일보",
+      "published_at": "2026-06-12T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "9544a73a4e98f12a35b3",
+      "category": "선거·조직",
+      "collected_at": "2026-08-08T04:17:35.047837+00:00"
+    },
+    {
       "title": "'투표지 사태' 18개 대학 총학 시국선언...\"참정권 침해 규탄\" - YTN",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WT3k0T1lLdDBoWW41SGlDcDZhSHNHSU16bVdMT1lwRWxDbUNQb3M1c2o4dVA3cmdIbnItR0JlWG5WaW5iRkIyMmFBRks3LUY2TVQ2SkYxdFAyTkdzU0E?oc=5",
       "summary": "'투표지 사태' 18개 대학 총학 시국선언...\"참정권 침해 규탄\" YTN",
@@ -1781,6 +1817,18 @@
       "collected_at": "2026-08-01T17:27:17.517496+00:00"
     },
     {
+      "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - andongmbc.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14QXZkc01Ub0VPSjBuZjNwMkJoOUhhRllkbFpGVFhvYWVKYmVzcnNyWjN1NHNQVW5HZmJNckNPanZ3NFJPT1ZxdTNJa2Z6X1BXVl82U0wxZ2ZuSXI1eGRtTFVyYVZqWExQ?oc=5",
+      "summary": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 andongmbc.co.kr",
+      "source": "andongmbc.co.kr",
+      "published_at": "2026-06-09T12:12:11+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "166346de541811356521",
+      "category": "기타",
+      "collected_at": "2026-08-08T04:17:31.772774+00:00"
+    },
+    {
       "title": "12개대 총학, 내일 각 캠퍼스서 투표지 부족사태 규탄 시국선언 - 연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhTklHWXNjcFFrbHA3NlhldGZwZGF1RTJPX2Vma0JadE45T0tqTy10NlFSbWo0bVRrRU5aTldMdG1YZWk5SWcwOFlYc3ZTSjBEa0pXSHJjenltTWvSAWBBVV95cUxPSnpQSkV3TUJ0NWRZVUw5NTk0Vl9fU2FxNWZ6dlpncGhPSlU5WTZUWWYzXzU3SktUeEtCcjJNZFJuUjRTVENOQy04SXhhdUV3WThoMlh6enpJUno2MEJIaUc?oc=5",
       "summary": "12개대 총학, 내일 각 캠퍼스서 투표지 부족사태 규탄 시국선언 연합뉴스",
@@ -2237,6 +2285,54 @@
       "collected_at": "2026-08-07T15:11:00.996871+00:00"
     },
     {
+      "title": "“참정권 수호” 전국 12개 대학 총학, 내일 투표지 부족사태 규탄 시국선언 [지금뉴스] - news.kbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sVWJTVVlSNGE0RFRHcjM1UWM1eUt2WmdYSmZiVE1zZGFKQ3BFd1J1emVha0NzLXJvRzFnbk1fQVdXMl9mNFBFeGFQc1NrVWZvT3d4RUZmUmpzZWM?oc=5",
+      "summary": "“참정권 수호” 전국 12개 대학 총학, 내일 투표지 부족사태 규탄 시국선언 [지금뉴스] news.kbs.co.kr",
+      "source": "news.kbs.co.kr",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "909ceb92f45f9a657fbc",
+      "category": "기타",
+      "collected_at": "2026-08-08T04:17:31.771219+00:00"
+    },
+    {
+      "title": "전국 16개 대학 총학생회, 내일 ‘투표용지 부족 사태’ 규탄 시국선언 - news.kbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWNElCWnhOeWVQYV9LWUw4SGNiUG12Z2gweEZGYlRFZ0lsRlVXVWZiSHR2ZmR1S2FsSmdwQnZQMWJVX2tPY3RYVmI2M195YmhkbzBEbk9WN2c3MU0?oc=5",
+      "summary": "전국 16개 대학 총학생회, 내일 ‘투표용지 부족 사태’ 규탄 시국선언 news.kbs.co.kr",
+      "source": "news.kbs.co.kr",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b2e9db1bc619da9144e3",
+      "category": "기타",
+      "collected_at": "2026-08-08T04:17:31.771508+00:00"
+    },
+    {
+      "title": "UNIST 총학생회 “투표용지 부족, 민주주의 훼손” - news.kbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1YkJmMWduLVFfZEJSQm5OZmRWUzlpSDBsUUFlMnQtclhYVkV1UXc2TDI0WnFicGkxWGNDX05sa0c0Y0UzOFpidlZ1a1RtWlN1V2Z2U3JscVl0VE0?oc=5",
+      "summary": "UNIST 총학생회 “투표용지 부족, 민주주의 훼손” news.kbs.co.kr",
+      "source": "news.kbs.co.kr",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "063aff95ac398a2a4444",
+      "category": "기타",
+      "collected_at": "2026-08-08T04:17:31.772167+00:00"
+    },
+    {
+      "title": "대전 대학가도 ‘투표용지 부족’ 규탄…총학 성명 잇따라 - news.kbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyaU55clNEdE9GZjVHX3JXd2RKUjNZQzVjTk5hbk9sMnRiZENKR1ZjYnVBOHdiQTlJck9WV1kxUUhoQ24wdXp2WHNRdEtiZVB5alNhejFET0N0RWM?oc=5",
+      "summary": "대전 대학가도 ‘투표용지 부족’ 규탄…총학 성명 잇따라 news.kbs.co.kr",
+      "source": "news.kbs.co.kr",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "c01d4f98143b59c8eaa8",
+      "category": "인권·갈등",
+      "collected_at": "2026-08-08T04:17:35.047213+00:00"
+    },
+    {
       "title": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 - 중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1M2UtYVRVeTdZZ2dhMzVxaEdiRk9LMVN3Rk56WVA4b1VxZFJkcVllaXo5TGFneTh6N09ZS1FYR19sNXF2ZlVaMkdoeGY1b3AzamliaHFR?oc=5",
       "summary": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 중앙일보",
@@ -2315,6 +2411,18 @@
       "id": "67ab8fd2c3bca2c82b61",
       "category": "기타",
       "collected_at": "2026-08-04T18:13:22.574480+00:00"
+    },
+    {
+      "title": "대학가도 들끓었다… 대전 6개 대학 총학, 선관위 규탄 성명 - chungnamilbo.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aQjBlT1FTQjAwNEJHaGhVT3ZoMm1mV1c5QkRNQ0hmc2xfenNaa1RESTd6aTBKM21fZi00YWxFNHlleG5IRndxSzlkN1JJVVY3M1NPeGp3dzIxZGNHTHAwQ202SkxmZ3hxYk5IaFZVR202U1k?oc=5",
+      "summary": "대학가도 들끓었다… 대전 6개 대학 총학, 선관위 규탄 성명 chungnamilbo.co.kr",
+      "source": "chungnamilbo.co.kr",
+      "published_at": "2026-06-08T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "b9be1d0ea7e5268ab77d",
+      "category": "인권·갈등",
+      "collected_at": "2026-08-08T04:17:35.046638+00:00"
     },
     {
       "title": "[보도] - 문과대학 학생회비 감사 결과, 투명한 학생회비 운용은 어디에? > VOU뉴스 - 경희대학교 미디어센터",
@@ -3013,6 +3121,18 @@
       "collected_at": "2026-08-07T15:10:59.319435+00:00"
     },
     {
+      "title": "대전 대학 총학 연합, 지방선거 겨냥 ‘정책 26개’ 제안 - chungnamilbo.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UVEhsR0p2cFFCQnA4SDJWbG5LTkVhV1NMOWZuSl9za1hLZG0zTWdNcno1Wk5fSTRaMDNCMk5XLUNvZXJabHd2MmxwV1BjbDItRVBiWktQWW5odVR1ZDA1elUwbHZud1Mtemp6S2RaeWZTMTA?oc=5",
+      "summary": "대전 대학 총학 연합, 지방선거 겨냥 ‘정책 26개’ 제안 chungnamilbo.co.kr",
+      "source": "chungnamilbo.co.kr",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "405a7745b4aaf7ed47e5",
+      "category": "선거·조직",
+      "collected_at": "2026-08-08T04:17:35.047492+00:00"
+    },
+    {
       "title": "4월 재선거 마무리… 총학 공백 속 단과대·기층단위 학생회 일부 구성돼 - 연세춘추",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYUTBEOGtyaTJLR2o4YzF2MXdPN19KSVJuOWxCc2RBQ0llZnFNeWh0ZDg0SW02aVlEMUo5NWdqd2VrTS1QTERqdnlDbTVUTTJYYVQ0ak1aWHRDaFVGQnZjbWt5RTE0ZHNQVU9CVERxRQ?oc=5",
       "summary": "4월 재선거 마무리… 총학 공백 속 단과대·기층단위 학생회 일부 구성돼 연세춘추",
@@ -3194,6 +3314,18 @@
       "id": "da029fd7fb05bd75e6b5",
       "category": "복지·문화",
       "collected_at": "2026-08-06T10:14:16.285473+00:00"
+    },
+    {
+      "title": "강원도장애인종합복지관, 해냄대학 총학생회장 선거 실시 - kado.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrbVFHRjhnQVJ2c0RFWWR3dDNHRk9OMHVfOEdMX1k5bXJMRHNSajc1eU1vNmxqYnFwZnZkd3lucDhwbV91UmFpQnE3Y3pFRUs3ZUZYbDNNMGx1T1VsdzBYQVI0azRfaUU?oc=5",
+      "summary": "강원도장애인종합복지관, 해냄대학 총학생회장 선거 실시 kado.net",
+      "source": "kado.net",
+      "published_at": "2026-04-11T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "1fb45a74cbc3a5a928d5",
+      "category": "선거·조직",
+      "collected_at": "2026-08-08T04:17:39.750829+00:00"
     },
     {
       "title": "경남대 제58대 총학생회 ‘하나’ 출범…참여형 공약으로 캠퍼스 활성화 - 쿠키뉴스",
@@ -3529,6 +3661,18 @@
       "collected_at": "2026-08-01T17:27:22.099671+00:00"
     },
     {
+      "title": "충북대 일부 학생들, 총학생회 당선 무효 소송 제기 - news.kbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1odm5FNlhnUUh1WDN5RVI3RnFCSGFmYnZSZW1iV3VHZm9wZkxkbGU1dlQ1Q2FRRl9NNTZNVDRhZUd2STFtYjhkNTY3NkVRSFJCaW5jZ1dKS0hQbE0?oc=5",
+      "summary": "충북대 일부 학생들, 총학생회 당선 무효 소송 제기 news.kbs.co.kr",
+      "source": "news.kbs.co.kr",
+      "published_at": "2026-03-30T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "9600f5d3fa8555b87c61",
+      "category": "선거·조직",
+      "collected_at": "2026-08-08T04:17:31.773146+00:00"
+    },
+    {
       "title": "오는 4월 재선거 앞둔 총학 및 8개 단과대 비대위 - 연세춘추",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93SU54akpEejZaTWtsOGhJcWVMdnpFRVJXRVNiRmREZDN4LUpjTkRhSjBIZkNBdVpBWnZ6NjdFQmVZdUxrMklnX0JLZUJqMHFoaEdVOGtEbUdndnRRczRnZHJ4aVFsVmExSjNlTlNhbw?oc=5",
       "summary": "오는 4월 재선거 앞둔 총학 및 8개 단과대 비대위 연세춘추",
@@ -3561,6 +3705,18 @@
       "id": "0b84b08619d9d5a2224d",
       "category": "선거·조직",
       "collected_at": "2026-08-02T15:47:10.634578+00:00"
+    },
+    {
+      "title": "선거 무산 서울총학 … 6년만에 1년 비대위 체제 - kunews.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lNDlpLVpjSzRYV0tBWi1CTWptQkNPOFNFSWxLTFdPNzYzTmdHM21rUE45OUFmUkV6YnI5XzgtbnZLUVo1N1JISFVndEIzX2N5MEhiemJERS1aUkRfOW5JclRpeWtjcVE4d0E?oc=5",
+      "summary": "선거 무산 서울총학 … 6년만에 1년 비대위 체제 kunews.ac.kr",
+      "source": "kunews.ac.kr",
+      "published_at": "2026-03-29T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "56b840989cf92ea8fef8",
+      "category": "선거·조직",
+      "collected_at": "2026-08-08T04:17:31.771532+00:00"
     },
     {
       "title": "호남대, 제40대 ‘백’ 총학생회 등 학생 자치기구 연합 출범 - 대학저널",
@@ -3664,6 +3820,18 @@
       "id": "cd0958ea34254e504932",
       "category": "선거·조직",
       "collected_at": "2026-08-03T12:39:41.504304+00:00"
+    },
+    {
+      "title": "제56대 서울총학 재선거에 ‘초점’ 단독 예비후보 등록 - kunews.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83V1EwOXNnS2pGeURaTTVDby1OOEY2LVVpNk1RSXZsaXEtMF9BZ09ZRnFFbVZxVXlEMTFuS0RmNndVdWY1RUpKaUVQR1V3OFQxTlNWaVliYm1WWWtiWmlwMTRfdlluZDJvMmc?oc=5",
+      "summary": "제56대 서울총학 재선거에 ‘초점’ 단독 예비후보 등록 kunews.ac.kr",
+      "source": "kunews.ac.kr",
+      "published_at": "2026-03-15T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ccc0cdb6ec79aaec2aa4",
+      "category": "선거·조직",
+      "collected_at": "2026-08-08T04:17:31.772452+00:00"
     },
     {
       "title": "학생 자치 새 출발…한밭대 '150명 리더 집결' - 충청일보",
@@ -3801,6 +3969,18 @@
       "id": "c68bfcb5a4a58c0194bb",
       "category": "기타",
       "collected_at": "2026-08-02T07:55:06.143445+00:00"
+    },
+    {
+      "title": "광주대, 2026년 입학식·학생자치기구 연합 출범식 - 대학저널",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZYU9oeWZFWUtNV1FBOHZidkRTZWxLUGViRTdJQTVIWnkwak5KbTA1YWVxd0RSWmtpM1VOeFRfVF9jY0lvQVBvWDZpb2hYeEdUSnZTdmNlcjlBbjMyUmfSAWpBVV95cUxNOFJ0UTRMUmZ3WEhpX0lhRUt6SUxxOHdIUWZEZWlCT0VEcTRIQ3h1THdkdTVqOXBtNGZydXJycERlaTMtcy1TcTF6aUJtbFQ5SHJwbWMzdW1xb3cxYl90bUFIdFh3cEktWXhR?oc=5",
+      "summary": "광주대, 2026년 입학식·학생자치기구 연합 출범식 대학저널",
+      "source": "대학저널",
+      "published_at": "2026-03-04T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "e14d1f11593cf12832dc",
+      "category": "의결·자치",
+      "collected_at": "2026-08-08T04:17:33.437456+00:00"
     },
     {
       "title": "제주대학교 제58대 ‘DREAM 총학생회’, 리더십 함양 위한 ‘2026 L.T.C(Leadership Training Camp)’ 개최 - newsnjeju.com",
@@ -4636,6 +4816,18 @@
       "collected_at": "2026-08-04T18:13:20.972258+00:00"
     },
     {
+      "title": "충북대 학생단체, “총학생회 선거 세칙 위반” 규탄 - jbnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80T0NoSl84SDdSTXRqWFVpQXlpbFZtTmd1dmhDRjByampBeEdnM2psQkduV3dpbVM0bVNHRm9pTDJUQjhrZ0EtTTNmZ2pNUnQ5MFhfOXZqa0NvNTVFMnFqNV9LbHZweWRwa0HSAW5BVV95cUxQc1BCQU4yMXMxU3JoTjk4akhKckkxOEVwdi1uOTQ3a1RiYXdxLWRFTEJhUjJpeEdJU3Vfblh4a1MwSDd3X2dFOEFkYkU3OHJ2eE9TcWh3MklTeHppcEF0UHpzSlluMGt5Zk9oQ3Rtdw?oc=5",
+      "summary": "충북대 학생단체, “총학생회 선거 세칙 위반” 규탄 jbnews.com",
+      "source": "jbnews.com",
+      "published_at": "2025-12-15T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "d204d897dc9c42c6e6d2",
+      "category": "선거·조직",
+      "collected_at": "2026-08-08T04:17:33.438766+00:00"
+    },
+    {
       "title": "대학가 '무색·무취' 분위기 확산…\"총학생회 투표 한번도 안했다\" - 중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sZGctMlprLUZVQ1dzdGk4RVBSWWNGM0pOejlYTVZDRDJmbkg5dUlYOVRJZXk4UmFidHQxT29nVmo1RWRkMENVaml3ZGM1dlJhMEdibHBn?oc=5",
       "summary": "대학가 '무색·무취' 분위기 확산…\"총학생회 투표 한번도 안했다\" 중앙일보",
@@ -4748,6 +4940,18 @@
       "id": "d9013736428930164b75",
       "category": "등록금·교육",
       "collected_at": "2026-08-02T15:47:15.496062+00:00"
+    },
+    {
+      "title": "[뉴스] 2026학년도 서울캠 총학에 ‘퀘스트’ 당선…득표율 52.52% - 경희대학교 미디어센터",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzTUNYN3FIb0NpRXJjVmJWYVJsUGhiLVBnN3RaWlpOOUJrRkN1T0JsTG9YTnBHZ2lrQWhoWi1jc2t6SHY2VU5CNTRsT0dYdmRWeE51Y1BOYkZUQzBnOTNTeFkyUGhIWmtwQkNRVzFJdHJLZkdkUXc?oc=5",
+      "summary": "[뉴스] 2026학년도 서울캠 총학에 ‘퀘스트’ 당선…득표율 52.52% 경희대학교 미디어센터",
+      "source": "경희대학교 미디어센터",
+      "published_at": "2025-11-26T08:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "bd16b41d26c5c6fc478f",
+      "category": "선거·조직",
+      "collected_at": "2026-08-08T04:17:31.773171+00:00"
     },
     {
       "title": "충북대 총학생회 선거, '극우 폭력 사태 연루' 의혹 후보자 논란 확산 - 대학알리",
