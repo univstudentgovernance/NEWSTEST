@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T13:45:18.123178+09:00",
-  "item_count": 487,
+  "updated_at": "2026-08-09T21:36:51.191532+09:00",
+  "item_count": 496,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -1914,6 +1914,18 @@
       "collected_at": "2026-08-09T04:44:46.419067+00:00"
     },
     {
+      "title": "서울캠 총학생회 시국선언… “국민의 한 표 가로막은 것은 단순 행정 실수 아닌 기본권 유린” - media.khu.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZRWx0Z1JEeFgyeXd5bDQ4UDlMUm9lSTZnVkRiWG11SDBQNTNUTTd0V2FZZVFtSzFEYWdBRHZhRUhnSTduR29zTDhXYkZEcUMyOFlycmJwdU9HTnpwby1ja3pSNl9XQm5sX3dXcnA0R3N6eGM1RFE?oc=5",
+      "summary": "서울캠 총학생회 시국선언… “국민의 한 표 가로막은 것은 단순 행정 실수 아닌 기본권 유린” media.khu.ac.kr",
+      "source": "media.khu.ac.kr",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "5e6d04cc80dda23aec8d",
+      "category": "기타",
+      "collected_at": "2026-08-09T12:36:21.569409+00:00"
+    },
+    {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14QXZkc01Ub0VPSjBuZjNwMkJoOUhhRllkbFpGVFhvYWVKYmVzcnNyWjN1NHNQVW5HZmJNckNPanZ3NFJPT1ZxdTNJa2Z6X1BXVl82U0wxZ2ZuSXI1eGRtTFVyYVZqWExQ?oc=5",
       "summary": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 안동MBC",
@@ -2499,6 +2511,18 @@
       "id": "4dd3ef64a89311bb11d7",
       "category": "기타",
       "collected_at": "2026-08-09T04:44:49.868369+00:00"
+    },
+    {
+      "title": "12개 대학 총학 \"참정권 침해 심각\"…투표용지 부족사태 시국선언 - 머니투데이 - mt.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sNmlIOTB3VWdYVWFaM29VRWkyNE9uT3NyazMySUp0bmc2Ni1JLU40dmg4cnpnTG1wazJXRmxocjhYSktBRmw4NWtJVWZScHhXemxXM1hmZG5INVlEM1BFaWVLSTJXVThuS19z0gFwQVVfeXFMT3l4TmU3ZzRrN3lveWpHUnByTXE5b3JXZld0bzNjV1IwTjZYTXc0eHlqSV8wa0VPUEVsVlhQZVpWYkNaUDlKUklnOGlDVmxXS0N5aTFUT0R3ZTV2VXA5ODJXMkpaZ0ZsOUFlbTBmQTZsWQ?oc=5",
+      "summary": "12개 대학 총학 \"참정권 침해 심각\"…투표용지 부족사태 시국선언 - 머니투데이 mt.co.kr",
+      "source": "mt.co.kr",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "8ac62f7c4d4919b88460",
+      "category": "기타",
+      "collected_at": "2026-08-09T12:36:24.903169+00:00"
     },
     {
       "title": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 - 중앙일보",
@@ -3649,6 +3673,18 @@
       "collected_at": "2026-08-09T04:44:54.870009+00:00"
     },
     {
+      "title": "국립군산대, 2026학년도 학생자치기구 출범식 및 동아리 박람회 개최 - kyosu.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KQzhSQWQ0QTZmcWRkN3FpTng4VzAzOXRlRHZrUU1kOG5WYkxvcHAyeUdFSlZPdVRIZkdRN0ZOYjFROVR0TFNMMmZlb3JWUWFrWmZWakZMRmRIT2d5bzdoajhFakQ4MVU?oc=5",
+      "summary": "국립군산대, 2026학년도 학생자치기구 출범식 및 동아리 박람회 개최 kyosu.net",
+      "source": "kyosu.net",
+      "published_at": "2026-04-09T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "705b6901b650b96461ad",
+      "category": "의결·자치",
+      "collected_at": "2026-08-09T12:36:23.209060+00:00"
+    },
+    {
       "title": "한국외국어대학교 서울캠퍼스 제60대 총학생회장단 재선거 개표… 선거운동본부 '선명' 당선 - 대학알리",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0JkODR3NjhyTEpiMkU5ZUNTdkZ4X09uaUZoRjMwbkVCRlJVRVdydjFHek1FdkNCbXdNQ2pUa2hKWHZLZDJuM0IxblIyaXl0SW04NFlxUVNUNVVhenp4Rw?oc=5",
       "summary": "한국외국어대학교 서울캠퍼스 제60대 총학생회장단 재선거 개표… 선거운동본부 '선명' 당선 대학알리",
@@ -3680,6 +3716,18 @@
       "id": "7775214322e2122b3cb1",
       "category": "의결·자치",
       "collected_at": "2026-08-01T17:27:22.099330+00:00"
+    },
+    {
+      "title": "[전재학 칼럼] 텅 빈 대학 총학생회실, ‘각자도생’의 파국인가? - edpl.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3Z2hxaHIzM2cyNVhFM3VjaTVRTkhuVzFOMTltQ1ZIbm9wdFZXNjJBLVRfWVg5eWQ1NDZaU2w2bk10Z25HZm1fb2RualF5TDBDak5PSGRfdDFwYlBlaXpsMl9NLU96V1E?oc=5",
+      "summary": "[전재학 칼럼] 텅 빈 대학 총학생회실, ‘각자도생’의 파국인가? edpl.co.kr",
+      "source": "edpl.co.kr",
+      "published_at": "2026-04-07T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "7dad7024a6111ba919d1",
+      "category": "기타",
+      "collected_at": "2026-08-09T12:36:21.570010+00:00"
     },
     {
       "title": "팍팍한 청춘…대학 총학생회가 사라졌다 - 한국경제",
@@ -3758,6 +3806,18 @@
       "id": "cc5f9befea65c5d5f886",
       "category": "기타",
       "collected_at": "2026-08-04T18:13:19.348804+00:00"
+    },
+    {
+      "title": "영산대 미래융합대학, ‘학생 자치‧지역 상생’ 두 마당 펼쳤다 - kyosu.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkbmtNZHB3VVpTZkg5Q0NxN05ya0h6VkQyQ3dWLW1FQ2xEb0FfdkFMYllqMEtwaVBpVS1TUjZXVms0S3BvakFUYVFDUzdrTUV0OFZnbTI5SFZ3VXJEX05PVG0xYzcyYzQ?oc=5",
+      "summary": "영산대 미래융합대학, ‘학생 자치‧지역 상생’ 두 마당 펼쳤다 kyosu.net",
+      "source": "kyosu.net",
+      "published_at": "2026-04-06T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "7897351d39522dde01de",
+      "category": "기타",
+      "collected_at": "2026-08-09T12:36:23.208881+00:00"
     },
     {
       "title": "총학생회비 쓰임 몰라 납부하지 않는 학생들···10명 중 3명만 낸다 - inews.ewha.ac.kr",
@@ -5290,6 +5350,18 @@
       "collected_at": "2026-08-08T04:17:31.773171+00:00"
     },
     {
+      "title": "[뉴스] 2026학년도 서울캠 총학에 ‘퀘스트’ 당선…득표율 52.52% - media.khu.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzTUNYN3FIb0NpRXJjVmJWYVJsUGhiLVBnN3RaWlpOOUJrRkN1T0JsTG9YTnBHZ2lrQWhoWi1jc2t6SHY2VU5CNTRsT0dYdmRWeE51Y1BOYkZUQzBnOTNTeFkyUGhIWmtwQkNRVzFJdHJLZkdkUXc?oc=5",
+      "summary": "[뉴스] 2026학년도 서울캠 총학에 ‘퀘스트’ 당선…득표율 52.52% media.khu.ac.kr",
+      "source": "media.khu.ac.kr",
+      "published_at": "2025-11-26T08:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b183698b1f9bb2089351",
+      "category": "선거·조직",
+      "collected_at": "2026-08-09T12:36:21.570832+00:00"
+    },
+    {
       "title": "충북대 총학생회 선거, '극우 폭력 사태 연루' 의혹 후보자 논란 확산 - 대학알리",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vQXFpelk0ZGRpUmplbUU1NzBNU0xYTjVHVEQxNjRBRW5UOWVFM3BtenpEV011eUx6cFpqdGU0YXFYSVh0WUUwcmpmb1FDbFd5cExmT1FsRTd2Rkk?oc=5",
       "summary": "충북대 총학생회 선거, '극우 폭력 사태 연루' 의혹 후보자 논란 확산 대학알리",
@@ -5505,6 +5577,18 @@
       "collected_at": "2026-08-02T07:55:14.719933+00:00"
     },
     {
+      "title": "상지대 총학생회, ‘학생복지 FLEX! 반값 생필품 공동구매’ 추진 - kyosu.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9udVhYOE9rMHhJbEpjWUNjZDU1Z3o1dzVlbmFLbzZrYkh2SWVUMTJKbGExdUxKMFJ4NjA2WDNvbUxLTlRrdHA5QksxMVFHTmZSdVU1R0l0Q1BEN3Zhd2tuenA5Yi1UdFE?oc=5",
+      "summary": "상지대 총학생회, ‘학생복지 FLEX! 반값 생필품 공동구매’ 추진 kyosu.net",
+      "source": "kyosu.net",
+      "published_at": "2025-09-30T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "225d0670e291ea489a29",
+      "category": "복지·문화",
+      "collected_at": "2026-08-09T12:36:29.895444+00:00"
+    },
+    {
       "title": "참가자 저조로 '총학 운동회' 개최 좌절 - 채널PNU",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByaHFPVmVTUUkxbnFfMUlwNlJvRkVSejVZbkNKWVRTemM2NzN4WWZPMExWQ296Q040Z0hiMUFwWEx5ek55WS02NzNCUVJoazNCM0gwWFEwNkExX2lkUHZzSml0SVhGdkdLVm12ck0xQlEtQdIBdkFVX3lxTE1YbDFkRHN0V2d4OHRqSXVfeVdlMmZDcVMzc3Z3RmNUWHlXY0xMODNMVjNkTmNxUms5ZTVIWExsVEdhZnRDQlZZdEpqMGZkUko4ME9iazZBNlBxeUNKOEdFdlAzN3gyaHFxdllQbVBtZENWNFVKX1E?oc=5",
       "summary": "참가자 저조로 '총학 운동회' 개최 좌절 채널PNU",
@@ -5525,6 +5609,18 @@
       "id": "d4374e7fb948a5958158",
       "category": "복지·문화",
       "collected_at": "2026-08-01T17:27:38.660019+00:00"
+    },
+    {
+      "title": "동아대, 총학생회 주관으로 가을축제 성황리 개최 - kyosu.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10bUJFOHk3U0FHcjlla1h0YW9CcU0tVFJoeHNBQkFqVUF6LUREUG15WXFMQTEyRG9ja0FaaXZtbkpCdHd2RHlqY2hHTW9HSEt1a01vOG1XbVJZai1XODdJOWVINHlab0U?oc=5",
+      "summary": "동아대, 총학생회 주관으로 가을축제 성황리 개최 kyosu.net",
+      "source": "kyosu.net",
+      "published_at": "2025-09-22T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "86cbd8568e5915ff7706",
+      "category": "복지·문화",
+      "collected_at": "2026-08-09T12:36:29.895256+00:00"
     },
     {
       "title": "강원대 삼척 학생자치단체, 강릉원주대학교에 생수 지원 - 교수신문",
@@ -5548,6 +5644,18 @@
       "id": "efe1296c9b878455062d",
       "category": "의결·자치",
       "collected_at": "2026-08-02T15:47:12.272995+00:00"
+    },
+    {
+      "title": "강원대 삼척 학생자치단체, 강릉원주대학교에 생수 지원 - kyosu.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51QkdaakVtcW1fUWdWVk4wSG9pNEREblRRak9TVnRVRnFBUUFmcjNucDBhb01icXB5TjdnRC1HLWlxclNyUlFlSS14QzBUWEpNNVNwTU9pVmJaLTdZWDVyRE9MMDE3Q1E?oc=5",
+      "summary": "강원대 삼척 학생자치단체, 강릉원주대학교에 생수 지원 kyosu.net",
+      "source": "kyosu.net",
+      "published_at": "2025-09-15T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "e68f5d77a53f4bea7d8e",
+      "category": "의결·자치",
+      "collected_at": "2026-08-09T12:36:23.209679+00:00"
     },
     {
       "title": "“오늘, 인생을 건 베팅이 시작됐다” 전주대, 2025 학생자치기구 연합축제 성황리 종료 - 전북미래교육신문",
