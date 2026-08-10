@@ -1,9 +1,237 @@
 {
-  "updated_at": "2026-08-10T10:14:20.761234+09:00",
-  "item_count": 501,
+  "updated_at": "2026-08-10T21:54:18.765231+09:00",
+  "item_count": 529,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "진주시 소재 대학교 총학생회, 발전공기업 통합 본사 진주 유치 촉구 기자회견 개최 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrYUItVF9mR24wUExqUDhYWkJUUGhNa3JrcW5xNXJuTGlSX0dOV3J3UWJqNWxNY1FxeW4ydlBqTlpnV29hWWxOVFAteHdWY3gta0JWSFNnYmxsVTV0ajRNWjc1UE41c1EtQi0wUVdVR2k?oc=5",
+      "summary": "진주시 소재 대학교 총학생회, 발전공기업 통합 본사 진주 유치 촉구 기자회견 개최 > 뉴스 더코리아",
+      "source": "더코리아",
+      "published_at": "2026-08-10T12:34:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "392a222b08b120f6cbb4",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.532746+00:00"
+    },
+    {
+      "title": "경남도·지역대 총학생회 '발전공기업 통합본사 유치' 한목소리 - newfilenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMN2dlQXRWNlU1ZEJOOHJJRDJJTHpkRTViTXhzUE5LSnFzaU5SVHRPdUhiR3R6UFBmLXJ4dWNZdDVXcVdFV3BoXzhnLVdwZ3MtcDNTOVhUSEEyUUtfOGxsZU8tSzBNalJZcTFvUnln?oc=5",
+      "summary": "경남도·지역대 총학생회 '발전공기업 통합본사 유치' 한목소리 newfilenews.com",
+      "source": "newfilenews.com",
+      "published_at": "2026-08-10T11:28:04+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "baffe1437073e456a0f0",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.532867+00:00"
+    },
+    {
+      "title": "진주지역 4개 대학 총학생회, 발전공기업 통합 본사 진주 유치 촉구 - 미디어팜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13WGh2bnZmWmI4RF9naTFyUzNscUFxZlpYT3V5RFlHQWlkUENzTGhSNWhUa2FHMFpNdHNXX0Nha3A1VTVIdmNuQXdCeVRBc3lvbjNkM01Yc3VqY3hkT1dRaC1rRHItUkNf?oc=5",
+      "summary": "진주지역 4개 대학 총학생회, 발전공기업 통합 본사 진주 유치 촉구 미디어팜",
+      "source": "미디어팜",
+      "published_at": "2026-08-10T11:13:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "3ed083e3d334529d70df",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.532843+00:00"
+    },
+    {
+      "title": "진주 4개 대학 총학생회 “일자리 없어 떠나는 현실 바꿔야” - 단디뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hMVktSjYzbktKa2dOOXRNZDFieDhDUGFlcmxWTzNGVWhOa00zZmJhWWFKUVhKc3ZpcWdoNkVSN1MxVkNpdFEwNERmVDctNlhWelM2eEVUMlBsaWoxQWg2bHpKQUZaenMzTHVR?oc=5",
+      "summary": "진주 4개 대학 총학생회 “일자리 없어 떠나는 현실 바꿔야” 단디뉴스",
+      "source": "단디뉴스",
+      "published_at": "2026-08-10T09:58:33+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "3f748757686c33d68211",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.532770+00:00"
+    },
+    {
+      "title": "경남 4개 대학 총학생회, 발전공기업 통합본사 경남 유치 촉구 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lemhkbzduaXdhNHpJSTl6M2p6LS1SSWRfQ2U1SFdDNVkzYzlWb2pXbVZqbkhGTWUzUzZJeGRQd3lZOUpuRk1ZTVNRajRtOXpNLUVVRVBfekhuVEJHb1k3aWZRdV9OQklGekprSFRxV0t0UQ?oc=5",
+      "summary": "경남 4개 대학 총학생회, 발전공기업 통합본사 경남 유치 촉구 웹이코노미",
+      "source": "웹이코노미",
+      "published_at": "2026-08-10T09:44:46+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "db3fbeec324eb63266dd",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.533031+00:00"
+    },
+    {
+      "title": "진주 4개 대학 총학생회 “발전공기업 통합본사, 진주로” - 경남일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QdkVlRGxXazRJSkNmR2tEMWcyYTUwZWRsRjR0bGhFUjl1R19rS24zT0dGSXBYM1dJWWthZURPMk12cTBZaTRSbURjVFVESExUSmRtd3ZOOW5CSEdmUTJLUkY2ZzVhaE1lbm1N?oc=5",
+      "summary": "진주 4개 대학 총학생회 “발전공기업 통합본사, 진주로” 경남일보",
+      "source": "경남일보",
+      "published_at": "2026-08-10T08:59:20+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "eb593b7c76940d2231d1",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.532689+00:00"
+    },
+    {
+      "title": "진주 대학교 총학생회 “발전공기업 통합본사 진주 유치해야” - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ybzJxLTZTbm1BVEVsd1B4T2ZCbV81TVZ2bGk0c25OZy1GMmRHSnRyV0xaSUVjM0xabThQbDlKMVZkOURJVFVfbDZnZVJZMXM?oc=5",
+      "summary": "진주 대학교 총학생회 “발전공기업 통합본사 진주 유치해야” v.daum.net",
+      "source": "v.daum.net",
+      "published_at": "2026-08-10T06:55:30+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "9635cf42d0c45333ded2",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.532718+00:00"
+    },
+    {
+      "title": "대구시, 영남대 총학생회장 출신 박성민 '청년특보' 임명 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fZkpZQ1pvMkpjU0NnTlVOek1DTm55R015OVpHcDV2Rl9WYW8weDRDTFJTUk5ObS1faVF4c0NjeDBZYUIwQlRGZEhVU3ZEalBObEo2NjRfTk1tMk43ejRSZ9IBeEFVX3lxTFBKdnVxY2ZvbDVPMlc0RlNBLVp6bDFSMGdWaGd1blVuMlJSSm5Mc1lucThGVzIteGNzTk9JTkl1RU9kcTVjQnMtemdIN09zNDFaRkNHTnEwUVNzU2VSQWZsY1RMTXdUUTZocGhPbDROeWZpLWdLWHhfaw?oc=5",
+      "summary": "대구시, 영남대 총학생회장 출신 박성민 '청년특보' 임명 뉴시스",
+      "source": "뉴시스",
+      "published_at": "2026-08-10T06:35:01+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "a98a62a3a048ebaa1571",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.532819+00:00"
+    },
+    {
+      "title": "대구시, 영남대 총학생회장 출신 박성민씨 청년특보 임명 - 세계일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KVzRnTWZ1Q19RNzRjSEd2eUN2OERGSzRla25kUHlyOWpCak9SRUdkVDI2Z2FjbUlrdF9LdGFla2VZT0E5U0hlQmU5TnJtRHZlcDVPV1lUdFZaR0lWbjAtbEYwTnJDc2tyZEZN0gFUQVVfeXFMTzB2UlRYaS1iOU5EQk5tN2tTWUJTRm80MGFLc3BIOW1DVDI1VVNyM2czUDdCbDhhakNMMGIxYUF1cVpWbHFXZlk0a09RVTlOS0diMWRw?oc=5",
+      "summary": "대구시, 영남대 총학생회장 출신 박성민씨 청년특보 임명 세계일보",
+      "source": "세계일보",
+      "published_at": "2026-08-10T06:31:59+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "052d64e28e415adc3308",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.532890+00:00"
+    },
+    {
+      "title": "진주 4개 대학 총학생회, 발전공기업 통합본사 경남 유치 한목소리 - sedaily.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tU1NReHAtZUNlZU42RjR3U0J6VkFNNGlGSm94U0YwNXQzMk05blNpWmYxd29sSXgzTUJRNEMyR2EwR1FtUmxBNU1vZFVsTzBWZlBB0gFTQVVfeXFMTi1TU1F4cC1lQ2VlTjZGNHdTQnpWQU00aUZKb3hTRjA1dDMyTTluU2laZjF3b2xJeDNNQlE0QzJHYTBHUW1SbEE1TW9kVWxPMFZmUEE?oc=5",
+      "summary": "진주 4개 대학 총학생회, 발전공기업 통합본사 경남 유치 한목소리 sedaily.com",
+      "source": "sedaily.com",
+      "published_at": "2026-08-10T06:27:20+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d60181c98c0bdc84f6a4",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.532938+00:00"
+    },
+    {
+      "title": "대구시, 청년특보에 영남대 총학생회장 출신 박성민씨 임명 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwY09saEtwSVZIcjhZWkc5d0o4UEpucUFCcGx3V2huekp3MVR4VE11eEVFaHZDYk9pa0lFUWJsVWZ4OWg2YzNneTdVQ2lpeXk3TEkw?oc=5",
+      "summary": "대구시, 청년특보에 영남대 총학생회장 출신 박성민씨 임명 네이트",
+      "source": "네이트",
+      "published_at": "2026-08-10T06:10:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "953f0e32d9fb5a7f6e33",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.533076+00:00"
+    },
+    {
+      "title": "대구시, 시장 직속 청년 특보 임명…영남대 총학생회장 출신 박성민 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rQmt3UVdXZ2ZySElWUnl0UGx2V25tVGRKcExqRlRsQlZKcWZ1aGxOMWg3VEl5OVNzMjhVajhlNFVWaVdkV1BJRkhYa0piNXNsZTk4?oc=5",
+      "summary": "대구시, 시장 직속 청년 특보 임명…영남대 총학생회장 출신 박성민 네이트",
+      "source": "네이트",
+      "published_at": "2026-08-10T06:07:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e17003c57a84b01c4829",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.533054+00:00"
+    },
+    {
+      "title": "진주시 소재 대학교 총학생회, 발전공기업 통합 본사 진주 유치 촉구를 위한 기자회견 개최 - 포인트경남",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MM1VJR0VycUxCQUIwWGYwMVYtQXo2TG95UHhFSUtBejN3RzBtWXJ1T3N2SDFVQVQ5SkdGZFY1Rk9kTUctZmJPSGlSWkh3dFBCWlZNaTNCSFNSdmo0aVBwX2QzRWRUbHBLMHcyd1RaTV8?oc=5",
+      "summary": "진주시 소재 대학교 총학생회, 발전공기업 통합 본사 진주 유치 촉구를 위한 기자회견 개최 포인트경남",
+      "source": "포인트경남",
+      "published_at": "2026-08-10T06:05:09+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "86a669f676b1b993398f",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.532915+00:00"
+    },
+    {
+      "title": "진주지역 4개 대학 총학생회 \"발전공기업 통합 본사 경남으로\" - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NQ3JSWGltWWlpckxzNGdhbzFZNWZnTmNTM2ZRUUdIVkFzcVI1NFlDTHJCd0MxNFhvWGhGRUZ0eFZvallvVl85OG9ONWJaczQtaHdJ?oc=5",
+      "summary": "진주지역 4개 대학 총학생회 \"발전공기업 통합 본사 경남으로\" 네이트",
+      "source": "네이트",
+      "published_at": "2026-08-10T05:34:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8e04e9a6384322f00cae",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.533098+00:00"
+    },
+    {
+      "title": "진주지역 4개 대학 총학생회 \"발전공기업 통합 본사 경남으로\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EWmZhbG5LU0V2bF9iM3BBTUt6MlVvQlJXcHVNSE02TGVhbm5CYnpiYXZSdXhkT091LUZyY2poWnlLZ194ekItX2lQX3R4ZWNIaDg2U1dmMmxBb2p5bDg3adIBYEFVX3lxTE1EWmZhbG5LU0V2bF9iM3BBTUt6MlVvQlJXcHVNSE02TGVhbm5CYnpiYXZSdXhkT091LUZyY2poWnlLZ194ekItX2lQX3R4ZWNIaDg2U1dmMmxBb2p5bDg3aQ?oc=5",
+      "summary": "진주지역 4개 대학 총학생회 \"발전공기업 통합 본사 경남으로\" 연합뉴스",
+      "source": "연합뉴스",
+      "published_at": "2026-08-10T05:33:16+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d88f2c35602233716548",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.532645+00:00"
+    },
+    {
+      "title": "경남 4개 대학 총학생회 '발전공기업 통합본사 경남으로' - 데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyTzdMMXZnMmZKanpELXM4SmFTdEpJdV9ObnlKZVAzcWhIdk9udzIzc1UwcjdBald2aGxRSHJGRTdTQW9jYmFvMjNXNlVOX2tKNW9LQ25SVHdGM0gweHRGSzNmdlBUT1YxVEF0WjhRWdIBc0FVX3lxTE5xLXJ1dTA1X2sxWm1HNV9Yc1ZSeTJqOEMzaVlYODIxRVAzODJOZjVqWXZsVHkzck1aV0hOU2k5dDdxdE9oVWotanZSNEVORzQzVldMNGRjZjZPaWJIb3M4OFd6RE1OdnVjbTZXMUg5YWdJQm8?oc=5",
+      "summary": "경남 4개 대학 총학생회 '발전공기업 통합본사 경남으로' 데일리한국",
+      "source": "데일리한국",
+      "published_at": "2026-08-10T05:11:42+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ded0eefa5005cc345a8b",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.532960+00:00"
+    },
+    {
+      "title": "경상국립대 등 진주 4개 대학 총학생회, 발전공기업 통합본사 진주 유치 촉구 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZlFzbmtTazFUek9yRU91Nkp0aHBiTUdhU1ZxS0lGbmM0aWt3YUtfZElTejZuQmhzVWl1N0JscGxOVjhUV1dra21WamxVNzJVT1c5VkRKWFVxSVlJSlFTeHd3YmlLMVNZeXhGZXNsUzJJZHBnTGNqaDA2dmJVVmNxVFdJQnIxZVlHUnVWZWJR?oc=5",
+      "summary": "경상국립대 등 진주 4개 대학 총학생회, 발전공기업 통합본사 진주 유치 촉구 국제신문",
+      "source": "국제신문",
+      "published_at": "2026-08-10T03:41:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "54cc0ec14712fc709425",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.532795+00:00"
+    },
+    {
+      "title": "경남 4개 대학 총학생회, 발전공기업 통합본사 경남 유치 한목소리 - 뉴스경남",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UWjh4M0pTRGVLTTBaU0lQVkR1T19BU001Tk1jcGFUYXRPSkdYQzluWFlRazJBeVZJZXMzQldCODJVR1cwWlJnVk9WNEUybXJjM3BvYzN6SkVqZGdYWnMtVGtocFVCZjls?oc=5",
+      "summary": "경남 4개 대학 총학생회, 발전공기업 통합본사 경남 유치 한목소리 뉴스경남",
+      "source": "뉴스경남",
+      "published_at": "2026-08-10T02:26:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "494208d51533452e9dcc",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.533009+00:00"
+    },
+    {
+      "title": "진주 4개대 총학생회 \"발전공기업 통합본사 진주 유치 촉구\" - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96aHVManNaMUQyUlYtSjBwU2h5WmlORHROQ2ZvekRCWWo5cUNlT3R0ZUdRbTJkcjhFVkREbEljTlBJWWxoejRWN1pYNzBUVDNQYmJN?oc=5",
+      "summary": "진주 4개대 총학생회 \"발전공기업 통합본사 진주 유치 촉구\" 네이트",
+      "source": "네이트",
+      "published_at": "2026-08-10T02:20:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "22823117f54273ee6557",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.533145+00:00"
+    },
     {
       "title": "서울총학, 우남포럼·4월혁명고대 규탄 … “4.18 정신 왜곡 말아야” - 고대신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvY0Qzd0laT0lSdTlqX2pTYkc5NlNrVVZ5bmlrVV8wcWhmOGFpODFFUldocUFhVDIyQW4xU1BERVZTNHZNRlZFV29McFBpcDg1TDFxcWVZRERFNHc2djM3TFdxcFJlMjJsaGc?oc=5",
@@ -668,6 +896,18 @@
       "collected_at": "2026-08-01T17:27:17.516755+00:00"
     },
     {
+      "title": "순천대 총학생회 \"의대 논의, 정치 아닌 원칙으로\" - newspim.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tNURDU0FMYkxVWC00QWZFSnFZOGNMVzFKWGJVOFUydGF6YVE5OTJ4alF4bGtMQk16MmNIRmFlRk50NzJNb1VyMERSQl9nTGhnaWhXSVh3bEJwWWhX?oc=5",
+      "summary": "순천대 총학생회 \"의대 논의, 정치 아닌 원칙으로\" newspim.com",
+      "source": "newspim.com",
+      "published_at": "2026-07-21T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "0ebf0c9e219d3b6fae8b",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.533379+00:00"
+    },
+    {
       "title": "순천대 총학생회 \"정치 논리로 대학 미래 좌우 안 돼\"…의대 설립·통합 강력 반대 - gukjenews.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yTHE1WVZsaDV2Mi0zUHc5d01LckpDM2RpX2NmY2hETy1jMjY4cm9rRVJMZXZGV21zQm10MGZtNXhOcWpYcE9wMmxKRTFPZHlNazRTUXFiU1VrTG9EOF9QMTJZT2REbXdEQ3J2Sk1n?oc=5",
       "summary": "순천대 총학생회 \"정치 논리로 대학 미래 좌우 안 돼\"…의대 설립·통합 강력 반대 gukjenews.com",
@@ -1148,6 +1388,18 @@
       "id": "15932018ae73caec14a1",
       "category": "기타",
       "collected_at": "2026-08-05T10:05:57.118644+00:00"
+    },
+    {
+      "title": "발언하는 김태윤 전현직총학생회연합 대표 - newspim.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HbTExYTlTQWprOXB4WFM2VXhKakFMb2E1RTkwa051a1otNEtRWFZTRXNtNndybG1mUmlPYXlYQWZ2OVRPZkowVEY3am44QTgtT0JzeHBKUTB4UmNE?oc=5",
+      "summary": "발언하는 김태윤 전현직총학생회연합 대표 newspim.com",
+      "source": "newspim.com",
+      "published_at": "2026-06-21T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f35c08d6d0969f4243e5",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:47.534677+00:00"
     },
     {
       "title": "충북대 총학생회, 선관위 규탄 시국선언 - 연합뉴스",
@@ -1948,6 +2200,18 @@
       "id": "8a5a87899c6daf9f64d6",
       "category": "기타",
       "collected_at": "2026-08-10T01:13:52.310326+00:00"
+    },
+    {
+      "title": "전국 18개 대학 총학생회, 시국 선언···\"참정권 침해 규탄, 진상 규명 촉구\" - ngonews.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YYVpBU19LMlRpVEdDZk9yS1RjQzAzbGltQnhOcnNlbDByNFlDSDl1OUVIQnkzNlBOVmw3cjJ0Z3RNVWJoU2lBSElXRzVzb3dLMUZMU1ViTjhWOUd0ZE9wajZCQ2o2SUNy?oc=5",
+      "summary": "전국 18개 대학 총학생회, 시국 선언···\"참정권 침해 규탄, 진상 규명 촉구\" ngonews.kr",
+      "source": "ngonews.kr",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "1b84f14d3a52cf966730",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:50.856075+00:00"
     },
     {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
@@ -2985,6 +3249,18 @@
       "collected_at": "2026-08-06T10:14:16.285141+00:00"
     },
     {
+      "title": "[포토뉴스] 제39대 총학생회 축제 「2026 세종연회 : Hidden PIECE」 - 셋째 날 - pr.sejong.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNQWFMRlJKNXBUeTRORE1qWFRUbDV3bkR4em9jMnAwY083dUEtdW43ODFLRWt5bGZSNkdSa1k5c2Y4V3ZxNUg2d2FzYjJzdjhrblpXMG5TcEV5QjJfd1NzUGRMVXNsUkZTUGpWeW93ZndxLVdMT2d0UEtKOGVFVGxyLWVDZXJNdlJkRWoyOUxGdTBzZ1hqYy0wQkl4MEdKS0lnSDB5MGNwclBZZTN2V2pUWDhRNU9TODc2SEFMZmhnOFhWRUJGUmxpYXNJay1MWTlBRjVZcWZnR2RwTmI4VVA4czZmbHBwNldScXpCTUlHZG5EYWZCUlJZTUx4OVJ5Q3lBaFZjRjBlb1hwVVZsUlBSdTg1UHFqdDFPX3c3ZEtENWlDV0lQQ1NXZmlTbU1qOXRaTzZkQ3l2WnNZT0ZEZVFkb3FMVWJtWWVfb1ZGQVBvakNtaU5fUDhFT3BwRzh0bjRsTDhXNVc0LVY3U29ZMTNxaWpqb2NpX2RZMkFQZUdqb1B1Ml9yckNBb0pxdGd6UGhweGx2S3pKT3RsTmFCNXNWSXZjV3hIZUw3azFzd0RuY09ZTFFWT3AtdFpwVQ?oc=5",
+      "summary": "[포토뉴스] 제39대 총학생회 축제 「2026 세종연회 : Hidden PIECE」 - 셋째 날 pr.sejong.ac.kr",
+      "source": "pr.sejong.ac.kr",
+      "published_at": "2026-05-26T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "e4d358d0603f5a5528c4",
+      "category": "복지·문화",
+      "collected_at": "2026-08-10T12:53:55.671714+00:00"
+    },
+    {
       "title": "[뉴스] 투표율 50%에 멈춘 학생자치... 개표 요건 다시 물어야 - 경희대학교 미디어센터",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LUFo4a0xHME9JUFE2c19JWlA4a1d1WXQ2dDQ2UlpMNnVpRGlSaFVrYTV5OEdzbVdDdVNhdlg2dFA1clBySmpJdkQxOGZmVDZxV0psV2V4R1dZSkphU2djTlVMLWtPeENndzc4M0dzZkxseUc4X0E?oc=5",
       "summary": "[뉴스] 투표율 50%에 멈춘 학생자치... 개표 요건 다시 물어야 경희대학교 미디어센터",
@@ -3120,6 +3396,18 @@
       "id": "f9b91cf3a88e40436a99",
       "category": "복지·문화",
       "collected_at": "2026-08-06T10:14:16.285277+00:00"
+    },
+    {
+      "title": "[포토뉴스] 제39대 총학생회 축제 「2026 세종연회 : Hidden PIECE」 - pr.sejong.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPa2JRNF8ydGJQMWJULXBpcGZpZ0pNS2lmMlNXWW1KQ0tLNlpSMS1YaVJTQ09JX1pBQUhVM0swSVBWcnFPWXhEa3dzRXpXNlE4bUZzUXdra1ZmRlBDUW5Qd2ZHVlFfS3hJTVFWc3FLNTNHLUFxc0hpTVZRbXo4c1oxMUJldENRUVQ0RzNURWI0YjJudkNOSHdFTURxTHJ6cGpwSzUyVmJISy1kVWJucHlsdndsUUM1WHpMMVBGVUt6SmtibEhoQUFzV3RWaktFdmpKZVE4NlhWMWhyNTdmREt1LTNKQW5lQW9wUkw0TnNHcmhRSEp5YUZJRnZ1dVdBMWxsQkRoTlZLN0hDd01RMlVWd2dKY1NvajdvdEZ5UVVFOXhRUGdaU0RPZTdJMnl2YWsxLVNJMjVVbTB1Vjk2Y29oX1hTN3QteHh6b0RBYTQzUVc0djdMakprbEFPMG1FVzl4OWxXTlZmRTVPb0VLMUJzb204cjJYejhLZzZwYXVaNER2U09PT25rWmFtbzNocHVxWlE?oc=5",
+      "summary": "[포토뉴스] 제39대 총학생회 축제 「2026 세종연회 : Hidden PIECE」 pr.sejong.ac.kr",
+      "source": "pr.sejong.ac.kr",
+      "published_at": "2026-05-21T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "edb24b8c55e869708840",
+      "category": "복지·문화",
+      "collected_at": "2026-08-10T12:53:55.671826+00:00"
     },
     {
       "title": "[동네 정치를 꿈꾸다] 카이스트 총학생회장 출신 윤서진 “청년 정치 가능성 보여주고파” - v.daum.net",
@@ -4448,6 +4736,18 @@
       "collected_at": "2026-08-08T14:05:34.010611+00:00"
     },
     {
+      "title": "대학원 총학생회 출범··· 득표수는 '비공개' - channelpnu.pusan.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NemRBU3R1blVfdXU1Qk9UZDYxXzB2NUI4cFM4X1BaMEdfVnZpbEl6T2dnWk9oQUlOY2xxLVB0TmF2MWRvV1RiWUdTQ1UwdUpNb2pNU0dFQnhIUHdnbTZSU2wzSlM3LW5vNnRFeVpSaDJLQdIBdkFVX3lxTFBNV1l3WE5SR2gtTWZ4N2tWRGYxekh1RXl5bVlkMHFzRHU3Q29rUUFuUWU4dTlqZ292Ny14akhiWC1pd1M1Znp4OTAwMDJPS1RhWXMzNWRlTnhXcFQ1YzZlamh1QU1uTzlvc1N5NE1EaWFfR1FFWFE?oc=5",
+      "summary": "대학원 총학생회 출범··· 득표수는 '비공개' channelpnu.pusan.ac.kr",
+      "source": "channelpnu.pusan.ac.kr",
+      "published_at": "2026-03-01T08:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "2acafce1116c213997f5",
+      "category": "기타",
+      "collected_at": "2026-08-10T12:53:50.856122+00:00"
+    },
+    {
       "title": "체감·문화·통합, 총학생회 PASS가 그리는 2026년 - 채널PNU",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JZm45VFp2emFpZjIybVVFMFhfbGF5UC0yc3FmSUNnUUVvS0lVcHpYQ0JFOUo2Qk9VSFhRam94d1VmekNYRnY1cTVwaGtUZGxkUXhldkZRRmJVdDBkaDNaaUxVOXlDUi1tZ295aHV1aDZCUdIBdkFVX3lxTFBNdWNoYkJKM3ZPMV95RFdjczdENzEwU2ZtSGZ5NFhZRkEyQmhkUVFVSkkyVUQ5QkNTNGpvN1oyVzNDa21VcGxZNU5obTBBUjRQMl9HWjBDT3hxSVV5ZXVBX3daVDJPYmh3RTR0UHUycGxPWEhfX3c?oc=5",
       "summary": "체감·문화·통합, 총학생회 PASS가 그리는 2026년 채널PNU",
@@ -4904,6 +5204,30 @@
       "id": "437b727a2211f741cfc7",
       "category": "등록금·교육",
       "collected_at": "2026-08-05T17:13:08.808141+00:00"
+    },
+    {
+      "title": "한국외국어대학교 총학생회는 등록금 인상안 반대 합니다! - newspim.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Za1poMlk5R1pZclNQS2R4R2JTajk0QVB5RW9xcE5oaGQxaUx6Zk9wdGxacGpyZFY1b0Q1bjVRdDh6MW1hSV9sbnNaNWh6VHM1Q0RyYU1OVlFBTWFL?oc=5",
+      "summary": "한국외국어대학교 총학생회는 등록금 인상안 반대 합니다! newspim.com",
+      "source": "newspim.com",
+      "published_at": "2026-01-19T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "a041f8ac9274b41a2e99",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-10T12:53:52.469711+00:00"
+    },
+    {
+      "title": "등록금 인상에 반대 대자보 보여주는 한국외국어대학교 총학생회 학생들 - newspim.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04ZWJtQlhOODN2STRhbksyb2NhNTBsVGVrb3dPOGppTm9YMmpUVXNkTi10U2ZGWkl1eFZaVHFrWldaZ25DZXN5U2UxTEJOcUVmaHV5Wjg3d21yUGRN?oc=5",
+      "summary": "등록금 인상에 반대 대자보 보여주는 한국외국어대학교 총학생회 학생들 newspim.com",
+      "source": "newspim.com",
+      "published_at": "2026-01-19T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "ec8c90eb87270728d742",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-10T12:53:52.469886+00:00"
     },
     {
       "title": "등록금 3% 인상에 외대 총학 “갑질 인상 반대”…학생 반발 확산 - v.daum.net",
@@ -5567,6 +5891,18 @@
       "id": "00b4e5e17679e63189d5",
       "category": "선거·조직",
       "collected_at": "2026-08-01T17:27:38.659962+00:00"
+    },
+    {
+      "title": "부산대 총학생회장 선거, 9년 만에 삼자대결 - channelpnu.pusan.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fdG92Ymh5dW9jWjBybmpSNGI0UGxyUmlzNkRGbGwwZXZ0RDg4QlVncE1vMTRTTXpmREEwTWpsbHpWWDdSUXEzRnh0N0dTRlZXT2ZtNHI5WFJIemo2ekw1ZFdMbkpPZWtJRGoxVWhMUFNFZ9IBdkFVX3lxTFB2b0JUZEotaGRRc25abHhaV3Zfc2RmUVc4TGpBT2dQUG1CQ1BqdENXdE1jV1JLT3hkY1F5RjI3N1NvcWZJS2c0V3lCT1RtLTJRclVpRjU0bWQyZ0lFY1RySWhHbk5KS3lsdkFkZTd1aXdPZnFTbWc?oc=5",
+      "summary": "부산대 총학생회장 선거, 9년 만에 삼자대결 channelpnu.pusan.ac.kr",
+      "source": "channelpnu.pusan.ac.kr",
+      "published_at": "2025-11-07T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "c0ca20bf40b86c5843fa",
+      "category": "선거·조직",
+      "collected_at": "2026-08-10T12:53:49.256122+00:00"
     },
     {
       "title": "학생회비 빼돌린 전 인하대 학생자치기구 간부 징역형 집유 - 연합뉴스",
