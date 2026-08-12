@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-08-11T21:49:43.691111+09:00",
-  "item_count": 575,
+  "updated_at": "2026-08-12T10:20:37.475853+09:00",
+  "item_count": 580,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "동대문구 3개 대학 총학생회와 청년정책 '현장 소통' 강화 - 서울동북신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95WEdNdTNIZzc2cS1KUkY2aTN6UmdWUTJreTc0TFVhdkl2YnVjRnJZYUE2OS1OU2ltWkN4ZnpLdGxPQTNQV2hNX2k1N0RqSDBhUkxreklzS3FENEY1QS01MHV5ejdRUThWeHB5Mw?oc=5",
+      "summary": "동대문구 3개 대학 총학생회와 청년정책 '현장 소통' 강화 서울동북신문",
+      "source": "서울동북신문",
+      "published_at": "2026-08-11T13:54:56+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "509b7643f1f2248c03e9",
+      "category": "기타",
+      "collected_at": "2026-08-12T01:20:10.747078+00:00"
+    },
     {
       "title": "동대문구, 3개 대학 총학생회와 협약...청년정책·지역공헌 추진 - 한강타임즈",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jZzIwMThXbW9UV09oTFZ0aHlweU1pSjRlZDN4YXZubV9RQmxoOFJJT0JqUEhCNEVPdXNyMEJVcHJVNVdLLXMtQml3aTdtdmRSUWtvZ0c4OFAzaDhTTndob2kzS285MWpRdVRJ?oc=5",
@@ -4706,6 +4718,18 @@
       "collected_at": "2026-08-07T15:10:59.319581+00:00"
     },
     {
+      "title": "영남이공대, 학생자치기구 대상 ‘학생 의견수렴 설명회’ 개최 - kyosu.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41azM3Y0ZzSW4wM2R1YUlGWnA5a0NmTGowWmdTNmNfYWpzdDI3UWt0ZGlxRGlNd1dWYl9aWWd2bUliS1lMU0J5SmZHcTRmYWNBcnMwSG41Q3FMcFoweGg1X25rTVRCeGs?oc=5",
+      "summary": "영남이공대, 학생자치기구 대상 ‘학생 의견수렴 설명회’ 개최 kyosu.net",
+      "source": "kyosu.net",
+      "published_at": "2026-04-02T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "9670e8c8bede002e8468",
+      "category": "의결·자치",
+      "collected_at": "2026-08-12T01:20:12.264834+00:00"
+    },
+    {
       "title": "[단독]연세대 총학생회장 선거 또 무산…\"입후보 등록 없어\" - 뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ld3BXTnJZTzgxZEF4WFNhMkpyUDM5bHNVUkw3QWdoamFfdTRnb29QbnY3a3dtOG5ZeGtwS3VHZXhDLVY4S09FVkdIOHA4ajZEcTdsUjA1UFN2aElVV0x5MdIBeEFVX3lxTE9oQUVKVnpYOWowNGJpV2w0U0RCUTRCazJ1M05jbkhJaWNUdS01ZldJQWdNVERaYmoyTi0tbzBWVXJTYUpDa3Nnc3dObkFPbHpXY0tvb2tsN1dZUDlZRFBWdkpiUWhiQ1BDNXdDc0VtNm91UkV5ellnWA?oc=5",
       "summary": "[단독]연세대 총학생회장 선거 또 무산…\"입후보 등록 없어\" 뉴시스",
@@ -5237,6 +5261,18 @@
       "id": "629e2a461bc28ff02eb9",
       "category": "기타",
       "collected_at": "2026-08-01T17:27:38.659824+00:00"
+    },
+    {
+      "title": "조규일 진주시장, 관내 4개 대학 총학생회와 청년 정책 소통 간담회 개최 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCbDk0RGstUEEyNHBhYlBGSUNCNl9VTkNIcHFHeEQ3eHpQdlpIQ19XRTNlSE03STUtdHh5T3FyZjctOUlQYy16andxelQyWXBVQTFtWTNyMDVjTlo0VGtnS2QyN0xrbzViT1BtUUU4ZC0?oc=5",
+      "summary": "조규일 진주시장, 관내 4개 대학 총학생회와 청년 정책 소통 간담회 개최 > 뉴스 더코리아",
+      "source": "더코리아",
+      "published_at": "2026-02-06T08:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "42f0ba62eda09552435a",
+      "category": "기타",
+      "collected_at": "2026-08-12T01:20:18.586953+00:00"
     },
     {
       "title": "주요 20개大 총학 \"비민주적 등록금 인상…제도 개선해야\" - 연합뉴스",
@@ -6478,6 +6514,18 @@
       "collected_at": "2026-08-01T17:27:22.099727+00:00"
     },
     {
+      "title": "대학 총학생회, 역할과 위상의 변곡점 - unipress.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pSEd1TmxmMzFIdHM5X0JrU0RzdDZOSk9BUHdiQVplV3dxQkgyVERnaU4tM3pOZ2EtQkFHdGhzamg0TmYwT1lsMnZ1MkFoNFA1STBzZ3J4YlUwN3FfUkhVZ01ETVozRWc?oc=5",
+      "summary": "대학 총학생회, 역할과 위상의 변곡점 unipress.co.kr",
+      "source": "unipress.co.kr",
+      "published_at": "2025-10-19T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "70696892ebe9508135bd",
+      "category": "기타",
+      "collected_at": "2026-08-12T01:20:12.264649+00:00"
+    },
+    {
       "title": "[축제트렌드2025③] 상업화와 학생 자치의 변화 - 케이트렌디뉴스",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CcDFXa2p2TlNlSXBMQzlRdFpoZk01b2dEcm1QTEpxdm15MjVMMlNUUkpaRTFwQkUyZXZrUFN0SjdHazhSdF9nYlBQS0l0UmJkUmJQVDVYMXF1SFV0RUp2QVBSenFSdmpGSUE1LXU5QQ?oc=5",
       "summary": "[축제트렌드2025③] 상업화와 학생 자치의 변화 케이트렌디뉴스",
@@ -6626,6 +6674,18 @@
       "id": "01744c03c68038838043",
       "category": "의결·자치",
       "collected_at": "2026-08-01T17:27:22.099868+00:00"
+    },
+    {
+      "title": "“오늘, 인생을 건 베팅이 시작됐다” 전주대, 2025 학생자치기구 연합축제 성황리 종료 - edujb.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zcENFU21Rc0pFcjFyNzBONC1nYmpidVlQX0tNMF9mMUk4cVQ3cXBvLWlGVmgzeXV1OWdVUUVKODJaYUFEM0phalBnNkg2NHJMa2w1MEFMVmQyRHBjc3BB?oc=5",
+      "summary": "“오늘, 인생을 건 베팅이 시작됐다” 전주대, 2025 학생자치기구 연합축제 성황리 종료 edujb.com",
+      "source": "edujb.com",
+      "published_at": "2025-09-12T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "85cd6ccef05106b999ac",
+      "category": "의결·자치",
+      "collected_at": "2026-08-12T01:20:12.265437+00:00"
     },
     {
       "title": "총학생회 둘러싼 리더십 장학금 논란… 학생사회 ‘절차 무시’ 반발 거세져 - 서울시립대신문",
