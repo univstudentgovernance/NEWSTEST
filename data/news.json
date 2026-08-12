@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T10:20:37.475853+09:00",
-  "item_count": 580,
+  "updated_at": "2026-08-12T21:54:51.170044+09:00",
+  "item_count": 587,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -87,6 +87,18 @@
       "id": "cb5978b9af5fba1f5764",
       "category": "기타",
       "collected_at": "2026-08-11T12:49:16.651324+00:00"
+    },
+    {
+      "title": "동대문구-3개 대학 총학생회, 청년정책 공동 추진…대학생 제안 정책 반영 나선다 - newstnt.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wWG9ZSlRiUjBSRDRiSE1ZcENmbnZYSUhfVkI5Sk9jZkt3X1J0MG5mdk1SMF81dXhMRnVxRjcza2tvRWZUU21KbVRzUlRuekpfSGI0SXROWHd2Sk9PU1QzMC1IYVA5Z1dYZ0E?oc=5",
+      "summary": "동대문구-3개 대학 총학생회, 청년정책 공동 추진…대학생 제안 정책 반영 나선다 newstnt.com",
+      "source": "newstnt.com",
+      "published_at": "2026-08-11T03:23:46+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f8aa468733bd7e3a7c64",
+      "category": "기타",
+      "collected_at": "2026-08-12T12:54:23.113178+00:00"
     },
     {
       "title": "경남 진주지역 4개 대학 총학생회 “발전공기업 통합본사 경남 유치해야” - 뉴스21 통신",
@@ -255,6 +267,18 @@
       "id": "e1f422b19cdb0ca0dc1e",
       "category": "기타",
       "collected_at": "2026-08-11T01:12:12.168369+00:00"
+    },
+    {
+      "title": "대구시, 청년특보에 영남대 총학생회장 출신 박성민씨 임명 - biz.heraldcorp.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QUkdWNzA1Z1BFNk9YeTZPV1p5MWlZT0phNFJkb0FaU1Z5STB1VEZkVUZPUHVnbTF1WktfWDNsN1BIMHp0b05CeWxvVTBlSEdMVTgyckN3?oc=5",
+      "summary": "대구시, 청년특보에 영남대 총학생회장 출신 박성민씨 임명 biz.heraldcorp.com",
+      "source": "biz.heraldcorp.com",
+      "published_at": "2026-08-10T20:39:18+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d1a6939375f87964269e",
+      "category": "기타",
+      "collected_at": "2026-08-12T12:54:23.112923+00:00"
     },
     {
       "title": "진주시 소재 대학교 총학생회, 발전공기업 통합 본사 진주 유치 촉구 기자회견 개최 > 뉴스 - 더코리아",
@@ -2622,6 +2646,18 @@
       "collected_at": "2026-08-11T01:12:15.272129+00:00"
     },
     {
+      "title": "전국 16개 대학 총학생회, 투표용지 부족 사태 규탄 시국선언 발표 - m-economynews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QSG5nUlVRZzE5d2RzTkZJMUQ5eW1reThuUjNNSlF6azhuNVhNUVJwYVZORmh1MmVHcVRwVnZqcDdUVGdIUDlHekVqYnNiTmNqVFdQbzZreDNmSWNNM1NiOU5aNktYX0k?oc=5",
+      "summary": "전국 16개 대학 총학생회, 투표용지 부족 사태 규탄 시국선언 발표 m-economynews.com",
+      "source": "m-economynews.com",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "530553803d0cddc9d00d",
+      "category": "기타",
+      "collected_at": "2026-08-12T12:54:26.433133+00:00"
+    },
+    {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14QXZkc01Ub0VPSjBuZjNwMkJoOUhhRllkbFpGVFhvYWVKYmVzcnNyWjN1NHNQVW5HZmJNckNPanZ3NFJPT1ZxdTNJa2Z6X1BXVl82U0wxZ2ZuSXI1eGRtTFVyYVZqWExQ?oc=5",
       "summary": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 안동MBC",
@@ -4336,6 +4372,18 @@
       "collected_at": "2026-08-08T04:17:39.750829+00:00"
     },
     {
+      "title": "루트 총학, “소통 우선하는 총학생회 될 것” 낮은 관심 확인한 선거… “일상 속 참여 넓힐 것” - media.khu.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZd0JKTTBlNm0tbU95WU1zLU02QXdfc0FIM2l2UjY1Zkl4MVBmT2RsYlVrZjJTWXZhRjZNVHpxYlZzVHNETWp0bDI4WkJVWG9rbTV0OHEzMEpPUGJ4RjQ2MjhlSG1CeEhlOVJpQ2Uzc05ObUMxTkE?oc=5",
+      "summary": "루트 총학, “소통 우선하는 총학생회 될 것” 낮은 관심 확인한 선거… “일상 속 참여 넓힐 것” media.khu.ac.kr",
+      "source": "media.khu.ac.kr",
+      "published_at": "2026-04-11T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "7ddf3d277162b55320c3",
+      "category": "선거·조직",
+      "collected_at": "2026-08-12T12:54:26.434095+00:00"
+    },
+    {
       "title": "경남대 제58대 총학생회 ‘하나’ 출범…참여형 공약으로 캠퍼스 활성화 - 쿠키뉴스",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96QzhzbkcyeTJCVmtleUhWdHkxNkpWeU9XcHVqNzJFLVdHcDZrLTVMVDM5N244QVF0ek9rTEw0eE9xNEpDWFhISDhzQkJubEs1cGdGS2ZYWGdmZWMwVXNlVDFZNA?oc=5",
       "summary": "경남대 제58대 총학생회 ‘하나’ 출범…참여형 공약으로 캠퍼스 활성화 쿠키뉴스",
@@ -4728,6 +4776,18 @@
       "id": "9670e8c8bede002e8468",
       "category": "의결·자치",
       "collected_at": "2026-08-12T01:20:12.264834+00:00"
+    },
+    {
+      "title": "영남이공대, 학생자치기구 대상 ‘학생 의견수렴 설명회’ 개최 - 교수신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41azM3Y0ZzSW4wM2R1YUlGWnA5a0NmTGowWmdTNmNfYWpzdDI3UWt0ZGlxRGlNd1dWYl9aWWd2bUliS1lMU0J5SmZHcTRmYWNBcnMwSG41Q3FMcFoweGg1X25rTVRCeGs?oc=5",
+      "summary": "영남이공대, 학생자치기구 대상 ‘학생 의견수렴 설명회’ 개최 교수신문",
+      "source": "교수신문",
+      "published_at": "2026-04-02T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "6406db58e442b011daf5",
+      "category": "의결·자치",
+      "collected_at": "2026-08-12T12:54:24.814422+00:00"
     },
     {
       "title": "[단독]연세대 총학생회장 선거 또 무산…\"입후보 등록 없어\" - 뉴시스",
@@ -5674,6 +5734,18 @@
       "id": "4ed3cf36b09b30668c61",
       "category": "등록금·교육",
       "collected_at": "2026-08-11T01:12:16.784181+00:00"
+    },
+    {
+      "title": "주요 사립대 2년 연속 등록금 인상 추진에 '2026 등록금 인상 대응 전국 대학 총학생회 공동행동' 발족 기자회견에서 쏟아진 말 - hankookilbo.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wZDQ0R1A3OWtTbHBvUDhOVDhOUXJKUjJDVG5QSEtZNDMydTY2YTZJdTFJZTlySHFqOTRKNktvdXFoM0gwNURNRGtoVVR5Y0htSlBJQU9CaXJTdy1PRnRXZUhNMlRyZzlhWVFlTFdwWQ?oc=5",
+      "summary": "주요 사립대 2년 연속 등록금 인상 추진에 '2026 등록금 인상 대응 전국 대학 총학생회 공동행동' 발족 기자회견에서 쏟아진 말 hankookilbo.com",
+      "source": "hankookilbo.com",
+      "published_at": "2026-01-20T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "03a3c550d2df14e38818",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-12T12:54:28.053347+00:00"
     },
     {
       "title": "5% 올리고 3% 또?...한국외대 총학생회 \"학교는 등록금 갑질 인상 멈춰라\" - 더에듀",
@@ -6652,6 +6724,18 @@
       "id": "30f4a76e651f5a6f45fb",
       "category": "의결·자치",
       "collected_at": "2026-08-11T12:49:18.174971+00:00"
+    },
+    {
+      "title": "학생자치 60주년, 통일공대의 역사와 미래를 잇다 - 중대신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOOFNMSDZISWRqZlJaMVdJcVR4YTJNUTJUUzZSaGNUc2EzZEp1dFN1V2o1eDl5bUthTWtYSW9FS0FVQUVFTXFGTlFmQVRqREFueVFjcEltZllXckZVY3Y0NzJMaXBjMUHSAWtBVV95cUxPUDNNUXVWYXIwcTVIQndlZm45UEZaWm9kQnltbHFzbkJwck95TzFiY1dQUy1heTlZRncyeW9ZdUNRS3I5RzZ3dUdmV1B3WHc2Y2t5UzVPd1AtN3JHX3gteURhcWIzbzN1UUtiZw?oc=5",
+      "summary": "학생자치 60주년, 통일공대의 역사와 미래를 잇다 중대신문",
+      "source": "중대신문",
+      "published_at": "2025-09-14T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "1aa693cd90860d5adfc5",
+      "category": "의결·자치",
+      "collected_at": "2026-08-12T12:54:24.815103+00:00"
     },
     {
       "title": "“오늘, 인생을 건 베팅이 시작됐다” 전주대, 2025 학생자치기구 연합축제 성황리 종료 - 전북미래교육신문",
