@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-08-13T10:22:13.643796+09:00",
-  "item_count": 591,
+  "updated_at": "2026-08-13T21:55:53.059212+09:00",
+  "item_count": 601,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "대구교대 총학생회, 예비 교원의 땀방울로 농촌에 생기 불어넣어 - 시사뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oeERCTlVmTUJfeG40LUFCVU5UdlVmWWZHSzlTZVZJN2d6SG9ZbTZjYUxQWHY0Zmgwb0Y2ZXIyeEdJcmFuejEzeVR2d1NmNnNGbkRfa3ZFZlhRWlNEVmQ1QmhBSQ?oc=5",
+      "summary": "대구교대 총학생회, 예비 교원의 땀방울로 농촌에 생기 불어넣어 시사뉴스",
+      "source": "시사뉴스",
+      "published_at": "2026-08-13T11:57:50+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d0285729e409d76f36fd",
+      "category": "기타",
+      "collected_at": "2026-08-13T12:55:23.278773+00:00"
+    },
+    {
+      "title": "쉬는 시간 풍경 바뀐다…2학기부터 ‘폰 프리’ 시범학교 운영",
+      "url": "https://www.donga.com/news/Society/article/all/20260813/134473325/1",
+      "summary": "올해 1학기부터 학교 수업 도중 휴대전화 사용이 법적으로 금지된 데 이어 2학기부터는 쉬는 시간에도 사용을 제한하는 ‘스마트폰 없는 학교’가 확대된다. 교육부와 주요 시도 교육청이 ‘폰 프리 스쿨’ 시범사업에 잇달아 나섰기 때문이다. 학생들의 과도한 스마트폰 의존과 사이버 학교 폭력 등을 막으려는 취지다.13일 교육계에 따르면 경기도교육청은 연말까지 사실상 스마트폰 사용을 전면 금지하는 ‘폰 프리 스쿨’ 300곳을 지정한다. 교육 활동과 관련 없는 휴대전화 사용을 제한하고 독서, 예술문화, 스포츠 활동을 늘릴 방침이다. 강원도교육청은 올해 초중고 10곳과 유치원 3곳을 선정해 ‘스마트폰 청정학교’를 시범 운영하고 2029년까지 150곳으로 확대하기로 했다. 또 내년에는 인터넷 기능을 차단한 ‘청정폰’ 1만 대를 지급할 계획이다. 대구시교육청과 전북도교육청도 다음 달부터 비슷한 시범사업을 추진한다. 각 시도교육청은 학교가 일률적으로 스마트폰을 걷는 것보다 학생자치회를 중심으로 이",
+      "source": "동아일보",
+      "published_at": "2026-08-13T10:17:00+00:00",
+      "matched_query": "",
+      "feed": "동아일보",
+      "id": "da22779e0946fc0d3332",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-13T12:55:48.831882+00:00"
+    },
     {
       "title": "동대문구 3개 대학 총학생회와 청년정책 '현장 소통' 강화 - 서울동북신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95WEdNdTNIZzc2cS1KUkY2aTN6UmdWUTJreTc0TFVhdkl2YnVjRnJZYUE2OS1OU2ltWkN4ZnpLdGxPQTNQV2hNX2k1N0RqSDBhUkxreklzS3FENEY1QS01MHV5ejdRUThWeHB5Mw?oc=5",
@@ -15,6 +39,18 @@
       "id": "509b7643f1f2248c03e9",
       "category": "기타",
       "collected_at": "2026-08-12T01:20:10.747078+00:00"
+    },
+    {
+      "title": "동대문구 3개 대학 총학생회와 청년정책 '현장 소통' 강화 - dongbuknews.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95WEdNdTNIZzc2cS1KUkY2aTN6UmdWUTJreTc0TFVhdkl2YnVjRnJZYUE2OS1OU2ltWkN4ZnpLdGxPQTNQV2hNX2k1N0RqSDBhUkxreklzS3FENEY1QS01MHV5ejdRUThWeHB5Mw?oc=5",
+      "summary": "동대문구 3개 대학 총학생회와 청년정책 '현장 소통' 강화 dongbuknews.com",
+      "source": "dongbuknews.com",
+      "published_at": "2026-08-11T13:54:56+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "66752224ae9357d38857",
+      "category": "기타",
+      "collected_at": "2026-08-13T12:55:23.278872+00:00"
     },
     {
       "title": "동대문구, 3개 대학 총학생회와 협약...청년정책·지역공헌 추진 - 한강타임즈",
@@ -603,6 +639,18 @@
       "id": "ded0eefa5005cc345a8b",
       "category": "기타",
       "collected_at": "2026-08-10T12:53:47.532960+00:00"
+    },
+    {
+      "title": "경남 4개 대학 총학생회 '발전공기업 통합본사 경남으로' - daily.hankooki.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyTzdMMXZnMmZKanpELXM4SmFTdEpJdV9ObnlKZVAzcWhIdk9udzIzc1UwcjdBald2aGxRSHJGRTdTQW9jYmFvMjNXNlVOX2tKNW9LQ25SVHdGM0gweHRGSzNmdlBUT1YxVEF0WjhRWdIBc0FVX3lxTE5xLXJ1dTA1X2sxWm1HNV9Yc1ZSeTJqOEMzaVlYODIxRVAzODJOZjVqWXZsVHkzck1aV0hOU2k5dDdxdE9oVWotanZSNEVORzQzVldMNGRjZjZPaWJIb3M4OFd6RE1OdnVjbTZXMUg5YWdJQm8?oc=5",
+      "summary": "경남 4개 대학 총학생회 '발전공기업 통합본사 경남으로' daily.hankooki.com",
+      "source": "daily.hankooki.com",
+      "published_at": "2026-08-10T05:11:42+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8ff6f046e57885c475e1",
+      "category": "기타",
+      "collected_at": "2026-08-13T12:55:23.279578+00:00"
     },
     {
       "title": "경상국립대 등 진주 4개 대학 총학생회, 발전공기업 통합본사 진주 유치 촉구 - 국제신문",
@@ -1995,6 +2043,18 @@
       "collected_at": "2026-08-07T05:53:19.346950+00:00"
     },
     {
+      "title": "전국 18개大 총학, 선관위 항의 방문…“독립성엔 책임 따라” - joongang.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VZ0NLeGQzZjN5RkxlRVotajYwMFNJTGdMWF9YbE1rVnBueXJRQnd5dG12RUl6bEtHang3NjZBRjlDeHVfQ0pqMFItX2ZTcUVoeVF2UVRB?oc=5",
+      "summary": "전국 18개大 총학, 선관위 항의 방문…“독립성엔 책임 따라” joongang.co.kr",
+      "source": "joongang.co.kr",
+      "published_at": "2026-06-17T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "c1f0e71ab4874c9bf94a",
+      "category": "기타",
+      "collected_at": "2026-08-13T12:55:26.430659+00:00"
+    },
+    {
       "title": "“청년으로서 참정권 수호할 것” 서울권 대학 총학생회 ‘투표용지 부족 사태’ 규탄해 - 대학알리",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzczJBTkZnYmpMVlNvZEkzcDZ6dFI0bFJBaVotNjFRZFpUNWFnaS03UHlXQ1RoLWJkWHpZeE1FbWRYd0JjUDhGZ3FiSDJUYUpRTy1lcHAtSmJ3S2c?oc=5",
       "summary": "“청년으로서 참정권 수호할 것” 서울권 대학 총학생회 ‘투표용지 부족 사태’ 규탄해 대학알리",
@@ -2704,6 +2764,18 @@
       "id": "530553803d0cddc9d00d",
       "category": "기타",
       "collected_at": "2026-08-12T12:54:26.433133+00:00"
+    },
+    {
+      "title": "전국 대학 총학생회, 투표용지 부족 사태 규탄 시국선언 - newsjinju.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6X1dIMVJ0UG1xSXBaWldKWkJwRFVjUXYwUlZDWWlNczlyVWE1ZUM4MU1nQlFKR3l4U2wyV0JvSlpHRXkxdktJOG8xck5tOFRQVlpYbENYN0FYZjRuWk14WkRQaHBrMHlm0gFsQVVfeXFMTlZ6Vk9JenN0MlhjQzRnM3J4QXpEZENTREVkMm04NzJYTUpIMEJBUFNUOENHQUN2MUNpaVFVN3BpOUN3bFI4dzZzVlhTR2wzRllxc1A2aUtrZXV6NE0tWkN6ZDlHMGJXN3ZURTBW?oc=5",
+      "summary": "전국 대학 총학생회, 투표용지 부족 사태 규탄 시국선언 newsjinju.kr",
+      "source": "newsjinju.kr",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "f879c9ffc2d0c82b043e",
+      "category": "기타",
+      "collected_at": "2026-08-13T12:55:26.430836+00:00"
     },
     {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
@@ -3445,6 +3517,18 @@
       "collected_at": "2026-08-08T04:17:35.046638+00:00"
     },
     {
+      "title": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 - joongang.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1M2UtYVRVeTdZZ2dhMzVxaEdiRk9LMVN3Rk56WVA4b1VxZFJkcVllaXo5TGFneTh6N09ZS1FYR19sNXF2ZlVaMkdoeGY1b3AzamliaHFR?oc=5",
+      "summary": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 joongang.co.kr",
+      "source": "joongang.co.kr",
+      "published_at": "2026-06-08T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ca5f5a4e40ae8df54d8a",
+      "category": "기타",
+      "collected_at": "2026-08-13T12:55:23.280876+00:00"
+    },
+    {
       "title": "[보도] - 문과대학 학생회비 감사 결과, 투명한 학생회비 운용은 어디에? > VOU뉴스 - 경희대학교 미디어센터",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SbkprZGtjWU9OdXNveVYwX0FhN3J1VmpIVUxDOXdmMlNwSlEtOE5pSF9wdjlkakV2QkdBSnZ2WkZqR09aX2xLSmoxekx5UEF4Rkhtd2dVVDZPd2hxaTY5d0ZpZlFtYzg5RURKRC1VWTB3ckE?oc=5",
       "summary": "[보도] - 문과대학 학생회비 감사 결과, 투명한 학생회비 운용은 어디에? > VOU뉴스 경희대학교 미디어센터",
@@ -3660,6 +3744,18 @@
       "id": "94111b9d4d142de1409a",
       "category": "기타",
       "collected_at": "2026-08-08T14:05:37.475744+00:00"
+    },
+    {
+      "title": "“민주주의가 멈췄다”…대학 총학생회 ‘투표용지 부족’ 규탄 성명 확산 - joongang.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zUWhZTTJtLTJkOTVrYmdXempTREtSb1dFdHdRakN6WU9FbVk2WEh0RTdoWkFtQjhZbzJrRWdyb3hqM0lUTUhPT1d1SWI4cGxCMVVaOTBB?oc=5",
+      "summary": "“민주주의가 멈췄다”…대학 총학생회 ‘투표용지 부족’ 규탄 성명 확산 joongang.co.kr",
+      "source": "joongang.co.kr",
+      "published_at": "2026-06-05T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4a5e4a0f9ebb49ecb4a5",
+      "category": "인권·갈등",
+      "collected_at": "2026-08-13T12:55:23.280626+00:00"
     },
     {
       "title": "[뉴스] 응통과 전 학생회장, 학생회비 700만 원 가량 사적 운용…변제 '진행 중' - 경희대학교 미디어센터",
@@ -5162,6 +5258,18 @@
       "collected_at": "2026-08-04T18:13:20.971321+00:00"
     },
     {
+      "title": "국립한밭대, 2026학년도 학생자치기구 출범식 성료 - daily.hankooki.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCRnl1cDBxQWhkdVNjemFsN19WelR6YXZjUGx1MVlXYXhucjJjZ1p5cndxaXgwVGhFSjhXNE5OWFBfSXlnQmp0bHB2UzduSUJua1NHS1loQnhHb0pYVXpSeXhEUmRiZjY0amFULTgtONIBc0FVX3lxTE93YVRWZXp2cExBQ3ExZW1iTnlyTWlzdVM3SDU0TmRGSXlSYXVpRW01WFktTzVyOUhkQW96WkZxMGlwU241VllZNldiRkhZX2hwckJVVUNJLUF1WVFGRzR2ai1HMU5UYWlyTU9kSExqTXBuREk?oc=5",
+      "summary": "국립한밭대, 2026학년도 학생자치기구 출범식 성료 daily.hankooki.com",
+      "source": "daily.hankooki.com",
+      "published_at": "2026-03-12T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "442feaf83c1ef01bd521",
+      "category": "의결·자치",
+      "collected_at": "2026-08-13T12:55:24.844507+00:00"
+    },
+    {
       "title": "휘청이는 학생자치…새학기 불구 대학 곳곳서 '총학생회 공백' 뚜렷 - 대전일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qclR1VW16clFnQldpbENFS2pvWE5HWHo3UndHUXh0NHZMR3Yta190bk5HdlJnSU5BZ2lPNks0V1JDZHMyeW9Gamt2S2F5dUd5cnA5amJMTG0xb3VCQVl1bzdGVkd0ME9mM2NFM1FUa9IBc0FVX3lxTE9ScU5DMkYyMUZNamZwTXlMYVplcXEwblc5SUNIRmc2N21zUlJCT1VndVhLbDgxX0c0bnNJS1hTVjUyVFhpS1Q2akN6S3BIaTY1SzkwNUFLQmo0MzVWZ1hGWjRTX0ZxMkwtQ1BrazRNR3huNkk?oc=5",
       "summary": "휘청이는 학생자치…새학기 불구 대학 곳곳서 '총학생회 공백' 뚜렷 대전일보",
@@ -5910,6 +6018,18 @@
       "id": "e040d55dee249bb45994",
       "category": "등록금·교육",
       "collected_at": "2026-08-01T17:27:30.595883+00:00"
+    },
+    {
+      "title": "등록금 3% 인상에 외대 총학 “갑질 인상 반대”…학생 반발 확산 - joongang.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NNlRoa0JQN1hnR3NFSWVkQnlhWjlUdkluMzVjcmcwWmZCMndhSXZfREpObmdGbDZkY0tpNWtCTEVNY2RyZU9acS0xdWZaZ3A4cGRhVC1n?oc=5",
+      "summary": "등록금 3% 인상에 외대 총학 “갑질 인상 반대”…학생 반발 확산 joongang.co.kr",
+      "source": "joongang.co.kr",
+      "published_at": "2026-01-18T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "651208ede87323a247c1",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-13T12:55:27.955596+00:00"
     },
     {
       "title": "[속보] 중운위 \"예산안 심의 전 등록금 책정 우선돼야\" - 이대학보",
