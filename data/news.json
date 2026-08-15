@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T21:52:03.332104+09:00",
-  "item_count": 621,
+  "updated_at": "2026-08-15T09:52:40.778487+09:00",
+  "item_count": 627,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -27,6 +27,18 @@
       "id": "49433fdd7990efd8fea5",
       "category": "복지·문화",
       "collected_at": "2026-08-14T12:51:29.219414+00:00"
+    },
+    {
+      "title": "부산경상대 총학생회, ‘제30회 부산바다축제’ 청춘포차 참가 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FUlFDc3djV1l0UjV6VFBBLU5ldS1EOUJ1OHY5blZCNEhkZjhMaml4Nl9lbmR4ckpQN0ROY25FQXZZQkVRY0JaQzYza2p3M0RJek5YeHY5WnlzTlRwR3hxSkt2MzEyb3UyQ0RtQlRRQWVHQUJP?oc=5",
+      "summary": "부산경상대 총학생회, ‘제30회 부산바다축제’ 청춘포차 참가 부산일보",
+      "source": "부산일보",
+      "published_at": "2026-08-14T06:52:09+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d8426f653eb238c7a5fc",
+      "category": "복지·문화",
+      "collected_at": "2026-08-15T00:52:12.061895+00:00"
     },
     {
       "title": "대구교대 총학생회 영덕 농촌봉사 - 한스경제",
@@ -1692,6 +1704,18 @@
       "collected_at": "2026-08-14T01:21:13.651287+00:00"
     },
     {
+      "title": "순천대 총학생회, \"국립의대 설립, 국가 원칙으로 결정돼야\" - LG헬로비전",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wRDNUcW1sMVAxMERIQzNva0hqclVWWW82WTcxWFZ2UVhEQ0VHTXZiTEVqUjNCX3Ztd3o2a0dVNUJ6MUJtYnIxaXZvajBDQzVDRFRDWFF5dTJOSnRoRmd0Rmc1ekVYYzZoeVpRYmVzTVFmZw?oc=5",
+      "summary": "순천대 총학생회, \"국립의대 설립, 국가 원칙으로 결정돼야\" LG헬로비전",
+      "source": "LG헬로비전",
+      "published_at": "2026-07-20T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "87ff8e4b13b9ea9051b1",
+      "category": "기타",
+      "collected_at": "2026-08-15T00:52:12.063023+00:00"
+    },
+    {
       "title": "부산경상대 총학생회, 몽골 글로벌 서비스러닝 프로그램 참가 - 부산일보",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcElnR3kzUmh5clBUNXpUanNVZEJ0RTZPODIzY2lBdHJEZnhaTG1hS2RlTXBpdExGVENKNXBHOGxfYzRqbTNzdC1pWGJHTG04OFRtVENwTUdEeU1ILW1mcVB6eTJ5amNXaDVodERvUVhqQW41VmFSS25uM1lEdGd5akZuNnNLdw?oc=5",
       "summary": "부산경상대 총학생회, 몽골 글로벌 서비스러닝 프로그램 참가 부산일보",
@@ -2934,6 +2958,30 @@
       "collected_at": "2026-08-14T12:51:32.726259+00:00"
     },
     {
+      "title": "\"주권자의 한 표가 멈춰 섰다\"…18개大 총학, '투표용지 부족' 규탄 시국선언 - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvWUlBNzFoRkZRZHZSTXhDaXZYaHR0M0lmbm1fcWk3WF9KYWZkUG1pVTc2Zk12b1RrWHRlYnJwaGNHV3hkYnBmdG5JVmw2R21yalRDWXRub2dJY3lSaDgzUg?oc=5",
+      "summary": "\"주권자의 한 표가 멈춰 섰다\"…18개大 총학, '투표용지 부족' 규탄 시국선언 아시아경제",
+      "source": "아시아경제",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "22ed501ac9dfa6eb92d9",
+      "category": "기타",
+      "collected_at": "2026-08-15T00:52:12.064058+00:00"
+    },
+    {
+      "title": "대학교 총학생회들, 6·3 지방선거 투표용지 부족 사태 규탄 시국선언 - ppss.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FN29rSjN0WlcxOTI2REdoY3VTMUpYR3BBZlB5d3BQRG1rZUFfNF8wNVJrWVd0SXFlVUNPUjB4LUdnbm1CVjRrVldjdWxuQlhoY0piLUxNbUNzMjhSeFlaSDRVWmk?oc=5",
+      "summary": "대학교 총학생회들, 6·3 지방선거 투표용지 부족 사태 규탄 시국선언 ppss.kr",
+      "source": "ppss.kr",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "86779e40e1a9e5288ceb",
+      "category": "선거·조직",
+      "collected_at": "2026-08-15T00:52:15.349250+00:00"
+    },
+    {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14QXZkc01Ub0VPSjBuZjNwMkJoOUhhRllkbFpGVFhvYWVKYmVzcnNyWjN1NHNQVW5HZmJNckNPanZ3NFJPT1ZxdTNJa2Z6X1BXVl82U0wxZ2ZuSXI1eGRtTFVyYVZqWExQ?oc=5",
       "summary": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 안동MBC",
@@ -3603,6 +3651,18 @@
       "id": "7a533ffc6d1fc3eb6110",
       "category": "기타",
       "collected_at": "2026-08-14T12:51:32.726665+00:00"
+    },
+    {
+      "title": "'투표용지 부족 사태' 대학가 규탄 확산…12곳 총학 내일 시국선언 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nTmEybFJfT1o5Ujc5WTRJcVoxNjVpZ1Z3eHl6NjZoeU1UVEJWRzZaMEl2VU1LaUhvLWV6b1d5Y1ZheV9qT09XYnJ1X05FRjRRVVRxUXROdzRHanhOOHZYRdIBeEFVX3lxTFBpQ2pDQXdTcENrNjRhMHlDN3p3eWNiZ0ZBbGxmbVhvQkFuWTNxMjhCeVlXWEc1MlQ3MjduUXBsLWhmWnRkTVNnby1ORzVBc1FSMk9NdFVxcm9ReWZLc21aOTJvRWRiaWhFUXlCaXJ2RGhSMjlNUjNLNQ?oc=5",
+      "summary": "'투표용지 부족 사태' 대학가 규탄 확산…12곳 총학 내일 시국선언 뉴시스",
+      "source": "뉴시스",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "f8b8985aff78080ea27f",
+      "category": "기타",
+      "collected_at": "2026-08-15T00:52:15.349049+00:00"
     },
     {
       "title": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 - 중앙일보",
@@ -5842,6 +5902,18 @@
       "id": "4f1d088dfa81ad8895bc",
       "category": "등록금·교육",
       "collected_at": "2026-08-14T01:21:18.783486+00:00"
+    },
+    {
+      "title": "등록금 인상에 학생들 거리로⋯전국 총학생회 “등심위 파행적 운영” - etoday.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51VFo2b1B6N0c3SmJDVXZpNHBCRndQeE5PUTl3SF9vbkxrQWtGMERTbHJTekNLSVhpWGpfWll1Y2dISnE1MUtLMFA5UjBsMUlfb1VJdw?oc=5",
+      "summary": "등록금 인상에 학생들 거리로⋯전국 총학생회 “등심위 파행적 운영” etoday.co.kr",
+      "source": "etoday.co.kr",
+      "published_at": "2026-02-02T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "265e3c6af64102345380",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-15T00:52:16.935166+00:00"
     },
     {
       "title": "사립대 등록금 인상이 ‘뉴 노멀’… ‘깜깜이 등심위’ 개선 과제로 - 국민일보",
