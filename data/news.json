@@ -1,13 +1,8 @@
 {
-  "updated_at": "2026-08-16T09:55:54.105582+09:00",
-  "item_count": 638,
+  "updated_at": "2026-08-16T21:26:28.106760+09:00",
+  "item_count": 642,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
-    {
-      "source": "SBS 뉴스",
-      "error": "HTTPError: HTTP Error 403: Forbidden"
-    }
-  ],
+  "failures": [],
   "items": [
     {
       "title": "서울신대총학생회·기성 경기동지방회, 청소년 위한 ‘2026 복음의단비’ 개최 - christiandaily.co.kr",
@@ -428,6 +423,18 @@
       "id": "8a61f876627805cba822",
       "category": "기타",
       "collected_at": "2026-08-11T01:12:12.168141+00:00"
+    },
+    {
+      "title": "서울 동대문구, 3개 대학 총학생회와 청년정책 협약 체결 - dailian.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNUVFSWtsdDUyeWRlVEo4TnFqdGNjYVJQUmJ0dGNPUy12czllODFfN2V4Tkt6QkVVTjg4aVczZ19KSXVNNUdtM0FlNW4xUHkzTlZzVzlhWjM3ZVpsX3dCS2xDcnM0MWRKT3NsUGl1b0Q4NVVTUTR5VDliODdmbnhBQWJhUHFzYlhNTi1iQXpDX1VPTG16emVUYW0ycHU3UktFaTV3eFhEQXNMRU5NOXRTR0hPX3FaOVpkc2pIOTN2SlZIYV9ySmpGbVZnTndyS1JWT2pmcXZLQTczWlJwT3Bya2xFcHJuc2NmdWhFcVJsNTlfN0xyc1FYYnowOVJYVmVtZEtiQkYyWVA0X2lWT2c?oc=5",
+      "summary": "서울 동대문구, 3개 대학 총학생회와 청년정책 협약 체결 dailian.co.kr",
+      "source": "dailian.co.kr",
+      "published_at": "2026-08-10T21:12:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "375b610668fc9670cfba",
+      "category": "기타",
+      "collected_at": "2026-08-16T12:25:59.004063+00:00"
     },
     {
       "title": "대구시, 청년특보에 영남대 총학생회장 출신 박성민씨 임명 - 헤럴드경제",
@@ -6595,6 +6602,18 @@
       "collected_at": "2026-08-03T12:39:46.867501+00:00"
     },
     {
+      "title": "[단독]“등록금 인상 협력을”…사립대총장협, 총학단체 만난다 - donga.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92dzlLRVRaNWpvTkp0cFR4WXFCQ09fbXdtaVpPR004U3Z2cHhYQU1wSDdEV01EOXE3clktcHVoMTNRcUtuQkMwVEJzRzYzYmRNRmF2cnNrZFdPc1c3Y1MzX2FIbDFOQlVrUm1BMHR2T3NDd3ZxcFHSAWZBVV95cUxOTVdJY2Z4RWhLUjFoUXoyb29WSlZGUW5xU1NaUE5vTFRLekhBdllYMzBRandRVnlOSjcxb0FHR2hBZVMwRjZMb0R2Mk9fQkl1cC1sZThkcU1ldDc2WEpMMzRNRnRZaGc?oc=5",
+      "summary": "[단독]“등록금 인상 협력을”…사립대총장협, 총학단체 만난다 donga.com",
+      "source": "donga.com",
+      "published_at": "2026-01-13T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "7d4f57953aaed0ade357",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-16T12:26:04.093889+00:00"
+    },
+    {
       "title": "부산외대, 학생자치기구와 ‘학생 행복’ 정책 간담회 성료 - 부산일보",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55bEQzTXA3VXNaZHdtamt4R3BpWEROaUtBTXhFSEF1bUF4czAzSnZSODJlQktEanowTEF5WkV1YzBTUE02dWRhSHhCa25nSWIzdEpsbmtqOWtfNF9jdzZfMjQzbXZKV2s5WUlJRTVSM2VNSmF0?oc=5",
       "summary": "부산외대, 학생자치기구와 ‘학생 행복’ 정책 간담회 성료 부산일보",
@@ -6674,6 +6693,18 @@
       "id": "721268c3af65cb083dd7",
       "category": "등록금·교육",
       "collected_at": "2026-08-04T10:15:15.887539+00:00"
+    },
+    {
+      "title": "2026학년도 학생자치기구 선거 무산, 학생자치 ‘공백기’ - press.uos.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYaGlTVXZGbUtzb2x5MHgzVWtWdEYyZ3FQSlJETnl3YWw0Y0xRWHpTSU9tOFdCM2FndUlYOWlyR21RUGRTeHV1aDVqYlpIWFcwYmFMT2lqbHhCQ2ZJWXJZQ21Nb2ZDU3dS?oc=5",
+      "summary": "2026학년도 학생자치기구 선거 무산, 학생자치 ‘공백기’ press.uos.ac.kr",
+      "source": "press.uos.ac.kr",
+      "published_at": "2025-12-30T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "0ba35749237563ad8be1",
+      "category": "선거·조직",
+      "collected_at": "2026-08-16T12:26:00.765316+00:00"
     },
     {
       "title": "국립창원대 총학생회, '통합 오디세이' 성공적 개최! - 베리타스알파",
@@ -7398,6 +7429,18 @@
       "id": "8b28b61f01913f76794f",
       "category": "인권·갈등",
       "collected_at": "2026-08-01T17:27:22.100162+00:00"
+    },
+    {
+      "title": "총학생회 둘러싼 리더십 장학금 논란… 학생사회 ‘절차 무시’ 반발 거세져 - press.uos.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94RWNBREdDSDVtaFhNc2VKRDJ4ZTZJTmMybFdoR3NXc1g3WGZGWm9Nclp5b2JtRmszbzgzNzBYb0R2RTR4MjRSbVd4SV9qNWcwRVBBbXhwX20wa3BiNXdQaHBvbGtwdTBI?oc=5",
+      "summary": "총학생회 둘러싼 리더십 장학금 논란… 학생사회 ‘절차 무시’ 반발 거세져 press.uos.ac.kr",
+      "source": "press.uos.ac.kr",
+      "published_at": "2025-09-09T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "5e6769e2590eb3f294ab",
+      "category": "인권·갈등",
+      "collected_at": "2026-08-16T12:26:00.766653+00:00"
     },
     {
       "title": "임기 네 달 남은 총학, 공약 완료율 23.8% - 채널PNU",
