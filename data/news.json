@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-08-15T21:24:06.353629+09:00",
-  "item_count": 632,
+  "updated_at": "2026-08-16T09:55:54.105582+09:00",
+  "item_count": 638,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [],
+  "failures": [
+    {
+      "source": "SBS 뉴스",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    }
+  ],
   "items": [
     {
       "title": "서울신대총학생회·기성 경기동지방회, 청소년 위한 ‘2026 복음의단비’ 개최 - christiandaily.co.kr",
@@ -135,6 +140,18 @@
       "id": "3060cf7c2385745eb675",
       "category": "복지·문화",
       "collected_at": "2026-08-11T12:49:24.225630+00:00"
+    },
+    {
+      "title": "동대문구, 관내 3개 대학 총학생회와 청년 정책 협약 - chookjenews.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYRnpXR21lSi1uTng5WkttUHp5MzA0R0hvdkVIU25HTHA2WWpLTDBUX1JaT1d2QVBpTF9EVUs2WVl5Vzh6SmRSYnJybURjdURXRkttRGVHaGJfRGpXLTkxTkdJNkt2b1pWWGc?oc=5",
+      "summary": "동대문구, 관내 3개 대학 총학생회와 청년 정책 협약 chookjenews.kr",
+      "source": "chookjenews.kr",
+      "published_at": "2026-08-11T07:21:29+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "177f9bf9b552a4960340",
+      "category": "기타",
+      "collected_at": "2026-08-16T00:55:31.491449+00:00"
     },
     {
       "title": "동대문구, 관내 3개 대학 총학생회와 청년 정책 협약 - 네이트",
@@ -845,6 +862,18 @@
       "collected_at": "2026-08-10T12:53:47.533145+00:00"
     },
     {
+      "title": "진주 4개대 총학생회 \"발전공기업 통합본사 진주 유치 촉구\" - news.nate.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96aHVManNaMUQyUlYtSjBwU2h5WmlORHROQ2ZvekRCWWo5cUNlT3R0ZUdRbTJkcjhFVkREbEljTlBJWWxoejRWN1pYNzBUVDNQYmJN?oc=5",
+      "summary": "진주 4개대 총학생회 \"발전공기업 통합본사 진주 유치 촉구\" news.nate.com",
+      "source": "news.nate.com",
+      "published_at": "2026-08-10T02:20:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f8b9e805ab9e6ed39c20",
+      "category": "기타",
+      "collected_at": "2026-08-16T00:55:23.152103+00:00"
+    },
+    {
       "title": "진주 4개대 총학생회 \"발전공기업 통합본사 진주 유치 촉구\" - 뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85SW5MZHNQZ0JMSXRHYlpKY0phTVlfdTFIM244dF9ReFdFQ19jMzJvZk01eElRcGs2QWVxY3JZeVdySHVqN0lTZFFJNlRHTTN4SkdJcl9iYjlhejNYQ3g1VkIwdnNzbm9venVmNndZYXV5UHlzSlhYVtIBeEFVX3lxTE85SW5MZHNQZ0JMSXRHYlpKY0phTVlfdTFIM244dF9ReFdFQ19jMzJvZk01eElRcGs2QWVxY3JZeVdySHVqN0lTZFFJNlRHTTN4SkdJcl9iYjlhejNYQ3g1VkIwdnNzbm9venVmNndZYXV5UHlzSlhYVg?oc=5",
       "summary": "진주 4개대 총학생회 \"발전공기업 통합본사 진주 유치 촉구\" 뉴시스",
@@ -1497,6 +1526,18 @@
       "id": "c52e8d39a49a645c16d9",
       "category": "기타",
       "collected_at": "2026-08-01T17:27:17.516874+00:00"
+    },
+    {
+      "title": "조규일 진주시장, 대학 총학생회와 청년정책 소통…일자리·주거 등 의견 청취 - 공감신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1eWRDeGR1QnNqZEhkMWVIcng0QUVoa3RYcnVhb3AwcWswRU5QTUFneHlESHNxU1QyVm9DRVdUU3l2bktwdGhtd1d1SndDUlVlNHJFVFBqQlgydVRWTjF4eTcyZ3JnRGgz?oc=5",
+      "summary": "조규일 진주시장, 대학 총학생회와 청년정책 소통…일자리·주거 등 의견 청취 공감신문",
+      "source": "공감신문",
+      "published_at": "2026-07-23T05:24:17+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "a2161193faeb1d72f60e",
+      "category": "기타",
+      "collected_at": "2026-08-16T00:55:31.491783+00:00"
     },
     {
       "title": "조규일 진주시장, 대학 총학생회와 청년정책 소통 - 프레스뉴스",
@@ -4957,6 +4998,18 @@
       "collected_at": "2026-08-11T01:12:13.717474+00:00"
     },
     {
+      "title": "군산대, 학생자치기구 출범…학생 중심 캠퍼스 문화 조성 - jjn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85aXFtekkwX2oyQVhGdmFVX1Jma1pjRndlYnZaLTZIQ3VlRVdXWGtPZnlPazFmSDZaSEdybDNldzJsbHZKZHBTRllqcFlGc0VRNnRZaXJ0QzNHU0VOaVVHeDhwbDZKNXPSAWtBVV95cUxQUjFkYWR2UXpSVzJCdDhsbE1TLU9LcWx2ZWRPSEhnRUh0eVFybjROTVNINmxBR3dMSTlLUmViSVhkbmJxSnI4alNjQXhWaENMQ29QT2hSd3huenVwZVAtS1A2dFRLUWpaNVBtZw?oc=5",
+      "summary": "군산대, 학생자치기구 출범…학생 중심 캠퍼스 문화 조성 jjn.co.kr",
+      "source": "jjn.co.kr",
+      "published_at": "2026-04-09T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "7fd5306448bc73ccf04d",
+      "category": "의결·자치",
+      "collected_at": "2026-08-16T00:55:24.872672+00:00"
+    },
+    {
       "title": "한국외국어대학교 서울캠퍼스 제60대 총학생회장단 재선거 개표… 선거운동본부 '선명' 당선 - 대학알리",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0JkODR3NjhyTEpiMkU5ZUNTdkZ4X09uaUZoRjMwbkVCRlJVRVdydjFHek1FdkNCbXdNQ2pUa2hKWHZLZDJuM0IxblIyaXl0SW04NFlxUVNUNVVhenp4Rw?oc=5",
       "summary": "한국외국어대학교 서울캠퍼스 제60대 총학생회장단 재선거 개표… 선거운동본부 '선명' 당선 대학알리",
@@ -5114,6 +5167,18 @@
       "id": "9eb1110d7a39d932b10d",
       "category": "기타",
       "collected_at": "2026-08-11T12:49:18.173902+00:00"
+    },
+    {
+      "title": "“더 이상 들어갈 수 있는 곳이 없어”… 부족한 교내 학생 자치공간 - press.ajou.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53UnhEeWdHNld4YVBjZUVvcnlldEZlUTZkNlF2NUFpWjQwYndkd21URTNPQVI1dldlOUUyYVNXaTdNZmR6R0ZOWFNyMGJrT1gydDl3NXNDR0NyUXlqZGJYc3JfX28za3YteEE?oc=5",
+      "summary": "“더 이상 들어갈 수 있는 곳이 없어”… 부족한 교내 학생 자치공간 press.ajou.ac.kr",
+      "source": "press.ajou.ac.kr",
+      "published_at": "2026-04-06T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "8246c4ef2458117069ee",
+      "category": "기타",
+      "collected_at": "2026-08-16T00:55:24.872621+00:00"
     },
     {
       "title": "총학생회비 쓰임 몰라 납부하지 않는 학생들···10명 중 3명만 낸다 - inews.ewha.ac.kr",
@@ -6493,6 +6558,18 @@
       "id": "c9023e872d1e0bdb1603",
       "category": "등록금·교육",
       "collected_at": "2026-08-05T10:06:02.091744+00:00"
+    },
+    {
+      "title": "전국 대학 총학생회, 교육부에 올해 '등록금 동결' 요구 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPaXZVT3Zaa3FEYzllbkxtUk9VakpRTUVTd2d4aW0wWC0zd3p6a3o4cVhHSlpCZkU0MnF4eEQ5NnFZTVRia3dSb2FLU0JnT25DMnQ5NWtUc3dSZw?oc=5",
+      "summary": "전국 대학 총학생회, 교육부에 올해 '등록금 동결' 요구 뉴스1",
+      "source": "뉴스1",
+      "published_at": "2026-01-14T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "3e56891b4689287498fa",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-16T00:55:28.201620+00:00"
     },
     {
       "title": "교육장관, 전국총학생회협의회 임원진과 등록금 정책 논의 - 연합뉴스",
