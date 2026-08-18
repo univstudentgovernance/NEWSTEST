@@ -1,9 +1,54 @@
 {
-  "updated_at": "2026-08-17T21:30:55.516301+09:00",
-  "item_count": 663,
+  "updated_at": "2026-08-18T09:53:01.755491+09:00",
+  "item_count": 664,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [],
+  "failures": [
+    {
+      "query": "총학생회 OR 총학",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "query": "대학 학생자치",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "query": "대학 학생총회 OR 전체학생대표자회의",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "query": "대학 학생회비 OR 자치비 OR 회계감사",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    }
+  ],
   "items": [
+    {
+      "title": "‘86운동권 선두주자’ 떴다 18년 야인생활… 李정부 총리 거쳐 “정치 로망” 당대표에",
+      "url": "https://www.donga.com/news/Politics/article/all/20260818/134492000/2",
+      "summary": "“민주당 당 대표라는 역사에 이름을 올린다는 건 자랑스러운 일이다. 당연히 그런 ‘로망’이 있다.” 더불어민주당 김민석 신임 대표는 올 2월 기자간담회에서 이렇게 말하며 민주당 대표에 대한 꿈을 내비쳤다. ‘86 운동권 그룹의 선두 주자’로 화려하게 정치권에 입성했지만 18년간 국회 밖을 맴돌았던 김 대표는 8·17 전당대회로 신임 당 대표로 선출되며 파란만장한 정치 역정 끝에 당권을 손에 쥐었다. 1964년 서울에서 태어난 김 대표는 서울대 사회학과에 입학한 뒤 1985년 서울대 총학생회장과 전국학생총연합 의장을 맡으며 학생운동권의 대표 주자로 이름을 알렸다. 미국 문화원 점거 사건의 배후로 지목돼 1988년까지 3년간 수감생활을 했고, 1990년 ‘꼬마민주당’에 입당해 정계에 입문했다. 김대중 전 대통령의 지원 속에 1992년 14대 총선에서 서울 영등포을 공천을 받으며 ‘학생운동의 아이콘’으로 부상했다. 당시 그의 나이 28세였다. 첫 총선에선 낙선했지만 1996년 같은",
+      "source": "동아일보",
+      "published_at": "2026-08-17T19:30:00+00:00",
+      "matched_query": "",
+      "feed": "동아일보",
+      "id": "fa79458dd9a87bd7a404",
+      "category": "기타",
+      "collected_at": "2026-08-18T00:52:58.061386+00:00"
+    },
     {
       "title": "‘86운동권 선두주자’ 떴다 18년 야인생활…총리 거쳐 與대표 된 김민석",
       "url": "https://www.donga.com/news/Politics/article/all/20260817/134489550/1",
