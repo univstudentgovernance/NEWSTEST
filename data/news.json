@@ -1,42 +1,45 @@
 {
-  "updated_at": "2026-08-18T09:53:01.755491+09:00",
-  "item_count": 664,
+  "updated_at": "2026-08-18T21:32:27.055055+09:00",
+  "item_count": 671,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
-    {
-      "query": "총학생회 OR 총학",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생자치",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 등록금 총학생회 OR 등록금심의위원회",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생총회 OR 전체학생대표자회의",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생회비 OR 자치비 OR 회계감사",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    }
-  ],
+  "failures": [],
   "items": [
+    {
+      "title": "관내 대학 3곳 총학생회와 청년정책 협약 - ddmnews.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS2ZUbXpqclBXQ2lKMGZVQk1nUW9adWZpZjNycU9rNGF6VUkxc0JYeGpVeUtaX2RGSEVxYy1vanFDY3BaTks2Y0dnVGNaaElXZjR1TjMxNVFTM1F4VjBmaXZrV3dMTElQWWwzS0diZy1ZVzhRdVVoaTJZN1BpRFU1aw?oc=5",
+      "summary": "관내 대학 3곳 총학생회와 청년정책 협약 ddmnews.com",
+      "source": "ddmnews.com",
+      "published_at": "2026-08-18T09:29:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "db401d51301288c23ed5",
+      "category": "기타",
+      "collected_at": "2026-08-18T12:31:57.021264+00:00"
+    },
+    {
+      "title": "G3서울 ‘청년 AI 사다리’ 의견수렴… 총학생회장들 “이용권 넘어 체계적 교육 필요” - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQMGVaQktWUWRObWJVdXB5Ym9uSXNfLWVvOVBhSjVyQ1h2am12SHhiTzM0c1g1dmhwVTVlT3dzcXlXZVA0eE5oamh0ZjUyQ0xRb1RzVnNHakkxVjZtZVk5V0FNdEF6cml6QUE?oc=5",
+      "summary": "G3서울 ‘청년 AI 사다리’ 의견수렴… 총학생회장들 “이용권 넘어 체계적 교육 필요” 천지일보",
+      "source": "천지일보",
+      "published_at": "2026-08-18T02:24:27+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "bf7bec4737f5d9b4945d",
+      "category": "기타",
+      "collected_at": "2026-08-18T12:31:57.021148+00:00"
+    },
+    {
+      "title": "G3 서울 기획위 청년 정책간담회…총학생회장 등 66명 참석 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pQUx4b2lGZHg4LUNrNDRoREEzS19ESmp2N2k2dTJmaUZVM0RfaVh0LVdPV0IzZUg0S2x2bndqLXExR0pNSEVKWklMSmFwUm1YaVkyYXNJQ2hNWGZBNkRnRNIBeEFVX3lxTE5tYmdGRVdnVXd4UXFUM1l5M2lKaG9YQ3hXQnloSHZhRmRNcGpmQnJ6QTByMGlpd1BHa0dhUkNqVWJNdm5lSlN4TVh3b1JDX1ZBdk9INjlaM3hKTFFmVmZZZjZIdnFnaTZ5TE44bXR4al9jc3ZFbHZGYg?oc=5",
+      "summary": "G3 서울 기획위 청년 정책간담회…총학생회장 등 66명 참석 뉴시스",
+      "source": "뉴시스",
+      "published_at": "2026-08-18T01:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b6148c70906f354ab4f9",
+      "category": "기타",
+      "collected_at": "2026-08-18T12:31:57.021207+00:00"
+    },
     {
       "title": "‘86운동권 선두주자’ 떴다 18년 야인생활… 李정부 총리 거쳐 “정치 로망” 당대표에",
       "url": "https://www.donga.com/news/Politics/article/all/20260818/134492000/2",
@@ -48,6 +51,18 @@
       "id": "fa79458dd9a87bd7a404",
       "category": "기타",
       "collected_at": "2026-08-18T00:52:58.061386+00:00"
+    },
+    {
+      "title": "윤용근 의원·공주대 총학생회 공동 대응…‘충분한 정보 공개·숙의’ 촉구 - 공뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4OG1IWUpncFQ5ZjR5UG5MSUxmUUJnM2ZyMllJSVB2VTFQQ181ZGZ2TlU2Y09nWTB1Vi05c1BpQjROdmtXVTFKcnFkR1VvdUp5aGh0ejdvd09kMmJHRGRDbTVwenZLMk5zZ1diNw?oc=5",
+      "summary": "윤용근 의원·공주대 총학생회 공동 대응…‘충분한 정보 공개·숙의’ 촉구 공뉴스",
+      "source": "공뉴스",
+      "published_at": "2026-08-17T19:03:55+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "839e03a151e3bcb8f0d5",
+      "category": "기타",
+      "collected_at": "2026-08-18T12:31:57.021239+00:00"
     },
     {
       "title": "‘86운동권 선두주자’ 떴다 18년 야인생활…총리 거쳐 與대표 된 김민석",
@@ -84,6 +99,18 @@
       "id": "2e54c8afd35670834ca5",
       "category": "기타",
       "collected_at": "2026-08-17T12:30:25.629076+00:00"
+    },
+    {
+      "title": "윤용근 의원·공주대 총학생회, 충남대 통합 절차 문제 공동 대응 - atnnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1heVJQWXRRMS1GMGw3eGxyWjcybUljb1RJY0YwTm9xWlBOaW4tN25JMUl6d19PZnVJYjB2dVlhZlJ0cERxcjZ6akQ0ZU9nYWdUM1Rib19hRjh5dW9jTmFDOWQ3R0w5bzFaZERnMg?oc=5",
+      "summary": "윤용근 의원·공주대 총학생회, 충남대 통합 절차 문제 공동 대응 atnnews.co.kr",
+      "source": "atnnews.co.kr",
+      "published_at": "2026-08-17T04:47:26+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "5a251680f33a19ded9b0",
+      "category": "기타",
+      "collected_at": "2026-08-18T12:31:57.021324+00:00"
     },
     {
       "title": "윤용근 의원·공주대 총학생회, 충남대 통합 ‘절차적 정당성’ 공동 대응 나선다 - 중부매일",
@@ -708,6 +735,18 @@
       "id": "eb593b7c76940d2231d1",
       "category": "기타",
       "collected_at": "2026-08-10T12:53:47.532689+00:00"
+    },
+    {
+      "title": "진주 4개 대학 총학생회 “발전공기업 통합본사, 진주로” - gnnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QdkVlRGxXazRJSkNmR2tEMWcyYTUwZWRsRjR0bGhFUjl1R19rS24zT0dGSXBYM1dJWWthZURPMk12cTBZaTRSbURjVFVESExUSmRtd3ZOOW5CSEdmUTJLUkY2ZzVhaE1lbm1N?oc=5",
+      "summary": "진주 4개 대학 총학생회 “발전공기업 통합본사, 진주로” gnnews.co.kr",
+      "source": "gnnews.co.kr",
+      "published_at": "2026-08-10T08:59:20+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "6dee7a4e4dc3f4f2f524",
+      "category": "기타",
+      "collected_at": "2026-08-18T12:31:57.021676+00:00"
     },
     {
       "title": "진주 대학교 총학생회 “발전공기업 통합본사 진주 유치해야” - v.daum.net",
@@ -6158,6 +6197,18 @@
       "id": "42f0ba62eda09552435a",
       "category": "기타",
       "collected_at": "2026-08-12T01:20:18.586953+00:00"
+    },
+    {
+      "title": "조규일 진주시장, 관내 4개 대학 총학생회와 청년 정책 소통 간담회 개최 > 뉴스 - thekorea.kr",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCbDk0RGstUEEyNHBhYlBGSUNCNl9VTkNIcHFHeEQ3eHpQdlpIQ19XRTNlSE03STUtdHh5T3FyZjctOUlQYy16andxelQyWXBVQTFtWTNyMDVjTlo0VGtnS2QyN0xrbzViT1BtUUU4ZC0?oc=5",
+      "summary": "조규일 진주시장, 관내 4개 대학 총학생회와 청년 정책 소통 간담회 개최 > 뉴스 thekorea.kr",
+      "source": "thekorea.kr",
+      "published_at": "2026-02-06T08:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "168710ff40da5c41e0f8",
+      "category": "기타",
+      "collected_at": "2026-08-18T12:32:05.662193+00:00"
     },
     {
       "title": "주요 20개大 총학 \"비민주적 등록금 인상…제도 개선해야\" - 연합뉴스",
