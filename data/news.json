@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T21:32:27.055055+09:00",
-  "item_count": 671,
+  "updated_at": "2026-08-19T09:52:34.215906+09:00",
+  "item_count": 673,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -15,6 +15,18 @@
       "id": "db401d51301288c23ed5",
       "category": "기타",
       "collected_at": "2026-08-18T12:31:57.021264+00:00"
+    },
+    {
+      "title": "관내 대학 3곳 총학생회와 청년정책 협약 - 동대문신문",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS2ZUbXpqclBXQ2lKMGZVQk1nUW9adWZpZjNycU9rNGF6VUkxc0JYeGpVeUtaX2RGSEVxYy1vanFDY3BaTks2Y0dnVGNaaElXZjR1TjMxNVFTM1F4VjBmaXZrV3dMTElQWWwzS0diZy1ZVzhRdVVoaTJZN1BpRFU1aw?oc=5",
+      "summary": "관내 대학 3곳 총학생회와 청년정책 협약 동대문신문",
+      "source": "동대문신문",
+      "published_at": "2026-08-18T09:29:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "a3a1adf7f782c57ebf64",
+      "category": "기타",
+      "collected_at": "2026-08-19T00:52:05.731463+00:00"
     },
     {
       "title": "G3서울 ‘청년 AI 사다리’ 의견수렴… 총학생회장들 “이용권 넘어 체계적 교육 필요” - 천지일보",
@@ -6497,6 +6509,18 @@
       "id": "3150de3983840b52dbb7",
       "category": "등록금·교육",
       "collected_at": "2026-08-14T01:21:18.783457+00:00"
+    },
+    {
+      "title": "사립대 등록금 인상 행렬 이어지나…총학생회단체 \"85개교 인상 진행\" - yonhapnewstv.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKUTl4NGRCV2xUS3AwRzFMQkJMb3JSV2lDSzU3VHpTNTRQNlFrZHBDVzJReGNHdGlfeG5ndHk1bUtxaDVRZ0oyTndsN1pJanVxSDgzZS1RbjQ2T08ya3F1dEdNMzZPTlE?oc=5",
+      "summary": "사립대 등록금 인상 행렬 이어지나…총학생회단체 \"85개교 인상 진행\" yonhapnewstv.co.kr",
+      "source": "yonhapnewstv.co.kr",
+      "published_at": "2026-01-23T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "b6475b0dfb325893e810",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-19T00:52:10.677507+00:00"
     },
     {
       "title": "전주대 제53대 ‘내일’ 총학생회 출범 - 전민일보",
