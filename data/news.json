@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T21:33:40.075012+09:00",
-  "item_count": 686,
+  "updated_at": "2026-08-20T09:52:32.333135+09:00",
+  "item_count": 691,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -41,6 +41,42 @@
       "collected_at": "2026-08-19T12:33:10.854991+00:00"
     },
     {
+      "title": "[업데이트] 넥슨 '블루 아카이브', 메인 스토리 2부 '총학생회 편' 개시 - 뷰어스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FUW02QjNjQmlJeXV6Q0JYTVFvWVhmbXBWMXdXbGtCNVRDZUJQNXBMZkxlaWZNdWlMU2dZVzRhYkVadHZYbFBOdUtZaTNSYjI2Y1ZoUFhVY0w?oc=5",
+      "summary": "[업데이트] 넥슨 '블루 아카이브', 메인 스토리 2부 '총학생회 편' 개시 뷰어스",
+      "source": "뷰어스",
+      "published_at": "2026-08-19T06:56:22+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "185ece81ebe3a3ce343e",
+      "category": "기타",
+      "collected_at": "2026-08-20T00:51:55.399279+00:00"
+    },
+    {
+      "title": "\"전용 에피 추가\" 넥슨 '블루 아카이브', 메인 스토리 2부 '총학생회 편' 공개 - 파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WUHVsUWZoOHFEYmFLQmdqRjRSZGVBV2UyMkNOb1BmcmJndm5UVFQ1RmlWczNiU1ZTQm5EV2lESG04TTVVQVdSVmQ2M1NzWlJDbEhmanZXMThUbFJUYXlQTm42WHdRSjFKbE1FVnRRNWo4WUlr?oc=5",
+      "summary": "\"전용 에피 추가\" 넥슨 '블루 아카이브', 메인 스토리 2부 '총학생회 편' 공개 파이낸셜포스트",
+      "source": "파이낸셜포스트",
+      "published_at": "2026-08-19T06:50:12+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "12e2112a7dfdc6c5bd6b",
+      "category": "기타",
+      "collected_at": "2026-08-20T00:51:55.399240+00:00"
+    },
+    {
+      "title": "넥슨 '블루 아카이브', 2부 '총학생회 편' 개막…FOX 소대 출격 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42V0RXX0pqQlRZTEY2c1MycW1VME9fLUlKNEJKVzF2TlFGTS1XSm0zN0w0NWFsREJuWDhJeWlCeDc1M0E5cktPRkkybXN3T3VBZkNZ?oc=5",
+      "summary": "넥슨 '블루 아카이브', 2부 '총학생회 편' 개막…FOX 소대 출격 네이트",
+      "source": "네이트",
+      "published_at": "2026-08-19T05:48:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4586401e6ce47764c82f",
+      "category": "기타",
+      "collected_at": "2026-08-20T00:51:55.399427+00:00"
+    },
+    {
       "title": "넥슨 '블루 아카이브', 2부 '총학생회 편' 개막…FOX 소대 출격 - 데일리게임",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00aDduN09pUUVZbUhqMExGT1ZycUVmTUJ6cjdnZkhDYVNhX1RMY09TM2pVQ3ViLS14UzJFX2hZTzFsYTBFNUcyRWtrTDFwUFNWdDF5TWR6eE9uWE05VndTNGl0MFZTenlfeWlYeTdJcF9rQmZjYzNTNFNPUQ?oc=5",
       "summary": "넥슨 '블루 아카이브', 2부 '총학생회 편' 개막…FOX 소대 출격 데일리게임",
@@ -75,6 +111,18 @@
       "id": "b39958954dc0597ed9d5",
       "category": "기타",
       "collected_at": "2026-08-19T12:33:10.854909+00:00"
+    },
+    {
+      "title": "넥슨 블루 아카이브, 메인 스토리 2부 ‘총학생회 편’ 추가 - NSP통신",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PUmlBMFFyWXJPQ2ZkYU0yUFpUS1hZd0VnWEdCYkZDa2JFWXN1NUUyY19QRGRUdkd0bzRGb1RENXdzS2FRbGtQdzlWS0FRa0JEXzNiME5vV0hlbDA2bzROWQ?oc=5",
+      "summary": "넥슨 블루 아카이브, 메인 스토리 2부 ‘총학생회 편’ 추가 NSP통신",
+      "source": "NSP통신",
+      "published_at": "2026-08-19T05:07:34+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "c40871b46b4ab9c1016a",
+      "category": "기타",
+      "collected_at": "2026-08-20T00:51:55.399260+00:00"
     },
     {
       "title": "넥슨 '블루 아카이브', 드디어 2부 시작...총학생회가 움직인다 - ER 이코노믹리뷰",
@@ -255,6 +303,18 @@
       "id": "8c25c2173870132eb1c8",
       "category": "기타",
       "collected_at": "2026-08-17T12:30:25.629034+00:00"
+    },
+    {
+      "title": "윤용근, 공주대 총학생회와 '통합 정당성' 함께 따진다 - goodmorningcc.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yQlVQTzZzUTFwZ1E3bFRudzljWlJZRnhKYS1Sc0dYeUhINFFMa2RLRnNVeDQtUjkzcFlxZTJTQTlOdHhERWlGeGQ2cEFJeGVXTlNBVjVxVmFoc2M2a3I1VlRpc3F0T0tnekttTkppZUsxUQ?oc=5",
+      "summary": "윤용근, 공주대 총학생회와 '통합 정당성' 함께 따진다 goodmorningcc.com",
+      "source": "goodmorningcc.com",
+      "published_at": "2026-08-17T04:32:15+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "2fa6d1941b29db008ea8",
+      "category": "기타",
+      "collected_at": "2026-08-20T00:51:55.399298+00:00"
     },
     {
       "title": "윤용근·공주대총학생회, \"대통령실·교육부·국회 탄원서 제출\" - 백제뉴스",
