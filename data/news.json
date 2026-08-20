@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T09:52:32.333135+09:00",
-  "item_count": 691,
+  "updated_at": "2026-08-20T21:34:59.519329+09:00",
+  "item_count": 695,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -699,6 +699,18 @@
       "id": "077d9a13144cd4af3822",
       "category": "기타",
       "collected_at": "2026-08-11T01:12:12.168259+00:00"
+    },
+    {
+      "title": "시립대 총학생회장 출신 최동민 동대문구청장 3개 대학 총학과 청년정책 ‘현장 소통’ 강화 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XQmFhbzZVTUNBWFlOY2xEdVcyT3QwcFNUUHhmNVlTdlFzVlRfbWRKZnAzbzN0Rk1sbkRONjRLRm8zc3JtR1ZIYmt2QUZaRWN5UzJYbExR?oc=5",
+      "summary": "시립대 총학생회장 출신 최동민 동대문구청장 3개 대학 총학과 청년정책 ‘현장 소통’ 강화 헤럴드경제",
+      "source": "헤럴드경제",
+      "published_at": "2026-08-10T23:24:17+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b525f6af86a24d200d96",
+      "category": "기타",
+      "collected_at": "2026-08-20T12:34:28.462290+00:00"
     },
     {
       "title": "고환율에 유학비 부담↑…유학생 카드 활용·송금 팁은",
@@ -4253,6 +4265,18 @@
       "collected_at": "2026-08-17T12:30:25.631212+00:00"
     },
     {
+      "title": "12개 대학 총학, 10일 동시 시국선언…\"참정권 침해 규탄\" - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbnJzTlp6TDlTZGNDZ2pmaDF3Q1ZzeHFmSWE3cU5YV1l0OWY5UkljTDRSSnpsX1d6SXdnNmxXVFNWN1RtM0huU1pkNER4eXdNT21MSExBalRDNlEy?oc=5",
+      "summary": "12개 대학 총학, 10일 동시 시국선언…\"참정권 침해 규탄\" 뉴스핌",
+      "source": "뉴스핌",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "c951429808ca0a189aaf",
+      "category": "기타",
+      "collected_at": "2026-08-20T12:34:31.962206+00:00"
+    },
+    {
       "title": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 - 중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1M2UtYVRVeTdZZ2dhMzVxaEdiRk9LMVN3Rk56WVA4b1VxZFJkcVllaXo5TGFneTh6N09ZS1FYR19sNXF2ZlVaMkdoeGY1b3AzamliaHFR?oc=5",
       "summary": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 중앙일보",
@@ -5218,6 +5242,18 @@
       "collected_at": "2026-08-17T12:30:27.289302+00:00"
     },
     {
+      "title": "광주대 학생자치기구, 중간고사 대박 기원 이벤트 ‘활기’ - 교수신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aTGVFUjhZZVFtbFE1TjZEWExIUmNWbkxLck1DQWltdnlrYzNjVmxFTW0waFBpNGUtT2Y3aEd1NkllZlZMWWtDQl9zRlAzSG5LTEg2NC1YQ1YyMy1MdGk3S2FTS3kxNVE?oc=5",
+      "summary": "광주대 학생자치기구, 중간고사 대박 기원 이벤트 ‘활기’ 교수신문",
+      "source": "교수신문",
+      "published_at": "2026-04-17T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "f23a82bb129b6e8bd7fa",
+      "category": "의결·자치",
+      "collected_at": "2026-08-20T12:34:30.113256+00:00"
+    },
+    {
       "title": "왕복아닌 편도 8천원…총학 예비군 셔틀버스 지원 '시끌' - 뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SFd6WHZ2Zm5IU3dCVmkzNERxWGxwUldTRWJjanFuZUgzOWoyd3NfdVFxM29nMjFtU1l3dlBubmtKemdWd2hQc0NKRUZ5TjJhZGZkZExfQlc0R2ZDUFhpVNIBeEFVX3lxTFBQTThiYjFxWXdtX2Y0ZXAwTkMwaDhyZmZwXzZNbkh1dmhTZTZZTDE5bk1zNkRJTDRIM0hsWFpTbUN1dUpyVFZuWGlHRTdnWTF5c0ZFXzNZNXcta0NZM29maWVVYk00Q2xrblNQYXFNa2VLb3l4bDlVZw?oc=5",
       "summary": "왕복아닌 편도 8천원…총학 예비군 셔틀버스 지원 '시끌' 뉴시스",
@@ -6076,6 +6112,18 @@
       "id": "b9fbcfb6608816d86dad",
       "category": "의결·자치",
       "collected_at": "2026-08-03T12:39:43.385167+00:00"
+    },
+    {
+      "title": "대구과학대, 학생임원임명식 거행..학생자치 활동 본격화 - 뉴스프리존",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QUFlVSGxPU0JHbTJUNnRlM0dBaGc4RXBZV1ZzNHFCZGNvVkVLNWJSajFNdjQyZUhEaGV0Qk9CU3luLXRNTXhvNG9LRXJmLThVR0EyWkJuZzFRNXNlZV9jdFF5R0t1dF9jUlhNM25YUGZxMzjSAXdBVV95cUxPakVMdW81bkhCTXpCYXFxZ3BzUjJQYjBPbk1xSzg5WDVMdVdxdDhORm9Zem1QOFFkcWdXR0ZsTG41WDhjeDA4amxPM01hQ2hzTXJ1cHBXeW1KM1N4TE91cFZnUjhVVk4ya0Nibzk4Qk9sa0VOTEZTNA?oc=5",
+      "summary": "대구과학대, 학생임원임명식 거행..학생자치 활동 본격화 뉴스프리존",
+      "source": "뉴스프리존",
+      "published_at": "2026-03-18T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "9f3577ffefaad5a3bf3c",
+      "category": "의결·자치",
+      "collected_at": "2026-08-20T12:34:30.113691+00:00"
     },
     {
       "title": "제56대 서울총학 재선거에 ‘초점’ 단독 예비후보 등록 - 고대신문",
