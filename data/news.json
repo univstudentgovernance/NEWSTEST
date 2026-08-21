@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-08-21T09:56:16.196768+09:00",
-  "item_count": 698,
+  "updated_at": "2026-08-21T21:34:01.307703+09:00",
+  "item_count": 702,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "[공주대·충남대 통합 논란 ③] ‘위원인 총학생회장도 회의록 못 봤다’…공주대 통합 논의 ‘깜깜이’ 논란 - 공뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjTGI1Zkk1bE9salZBRkVSMkJfNEtxS2Zxd2xpWjdIOFlXVXdmX1d4cVE4RmlObXIxS1FvMHVJWTZ1cWh2WnVVOUN0Mi03aUh4bi0yTXA0aGtVdlJYOEVRS0lYN2tyQWttTXE2MA?oc=5",
+      "summary": "[공주대·충남대 통합 논란 ③] ‘위원인 총학생회장도 회의록 못 봤다’…공주대 통합 논의 ‘깜깜이’ 논란 공뉴스",
+      "source": "공뉴스",
+      "published_at": "2026-08-21T07:57:10+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "0fec3ab3e8bada471827",
+      "category": "인권·갈등",
+      "collected_at": "2026-08-21T12:33:28.735044+00:00"
+    },
+    {
+      "title": "한남대 총학 \"대전북연결선 공사 중단·노선 변경해야…학습권 침해 우려\" | - 대전일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93UHNZVUg0eTJhd3dEVDJlVWNiOWR3Q241bGg2d0FiTDNWTjhUR3F1N2pCSEFLc01aajYxN3AtQU1qYlZQUy0zdGh0aHFJYVpSRTVTVTdhNjZ5Yzk0cDQ1M2txLWNFa1FmakluOW5VZElsck0?oc=5",
+      "summary": "한남대 총학 \"대전북연결선 공사 중단·노선 변경해야…학습권 침해 우려\" | 대전일보",
+      "source": "대전일보",
+      "published_at": "2026-08-21T06:13:03+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "dbb686e38ce810db9ae4",
+      "category": "기타",
+      "collected_at": "2026-08-21T12:33:28.735010+00:00"
+    },
     {
       "title": "넥슨, ‘블루 아카이브’ 메인 스토리 2부 ‘총학생회 편’ 업데이트 실시 - 브레이크뉴스",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtRFFPbmM1SzgtZnpVbjZoVU5xWFM5OE4xZ0lQbzF3VlBRNGRZT1Bnc1RmYWFrTExxSU5QUXZNWk5Wb0dQamU0?oc=5",
@@ -2314,6 +2338,18 @@
       "collected_at": "2026-08-19T12:33:13.981327+00:00"
     },
     {
+      "title": "한세대 총학생회, 파주 산머루마을서 하계 농촌봉사활동 진행 - 교수신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xanpodUdqaDdjQlM4RTg1S1h4ZTQ2a3BCUG5OUmtuaXp5aUN2amV0azdfMGxzN0hCbGJONUsxV0VBaWNud21INl9Dd291bks3Ny1VeGV1M1pnOG5MQlVxNXhqQUJTa1k?oc=5",
+      "summary": "한세대 총학생회, 파주 산머루마을서 하계 농촌봉사활동 진행 교수신문",
+      "source": "교수신문",
+      "published_at": "2026-07-08T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "3e27773d038cdb4b8356",
+      "category": "기타",
+      "collected_at": "2026-08-21T12:33:37.397878+00:00"
+    },
+    {
       "title": "경상국립대 총학생회 “발전공기업 통합 본사 최적지는 진주” - 경남일보",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05a2tQaHJHOHhfeHpla295aEhZT2ZmNGh3N2dYa2JQcGNlTXp0TnRYZTQ5MkdPejhJVWRpT25OUXlCcENsSy1tLTdUVUIxczBxVS1ud01YY0ZyQnlVZG51TngzaWF2VEZXUjVF?oc=5",
       "summary": "경상국립대 총학생회 “발전공기업 통합 본사 최적지는 진주” 경남일보",
@@ -4287,6 +4323,18 @@
       "id": "c951429808ca0a189aaf",
       "category": "기타",
       "collected_at": "2026-08-20T12:34:31.962206+00:00"
+    },
+    {
+      "title": "연세대 등 12개대 총학, 내일 '투표지 부족사태' 규탄 시국선언 - 한경매거진&북",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nV28tT1BwZ3lHbkNvV2VQbWxuZll4c0FteGE4WkNYMS1UUnNkSnBKeHBLc19ac2NDN1F0c240VUZ3eWtwOUFjTzMxTVA5cXJrS25fek9kZWJqOUt1SkMwSF9vN0hVbnU4SDZJ?oc=5",
+      "summary": "연세대 등 12개대 총학, 내일 '투표지 부족사태' 규탄 시국선언 한경매거진&북",
+      "source": "한경매거진&북",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "2aaf79a862c0eca7adc1",
+      "category": "기타",
+      "collected_at": "2026-08-21T12:33:28.736488+00:00"
     },
     {
       "title": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 - 중앙일보",
