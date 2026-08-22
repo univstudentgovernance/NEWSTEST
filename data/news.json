@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-21T21:34:01.307703+09:00",
-  "item_count": 702,
+  "updated_at": "2026-08-22T09:52:33.290656+09:00",
+  "item_count": 705,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -15,6 +15,18 @@
       "id": "0fec3ab3e8bada471827",
       "category": "인권·갈등",
       "collected_at": "2026-08-21T12:33:28.735044+00:00"
+    },
+    {
+      "title": "한남대 총학생회, 대전북연결선 공사 중단 촉구...“학생 안전·학습권 위협” - 데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BWTNKcW5hME0waV9yMlVpWnJiejhRVF9FdFlra19YbUVhaE5iczM5cEUxSnItakw5TFVrMGN2NmRPYU1JMkQ3RC13b01hOW1JWTZMUWV4MmNFMXVWSlczcVcyT2JoTDZObFNHVVllYUVHWVXSAXNBVV95cUxNQVkzSnFuYTBNMGlfcjJVaVpyYno4UVRfRXRZa2tfWG1FYWhOYnMzOXBFMUpyLWpMOUxVazBjdjZkT2FNSTJEN0Qtd29NYTltSVk2TFFleDJjRTF1VkpXM3FXMk9iaEw2TmxTR1VZZWFFR1lV?oc=5",
+      "summary": "한남대 총학생회, 대전북연결선 공사 중단 촉구...“학생 안전·학습권 위협” 데일리한국",
+      "source": "데일리한국",
+      "published_at": "2026-08-21T07:48:03+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e23d4bf036b16887b188",
+      "category": "기타",
+      "collected_at": "2026-08-22T00:52:01.234813+00:00"
     },
     {
       "title": "한남대 총학 \"대전북연결선 공사 중단·노선 변경해야…학습권 침해 우려\" | - 대전일보",
@@ -159,6 +171,18 @@
       "id": "479fa1216911e0330fb4",
       "category": "기타",
       "collected_at": "2026-08-19T12:33:10.854963+00:00"
+    },
+    {
+      "title": "[영상] 블루 아카이브, '0. 총학생회 편 제1장 살구꽃이 피는 어느 봄날에' 공개 - 게임뷰",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IZGpOeWJNNVVzbEFfYjdJZFpaNnhXQ2Y4TUJEMlM2WXFTZlJGbloxbTZuWUpZbTBCT1VURlhJbUk4cmZxQXktQWpJOXc0cFRvd3lUSlRaTkR5aGVPbkswOG4xeFlsSDdXcUE?oc=5",
+      "summary": "[영상] 블루 아카이브, '0. 총학생회 편 제1장 살구꽃이 피는 어느 봄날에' 공개 게임뷰",
+      "source": "게임뷰",
+      "published_at": "2026-08-19T02:21:56+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "5338ccc3e782ad8fb3b8",
+      "category": "기타",
+      "collected_at": "2026-08-22T00:52:01.234914+00:00"
     },
     {
       "title": "총학생회장 등장?...‘블루 아카이브’, 메인 스토리 2부 업데이트 - 경향게임스",
@@ -2925,6 +2949,18 @@
       "id": "e9b157b11320bdd81707",
       "category": "기타",
       "collected_at": "2026-08-02T07:55:09.708063+00:00"
+    },
+    {
+      "title": "투표용지 부족 사태에 서울캠 총학 시국선언 개최 - 중대신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQNG5KMGRlVGFJUUxmNHJUNURoc0dSREtnUHpXUG9jUXUzXzBhX2xnMkw1YVlYUGEwZHNTTHNYZVZVUUVuZElNdk5qb0daM0N6N3NabjZvdk96aXU4UkNIVVF1ZWtQdGPSAWtBVV95cUxOUHhxLXI5VnI1QkhtQ3NTOS1uZ2ZnOC15N01sb3ZvZWdWZTdYUnRUYk5uN0U5TmtUdW0wV1JsWXZZdVA5MUlfbWNBY1Yyd1ZONE9VQUtUVHNJbDF4QkNFMkFFczFsYzFTUzMtaw?oc=5",
+      "summary": "투표용지 부족 사태에 서울캠 총학 시국선언 개최 중대신문",
+      "source": "중대신문",
+      "published_at": "2026-06-11T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ea3bee76cae5d90a3763",
+      "category": "기타",
+      "collected_at": "2026-08-22T00:52:01.237017+00:00"
     },
     {
       "title": "'투표용지 부족 규탄' 18개대 총학 시국선언…\"참정권 수호해야\"(종합) - 연합뉴스",
