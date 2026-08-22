@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T09:52:33.290656+09:00",
-  "item_count": 705,
+  "updated_at": "2026-08-22T21:25:49.218620+09:00",
+  "item_count": 708,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -1889,6 +1889,18 @@
       "id": "29d5d302c76910991295",
       "category": "기타",
       "collected_at": "2026-08-07T15:10:57.708462+00:00"
+    },
+    {
+      "title": "동명대 총학생회 ‘FLARE’, 경남 거창군서 농촌 재능기부 봉사 활동 펼쳐 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObmRiRnNjTUJKVXR6dG1WMnJvQnZCR205LWFQblB0QndnYTExdktzY21URFMyRVlVa3NSZW9YT2tkX1BWUUFsRVNSVWlfUHMwSWNNbUpmMjFqb1c0SE5iVmFVR0Z4emVydFg3SFBsUXJpRlNOR2FVUkZ0YUxZRnRWTVhiS1cwZTI4R01jR3hn?oc=5",
+      "summary": "동명대 총학생회 ‘FLARE’, 경남 거창군서 농촌 재능기부 봉사 활동 펼쳐 국제신문",
+      "source": "국제신문",
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "2b70c8a57d741a0e4d4e",
+      "category": "기타",
+      "collected_at": "2026-08-22T12:25:21.064328+00:00"
     },
     {
       "title": "조규일 진주시장, 대학 총학생회와 ‘청년정책 소통’ - 경남뉴스투데이",
@@ -6071,6 +6083,18 @@
       "collected_at": "2026-08-08T04:17:31.771532+00:00"
     },
     {
+      "title": "호남대, 제 40대 ‘백’ 총학생회 등 학생 자치기구 연합 출범 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkOEcxNmcteFY3UDh5YTgtUWhyczhtRE0yclc5dVFRUVNRdlN2WTlqSUNyVTdTR1VIUnB2Q09BdEVrdWlnaU5ibXRLaU13dkJWd2xpZ3N3?oc=5",
+      "summary": "호남대, 제 40대 ‘백’ 총학생회 등 학생 자치기구 연합 출범 헤럴드경제",
+      "source": "헤럴드경제",
+      "published_at": "2026-03-28T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "1830a5e057e062ae4e90",
+      "category": "기타",
+      "collected_at": "2026-08-22T12:25:22.755357+00:00"
+    },
+    {
       "title": "호남대, 제40대 ‘백’ 총학생회 등 학생 자치기구 연합 출범 - 대학저널",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SeEIzUlFic0JPdXBBVzl3Ym8tVXFFSUVrdGRobUZEMDVaTDBrZ0FXeXZhQXdFN0JwV1AxNnBKM0djc3FQRk9ocmprSm9LUGMwY3VYUTVOYVQ0eWpEenfSAWpBVV95cUxOU1NJMFpNWDVuZ1V4SjFGSEJKZWYxamQtelhwVkZvdzVaVlAxOHk0WFFsV0hJdnF6R0JVcm5PUWhzYjgzdnQyY055dzZJS3Z5NU0tdUdESHBKbjVTalQzYzhVU1lWaHVqZGNR?oc=5",
       "summary": "호남대, 제40대 ‘백’ 총학생회 등 학생 자치기구 연합 출범 대학저널",
@@ -7610,6 +7634,18 @@
       "id": "d204d897dc9c42c6e6d2",
       "category": "선거·조직",
       "collected_at": "2026-08-08T04:17:33.438766+00:00"
+    },
+    {
+      "title": "대학가 '무색·무취' 분위기 확산…\"총학생회 투표 한번도 안했다\" - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Sc3pOc3FxLVZZTWhnSWc5amVGT3NLa2tZWXRkeTI1ZGdUM3IzQTZ0SmlRa0d3aEw5WFNQRkxCVjVkbHhqU2Zick9Law?oc=5",
+      "summary": "대학가 '무색·무취' 분위기 확산…\"총학생회 투표 한번도 안했다\" v.daum.net",
+      "source": "v.daum.net",
+      "published_at": "2025-12-08T08:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "5b7d2863f9bac6179bec",
+      "category": "기타",
+      "collected_at": "2026-08-22T12:25:24.287594+00:00"
     },
     {
       "title": "대학가 '무색·무취' 분위기 확산…\"총학생회 투표 한번도 안했다\" - 중앙일보",
