@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T21:25:49.218620+09:00",
-  "item_count": 708,
+  "updated_at": "2026-08-23T09:56:15.452234+09:00",
+  "item_count": 711,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -2106,6 +2106,18 @@
       "id": "280ede3a14be90bff343",
       "category": "기타",
       "collected_at": "2026-08-05T10:05:57.118042+00:00"
+    },
+    {
+      "title": "국립순천대학교 총학생회, \"국립의과대학 설립과 대학 통합 ,대학 구성원과 지역사회 의견 충분히 반영해야\" - 뉴스깜",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yQlhSOHg1ZDl3d1U0QnRXS1ZTSHRSRkN5NHN4QkQzZ1hBX21Wb214NFItUG9PcWp1VkJGV19yX3A4bmI5c212MU43eWIxanI0XzZ5dlR6SjRQUF81YnpBOXlHckNLYUw4dmc?oc=5",
+      "summary": "국립순천대학교 총학생회, \"국립의과대학 설립과 대학 통합 ,대학 구성원과 지역사회 의견 충분히 반영해야\" 뉴스깜",
+      "source": "뉴스깜",
+      "published_at": "2026-07-20T10:01:10+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "35e6ef0b2644bc785074",
+      "category": "기타",
+      "collected_at": "2026-08-23T00:55:49.950143+00:00"
     },
     {
       "title": "“의과대학 전리품 아니다”…순천대 총학, 정치 개입 중단 촉구 - 진일보",
@@ -4716,6 +4728,18 @@
       "id": "4a5e4a0f9ebb49ecb4a5",
       "category": "인권·갈등",
       "collected_at": "2026-08-13T12:55:23.280626+00:00"
+    },
+    {
+      "title": "사상 초유 ‘투표용지 부족’에…전국 총학생회 “강력 규탄” - 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53dkRLWlhsd2F6WnYtVUNIRE5YN2ZsM21PNWRDS3dteTVBQ1Fyb3JCTEtGMTZ3bHpHOUNidVhWQ0FaQ0NIVUE1S2FXdmF1dFZqYzc1c2VCUkRJZjJJUkE5cDBXTDQ2VDQzLU1JM2Y4WFdqS3FJMWfSAWZBVV95cUxOZXZ1QjVmV2ZHSjQ5OVVWSE85RjNoZWhCR1l2SEQwMmhUWklzNWk4YVNKZ2Y5Q0E1MkZuNHlFWlJSdWNHLVhScWxvUW14eWt6RFVwZGhnMlMxUHM4QktFS2JwRG9qOXc?oc=5",
+      "summary": "사상 초유 ‘투표용지 부족’에…전국 총학생회 “강력 규탄” 동아일보",
+      "source": "동아일보",
+      "published_at": "2026-06-05T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ed83fb9d508ae36e302a",
+      "category": "기타",
+      "collected_at": "2026-08-23T00:55:49.950888+00:00"
     },
     {
       "title": "[뉴스] 응통과 전 학생회장, 학생회비 700만 원 가량 사적 운용…변제 '진행 중' - 경희대학교 미디어센터",
@@ -7379,6 +7403,18 @@
       "id": "05b1c633b2835e53796a",
       "category": "의결·자치",
       "collected_at": "2026-08-04T18:13:20.971681+00:00"
+    },
+    {
+      "title": "‘총학’ 구성 못한 경기도내 대학들… 등록금심의위원회 앞두고 불안감 - 경인일보",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VVG1BQmM5d3g2d1dDeVFFRUh1VjdLTi1uWjF6NEUzdWZvYVJPSm10M1hlaWJXX2ZmdlVMTjNVbVNqQ0hKZ2tHSGxQaEZCN09MNEE?oc=5",
+      "summary": "‘총학’ 구성 못한 경기도내 대학들… 등록금심의위원회 앞두고 불안감 경인일보",
+      "source": "경인일보",
+      "published_at": "2026-01-05T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "9a32ef01810667cdf694",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-23T00:55:53.783337+00:00"
     },
     {
       "title": "대학 등록금 인상 상한 3.19%···‘견제 장치’ 등심위 실효성 논란 - 경향신문",
