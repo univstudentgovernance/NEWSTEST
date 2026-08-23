@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T09:56:15.452234+09:00",
-  "item_count": 711,
+  "updated_at": "2026-08-23T21:26:42.766553+09:00",
+  "item_count": 714,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -1947,6 +1947,18 @@
       "id": "3a1dad4c06948e26b548",
       "category": "기타",
       "collected_at": "2026-08-21T00:55:53.516742+00:00"
+    },
+    {
+      "title": "조규일 진주시장, 대학 총학생회와 청년정책 소통 - 진주신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSSDU0NWxhU0k4NW13N3lzUTZMT2hHbmdFTWtOaHhUNmRIbWNMMjdlaGFKYWh5Y0hnMG9nMGF0ZEdsYzFoSWl1QjZlbmFoQ3FIV0dlc3hpdzVxUy1EYV9YT1dtQzhvUEIy0gFsQVVfeXFMTmZEVXNFUVFtN0djQzBZU2pyWm9EdG5YeVVoQlZCS29TRU5TUnJGdC1STlcyREFwUFpEaU01VzFlaDdyUzZWVXNVWnY0X05jY1lUZ21feVJIeFBSak05S3RENlFMNVlpVm93b1ly?oc=5",
+      "summary": "조규일 진주시장, 대학 총학생회와 청년정책 소통 진주신문",
+      "source": "진주신문",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "b8129bf0d1e68faa2519",
+      "category": "기타",
+      "collected_at": "2026-08-23T12:26:20.661329+00:00"
     },
     {
       "title": "조규일 진주시장, 대학 총학생회와 청년정책 소통 나서 - v.daum.net",
@@ -7763,6 +7775,18 @@
       "collected_at": "2026-08-04T18:13:20.971901+00:00"
     },
     {
+      "title": "강원대 삼척 연합 학생자치단체, 수시모집 면접 수험생 대상 따뜻한 응원 행사 펼쳐 - 베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00eWFaRjkzcXF6SkdSX0FELTFXVTZ3SnZBTTBVZ1BhUjhxY3NIdVI1ckFwV1MyaXNPT040ZDRHQ0lCREROcE9scDhwb1pCUU1TWkk2SFhGaGhZeTJKVWRRVnFRODZzanRxTFpSMA?oc=5",
+      "summary": "강원대 삼척 연합 학생자치단체, 수시모집 면접 수험생 대상 따뜻한 응원 행사 펼쳐 베리타스알파",
+      "source": "베리타스알파",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "70b3d7a39ac2b419b92b",
+      "category": "의결·자치",
+      "collected_at": "2026-08-23T12:26:13.992581+00:00"
+    },
+    {
       "title": "[속보] 2026 총학, PASS가 이끈다 - 채널PNU",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wRU5BXzZiMnMxUHBqdHZpOXpRRVBDUXZUWkJRTFpIWk1oNm1jMjMtN3IzUmxpMzE1Zl9ZcmFuc1RBbHRRYTVnaXoxbGJFZ0Q2N3NNNlh0U1NGTkt0aGE1djZucHNzOWZrOEpaazBCM1JrUdIBdkFVX3lxTE5lMmt4bTdsQnRlNE1VRVdvNkljZ2k2U0VHSWRVV1VxMDVXUTJsQXlFQ1IzbldaLXBhS0dvM0xxUXZpeW1ONXB5RU54RzcyUlJfa2pMNWdrSnBJV2VjcHZ5dnRPX0ZDOU4tRXV5UmZ4b0JDc05aTGc?oc=5",
       "summary": "[속보] 2026 총학, PASS가 이끈다 채널PNU",
@@ -8095,6 +8119,18 @@
       "id": "225d0670e291ea489a29",
       "category": "복지·문화",
       "collected_at": "2026-08-09T12:36:29.895444+00:00"
+    },
+    {
+      "title": "상지대 총학생회, '학생복지 FLEX! 반값 생필품 공동구매' 추진 - 베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44T2s4NWFyVTgyUUdmejVxZFFiUXUwRF84blRoeG5TV0ppTmhyclRkSkx4OTV3Si1UdHBsTEtMRWE3X19ab3l1QWpfOFVldXVJdXA1MDFQcnUxR3JVcUU0S1pmSEh6dzhVNmo3Ng?oc=5",
+      "summary": "상지대 총학생회, '학생복지 FLEX! 반값 생필품 공동구매' 추진 베리타스알파",
+      "source": "베리타스알파",
+      "published_at": "2025-09-30T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "353d36f7f43a083b6bc4",
+      "category": "복지·문화",
+      "collected_at": "2026-08-23T12:26:20.661697+00:00"
     },
     {
       "title": "참가자 저조로 '총학 운동회' 개최 좌절 - 채널PNU",
