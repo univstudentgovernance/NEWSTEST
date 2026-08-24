@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T21:26:42.766553+09:00",
-  "item_count": 714,
+  "updated_at": "2026-08-24T09:54:51.187884+09:00",
+  "item_count": 716,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -2919,6 +2919,18 @@
       "collected_at": "2026-08-08T04:17:35.047837+00:00"
     },
     {
+      "title": "국회서 목소리 낸 총학 회장들...김재섭 \"선거 신뢰 회복 요구 무겁게 받아들여\" - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TMzhjUGVFaHRaeUdVUkc2UmxqdXczb2R5Wmh4N3hSWjNjMW9odGhpUk5ILURMckhjYWFBcF94S2FqQklsRkwzMS1uXzZOb3BfYmM4d2I0Umc4Mm4t?oc=5",
+      "summary": "국회서 목소리 낸 총학 회장들...김재섭 \"선거 신뢰 회복 요구 무겁게 받아들여\" 뉴스핌",
+      "source": "뉴스핌",
+      "published_at": "2026-06-12T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e09e92e2f1d3979e99a6",
+      "category": "선거·조직",
+      "collected_at": "2026-08-24T00:54:22.726741+00:00"
+    },
+    {
       "title": "'투표지 사태' 18개 대학 총학 시국선언...\"참정권 침해 규탄\" - YTN",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WT3k0T1lLdDBoWW41SGlDcDZhSHNHSU16bVdMT1lwRWxDbUNQb3M1c2o4dVA3cmdIbnItR0JlWG5WaW5iRkIyMmFBRks3LUY2TVQ2SkYxdFAyTkdzU0E?oc=5",
       "summary": "'투표지 사태' 18개 대학 총학 시국선언...\"참정권 침해 규탄\" YTN",
@@ -4407,6 +4419,18 @@
       "id": "2aaf79a862c0eca7adc1",
       "category": "기타",
       "collected_at": "2026-08-21T12:33:28.736488+00:00"
+    },
+    {
+      "title": "'투표용지 부족'에 들끓는 대학가, 내일 시국선언… 주요대 총학 참여 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yUV9kMFlSdlgwaks4SGtGTkNPNG1MNkZJMWl5UW1WMTdmVmRTcjNyZ090OThvZVZhZks0WmV0cUFPeGpDT3A4Tnp5S0JmTnlEcFEwSmFLVk13dXZoOENzcm93VHJFTTFaZHVib0Nn0gFzQVVfeXFMTkYxczNiQ25CaHk1cVE1aTAyZ050SVRlU3VzSWFqUHJpSFhXanEtVG1zWGpodGZIdDlXdUxZRFA0UG5idk9LU0hzeEsybmJBelA1N3h1WHZKdTQ0QTVFU1RQdVlOSGpwd2FDZ00zZ3dhRXFaTQ?oc=5",
+      "summary": "'투표용지 부족'에 들끓는 대학가, 내일 시국선언… 주요대 총학 참여 한국일보",
+      "source": "한국일보",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "d72c2bd0602f26e7a42e",
+      "category": "기타",
+      "collected_at": "2026-08-24T00:54:25.979553+00:00"
     },
     {
       "title": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 - 중앙일보",
