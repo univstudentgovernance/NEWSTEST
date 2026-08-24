@@ -1,9 +1,57 @@
 {
-  "updated_at": "2026-08-24T09:54:51.187884+09:00",
-  "item_count": 716,
+  "updated_at": "2026-08-24T21:35:52.763084+09:00",
+  "item_count": 724,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "한남대 총학생회 \"캠퍼스 지나가는 경부고속철도 공사중단 촉구\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55eUtyZ3ZuaUZ4cUxfNFRCUXdZTF9HVXlWdTRJdl8xZ0Nwb0tQSDZ3elV4VkVyNjZGQkREYXZVOXV3aFdfVVNXcV83NHY3ZnVCZ3lNVGgxd2tPX3ZlcW15YdIBYEFVX3lxTE55eUtyZ3ZuaUZ4cUxfNFRCUXdZTF9HVXlWdTRJdl8xZ0Nwb0tQSDZ3elV4VkVyNjZGQkREYXZVOXV3aFdfVVNXcV83NHY3ZnVCZ3lNVGgxd2tPX3ZlcW15YQ?oc=5",
+      "summary": "한남대 총학생회 \"캠퍼스 지나가는 경부고속철도 공사중단 촉구\" 연합뉴스",
+      "source": "연합뉴스",
+      "published_at": "2026-08-24T08:53:19+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "bc7d559c81ff029fa203",
+      "category": "기타",
+      "collected_at": "2026-08-24T12:35:23.532455+00:00"
+    },
+    {
+      "title": "한남대 총학생회 \"캠퍼스 지나가는 경부고속철도 공사중단 촉구\"",
+      "url": "https://www.yna.co.kr/view/AKR20260824149000063",
+      "summary": "(대전=연합뉴스) 이주형 기자 = 대전 도심을 통과하는 경부고속철도 노선을 직선ㆍ지하화하는 대전북연결선 사업을 둘러싸고 국가철도공단과 갈등을 겪...",
+      "source": "연합뉴스",
+      "published_at": "2026-08-24T08:53:19+00:00",
+      "matched_query": "",
+      "feed": "연합뉴스",
+      "id": "3463eb932a787efd4151",
+      "category": "인권·갈등",
+      "collected_at": "2026-08-24T12:35:36.557109+00:00"
+    },
+    {
+      "title": "한남대 총학생회, 캠퍼스 관통 경부고속철도 공사 반대 전면 투쟁 나선다 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsN3p5cjR6cjhSZkZKNlNvZmt6eEFpek9oRlUybFlBbkw3SXdZUWhMVVlXMzJvUHZCQjRsSThkcXZuX0xFcThGZGhrSExHd2hkTzJR?oc=5",
+      "summary": "한남대 총학생회, 캠퍼스 관통 경부고속철도 공사 반대 전면 투쟁 나선다 네이트",
+      "source": "네이트",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4cc0fc5de1400b28904a",
+      "category": "기타",
+      "collected_at": "2026-08-24T12:35:23.532525+00:00"
+    },
+    {
+      "title": "한남대 총학생회, 캠퍼스 관통 경부고속철도 건설공사 전면 재검토 촉구 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ySzZxZElTUnpDWGhON3hIc3ZpZFFWVnIwdVBmWFFfQUVaaVJrbkI2WGpKa0d3RTJ6OU1FQnNzTlNZU2FCNExxM1E5anhOLXVPb3lRVzZJX1JpZGp3Yi1vd9IBZkFVX3lxTE1nTHFGeFQ3RG40Sml2aTI3NEstZTVtUVlxdGZUM2JRRDlnUFAxdi02RFplUklKTjZqQlNtTEtzR3V5TFRjZVl2M1RMZDhqaktyMi1hLW9tSW5QUE80XzlPZ09pT3ZuQQ?oc=5",
+      "summary": "한남대 총학생회, 캠퍼스 관통 경부고속철도 건설공사 전면 재검토 촉구 뉴스1",
+      "source": "뉴스1",
+      "published_at": "2026-08-24T06:17:59+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d0ebd6c4845682deefc9",
+      "category": "기타",
+      "collected_at": "2026-08-24T12:35:23.532497+00:00"
+    },
     {
       "title": "[공주대·충남대 통합 논란 ③] ‘위원인 총학생회장도 회의록 못 봤다’…공주대 통합 논의 ‘깜깜이’ 논란 - 공뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjTGI1Zkk1bE9salZBRkVSMkJfNEtxS2Zxd2xpWjdIOFlXVXdmX1d4cVE4RmlObXIxS1FvMHVJWTZ1cWh2WnVVOUN0Mi03aUh4bi0yTXA0aGtVdlJYOEVRS0lYN2tyQWttTXE2MA?oc=5",
@@ -531,6 +579,18 @@
       "id": "177f9bf9b552a4960340",
       "category": "기타",
       "collected_at": "2026-08-16T00:55:31.491449+00:00"
+    },
+    {
+      "title": "동대문구, 3개 대학 총학생회와 청년정책 '현장 소통' 강화 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqQ2cyWmRFWVZ1QWRTQnFVemNzZi10VkpEd0JzVmVQdTV5Sm5pZFM0b0lhWnREOGVPM1VJRFdTVVVSa0FWNjZNRnVMcGRvamVaYkNvRlMxbW5tZw?oc=5",
+      "summary": "동대문구, 3개 대학 총학생회와 청년정책 '현장 소통' 강화 파이낸셜뉴스",
+      "source": "파이낸셜뉴스",
+      "published_at": "2026-08-11T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f9273776c7592c4431f8",
+      "category": "기타",
+      "collected_at": "2026-08-24T12:35:23.533654+00:00"
     },
     {
       "title": "동대문구, 관내 3개 대학 총학생회와 청년 정책 협약 - 네이트",
@@ -3702,6 +3762,18 @@
       "collected_at": "2026-08-19T12:33:10.857192+00:00"
     },
     {
+      "title": "전북대 총학생회도 \"선거 시스템 불신…시민 참정권 침해\" - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fTEZqV0xsTU1mSjBiWjY2WTZNc0VvRnVPZlA2VEFUMFZaeElyaG92SnhoTE5hWDlrZ2VYaDA1T2gxajgtaWJUTWRqRGlHV0R4bklaWHRCSFR4ZVMtTWJ1WjVB?oc=5",
+      "summary": "전북대 총학생회도 \"선거 시스템 불신…시민 참정권 침해\" 매일신문",
+      "source": "매일신문",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "b5734a4b4c4309e0234f",
+      "category": "선거·조직",
+      "collected_at": "2026-08-24T12:35:26.812027+00:00"
+    },
+    {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14QXZkc01Ub0VPSjBuZjNwMkJoOUhhRllkbFpGVFhvYWVKYmVzcnNyWjN1NHNQVW5HZmJNckNPanZ3NFJPT1ZxdTNJa2Z6X1BXVl82U0wxZ2ZuSXI1eGRtTFVyYVZqWExQ?oc=5",
       "summary": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 안동MBC",
@@ -6631,6 +6703,18 @@
       "collected_at": "2026-08-01T17:27:38.659824+00:00"
     },
     {
+      "title": "[단독] 대학 부총장, '제자 성폭행' 의혹 공론화·진위 확인 시도한 총학생회장에 손배 - 프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yNGo1Y3hRdWRJd2QzY3QzRmZFMzNCQkJiS244WjhuSDRkUk0zS1AwVnZEU3JRYlBrNFk1Q1pOSWNNMXJkSkhvUU5FT19Ranp0MnhIMVNkWHN4X0FSZ0REaHVSVnlLNmIwVzQw?oc=5",
+      "summary": "[단독] 대학 부총장, '제자 성폭행' 의혹 공론화·진위 확인 시도한 총학생회장에 손배 프레시안",
+      "source": "프레시안",
+      "published_at": "2026-02-12T08:00:00+00:00",
+      "matched_query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
+      "feed": "Google News RSS",
+      "id": "ef5261ade1439835f402",
+      "category": "기타",
+      "collected_at": "2026-08-24T12:35:34.660151+00:00"
+    },
+    {
       "title": "조규일 진주시장, 관내 4개 대학 총학생회와 청년 정책 소통 간담회 개최 > 뉴스 - 더코리아",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCbDk0RGstUEEyNHBhYlBGSUNCNl9VTkNIcHFHeEQ3eHpQdlpIQ19XRTNlSE03STUtdHh5T3FyZjctOUlQYy16andxelQyWXBVQTFtWTNyMDVjTlo0VGtnS2QyN0xrbzViT1BtUUU4ZC0?oc=5",
       "summary": "조규일 진주시장, 관내 4개 대학 총학생회와 청년 정책 소통 간담회 개최 > 뉴스 더코리아",
@@ -8189,6 +8273,18 @@
       "id": "86cbd8568e5915ff7706",
       "category": "복지·문화",
       "collected_at": "2026-08-09T12:36:29.895256+00:00"
+    },
+    {
+      "title": "동아대, 총학생회 주관으로 가을축제 성황리 개최 - 베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xSWo4SUI4dFlQUXM1bE1UbUxnQjZBSU5wWC1ycnVubkIyNEEzOUpvS0hWcWtwVkNkX3ZQRVY3RFg5YWpmeGZDcmkxWXZEek5kd3l6TjBnQVE4eDJfa2RqS2wtN2pGSWx3d0tHeA?oc=5",
+      "summary": "동아대, 총학생회 주관으로 가을축제 성황리 개최 베리타스알파",
+      "source": "베리타스알파",
+      "published_at": "2025-09-22T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "b41564b4aa497223c6d2",
+      "category": "복지·문화",
+      "collected_at": "2026-08-24T12:35:31.624405+00:00"
     },
     {
       "title": "서울대 학생자치언론이 지면을 '검은 화면'으로 채운 이유 - 프레시안",
