@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-08-24T21:35:52.763084+09:00",
-  "item_count": 724,
+  "updated_at": "2026-08-25T09:54:56.521282+09:00",
+  "item_count": 726,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "한남대 총학생회, 캠퍼스 관통 경부고속철도 공사 반대 전면 투쟁 나선다 - 데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JMDZqbEplZXdBM1ZuSm5YQ2ZDdWtncGFOYW8xSmNMM19maVRuTTlmQnd0d0g4U0RuNGFRV2FWUGozb0M1VXVnVUlVT3FnMWhlT19BNHZfZTc0NVk5bHYzMkZQUTQ4QWZpTnkyOGVUYkZQVzDSAXNBVV95cUxNSTA2amxKZWV3QTNWbkpuWENmQ3VrZ3BhTmFvMUpjTDNfZmlUbk05ZkJ3dHdIOFNEbjRhUVdhVlBqM29DNVV1Z1VJVU9xZzFoZU9fQTR2X2U3NDVZOWx2MzJGUFE0OEFmaU55MjhlVGJGUFcw?oc=5",
+      "summary": "한남대 총학생회, 캠퍼스 관통 경부고속철도 공사 반대 전면 투쟁 나선다 데일리한국",
+      "source": "데일리한국",
+      "published_at": "2026-08-24T12:52:17+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "96eefbe91535243ab771",
+      "category": "기타",
+      "collected_at": "2026-08-25T00:54:25.396121+00:00"
+    },
     {
       "title": "한남대 총학생회 \"캠퍼스 지나가는 경부고속철도 공사중단 촉구\" - 연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55eUtyZ3ZuaUZ4cUxfNFRCUXdZTF9HVXlWdTRJdl8xZ0Nwb0tQSDZ3elV4VkVyNjZGQkREYXZVOXV3aFdfVVNXcV83NHY3ZnVCZ3lNVGgxd2tPX3ZlcW15YdIBYEFVX3lxTE55eUtyZ3ZuaUZ4cUxfNFRCUXdZTF9HVXlWdTRJdl8xZ0Nwb0tQSDZ3elV4VkVyNjZGQkREYXZVOXV3aFdfVVNXcV83NHY3ZnVCZ3lNVGgxd2tPX3ZlcW15YQ?oc=5",
@@ -27,6 +39,18 @@
       "id": "3463eb932a787efd4151",
       "category": "인권·갈등",
       "collected_at": "2026-08-24T12:35:36.557109+00:00"
+    },
+    {
+      "title": "한남대 총학생회, 국토부 찾아 ‘경부고속철 대전북연결선’ 공사 중단 촉구 - 중부매일",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kaGVyNmNFVTdhaFF0V182aUtpUndkeTVFQUNWdnh0b0ZaZ0E4YXdvY0hYQ000Qkt0UVIzVF8zU3Z5RlJCbFhzb05PVUluZldzaEtnY2wxOWpFNkJOeDlGMF9tQlFldXJfRWc?oc=5",
+      "summary": "한남대 총학생회, 국토부 찾아 ‘경부고속철 대전북연결선’ 공사 중단 촉구 중부매일",
+      "source": "중부매일",
+      "published_at": "2026-08-24T07:39:08+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "9517caca842dc4f52c47",
+      "category": "기타",
+      "collected_at": "2026-08-25T00:54:25.396098+00:00"
     },
     {
       "title": "한남대 총학생회, 캠퍼스 관통 경부고속철도 공사 반대 전면 투쟁 나선다 - 네이트",
