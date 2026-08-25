@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T09:54:56.521282+09:00",
-  "item_count": 726,
+  "updated_at": "2026-08-25T21:35:34.748232+09:00",
+  "item_count": 729,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -243,6 +243,18 @@
       "id": "479fa1216911e0330fb4",
       "category": "기타",
       "collected_at": "2026-08-19T12:33:10.854963+00:00"
+    },
+    {
+      "title": "G3 서울 기획위 청년 정책간담회…총학생회장 등 66명 참석 - 동방일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKZVBtckZoMFgyelowUV9WZ1FCb05pX3I3Q3RtUGpxM1pvT1haN2ZSWmY4VkN1VFROOW9QV1pRTjl6dEZaZjJRa01jX29NRzVFcWJOV3p2V0ZiR2RkMXg5VTRUV3FLdTFYUDN5TUs2cEZ5V3M?oc=5",
+      "summary": "G3 서울 기획위 청년 정책간담회…총학생회장 등 66명 참석 동방일보",
+      "source": "동방일보",
+      "published_at": "2026-08-19T03:55:18+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8bac362bf6db2e3cd48f",
+      "category": "기타",
+      "collected_at": "2026-08-25T12:35:05.495424+00:00"
     },
     {
       "title": "[영상] 블루 아카이브, '0. 총학생회 편 제1장 살구꽃이 피는 어느 봄날에' 공개 - 게임뷰",
@@ -4529,6 +4541,18 @@
       "collected_at": "2026-08-24T00:54:25.979553+00:00"
     },
     {
+      "title": "'투표용지 부족'에 들끓는 대학가, 내일 시국선언… 주요대 총학 참여 - Hankookilbo",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yUV9kMFlSdlgwaks4SGtGTkNPNG1MNkZJMWl5UW1WMTdmVmRTcjNyZ090OThvZVZhZks0WmV0cUFPeGpDT3A4Tnp5S0JmTnlEcFEwSmFLVk13dXZoOENzcm93VHJFTTFaZHVib0Nn0gFzQVVfeXFMTkYxczNiQ25CaHk1cVE1aTAyZ050SVRlU3VzSWFqUHJpSFhXanEtVG1zWGpodGZIdDlXdUxZRFA0UG5idk9LU0hzeEsybmJBelA1N3h1WHZKdTQ0QTVFU1RQdVlOSGpwd2FDZ00zZ3dhRXFaTQ?oc=5",
+      "summary": "'투표용지 부족'에 들끓는 대학가, 내일 시국선언… 주요대 총학 참여 Hankookilbo",
+      "source": "Hankookilbo",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "464b9f6b58e2d55fa91b",
+      "category": "기타",
+      "collected_at": "2026-08-25T12:35:08.612918+00:00"
+    },
+    {
       "title": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 - 중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1M2UtYVRVeTdZZ2dhMzVxaEdiRk9LMVN3Rk56WVA4b1VxZFJkcVllaXo5TGFneTh6N09ZS1FYR19sNXF2ZlVaMkdoeGY1b3AzamliaHFR?oc=5",
       "summary": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 중앙일보",
@@ -7234,6 +7258,18 @@
       "id": "03a3c550d2df14e38818",
       "category": "등록금·교육",
       "collected_at": "2026-08-12T12:54:28.053347+00:00"
+    },
+    {
+      "title": "주요 사립대 2년 연속 등록금 인상 추진에 '2026 등록금 인상 대응 전국 대학 총학생회 공동행동' 발족 기자회견에서 쏟아진 말 - Hankookilbo",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wZDQ0R1A3OWtTbHBvUDhOVDhOUXJKUjJDVG5QSEtZNDMydTY2YTZJdTFJZTlySHFqOTRKNktvdXFoM0gwNURNRGtoVVR5Y0htSlBJQU9CaXJTdy1PRnRXZUhNMlRyZzlhWVFlTFdwWQ?oc=5",
+      "summary": "주요 사립대 2년 연속 등록금 인상 추진에 '2026 등록금 인상 대응 전국 대학 총학생회 공동행동' 발족 기자회견에서 쏟아진 말 Hankookilbo",
+      "source": "Hankookilbo",
+      "published_at": "2026-01-20T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "768b17c5f6452b381027",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-25T12:35:10.329874+00:00"
     },
     {
       "title": "5% 올리고 3% 또?...한국외대 총학생회 \"학교는 등록금 갑질 인상 멈춰라\" - 더에듀",
