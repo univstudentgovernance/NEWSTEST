@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T21:35:34.748232+09:00",
-  "item_count": 729,
+  "updated_at": "2026-08-26T09:55:47.955353+09:00",
+  "item_count": 731,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -111,6 +111,18 @@
       "id": "dbb686e38ce810db9ae4",
       "category": "기타",
       "collected_at": "2026-08-21T12:33:28.735010+00:00"
+    },
+    {
+      "title": "한남대 총학 \"대전북연결선 공사 중단·노선 변경해야…학습권 침해 우려\" - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15TWc4LXZjRWE4NzNaRGxKOW9XcDFZS1RDaXJSMnBYYWVuUS1tUUVaMzhzMUlvWGMxUWxBQ1RmN190MGw1U1pYQ09GRF81bDhES19BLQ?oc=5",
+      "summary": "한남대 총학 \"대전북연결선 공사 중단·노선 변경해야…학습권 침해 우려\" v.daum.net",
+      "source": "v.daum.net",
+      "published_at": "2026-08-21T06:01:49+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "6ee88605b44ea814eeed",
+      "category": "기타",
+      "collected_at": "2026-08-26T00:55:14.114861+00:00"
     },
     {
       "title": "넥슨, ‘블루 아카이브’ 메인 스토리 2부 ‘총학생회 편’ 업데이트 실시 - 브레이크뉴스",
@@ -5912,6 +5924,18 @@
       "id": "9d412f09e47602c47270",
       "category": "의결·자치",
       "collected_at": "2026-08-14T01:21:15.349974+00:00"
+    },
+    {
+      "title": "팍팍한 청춘…대학 총학생회가 사라졌다 - 모바일한경",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmNxek5jdlhOajY4azJzb2YxNjZ5T21ya1p2MUxYbEZiZWpNNmI0SVZMYlhoQzh0WVdNQkh5UzNpRnpZbzd1bm50RlpPMkxXOTFKRVFWaWI3d0JNVmRodTNUUVpOVXZWVFpVMDZJUUt1am1oZHkwNS14MXkzaS1JeEdWeDhMQUc5MFJocmdPcF8xRl9KOUc5ZWpOQ25ITVpWVnJLRGVqRnlKaGxuM3c?oc=5",
+      "summary": "팍팍한 청춘…대학 총학생회가 사라졌다 모바일한경",
+      "source": "모바일한경",
+      "published_at": "2026-04-07T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "bab6abddb9e326877d75",
+      "category": "기타",
+      "collected_at": "2026-08-26T00:55:14.116222+00:00"
     },
     {
       "title": "팍팍한 청춘…대학 총학생회가 사라졌다 - 한국경제",
