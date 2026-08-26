@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-08-26T09:55:47.955353+09:00",
-  "item_count": 731,
+  "updated_at": "2026-08-26T21:38:52.395916+09:00",
+  "item_count": 733,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "총학생회 건의가 현실로… 한세대, 기숙사·학생복지시설 개선 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oM0JfNEZzM3gtX0s1WkUweHdobGlyNl9PSFduYnNYY2ZaN3R5LTREdkUwUEZSXzVRMDBvMGNTQ29PTXdldDEzQV85bDVpdHZ3QjBkYXVhY3RWczA?oc=5",
+      "summary": "총학생회 건의가 현실로… 한세대, 기숙사·학생복지시설 개선 경기일보",
+      "source": "경기일보",
+      "published_at": "2026-08-26T05:28:18+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "5c3a4800623ea61d1d6d",
+      "category": "복지·문화",
+      "collected_at": "2026-08-26T12:38:21.339278+00:00"
+    },
     {
       "title": "한남대 총학생회, 캠퍼스 관통 경부고속철도 공사 반대 전면 투쟁 나선다 - 데일리한국",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JMDZqbEplZXdBM1ZuSm5YQ2ZDdWtncGFOYW8xSmNMM19maVRuTTlmQnd0d0g4U0RuNGFRV2FWUGozb0M1VXVnVUlVT3FnMWhlT19BNHZfZTc0NVk5bHYzMkZQUTQ4QWZpTnkyOGVUYkZQVzDSAXNBVV95cUxNSTA2amxKZWV3QTNWbkpuWENmQ3VrZ3BhTmFvMUpjTDNfZmlUbk05ZkJ3dHdIOFNEbjRhUVdhVlBqM29DNVV1Z1VJVU9xZzFoZU9fQTR2X2U3NDVZOWx2MzJGUFE0OEFmaU55MjhlVGJGUFcw?oc=5",
@@ -7584,6 +7596,18 @@
       "id": "7d4f57953aaed0ade357",
       "category": "등록금·교육",
       "collected_at": "2026-08-16T12:26:04.093889+00:00"
+    },
+    {
+      "title": "등록금 정책 ‘전국총학생회협의회’ 의견 듣는다 - 대학저널",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GNjlULWZuM0tUeVYyMEhFdy1PSVdobXJhMUNKVWVMRTZhdjhhcC1tWmkwbVVNVUk3aGw4a3lOYnFrTWJzdURxMjJHRFE1aTlaTDlpZjFWbWM0Sml5Z1HSAWpBVV95cUxPWkgzQUpkYWxQbnRITnp0MVRab1hXWjkzSFVxV2hUMGFJNUVxRUFrYVF1YlhmdGNScjN2dTZKN2hfamx2Y2dnRWdCZFBKNmVQREJDQlFNREttSS1RcEdlZGlXNjFNT0gydW5n?oc=5",
+      "summary": "등록금 정책 ‘전국총학생회협의회’ 의견 듣는다 대학저널",
+      "source": "대학저널",
+      "published_at": "2026-01-13T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "b3461b3645a6a0a344a3",
+      "category": "등록금·교육",
+      "collected_at": "2026-08-26T12:38:26.069037+00:00"
     },
     {
       "title": "부산외대, 학생자치기구와 ‘학생 행복’ 정책 간담회 성료 - 부산일보",
