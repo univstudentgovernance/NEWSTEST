@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-08-26T21:38:52.395916+09:00",
-  "item_count": 733,
+  "updated_at": "2026-08-27T15:39:36.714739+09:00",
+  "item_count": 734,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [],
+  "failures": [
+    {
+      "source": "연합뉴스",
+      "error": "ParseError: not well-formed (invalid token): line 1129, column 80"
+    }
+  ],
   "items": [
     {
       "title": "총학생회 건의가 현실로… 한세대, 기숙사·학생복지시설 개선 - 경기일보",
@@ -2492,6 +2497,18 @@
       "id": "1524b357d00516fe52f6",
       "category": "기타",
       "collected_at": "2026-08-01T17:27:17.516995+00:00"
+    },
+    {
+      "title": "경기대 총학생회·교수회·노조 “성비위 의혹 총장 선출 취소해야” - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rLXFIUTYxX3EyMTBxMnpoTDBYbnZlS3JUaTBsa3U0Q2pSRmJ2bEgtcnJ5U2tuU3NVbV9qaTBDYXdUc0RXZE9KOGZ4SQ?oc=5",
+      "summary": "경기대 총학생회·교수회·노조 “성비위 의혹 총장 선출 취소해야” v.daum.net",
+      "source": "v.daum.net",
+      "published_at": "2026-07-09T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b4b0826f06c152605eca",
+      "category": "기타",
+      "collected_at": "2026-08-27T06:39:04.117757+00:00"
     },
     {
       "title": "총학생회 보이콧… 충북대 총장 선거 ‘투표반영비율’ 발목 - 중부매일",
