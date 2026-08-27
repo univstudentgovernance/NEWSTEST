@@ -1,13 +1,8 @@
 {
-  "updated_at": "2026-08-27T15:39:36.714739+09:00",
+  "updated_at": "2026-08-28T06:35:08.746826+09:00",
   "item_count": 734,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
-    {
-      "source": "연합뉴스",
-      "error": "ParseError: not well-formed (invalid token): line 1129, column 80"
-    }
-  ],
+  "failures": [],
   "items": [
     {
       "title": "총학생회 건의가 현실로… 한세대, 기숙사·학생복지시설 개선 - 경기일보",
