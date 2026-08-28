@@ -1,9 +1,57 @@
 {
-  "updated_at": "2026-08-28T17:29:30.711245+09:00",
-  "item_count": 735,
+  "updated_at": "2026-08-29T06:38:55.272476+09:00",
+  "item_count": 739,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "[속보] 총학 비대위장, 비상대책위원회 설립위원회 통해 선출돼 - 연세춘추",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BSkFJUHhqbF9BaW1WdDFKbEpuOFFlSlVrOUJIQkQ0SExlcm0zdjRzM1lZV2JTMGlSZ3lwQlZ0MnBPRFVJeDBZaGRWMlBfSGxPQmd0R1JIMG1aUDZrdnU4a2xpYzNCYVZSbW4wYTZYQQ?oc=5",
+      "summary": "[속보] 총학 비대위장, 비상대책위원회 설립위원회 통해 선출돼 연세춘추",
+      "source": "연세춘추",
+      "published_at": "2026-08-28T15:01:31+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "32a46df0dd73a9305cc3",
+      "category": "선거·조직",
+      "collected_at": "2026-08-28T21:38:23.857079+00:00"
+    },
+    {
+      "title": "총학 공약 31.8% 완료··· 핵심 공약은 여전히 ‘미확정’ - 채널PNU",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41SkUwSTdkZTdWRVFTc01NSGRXT1pPYXFPMHpKOTdBaDVtcnY1S0N4SUtORkhTc01lVURPeDlEOGNrWEdZUTA0aWdabjlsclZsYjBaeEU0cHVLQUt2S0RCY0tvR2c4VDdDckUySjFuaWJFc0h6cGfSAXZBVV95cUxONUpFMEk3ZGU3VkVRU3NNTUhkV09aT2FxTzB6Sjk3QWg1bXJ2NUtDeElLTkZIU3NNZVVET3g5RDhja1hHWVEwNGlnWm45bHJWbGIwWnhFNHB1S0FLdktEQmNLb0dnOFQ3Q3JFMkoxbmliRXNIenBn?oc=5",
+      "summary": "총학 공약 31.8% 완료··· 핵심 공약은 여전히 ‘미확정’ 채널PNU",
+      "source": "채널PNU",
+      "published_at": "2026-08-28T09:36:17+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "469c58b0d782889d8f9e",
+      "category": "복지·문화",
+      "collected_at": "2026-08-28T21:38:23.857123+00:00"
+    },
+    {
+      "title": "영남대학교 일반대학원 제42대 총학생회장에 석주현 당선… - 뉴스N연합",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGVFhHMWQ3dDdDc0FEUVFUMUl3dXVkdTZuaTIzX041Wkp5TFJCZE9ka3IxNHEwbmpYQ1hOaVo3RkJfWTNNMTh5LTZR?oc=5",
+      "summary": "영남대학교 일반대학원 제42대 총학생회장에 석주현 당선… 뉴스N연합",
+      "source": "뉴스N연합",
+      "published_at": "2026-08-28T08:02:24+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "eb0f651b7964050fdcdb",
+      "category": "선거·조직",
+      "collected_at": "2026-08-28T21:38:23.857178+00:00"
+    },
+    {
+      "title": "동명대 인권센터·총학생회, 전문 탐지장비 활용해 불법촬영카메라 합동 점검 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QNEU1MDVrYTNxMlNYT3hRa3dtSnFYU2RVRzZDX2FLbHRHREUwWjBMOS14Zl84bUJvODBmcGFmNW5CbzRpZWNDMmpmbVZlTUMzWjFCWV9JQklEMTdhaUZGNUlRQVFtVjd1UGY4bFA1VVdHdw?oc=5",
+      "summary": "동명대 인권센터·총학생회, 전문 탐지장비 활용해 불법촬영카메라 합동 점검 부산일보",
+      "source": "부산일보",
+      "published_at": "2026-08-28T07:40:14+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b33d79d856f995ec08dd",
+      "category": "인권·갈등",
+      "collected_at": "2026-08-28T21:38:23.857154+00:00"
+    },
     {
       "title": "총학생회 건의가 현실로… 한세대, 기숙사·학생복지시설 개선 - 경기일보",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oM0JfNEZzM3gtX0s1WkUweHdobGlyNl9PSFduYnNYY2ZaN3R5LTREdkUwUEZSXzVRMDBvMGNTQ29PTXdldDEzQV85bDVpdHZ3QjBkYXVhY3RWczA?oc=5",
