@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T06:35:08.746826+09:00",
-  "item_count": 734,
+  "updated_at": "2026-08-28T17:29:30.711245+09:00",
+  "item_count": 735,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -5047,6 +5047,18 @@
       "id": "e4d358d0603f5a5528c4",
       "category": "복지·문화",
       "collected_at": "2026-08-10T12:53:55.671714+00:00"
+    },
+    {
+      "title": "[포토뉴스] 제39대 총학생회 축제 「2026 세종연회 : Hidden PIECE」 - 셋째 날 - sejong.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNQWFMRlJKNXBUeTRORE1qWFRUbDV3bkR4em9jMnAwY083dUEtdW43ODFLRWt5bGZSNkdSa1k5c2Y4V3ZxNUg2d2FzYjJzdjhrblpXMG5TcEV5QjJfd1NzUGRMVXNsUkZTUGpWeW93ZndxLVdMT2d0UEtKOGVFVGxyLWVDZXJNdlJkRWoyOUxGdTBzZ1hqYy0wQkl4MEdKS0lnSDB5MGNwclBZZTN2V2pUWDhRNU9TODc2SEFMZmhnOFhWRUJGUmxpYXNJay1MWTlBRjVZcWZnR2RwTmI4VVA4czZmbHBwNldScXpCTUlHZG5EYWZCUlJZTUx4OVJ5Q3lBaFZjRjBlb1hwVVZsUlBSdTg1UHFqdDFPX3c3ZEtENWlDV0lQQ1NXZmlTbU1qOXRaTzZkQ3l2WnNZT0ZEZVFkb3FMVWJtWWVfb1ZGQVBvakNtaU5fUDhFT3BwRzh0bjRsTDhXNVc0LVY3U29ZMTNxaWpqb2NpX2RZMkFQZUdqb1B1Ml9yckNBb0pxdGd6UGhweGx2S3pKT3RsTmFCNXNWSXZjV3hIZUw3azFzd0RuY09ZTFFWT3AtdFpwVQ?oc=5",
+      "summary": "[포토뉴스] 제39대 총학생회 축제 「2026 세종연회 : Hidden PIECE」 - 셋째 날 sejong.ac.kr",
+      "source": "sejong.ac.kr",
+      "published_at": "2026-05-26T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "c5730ef85a63898e679f",
+      "category": "복지·문화",
+      "collected_at": "2026-08-28T08:29:09.786385+00:00"
     },
     {
       "title": "[뉴스] 투표율 50%에 멈춘 학생자치... 개표 요건 다시 물어야 - 경희대학교 미디어센터",
