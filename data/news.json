@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T06:38:55.272476+09:00",
-  "item_count": 739,
+  "updated_at": "2026-08-29T14:09:58.071278+09:00",
+  "item_count": 740,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -3073,6 +3073,18 @@
       "id": "7513dbecf9f1c2fba3cc",
       "category": "기타",
       "collected_at": "2026-08-17T00:53:10.835317+00:00"
+    },
+    {
+      "title": "전국 대학 총학생회, ‘투표용지 부족 사태’ 선관위 항의 방문… 진상규명·재발방지 대책 요구 - 세계일보",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Nb09WbE1xVUpXSDRyb0ZkOUowYzdGNE0wQVZQYThsbGtPanZzamQyNEJkM3FlcFduNGprbzlHOTh3UWRHRzhDSy0yM2lmS1RlS2J2bVlhMmfSAVRBVV95cUxQZzVSY3pyVnpRVnhpSWdEY0tpc2dzdHZwLU9UMllEVGFxeThVSzIyQjlKcXp3dzUxeEdvYjZrRHdyTFNzZU1rdFJRQ0s0UVhBREt6Z3M?oc=5",
+      "summary": "전국 대학 총학생회, ‘투표용지 부족 사태’ 선관위 항의 방문… 진상규명·재발방지 대책 요구 세계일보",
+      "source": "세계일보",
+      "published_at": "2026-06-17T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "5a045d0d3b4e3b9c100b",
+      "category": "기타",
+      "collected_at": "2026-08-29T05:09:29.487948+00:00"
     },
     {
       "title": "“청년으로서 참정권 수호할 것” 서울권 대학 총학생회 ‘투표용지 부족 사태’ 규탄해 - 대학알리",
