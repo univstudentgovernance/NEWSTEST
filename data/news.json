@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T14:09:58.071278+09:00",
-  "item_count": 740,
+  "updated_at": "2026-08-30T01:02:56.635725+09:00",
+  "item_count": 743,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -3906,6 +3906,30 @@
       "collected_at": "2026-08-24T12:35:26.812027+00:00"
     },
     {
+      "title": "16개大 총학 시국선언 “참정권 침해 사태 진상 규명하라” - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc3VoYjJtVWlpVzAzVE83UzJfX3hlQkQ4b2NsWEs2bV90aEZMZGxqdTNhRWsxd2pXYVlUenktY2hoc0JHTi11WVg0ZFlSNEN4MGVqVFJhcTlkaHlkU3VZbVVUc3J0MGl6Q3IzZU5fT0NGNnpwTEJZbFlGWnN1U2VWNXgxYmF1S1JNSnfSAZ4BQVVfeXFMT2pLWERWY2o3aEVCbFhqU1BybmtEZW4yMnBrMy1teFJ0dmRyc2ItSzNyMFhnbEZTUnV3dGNpTmFlVjRJNHhkVm5YSVlzWGFubk5rNXlmeVRtTFgyMWJMWVhOdkhQTlZyNkVJeFRFbzBxV0J1SFVFenVvNWU0cExVd3VtVXFlSkJ2NVpDdGdVMUg5RU9sc18tWmE4MTlXb3c?oc=5",
+      "summary": "16개大 총학 시국선언 “참정권 침해 사태 진상 규명하라” - 조선비즈 Chosunbiz",
+      "source": "Chosunbiz",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ad45a606c408a27a8efe",
+      "category": "기타",
+      "collected_at": "2026-08-29T16:02:28.754246+00:00"
+    },
+    {
+      "title": "전북대 총학생회 시국 선언…“참정권 훼손” - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ncDh1cFFxQXlYd0ktRzQ0c28wQTVWandaTG1ka0ZHNEw3aG15Z2I0MFQ2MWRLMTlVY3hLZmZpZTRsVmN4eWNRaG1Ldk9qNFpyTkV0ZE9Jc2ZIcVE?oc=5",
+      "summary": "전북대 총학생회 시국 선언…“참정권 훼손” KBS 뉴스",
+      "source": "KBS 뉴스",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "3ce3461d1a93e2d3f3c2",
+      "category": "기타",
+      "collected_at": "2026-08-29T16:02:28.754336+00:00"
+    },
+    {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14QXZkc01Ub0VPSjBuZjNwMkJoOUhhRllkbFpGVFhvYWVKYmVzcnNyWjN1NHNQVW5HZmJNckNPanZ3NFJPT1ZxdTNJa2Z6X1BXVl82U0wxZ2ZuSXI1eGRtTFVyYVZqWExQ?oc=5",
       "summary": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 안동MBC",
@@ -4647,6 +4671,18 @@
       "id": "464b9f6b58e2d55fa91b",
       "category": "기타",
       "collected_at": "2026-08-25T12:35:08.612918+00:00"
+    },
+    {
+      "title": "“투표용지 부족 진상규명” 지역 대학 총학생회 성명 잇따라 - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92OUo1amIxTG9jQ00zbThCWlF6MS1nOTExUV9EN3oxQVFhV01xNVdwU2pCYVhLYmxjeFk0cEpWdHhXUThPQkR5MXU5WWd6RjdIUnRpSjU4MUkzdFE?oc=5",
+      "summary": "“투표용지 부족 진상규명” 지역 대학 총학생회 성명 잇따라 KBS 뉴스",
+      "source": "KBS 뉴스",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8513e7749087bd0b4377",
+      "category": "인권·갈등",
+      "collected_at": "2026-08-29T16:02:28.754587+00:00"
     },
     {
       "title": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 - 중앙일보",
