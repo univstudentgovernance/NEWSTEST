@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-08-31T11:54:56.773293+09:00",
-  "item_count": 760,
+  "updated_at": "2026-09-01T03:36:02.722090+09:00",
+  "item_count": 765,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "동명대 인권센터-총학생회, 전문 탐지장비 활용해 불법촬영카메라 합동 점검 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaFE5cnhtOGowTEdkZGhDcFNueURtcVp4TmZNZExzQjBJS3NZRjk4SHVYNkNZLVRERjRzRGdRRWowRTBOTWxIaktqbzlrTkVMODkydUlHNmJYLVY2c0Q4bEl3OEc0X083ei1TU2twbWpRSU5uazRCTVVJalgtS0dhM01rWjlrWnhhVjVfNEVB?oc=5",
+      "summary": "동명대 인권센터-총학생회, 전문 탐지장비 활용해 불법촬영카메라 합동 점검 국제신문",
+      "source": "국제신문",
+      "published_at": "2026-08-31T05:23:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "9ea9e2ee1b316ef17a16",
+      "category": "인권·갈등",
+      "collected_at": "2026-08-31T18:35:28.696100+00:00"
+    },
     {
       "title": "[속보] 총학 비대위장, 비상대책위원회 설립위원회 통해 선출돼 - 연세춘추",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BSkFJUHhqbF9BaW1WdDFKbEpuOFFlSlVrOUJIQkQ0SExlcm0zdjRzM1lZV2JTMGlSZ3lwQlZ0MnBPRFVJeDBZaGRWMlBfSGxPQmd0R1JIMG1aUDZrdnU4a2xpYzNCYVZSbW4wYTZYQQ?oc=5",
@@ -2300,6 +2312,18 @@
       "collected_at": "2026-08-23T00:55:49.950143+00:00"
     },
     {
+      "title": "국립순천대학교 총학생회, \"국립의과대학 설립과 대학 통합 ,대학 구성원과 지역사회 의견 충분히 반영해야\" - newsggam.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yQlhSOHg1ZDl3d1U0QnRXS1ZTSHRSRkN5NHN4QkQzZ1hBX21Wb214NFItUG9PcWp1VkJGV19yX3A4bmI5c212MU43eWIxanI0XzZ5dlR6SjRQUF81YnpBOXlHckNLYUw4dmc?oc=5",
+      "summary": "국립순천대학교 총학생회, \"국립의과대학 설립과 대학 통합 ,대학 구성원과 지역사회 의견 충분히 반영해야\" newsggam.com",
+      "source": "newsggam.com",
+      "published_at": "2026-07-20T10:01:10+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ae78c811fccd87e026fa",
+      "category": "기타",
+      "collected_at": "2026-08-31T18:35:28.697079+00:00"
+    },
+    {
       "title": "“의과대학 전리품 아니다”…순천대 총학, 정치 개입 중단 촉구 - 진일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPZUptLXZqYm9XOEtQemM4c3FIYlA2OEtkRmRQZDE5YXAwYmVsZFRQRjNIRllZd29COE5IaVdkaTQ2VWlxdDdoY2hiSHFvLWR4UWVmTkp4WXhxN0JRTFk0Wm10U0dGOU40UEYyMnkyYw?oc=5",
       "summary": "“의과대학 전리품 아니다”…순천대 총학, 정치 개입 중단 촉구 진일보",
@@ -2749,6 +2773,18 @@
       "id": "fad1ec4c126d34a9e61f",
       "category": "의결·자치",
       "collected_at": "2026-08-02T07:55:07.962233+00:00"
+    },
+    {
+      "title": "(이사람) 차세희 대구시노인종합복지관 노인대학 총학생회장 - kbmaeil.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mYkpjdFVYdlVPMVBGbzJYcG9HcGt5VTdOY0Z0MTIxSlNnaEhnVHl2YlhTRjVmc1g1dXdQNmgtZUo0OG82TTJWS1U4S1Q2WHZGc3MtR21YeUZiQQ?oc=5",
+      "summary": "(이사람) 차세희 대구시노인종합복지관 노인대학 총학생회장 kbmaeil.com",
+      "source": "kbmaeil.com",
+      "published_at": "2026-06-28T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b0cbdbf6c1e535b53b96",
+      "category": "복지·문화",
+      "collected_at": "2026-08-31T18:35:28.697551+00:00"
     },
     {
       "title": "김문수 의원, 등록금심의위원회 학생 참여 확대 법안 대표발의 - 교육연합신문",
@@ -5677,6 +5713,18 @@
       "collected_at": "2026-08-08T04:17:35.047492+00:00"
     },
     {
+      "title": "“학우들의 든든한 버팀목 되겠다” 총학 공백 메울 비대위 체제 1년 - KNSU 미디어",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vTy0yWU1IU0lKSlc0M1BtTUlseFJtY1BMd2g3bWZUb28wSjFsRGp6ZDRWeXZUSi1aUk1tM001b0ZndzB0eWxHcHphbXJZZU5lNThYV2hnY2ZXNW5Vcm0zMktiMWQ2QmM?oc=5",
+      "summary": "“학우들의 든든한 버팀목 되겠다” 총학 공백 메울 비대위 체제 1년 KNSU 미디어",
+      "source": "KNSU 미디어",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f0a6d2688a01afb54468",
+      "category": "선거·조직",
+      "collected_at": "2026-08-31T18:35:28.697463+00:00"
+    },
+    {
       "title": "4월 재선거 마무리… 총학 공백 속 단과대·기층단위 학생회 일부 구성돼 - 연세춘추",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYUTBEOGtyaTJLR2o4YzF2MXdPN19KSVJuOWxCc2RBQ0llZnFNeWh0ZDg0SW02aVlEMUo5NWdqd2VrTS1QTERqdnlDbTVUTTJYYVQ0ak1aWHRDaFVGQnZjbWt5RTE0ZHNQVU9CVERxRQ?oc=5",
       "summary": "4월 재선거 마무리… 총학 공백 속 단과대·기층단위 학생회 일부 구성돼 연세춘추",
@@ -6768,6 +6816,18 @@
       "id": "aa6c26ae3ad5b5d0c273",
       "category": "의결·자치",
       "collected_at": "2026-08-31T02:54:26.907960+00:00"
+    },
+    {
+      "title": "국립한밭대 제42대 총학생회 ‘혜성’ 출범 - 뉴스티앤티",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zUVd5VHpJWVptd1Y0Vnd1SC1yNk5maEJGeVcwcWltT2ROT2RxNXRDV3FIUERyNTNLQk5nZU9BWkp0OWlKRVBsNkFueUFrSWlCM0ZLMHNHYXhsU3JsQ1l1X3lkM29DWTBSX2c?oc=5",
+      "summary": "국립한밭대 제42대 총학생회 ‘혜성’ 출범 뉴스티앤티",
+      "source": "뉴스티앤티",
+      "published_at": "2026-03-12T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "44ac9b1d3e2d7aa2c279",
+      "category": "기타",
+      "collected_at": "2026-08-31T18:35:30.448068+00:00"
     },
     {
       "title": "휘청이는 학생자치…새학기 불구 대학 곳곳서 '총학생회 공백' 뚜렷 - 대전일보",
