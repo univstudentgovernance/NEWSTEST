@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-09-01T12:02:52.512716+09:00",
-  "item_count": 772,
+  "updated_at": "2026-09-02T00:55:43.350693+09:00",
+  "item_count": 777,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "충남대 총학생회 비대위 “절차 무너진 공주대와의 통합 강력 규탄” - 충청신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtMkltWFBTR0d0VlhIXzZwUDlwNXhRcXZDeEVsbkhtT0hVMWNzV1pacmMzUl9GMm5OSHhNQ0RPTEhQWXJmU2lZX29MQzRQR0lBcng4NnpmeGlZWHRzSC0yQ1hfeEpYZHZ6dmfSAW5BVV95cUxQa1NqNWI2b0p5QVJKd1hFTWFpeEZyaWNMVWR6a1hIT1BtVkVvT2pWdnR6QVBUV2pteDFEeXA0aGd2amctZUd2U1BBWlpnMFppS1o5ZHVDbG1VaUQ0dlhjTlk1RXNkRnZ1OUFjbkdkdw?oc=5",
+      "summary": "충남대 총학생회 비대위 “절차 무너진 공주대와의 통합 강력 규탄” 충청신문",
+      "source": "충청신문",
+      "published_at": "2026-09-01T08:02:52+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b8334d9bdea88ba04b0b",
+      "category": "선거·조직",
+      "collected_at": "2026-09-01T15:55:16.500589+00:00"
+    },
+    {
+      "title": "\"개강에 강한 자들이여 사자상 앞으로\"... 총학생회 비대위, 사자상 일대서 2학기 개강 행사 개최 - 뉴스H",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JYzdwM0hhc3BZcGpXSlZjajVMdFprZDdELS01TXI2OTk2NktLNTRHaGtPNk81TmhLaDZYZGsyLWd3QnRYbHJoZnhBSHRsMDdwT0VKVGdxRE0yelkzcjBIR21yOXpOYWVuY2Q0?oc=5",
+      "summary": "\"개강에 강한 자들이여 사자상 앞으로\"... 총학생회 비대위, 사자상 일대서 2학기 개강 행사 개최 뉴스H",
+      "source": "뉴스H",
+      "published_at": "2026-09-01T04:16:07+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "2c4b16cc785f1ddbdfe4",
+      "category": "선거·조직",
+      "collected_at": "2026-09-01T15:55:16.500546+00:00"
+    },
     {
       "title": "동명대 인권센터-총학생회, 전문 탐지장비 활용해 불법촬영카메라 합동 점검 - 국제신문",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaFE5cnhtOGowTEdkZGhDcFNueURtcVp4TmZNZExzQjBJS3NZRjk4SHVYNkNZLVRERjRzRGdRRWowRTBOTWxIaktqbzlrTkVMODkydUlHNmJYLVY2c0Q4bEl3OEc0X083ei1TU2twbWpRSU5uazRCTVVJalgtS0dhM01rWjlrWnhhVjVfNEVB?oc=5",
@@ -87,6 +111,18 @@
       "id": "5c3a4800623ea61d1d6d",
       "category": "복지·문화",
       "collected_at": "2026-08-26T12:38:21.339278+00:00"
+    },
+    {
+      "title": "총학생회 건의가 현실로… 한세대, 기숙사·학생복지시설 개선 - kyeonggi.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oM0JfNEZzM3gtX0s1WkUweHdobGlyNl9PSFduYnNYY2ZaN3R5LTREdkUwUEZSXzVRMDBvMGNTQ29PTXdldDEzQV85bDVpdHZ3QjBkYXVhY3RWczA?oc=5",
+      "summary": "총학생회 건의가 현실로… 한세대, 기숙사·학생복지시설 개선 kyeonggi.com",
+      "source": "kyeonggi.com",
+      "published_at": "2026-08-26T05:28:18+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "a78b7e28d8eda55550e4",
+      "category": "복지·문화",
+      "collected_at": "2026-09-01T15:55:16.500723+00:00"
     },
     {
       "title": "한남대 총학생회, 캠퍼스 관통 경부고속철도 공사 반대 전면 투쟁 나선다 - 데일리한국",
@@ -411,6 +447,18 @@
       "id": "bf7bec4737f5d9b4945d",
       "category": "기타",
       "collected_at": "2026-08-18T12:31:57.021148+00:00"
+    },
+    {
+      "title": "G3서울 ‘청년 AI 사다리’ 의견수렴… 총학생회장들 “이용권 넘어 체계적 교육 필요” - newscj.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQMGVaQktWUWRObWJVdXB5Ym9uSXNfLWVvOVBhSjVyQ1h2am12SHhiTzM0c1g1dmhwVTVlT3dzcXlXZVA0eE5oamh0ZjUyQ0xRb1RzVnNHakkxVjZtZVk5V0FNdEF6cml6QUE?oc=5",
+      "summary": "G3서울 ‘청년 AI 사다리’ 의견수렴… 총학생회장들 “이용권 넘어 체계적 교육 필요” newscj.com",
+      "source": "newscj.com",
+      "published_at": "2026-08-18T02:24:27+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8f4d2408dbd446583e00",
+      "category": "기타",
+      "collected_at": "2026-09-01T15:55:16.500869+00:00"
     },
     {
       "title": "G3 서울 기획위 청년 정책간담회…총학생회장 등 66명 참석 - 뉴시스",
@@ -7798,6 +7846,18 @@
       "collected_at": "2026-08-11T12:49:21.210139+00:00"
     },
     {
+      "title": "한국외대, 등록금 3.19%↑ 추진에…총학 \"인상 철회하라\" - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wYXduc29MOUZjaEpZUVJJTExac281UHZvVWhYMzlIVy1TdGlDb2VleThHcnlzelNtc3FhQzZPd0xZeGs2YnUzNEVSOWI0TGtqZDJn?oc=5",
+      "summary": "한국외대, 등록금 3.19%↑ 추진에…총학 \"인상 철회하라\" 네이트",
+      "source": "네이트",
+      "published_at": "2026-01-19T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "b09e3e311a48af399059",
+      "category": "등록금·교육",
+      "collected_at": "2026-09-01T15:55:21.286266+00:00"
+    },
+    {
       "title": "등록금 3% 인상에 외대 총학 “갑질 인상 반대”…학생 반발 확산 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQnc2YUtvVFVGdTgyaVhzOS13dnc5UmRIc3J0TmpCTG9kSlRnb0tBVUxaZ09KcndEb0NxNnM1dzByOXhOaDk5ZTh0bEpaTUE?oc=5",
       "summary": "등록금 3% 인상에 외대 총학 “갑질 인상 반대”…학생 반발 확산 v.daum.net",
@@ -7957,6 +8017,18 @@
       "id": "4320ca5671bd6bf9466d",
       "category": "등록금·교육",
       "collected_at": "2026-08-17T00:53:12.505688+00:00"
+    },
+    {
+      "title": "전국총학생회협의회, 교육부에 “올해 등록금 동결 공식화 해달라” 요구 - 한겨레신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02YTF6TzBnZDVaZWtRUGhPUWI1SkE4b3BlYjNBSy1nQThjYmhSR3hsWFd0T2hna01KWlEyNHpWRWxMNUIwVFJmam5ERklORHA1SXNwMUJaWF9tcWlOX2RzTXVBc0szeHVxQmc?oc=5",
+      "summary": "전국총학생회협의회, 교육부에 “올해 등록금 동결 공식화 해달라” 요구 한겨레신문",
+      "source": "한겨레신문",
+      "published_at": "2026-01-14T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "59bc7f0a3c321eab76d0",
+      "category": "등록금·교육",
+      "collected_at": "2026-09-01T15:55:21.285621+00:00"
     },
     {
       "title": "교육장관, 전국총학생회협의회 임원진과 등록금 정책 논의 - 연합뉴스",
@@ -9001,17 +9073,6 @@
       "id": "5e6769e2590eb3f294ab",
       "category": "인권·갈등",
       "collected_at": "2026-08-16T12:26:00.766653+00:00"
-    },
-    {
-      "title": "임기 네 달 남은 총학, 공약 완료율 23.8% - 채널PNU",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TVVJXM1VLZE9GMDgzaGtDSzRIazNTb0JCTnR1X2tnU1ZkczZ6bDVPRmdMMllMUVUtSW1LLUo2S3pUZWFpWmNlTWIzNmRSZ0FOUG5CUUQyZUNtV2p1YjdmZGF1TXphNE1XeGJXcXdHV21CUdIBdkFVX3lxTE9oZ2dZR2FFSHpFNFg4bDdQcWdkT2R1YWpQYUIzYk1ONU4zbUk3RDhCdGdfNlRidnFfaDFMQU5nYzVWbEZtT29ia19pYlk1d3RIQ0lqSlk5VmQtUVg5QTlUT1k0RFlfd1owc2hDeU1NSXNISmVTNGc?oc=5",
-      "summary": "임기 네 달 남은 총학, 공약 완료율 23.8% 채널PNU",
-      "source": "채널PNU",
-      "published_at": "2025-09-01T07:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "id": "94c6b73f9624d2dc1194",
-      "category": "복지·문화",
-      "collected_at": "2026-08-01T17:27:38.659989+00:00"
     }
   ]
 }
