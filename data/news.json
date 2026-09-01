@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T03:36:02.722090+09:00",
-  "item_count": 765,
+  "updated_at": "2026-09-01T12:02:52.512716+09:00",
+  "item_count": 772,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -39,6 +39,18 @@
       "id": "469c58b0d782889d8f9e",
       "category": "복지·문화",
       "collected_at": "2026-08-28T21:38:23.857123+00:00"
+    },
+    {
+      "title": "총학 공약 31.8% 완료··· 핵심 공약은 여전히 ‘미확정’ - channelpnu.pusan.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XZzVQNEJzazRqQlFxWi1OR3Z3U29VYUVURUc1bjJZNWREcHlyWDFqXzU1U1NzVHN2TXdLaWFMMy1MeUN4UDlvUmItN3YtTWdwV0hIMml1aUVYSHA2Unc4VWo2NzUtVHhfV0xGOWNNN0pvd9IBdkFVX3lxTE41SkUwSTdkZTdWRVFTc01NSGRXT1pPYXFPMHpKOTdBaDVtcnY1S0N4SUtORkhTc01lVURPeDlEOGNrWEdZUTA0aWdabjlsclZsYjBaeEU0cHVLQUt2S0RCY0tvR2c4VDdDckUySjFuaWJFc0h6cGc?oc=5",
+      "summary": "총학 공약 31.8% 완료··· 핵심 공약은 여전히 ‘미확정’ channelpnu.pusan.ac.kr",
+      "source": "channelpnu.pusan.ac.kr",
+      "published_at": "2026-08-28T09:35:46+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "357385a36b18ab561405",
+      "category": "복지·문화",
+      "collected_at": "2026-09-01T03:02:22.477590+00:00"
     },
     {
       "title": "영남대학교 일반대학원 제42대 총학생회장에 석주현 당선… - 뉴스N연합",
@@ -2787,6 +2799,18 @@
       "collected_at": "2026-08-31T18:35:28.697551+00:00"
     },
     {
+      "title": "(이사람) 차세희 대구시노인종합복지관 노인대학 총학생회장 - 경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mYkpjdFVYdlVPMVBGbzJYcG9HcGt5VTdOY0Z0MTIxSlNnaEhnVHl2YlhTRjVmc1g1dXdQNmgtZUo0OG82TTJWS1U4S1Q2WHZGc3MtR21YeUZiQQ?oc=5",
+      "summary": "(이사람) 차세희 대구시노인종합복지관 노인대학 총학생회장 경북매일",
+      "source": "경북매일",
+      "published_at": "2026-06-28T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "dfc81636aff52c26b48b",
+      "category": "복지·문화",
+      "collected_at": "2026-09-01T03:02:22.479633+00:00"
+    },
+    {
       "title": "김문수 의원, 등록금심의위원회 학생 참여 확대 법안 대표발의 - 교육연합신문",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fWDY3VlRSbmljLU5nbzF0aldTLVBUVEVpZGI3WWhLd3hWazQ3N1JzenRZVF9Id3hNbzlTRnZLTThCcDZMZlJSZmdmTFRiYWtTOWlQNWRqYWhjZGZP?oc=5",
       "summary": "김문수 의원, 등록금심의위원회 학생 참여 확대 법안 대표발의 교육연합신문",
@@ -3249,6 +3273,18 @@
       "id": "1d9e8644a005505c4bfe",
       "category": "기타",
       "collected_at": "2026-08-31T02:54:25.302240+00:00"
+    },
+    {
+      "title": "부산대 총학, 18개 대학과 선관위 규탄 시국선언 - channelpnu.pusan.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Kd0c5cG9ib3RJT3FjckV4ZEFoc3BjazJVdEVLSWUzel9mWGpBb0FxcnN3bW8xUTA0Z0x4ajBRVUs3cVRLbzdTOW0tdTNMSTNwZ0NBaWR1V1JHcnJlWUQxUHZ5eWRHaDFjRXAzbXZXZFE4QdIBdkFVX3lxTE0wZ2FXMFdacUx4ZWtqVEEzd1dtTnhwbVkxREs2VHpIcHg1YS1DbnFCd0NFaFljcUlLWTRuM01XZUhleTZENEdseDBPNGlFdnlENGhDTlZoRVl2MElZUnlCc1RQSGxScFIxcExRdVZCbXVrUWJTRkE?oc=5",
+      "summary": "부산대 총학, 18개 대학과 선관위 규탄 시국선언 channelpnu.pusan.ac.kr",
+      "source": "channelpnu.pusan.ac.kr",
+      "published_at": "2026-06-11T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "5b7927bab57f97fc66f3",
+      "category": "기타",
+      "collected_at": "2026-09-01T03:02:22.478985+00:00"
     },
     {
       "title": "'투표용지 부족 규탄' 18개대 총학 시국선언…\"참정권 수호해야\"(종합) - 연합뉴스",
@@ -4024,6 +4060,30 @@
       "id": "55827929f23cf0bc431a",
       "category": "기타",
       "collected_at": "2026-08-30T15:51:12.972154+00:00"
+    },
+    {
+      "title": "18개大 총학 “시민 참여 개혁감시기구 구성하라” 시국선언 - donga.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xZ1JubjRwdzJ2Rl9NRXd4TjV6aWk5bzBNNmRMQXp5akJUVlR6Z21MZXp6dzQ3djZZZHBSVDR4aXk0TE43dFdGQUExSmlTcEpXdnY2UjZmX2RyM2p3cy1QRkVsWWJ0ODNmd3BTUHFRRFVKVlU4SGfSAWZBVV95cUxQSEtQWWcwRVFrMFRfdTk4bktzMXBQX2pkVk0wSGdpd0ltX183d05GUGRCd21heEptbjRoSlVERlRWRDBObjhfdUNVN3hySjVDLTRiVERMTkNzMi1rckRQa0lUTzZmbnc?oc=5",
+      "summary": "18개大 총학 “시민 참여 개혁감시기구 구성하라” 시국선언 donga.com",
+      "source": "donga.com",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "827c8fc5a2b86468674d",
+      "category": "기타",
+      "collected_at": "2026-09-01T03:02:22.479065+00:00"
+    },
+    {
+      "title": "전북대 총학생회도 \"선거 시스템 불신…시민 참정권 침해\" - imaeil.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fTEZqV0xsTU1mSjBiWjY2WTZNc0VvRnVPZlA2VEFUMFZaeElyaG92SnhoTE5hWDlrZ2VYaDA1T2gxajgtaWJUTWRqRGlHV0R4bklaWHRCSFR4ZVMtTWJ1WjVB?oc=5",
+      "summary": "전북대 총학생회도 \"선거 시스템 불신…시민 참정권 침해\" imaeil.com",
+      "source": "imaeil.com",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "cb4fe205b60f6a9d08f7",
+      "category": "선거·조직",
+      "collected_at": "2026-09-01T03:02:26.275444+00:00"
     },
     {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
@@ -6830,6 +6890,18 @@
       "collected_at": "2026-08-31T18:35:30.448068+00:00"
     },
     {
+      "title": "국립한밭대 제42대 총학생회 ‘혜성’ 출범 - newstnt.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zUVd5VHpJWVptd1Y0Vnd1SC1yNk5maEJGeVcwcWltT2ROT2RxNXRDV3FIUERyNTNLQk5nZU9BWkp0OWlKRVBsNkFueUFrSWlCM0ZLMHNHYXhsU3JsQ1l1X3lkM29DWTBSX2c?oc=5",
+      "summary": "국립한밭대 제42대 총학생회 ‘혜성’ 출범 newstnt.com",
+      "source": "newstnt.com",
+      "published_at": "2026-03-12T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "6ba5fc6eb7b26a1a3c8e",
+      "category": "기타",
+      "collected_at": "2026-09-01T03:02:24.373577+00:00"
+    },
+    {
       "title": "휘청이는 학생자치…새학기 불구 대학 곳곳서 '총학생회 공백' 뚜렷 - 대전일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qclR1VW16clFnQldpbENFS2pvWE5HWHo3UndHUXh0NHZMR3Yta190bk5HdlJnSU5BZ2lPNks0V1JDZHMyeW9Gamt2S2F5dUd5cnA5amJMTG0xb3VCQVl1bzdGVkd0ME9mM2NFM1FUa9IBc0FVX3lxTE9ScU5DMkYyMUZNamZwTXlMYVplcXEwblc5SUNIRmc2N21zUlJCT1VndVhLbDgxX0c0bnNJS1hTVjUyVFhpS1Q2akN6S3BIaTY1SzkwNUFLQmo0MzVWZ1hGWjRTX0ZxMkwtQ1BrazRNR3huNkk?oc=5",
       "summary": "휘청이는 학생자치…새학기 불구 대학 곳곳서 '총학생회 공백' 뚜렷 대전일보",
@@ -7932,6 +8004,18 @@
       "id": "b3461b3645a6a0a344a3",
       "category": "등록금·교육",
       "collected_at": "2026-08-26T12:38:26.069037+00:00"
+    },
+    {
+      "title": "등록금 정책 ‘전국총학생회협의회’ 의견 듣는다 - dhnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GNjlULWZuM0tUeVYyMEhFdy1PSVdobXJhMUNKVWVMRTZhdjhhcC1tWmkwbVVNVUk3aGw4a3lOYnFrTWJzdURxMjJHRFE1aTlaTDlpZjFWbWM0Sml5Z1HSAWpBVV95cUxPWkgzQUpkYWxQbnRITnp0MVRab1hXWjkzSFVxV2hUMGFJNUVxRUFrYVF1YlhmdGNScjN2dTZKN2hfamx2Y2dnRWdCZFBKNmVQREJDQlFNREttSS1RcEdlZGlXNjFNT0gydW5n?oc=5",
+      "summary": "등록금 정책 ‘전국총학생회협의회’ 의견 듣는다 dhnews.co.kr",
+      "source": "dhnews.co.kr",
+      "published_at": "2026-01-13T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "8f7779073f69a3867493",
+      "category": "등록금·교육",
+      "collected_at": "2026-09-01T03:02:28.136428+00:00"
     },
     {
       "title": "부산외대, 학생자치기구와 ‘학생 행복’ 정책 간담회 성료 - 부산일보",
