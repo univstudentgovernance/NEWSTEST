@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-09-02T11:23:07.799727+09:00",
-  "item_count": 797,
+  "updated_at": "2026-09-03T00:47:36.860251+09:00",
+  "item_count": 805,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "\"밀실 평가·정치적 무책임 규탄\"…목포대 총학 의대 신설 탈락 입장 발표 - news.nate.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4waW52dUhhUFhwYVktZm9LQmd2Y1pEdXh2NERzcHljeGgta19VdUxmaW8wQUprMzYzZFdUMXdIZU85R0NpRzRTZTJlR21aU2lwX0lR?oc=5",
+      "summary": "\"밀실 평가·정치적 무책임 규탄\"…목포대 총학 의대 신설 탈락 입장 발표 news.nate.com",
+      "source": "news.nate.com",
+      "published_at": "2026-09-02T05:47:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "107558dc2aab832cd76c",
+      "category": "기타",
+      "collected_at": "2026-09-02T15:47:05.227973+00:00"
+    },
+    {
+      "title": "\"밀실 평가·정치적 무책임 규탄\"...목포대 총학 의대 신설 탈락 입장 발표 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lb3VGZGhXU3hWaC1xeENPb2tVYmFSMW9abDhvd0xDXzdSbloxMUdHTXJBLUhEY2laa19CMEJSUjhxZVhqLTE3M1RjMWJoRkVvSmNESzNxdUdEUVZBOHhIaGU0N25MbnR0OG9aRG92Y9IBb0FVX3lxTE5lb3VGZGhXU3hWaC1xeENPb2tVYmFSMW9abDhvd0xDXzdSbloxMUdHTXJBLUhEY2laa19CMEJSUjhxZVhqLTE3M1RjMWJoRkVvSmNESzNxdUdEUVZBOHhIaGU0N25MbnR0OG9aRG92Yw?oc=5",
+      "summary": "\"밀실 평가·정치적 무책임 규탄\"...목포대 총학 의대 신설 탈락 입장 발표 - 머니투데이 머니투데이",
+      "source": "머니투데이",
+      "published_at": "2026-09-02T05:46:50+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f3302c9f82ab054dd91d",
+      "category": "기타",
+      "collected_at": "2026-09-02T15:47:05.227860+00:00"
+    },
     {
       "title": "충남대 총학생회 비대위 “절차 무너진 공주대와의 통합 강력 규탄” - 충청신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtMkltWFBTR0d0VlhIXzZwUDlwNXhRcXZDeEVsbkhtT0hVMWNzV1pacmMzUl9GMm5OSHhNQ0RPTEhQWXJmU2lZX29MQzRQR0lBcng4NnpmeGlZWHRzSC0yQ1hfeEpYZHZ6dmfSAW5BVV95cUxQa1NqNWI2b0p5QVJKd1hFTWFpeEZyaWNMVWR6a1hIT1BtVkVvT2pWdnR6QVBUV2pteDFEeXA0aGd2amctZUd2U1BBWlpnMFppS1o5ZHVDbG1VaUQ0dlhjTlk1RXNkRnZ1OUFjbkdkdw?oc=5",
@@ -1239,6 +1263,18 @@
       "id": "6dee7a4e4dc3f4f2f524",
       "category": "기타",
       "collected_at": "2026-08-18T12:31:57.021676+00:00"
+    },
+    {
+      "title": "진주지역 4개 대학 총학생회 \"발전공기업 통합 본사 경남으로\" - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15NXNVMDc4WmN1dnoxZS1NeF9rVGdOaHlUVVJXMmNtOGNRNGhpMTVSVzUwR0hSbFRaMnk4cWVsaTlBczhZNHNRR3J6RTR2VG95dWc?oc=5",
+      "summary": "진주지역 4개 대학 총학생회 \"발전공기업 통합 본사 경남으로\" 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "80649e6a91bd2a3930bf",
+      "category": "기타",
+      "collected_at": "2026-09-02T15:47:05.228438+00:00"
     },
     {
       "title": "진주 대학교 총학생회 “발전공기업 통합본사 진주 유치해야” - v.daum.net",
@@ -3219,6 +3255,18 @@
       "collected_at": "2026-08-29T05:09:29.487948+00:00"
     },
     {
+      "title": "주요 대학 총학생회, 선관위 항의 방문 - 세계일보",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83RUVGd0xtZzBfNklHYXRpX21oVWdlY2VrdVo1MnRXbjFPel9UNzAxdTFaR2NWQWtlS3VmVEpLSmhJWWRiRUxScENaYWhadXNwcEJLY3FGb3TSAVRBVV95cUxPUlp6VGs4MHZvbEwzYzRkMmlYai11NnlSRklwQ2l0Yi1MVVFCOHZoTE4zM0l2YVFYdmhucW1MWFFDdzRZbDgzdDloOXFBUkR6R2JyQjY?oc=5",
+      "summary": "주요 대학 총학생회, 선관위 항의 방문 세계일보",
+      "source": "세계일보",
+      "published_at": "2026-06-17T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "66a3279f9d5c6155bf22",
+      "category": "기타",
+      "collected_at": "2026-09-02T15:47:08.535806+00:00"
+    },
+    {
       "title": "“청년으로서 참정권 수호할 것” 서울권 대학 총학생회 ‘투표용지 부족 사태’ 규탄해 - 대학알리",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzczJBTkZnYmpMVlNvZEkzcDZ6dFI0bFJBaVotNjFRZFpUNWFnaS03UHlXQ1RoLWJkWHpZeE1FbWRYd0JjUDhGZ3FiSDJUYUpRTy1lcHAtSmJ3S2c?oc=5",
       "summary": "“청년으로서 참정권 수호할 것” 서울권 대학 총학생회 ‘투표용지 부족 사태’ 규탄해 대학알리",
@@ -4216,6 +4264,18 @@
       "id": "ab49607b7b092d85d35d",
       "category": "기타",
       "collected_at": "2026-09-02T02:22:39.811340+00:00"
+    },
+    {
+      "title": "16개대 총학, 오늘 '투표용지 부족 사태 규탄' 시국선언 - news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyR2wzUTM1ZDlJcjBXZTREQVM2TTI4dFF0VkQ4cEN5VXVCZE55eGlQYk9xMGM1bE5IRk9JQURhVnpjbERtOXljNk4wQTYyWUhLaEk4SmlZOXBBNEFZWlZndy1EcDlHMERsenc?oc=5",
+      "summary": "16개대 총학, 오늘 '투표용지 부족 사태 규탄' 시국선언 news.sbs.co.kr",
+      "source": "news.sbs.co.kr",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "bfa4eed499c7e3b6b4cc",
+      "category": "기타",
+      "collected_at": "2026-09-02T15:47:08.535748+00:00"
     },
     {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
@@ -5953,6 +6013,30 @@
       "collected_at": "2026-08-31T18:35:28.697463+00:00"
     },
     {
+      "title": "대전 7개 대학 총학생회, 6.3 지방선거 정책제안 발표회 개최 - 노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14aXg5dVFyZy1lUDlaWHgtMGZQYVNBT0twR0lYdGQ2enJ0S21ldnlJUWs4eUFoNlQ5dWx6bHlPeUhwMzFtUFMyWEhsbl9sZmFONWc?oc=5",
+      "summary": "대전 7개 대학 총학생회, 6.3 지방선거 정책제안 발표회 개최 노컷뉴스",
+      "source": "노컷뉴스",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "c2020ffe17d6f588b14d",
+      "category": "선거·조직",
+      "collected_at": "2026-09-02T15:47:08.535717+00:00"
+    },
+    {
+      "title": "[D뉴스] '한예종 광주 이전' 두고 갈등... 총학생회 \"지방 이전은 책임 전가\" 반발 - KBC광주방송",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fU3VSRnhyME1wTW8xSnZ6akFqMTk0ajhtMUlfUXVrMjFNc3J6OFUxT0s4QmZjMkMwdEl3TjhFbml0X1RsczZVMmdfUEUtbEhXMFF2RjNxZHNUVDJqTi1ZSQ?oc=5",
+      "summary": "[D뉴스] '한예종 광주 이전' 두고 갈등... 총학생회 \"지방 이전은 책임 전가\" 반발 KBC광주방송",
+      "source": "KBC광주방송",
+      "published_at": "2026-05-04T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "71141d82c4326b73665d",
+      "category": "인권·갈등",
+      "collected_at": "2026-09-02T15:47:05.230401+00:00"
+    },
+    {
       "title": "4월 재선거 마무리… 총학 공백 속 단과대·기층단위 학생회 일부 구성돼 - 연세춘추",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYUTBEOGtyaTJLR2o4YzF2MXdPN19KSVJuOWxCc2RBQ0llZnFNeWh0ZDg0SW02aVlEMUo5NWdqd2VrTS1QTERqdnlDbTVUTTJYYVQ0ak1aWHRDaFVGQnZjbWt5RTE0ZHNQVU9CVERxRQ?oc=5",
       "summary": "4월 재선거 마무리… 총학 공백 속 단과대·기층단위 학생회 일부 구성돼 연세춘추",
@@ -6811,6 +6895,18 @@
       "id": "c38201a381e4b0a14d1d",
       "category": "선거·조직",
       "collected_at": "2026-08-01T17:27:17.517940+00:00"
+    },
+    {
+      "title": "한국교통대 제43대 ‘우/리’ 총학생회 출범 - 충청타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BTGlnV1h3Z3dXZVY4ZHl2dzY3YUtwYmEwUTN5YlBINmxiT0szSEJtQXBCVHRiQzNjR19jdjN6TFFDVDhna3gtLTJtMGw3QURXMjhMVHhoNzFRYVlBbHJfNUVfeHFWWXpf?oc=5",
+      "summary": "한국교통대 제43대 ‘우/리’ 총학생회 출범 충청타임즈",
+      "source": "충청타임즈",
+      "published_at": "2026-03-26T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e8e935cafb43c266bde6",
+      "category": "기타",
+      "collected_at": "2026-09-02T15:47:05.230352+00:00"
     },
     {
       "title": "'공학 반대' 동덕여대 래커칠한 총학생회장 등 11명 재판행 - v.daum.net",
