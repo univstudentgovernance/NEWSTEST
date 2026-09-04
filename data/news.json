@@ -1,9 +1,57 @@
 {
-  "updated_at": "2026-09-04T11:26:03.123034+09:00",
-  "item_count": 860,
+  "updated_at": "2026-09-05T00:35:27.599808+09:00",
+  "item_count": 876,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "혜전대 총학생회, ‘스쿨폴리스’ 발대…7일부터 야간 순찰 - 뉴스티앤티",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRWNsTDl6Yk9EbDJOc0ktay1NX3BXUjBVWGlBVVNnckFuTXVsZml6RkstQ3NTSGw0d05VbGtXTjNsODJ5VzQ1Wjg0QnVqY3YweFpDNlMyb1pRc1VUOGoyUkZLYTR1bjdINWc?oc=5",
+      "summary": "혜전대 총학생회, ‘스쿨폴리스’ 발대…7일부터 야간 순찰 뉴스티앤티",
+      "source": "뉴스티앤티",
+      "published_at": "2026-09-04T09:02:39+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8644fe2c44323deabf0a",
+      "category": "기타",
+      "collected_at": "2026-09-04T15:34:55.939204+00:00"
+    },
+    {
+      "title": "박운기 서대문구청장 연세대 등 총학생회장·학보사 기자들과 소통 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFTTFxVUVjeUdraTZNdnh2TnhhOFd5SDEwejJ4bFNWTmVsVVJJTDZWWHNHWDd0VVlvTm5sc1gyNjRoNDhwYmdISjlsYkhSYi1LLWk0aXJ3?oc=5",
+      "summary": "박운기 서대문구청장 연세대 등 총학생회장·학보사 기자들과 소통 헤럴드경제",
+      "source": "헤럴드경제",
+      "published_at": "2026-09-04T07:17:58+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "df1aeeb029c5bee2a570",
+      "category": "기타",
+      "collected_at": "2026-09-04T15:34:55.939180+00:00"
+    },
+    {
+      "title": "박홍근 기획예산처 장관, 전현직 총학생회장단과 청년 정책 간담회 개최 - 부산경제",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CaXdLanpSY3BuTFV6OHdXcXdMaFFSM3NWVUh3QWFtUXRDNFkzNUdHZWdOQWhrdjdiYlNXVnVBX1QyakkwSm0yV2t0QmVPV09jT1BFbkw0RGNubHpZ?oc=5",
+      "summary": "박홍근 기획예산처 장관, 전현직 총학생회장단과 청년 정책 간담회 개최 부산경제",
+      "source": "부산경제",
+      "published_at": "2026-09-04T06:53:23+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "5ed1b6c9e962a31cd329",
+      "category": "재정·감사",
+      "collected_at": "2026-09-04T15:34:55.939031+00:00"
+    },
+    {
+      "title": "박운기 구청장, '청년로그인' 9개 대학 총학생회장·학보사 기자 간담회 개최 - 서울복지신문",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ed3RPSzVuazhlYmFldFMzdUVlX3NkT19rbUs4b0J6Q0hBdWtMNzJDSVJ0N2V3MldDTmRlUUZYQk5xSVkteGIxRXYtZG9CLVp0anhjanV0cklJSDZFSWQ1MlRLMWXSAWhBVV95cUxNdXhNSk1PY1Bxd2Z6enhHejYwbVhud3BYYVJLS3BvcnRXOU1HNU5UUjVrTzNNVDZqX3duVlItR0xKYlc3dUU1dDROaXFjbk1YMDc1QXdEajdOeTNTLTBqWXNRdmZKQ2hxMQ?oc=5",
+      "summary": "박운기 구청장, '청년로그인' 9개 대학 총학생회장·학보사 기자 간담회 개최 서울복지신문",
+      "source": "서울복지신문",
+      "published_at": "2026-09-04T05:44:06+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "1b0433197326d86f7124",
+      "category": "복지·문화",
+      "collected_at": "2026-09-04T15:35:04.755202+00:00"
+    },
     {
       "title": "혜전대 총학생회, 안전 귀가 지키는 '스쿨폴리스' 출범 - 투데이충남",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XYlRLM2dWUDJUVEhLU0wtQ1MwNVZ1T0VIYUNZRkJDUk5PZXBUUkZlMGY5ZDhQUHhSUWtYQjRtSURVSlN0VjRQbnNVV3ZfTGdaVDNVU29zRXd2SmhRVWRsWEc0VkRRQzlQTVhibW1uTVhiZw?oc=5",
@@ -41,6 +89,18 @@
       "collected_at": "2026-09-04T02:25:33.167403+00:00"
     },
     {
+      "title": "혜전대 총학생회 ‘스쿨폴리스’ 발대 - hsnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qWG1vVjZGS0pHOEw0b0d1d1ZYd05EMGhfQ3o5eF9kUm15ZzYydUo1Rk1pN0NqenYxMGlZZDZ2UHNyVDMtdUdRTE9QUjdxakZBcnNmbDVadDJ0anVrTi02eG1iazNrdWowUVFn?oc=5",
+      "summary": "혜전대 총학생회 ‘스쿨폴리스’ 발대 hsnews.co.kr",
+      "source": "hsnews.co.kr",
+      "published_at": "2026-09-04T00:53:13+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "22dab7b953d4fe82cb35",
+      "category": "기타",
+      "collected_at": "2026-09-04T15:34:55.939064+00:00"
+    },
+    {
       "title": "전·현직 총학생회장단 간담회 개최 - 서울Pn",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqeGJRNU44ZVRWTlRUOW95d09GRHdmM0R1ZmtLd1hONG10QjFTMTVwRV9NZ0V6Mkt2M0hZMEViV0lkVlVjaGFVeHpROTd5VEZUS1MwT1h0a0lmb2cxSlBQejF3?oc=5",
       "summary": "전·현직 총학생회장단 간담회 개최 서울Pn",
@@ -51,6 +111,18 @@
       "id": "90829d9d935e9ea32539",
       "category": "기타",
       "collected_at": "2026-09-04T02:25:33.167480+00:00"
+    },
+    {
+      "title": "박홍근 장관, 전현직 총학생회장단 만나 청년 목소리 청취 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiVHRkQWs4R0lwSWMzMDlCaVkwM2JXNVgwYVg5TlVqNlN4Q1VxSmNBQWY0MDBOU1pIY3ZMa3NHc2JJUGJoYm9GSmxtVQ?oc=5",
+      "summary": "박홍근 장관, 전현직 총학생회장단 만나 청년 목소리 청취 v.daum.net",
+      "source": "v.daum.net",
+      "published_at": "2026-09-03T09:15:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "2c07d0a5314a1f8a8ac0",
+      "category": "기타",
+      "collected_at": "2026-09-04T15:34:55.939282+00:00"
     },
     {
       "title": "박홍근 장관, 전현직 총학생회장단 만나 청년 목소리 청취 - 아주경제",
@@ -87,6 +159,18 @@
       "id": "3fb766100b294129f033",
       "category": "기타",
       "collected_at": "2026-09-04T02:25:33.167445+00:00"
+    },
+    {
+      "title": "총학생회장단 만난 박홍근 \"청년 성장단계별 종합투자 추진\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2cll5azJkYjBEV1BQbGNQWHk5czVTLW4xeko5dFZ5UUFmbGpHZ2J6ODNmakNnbWlITGxoSm9VbnRSRlFoWE5RcXlCZ0g1OTl4YzRBd242SDMtQ1HSAWBBVV95cUxNWlo5c1otM3V4UjFMNmxMX3YwNGNKaEFldzZuQW1kNFVfeFdFaURUVTdmTDBlYko1aUxoZktFNGttUmRnbXVweEx0TjgtMnlsbUhublQyaHkyNlhKT20zV3E?oc=5",
+      "summary": "총학생회장단 만난 박홍근 \"청년 성장단계별 종합투자 추진\" 연합뉴스",
+      "source": "연합뉴스",
+      "published_at": "2026-09-03T09:00:07+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "452b0b69f858d42d2f28",
+      "category": "기타",
+      "collected_at": "2026-09-04T15:34:55.939155+00:00"
     },
     {
       "title": "\"밀실 평가·정치적 무책임 규탄\"…목포대 총학 의대 신설 탈락 입장 발표 - news.nate.com",
@@ -149,6 +233,18 @@
       "collected_at": "2026-09-01T15:55:16.500589+00:00"
     },
     {
+      "title": "충남대 총학생회 비대위 “절차 무너진 공주대와의 통합 강력 규탄” - dailycc.net",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtMkltWFBTR0d0VlhIXzZwUDlwNXhRcXZDeEVsbkhtT0hVMWNzV1pacmMzUl9GMm5OSHhNQ0RPTEhQWXJmU2lZX29MQzRQR0lBcng4NnpmeGlZWHRzSC0yQ1hfeEpYZHZ6dmfSAW5BVV95cUxQa1NqNWI2b0p5QVJKd1hFTWFpeEZyaWNMVWR6a1hIT1BtVkVvT2pWdnR6QVBUV2pteDFEeXA0aGd2amctZUd2U1BBWlpnMFppS1o5ZHVDbG1VaUQ0dlhjTlk1RXNkRnZ1OUFjbkdkdw?oc=5",
+      "summary": "충남대 총학생회 비대위 “절차 무너진 공주대와의 통합 강력 규탄” dailycc.net",
+      "source": "dailycc.net",
+      "published_at": "2026-09-01T08:02:52+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4be2ebeffd80330f18b9",
+      "category": "선거·조직",
+      "collected_at": "2026-09-04T15:34:55.939433+00:00"
+    },
+    {
       "title": "\"개강에 강한 자들이여 사자상 앞으로\"... 총학생회 비대위, 사자상 일대서 2학기 개강 행사 개최 - 뉴스H",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JYzdwM0hhc3BZcGpXSlZjajVMdFprZDdELS01TXI2OTk2NktLNTRHaGtPNk81TmhLaDZYZGsyLWd3QnRYbHJoZnhBSHRsMDdwT0VKVGdxRE0yelkzcjBIR21yOXpOYWVuY2Q0?oc=5",
       "summary": "\"개강에 강한 자들이여 사자상 앞으로\"... 총학생회 비대위, 사자상 일대서 2학기 개강 행사 개최 뉴스H",
@@ -171,6 +267,18 @@
       "id": "9ea9e2ee1b316ef17a16",
       "category": "인권·갈등",
       "collected_at": "2026-08-31T18:35:28.696100+00:00"
+    },
+    {
+      "title": "[속보] '스텝업' 71.5%로 제57대 총학 당선… 득표율 '스타트'보다 26%p 높았다 - 이대학보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pS0FrV2NDMkpqQktFVnRSV2QyZlhIdko0dHJyc1luRzA5ZTNCNEZZRmkxUTVBdms1TENUdmFweTFkM2N3U0JZd1FjWWxaNUFIWmJMU25mNkF2LUtwYktWLTd0SjhYS3BZcHfSAW5BVV95cUxNMDZWc0ZidFRRN3pYQW1HZVU4WlZKU3lGUVlQVFZXbkNDa2NSLTh6c09UQ0kzdXdfa2FiZU5qQnBnTlpSY0hPTGs2VlcxX3pCSjB6dnFZVTREVmtMS3g0TVFXaDY0YnhsQ3I1Y0duUQ?oc=5",
+      "summary": "[속보] '스텝업' 71.5%로 제57대 총학 당선… 득표율 '스타트'보다 26%p 높았다 이대학보",
+      "source": "이대학보",
+      "published_at": "2026-08-30T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "daa55eee0340e7b4dd75",
+      "category": "선거·조직",
+      "collected_at": "2026-09-04T15:34:55.939230+00:00"
     },
     {
       "title": "[속보] 총학 비대위장, 비상대책위원회 설립위원회 통해 선출돼 - 연세춘추",
@@ -363,6 +471,18 @@
       "id": "0fec3ab3e8bada471827",
       "category": "인권·갈등",
       "collected_at": "2026-08-21T12:33:28.735044+00:00"
+    },
+    {
+      "title": "[공주대·충남대 통합 논란 ③] ‘위원인 총학생회장도 회의록 못 봤다’…공주대 통합 논의 ‘깜깜이’ 논란 - bzeronews.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjTGI1Zkk1bE9salZBRkVSMkJfNEtxS2Zxd2xpWjdIOFlXVXdmX1d4cVE4RmlObXIxS1FvMHVJWTZ1cWh2WnVVOUN0Mi03aUh4bi0yTXA0aGtVdlJYOEVRS0lYN2tyQWttTXE2MA?oc=5",
+      "summary": "[공주대·충남대 통합 논란 ③] ‘위원인 총학생회장도 회의록 못 봤다’…공주대 통합 논의 ‘깜깜이’ 논란 bzeronews.com",
+      "source": "bzeronews.com",
+      "published_at": "2026-08-21T07:57:10+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b46253aa090973337794",
+      "category": "인권·갈등",
+      "collected_at": "2026-09-04T15:34:55.939657+00:00"
     },
     {
       "title": "한남대 총학생회, 대전북연결선 공사 중단 촉구...“학생 안전·학습권 위협” - 데일리한국",
@@ -2116,6 +2236,18 @@
       "collected_at": "2026-08-04T10:15:12.550278+00:00"
     },
     {
+      "title": "고려대 총학생회, 예산서 농활 - 한국농정신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sNXpaZVVGN0t6YWgxdUVGa0MwdnFvME5kcDl1c1lUNGZNNV9XOFljbHJwRjdib0tBcXpQaWFfSm9jcENOZkpNMFA5MWVmRmVZbDB0Mi0zcXdoMkFLT0pxNElQeFBXbkVLNFRV0gFrQVVfeXFMTmw1elplVUY3S3phaDF1RUZrQzB2cW8wTmRwOXVzWVQ0Zk01X1c4WWNscnBGN2JvS0FxelBpYV9Kb2NwQ05mSk0wUDkxZWZGZVlsMHQyLTNxd2gyQUtPSnE0SVB4UFduRUs0VFU?oc=5",
+      "summary": "고려대 총학생회, 예산서 농활 한국농정신문",
+      "source": "한국농정신문",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "1bc18ec797b16a8d53de",
+      "category": "재정·감사",
+      "collected_at": "2026-09-04T15:34:55.940721+00:00"
+    },
+    {
       "title": "등심위 구조 개선 논의···학생 참여 확대 놓고 이견 - 이대학보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wdjc5ejNQYU5XcTNhVGxETENmdmpuTzZvNlQ1cFRpdEludmY0amxDcjA5ZnJjeEZKSzZFc0RpenVxa3M3SW00UENhdDZvX2xUZVZ0VWNseHJUaFh4anN0MnNMTE1qUFpVWnfSAW5BVV95cUxPd2FralBqZ2ZybVVzLVp1SWdXT2JmRlE1TjVuSi16SEI0V1hneldORjVTcmp5R1VBMy1lXzJldnc5NFhVei1xMVJFRWhKU1VUcm1SbDF2cUhVbFJTQU1YeVBFcEs3aV9pd1VVVDZuZw?oc=5",
       "summary": "등심위 구조 개선 논의···학생 참여 확대 놓고 이견 이대학보",
@@ -3753,6 +3885,18 @@
       "id": "bfd0a59b6974a8776a62",
       "category": "기타",
       "collected_at": "2026-09-02T02:22:36.546813+00:00"
+    },
+    {
+      "title": "투표용지 부족 사태에 서울캠 총학 시국선언 개최 - news.cauon.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQNG5KMGRlVGFJUUxmNHJUNURoc0dSREtnUHpXUG9jUXUzXzBhX2xnMkw1YVlYUGEwZHNTTHNYZVZVUUVuZElNdk5qb0daM0N6N3NabjZvdk96aXU4UkNIVVF1ZWtQdGPSAWtBVV95cUxOUHhxLXI5VnI1QkhtQ3NTOS1uZ2ZnOC15N01sb3ZvZWdWZTdYUnRUYk5uN0U5TmtUdW0wV1JsWXZZdVA5MUlfbWNBY1Yyd1ZONE9VQUtUVHNJbDF4QkNFMkFFczFsYzFTUzMtaw?oc=5",
+      "summary": "투표용지 부족 사태에 서울캠 총학 시국선언 개최 news.cauon.net",
+      "source": "news.cauon.net",
+      "published_at": "2026-06-11T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "1a3fce23c2cd2a2211d1",
+      "category": "기타",
+      "collected_at": "2026-09-04T15:34:55.940814+00:00"
     },
     {
       "title": "'투표용지 부족 규탄' 18개대 총학 시국선언…\"참정권 수호해야\"(종합) - 연합뉴스",
@@ -5513,6 +5657,18 @@
       "collected_at": "2026-09-04T02:25:36.587754+00:00"
     },
     {
+      "title": "전국 12개大 총학생회, 10일 투표지 부족 사태 규탄 시국선언 - shinailbo.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zQzlWMnhXbEJsZGxPM2tzYXA4al9ZRXlpZ19McV96Z25XcTloVnY4VDBQTW5Db1prSHYyLXpfZDlKYnpfV2tmWnBZd3lZbEgxMkZOY1pUMHlRSnZsU1QyWXROR2x2UTFTWG15Vk5aY0o?oc=5",
+      "summary": "전국 12개大 총학생회, 10일 투표지 부족 사태 규탄 시국선언 shinailbo.co.kr",
+      "source": "shinailbo.co.kr",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "f3664e0932a0f476d227",
+      "category": "기타",
+      "collected_at": "2026-09-04T15:34:59.313038+00:00"
+    },
+    {
       "title": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 - 중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1M2UtYVRVeTdZZ2dhMzVxaEdiRk9LMVN3Rk56WVA4b1VxZFJkcVllaXo5TGFneTh6N09ZS1FYR19sNXF2ZlVaMkdoeGY1b3AzamliaHFR?oc=5",
       "summary": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 중앙일보",
@@ -6286,6 +6442,18 @@
       "id": "a508b1f15517f22e64e0",
       "category": "선거·조직",
       "collected_at": "2026-09-03T02:29:38.672796+00:00"
+    },
+    {
+      "title": "“횡성의 여름, 한양의 사랑을 심다”... 총학생회 비대위, 여름 농활 참가자 모집 - newshyu.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xamhrNmNKaE1lS3RPQzYwSXo5cGxUNWlOV3kyS1dJUWw3Y0gwTndEM0ZSQWRUaWpMSnZOYUlhRjBqbVFodWN5bmNrLXRVOUxabDBWSDBiRFNBTGxCZDlZaDFGWENDWXlLRnNJ?oc=5",
+      "summary": "“횡성의 여름, 한양의 사랑을 심다”... 총학생회 비대위, 여름 농활 참가자 모집 newshyu.com",
+      "source": "newshyu.com",
+      "published_at": "2026-05-18T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "7c678d1a57b0b24a35a9",
+      "category": "선거·조직",
+      "collected_at": "2026-09-04T15:34:59.312992+00:00"
     },
     {
       "title": "동덕여대 총학 \"공학반대 위해 총장직선제 요구\" - 연합뉴스TV",
@@ -9338,6 +9506,18 @@
       "collected_at": "2026-09-04T02:25:34.878634+00:00"
     },
     {
+      "title": "학생들이 꿈꾸는 학생자치는 - news.cauon.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvWlRYeEZXWXg0OTFrQ2x1R3N0RjdmNmlOdjd1czU5ZUdOTUxMSVlHTjNqU0JuYkpCSEZyZzRKUnc2bWZPSm5pWUJVQVlIUi1RUmxSUGdxbkczdjZPeDRnUnFaSjdQVU3SAWtBVV95cUxOWTI5dkdTdG8yS3JxTUpSckc5QjhIZ3hhcHFITjg1WmRLbWxsb2xlVDk3Z3h6VzB1TGVvSldjYjJibUFsZzQ3WHE4RG5JNzhDaG03R2J5TDBDWVBkaF9pTzRLRTNsb043YUJ4UQ?oc=5",
+      "summary": "학생들이 꿈꾸는 학생자치는 news.cauon.net",
+      "source": "news.cauon.net",
+      "published_at": "2025-12-07T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "ebbeef422f0a4db7b899",
+      "category": "의결·자치",
+      "collected_at": "2026-09-04T15:34:57.650928+00:00"
+    },
+    {
       "title": "경희대서 학번 도용해 대리 투표…총학생회장 당선인 ‘당선 보류’ - 한겨레",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vVUZ3aDJaVDRrVG5PQ3RYdEM4RXFrbURVRzJsQ2ZnTHBQT1BTbjBwTDdicTVtdVpJUmo3ZmJzRkVMMFZab3FsOG1wNjZmMzRKeWtNOFNSSWxTZzhsRkY0SVRhMVduenZud0hkQ2stME1JUQ?oc=5",
       "summary": "경희대서 학번 도용해 대리 투표…총학생회장 당선인 ‘당선 보류’ 한겨레",
@@ -10000,6 +10180,18 @@
       "id": "1aa693cd90860d5adfc5",
       "category": "의결·자치",
       "collected_at": "2026-08-12T12:54:24.815103+00:00"
+    },
+    {
+      "title": "학생자치 60주년, 통일공대의 역사와 미래를 잇다 - news.cauon.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOOFNMSDZISWRqZlJaMVdJcVR4YTJNUTJUUzZSaGNUc2EzZEp1dFN1V2o1eDl5bUthTWtYSW9FS0FVQUVFTXFGTlFmQVRqREFueVFjcEltZllXckZVY3Y0NzJMaXBjMUHSAWtBVV95cUxPUDNNUXVWYXIwcTVIQndlZm45UEZaWm9kQnltbHFzbkJwck95TzFiY1dQUy1heTlZRncyeW9ZdUNRS3I5RzZ3dUdmV1B3WHc2Y2t5UzVPd1AtN3JHX3gteURhcWIzbzN1UUtiZw?oc=5",
+      "summary": "학생자치 60주년, 통일공대의 역사와 미래를 잇다 news.cauon.net",
+      "source": "news.cauon.net",
+      "published_at": "2025-09-14T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "c20974235d502cc83fcd",
+      "category": "의결·자치",
+      "collected_at": "2026-09-04T15:34:57.651625+00:00"
     },
     {
       "title": "“오늘, 인생을 건 베팅이 시작됐다” 전주대, 2025 학생자치기구 연합축제 성황리 종료 - 전북미래교육신문",
