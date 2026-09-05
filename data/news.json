@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-09-05T00:35:27.599808+09:00",
-  "item_count": 876,
+  "updated_at": "2026-09-05T11:27:13.670372+09:00",
+  "item_count": 883,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "기획예산처, 대학 총학생회장단과 미래대응·청년정책 간담회… 호서대 등 대학생 23명 참석 - 스포트라이트유",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQUVk5NF82ZUpUc0gtNzVEdlc4ejZwZ2VWM3RHS1lQQmhXT3lVempCSEEwNnFScHZ4amFBckRDVmVvNy03RFBrb1dCelplTE9lQTQ2ekQ2SGEtLTVzNDFkcmp4VmsyRy1YZThqVE82NVlLdWpsZjVXTkYyNnVJNEtLQ0tWbWpoNHB1RUYzQjFEUWpfbUhrNVVrLUtsWFVweW9fWW52YTBOREUtd2tXazBlUU91VkJJTGdyLTlxaUpNQWtRMWJOekNQQVJVT3BZZFFxT2FuZGtBamtVTXM5Y09FQzNYay1JZ096SzZzelNhZjlBTWNmSVYwdEpiWG9iRXkxMWN5X3FQdWtUck9Kb05hcEhMOVZWQ2QyWjZUMHd6V2ZaNjRGWEhoZGZZZVduc3drMkZOX2YxVFc1cmRPQ3Q3ZTl4dlkzV3pUYkxqcC13?oc=5",
+      "summary": "기획예산처, 대학 총학생회장단과 미래대응·청년정책 간담회… 호서대 등 대학생 23명 참석 스포트라이트유",
+      "source": "스포트라이트유",
+      "published_at": "2026-09-04T23:41:31+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ef49a9acaeafdec4e889",
+      "category": "재정·감사",
+      "collected_at": "2026-09-05T02:26:42.039435+00:00"
+    },
+    {
+      "title": "무전공 회원 자격 명확해진다 ··· 전학대회서 총학생회칙 일부개정안 가결 - 고대신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iYVZTZ01QLTFqV1V4cWd4VXgxanljaXM0dFBtV081eWdfMDJ6dENWUDFWbTNlcHJGXzF3X1VvQW9mTjJoTGZfdWN1TUxKWVdwdTZqRXdFV0E1TjVZZkphcGR2UFAyVVYtenc?oc=5",
+      "summary": "무전공 회원 자격 명확해진다 ··· 전학대회서 총학생회칙 일부개정안 가결 고대신문",
+      "source": "고대신문",
+      "published_at": "2026-09-04T15:41:16+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b25dfa86e572a2d9225d",
+      "category": "의결·자치",
+      "collected_at": "2026-09-05T02:26:42.039391+00:00"
+    },
     {
       "title": "혜전대 총학생회, ‘스쿨폴리스’ 발대…7일부터 야간 순찰 - 뉴스티앤티",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRWNsTDl6Yk9EbDJOc0ktay1NX3BXUjBVWGlBVVNnckFuTXVsZml6RkstQ3NTSGw0d05VbGtXTjNsODJ5VzQ1Wjg0QnVqY3YweFpDNlMyb1pRc1VUOGoyUkZLYTR1bjdINWc?oc=5",
@@ -65,6 +89,18 @@
       "collected_at": "2026-09-04T02:25:33.167424+00:00"
     },
     {
+      "title": "혜전대 총학생회, 안전 귀가 지키는 '스쿨폴리스' 출범 - todaychungnam.net",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XYlRLM2dWUDJUVEhLU0wtQ1MwNVZ1T0VIYUNZRkJDUk5PZXBUUkZlMGY5ZDhQUHhSUWtYQjRtSURVSlN0VjRQbnNVV3ZfTGdaVDNVU29zRXd2SmhRVWRsWEc0VkRRQzlQTVhibW1uTVhiZw?oc=5",
+      "summary": "혜전대 총학생회, 안전 귀가 지키는 '스쿨폴리스' 출범 todaychungnam.net",
+      "source": "todaychungnam.net",
+      "published_at": "2026-09-04T01:50:29+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ec1405524b514fa83f4f",
+      "category": "기타",
+      "collected_at": "2026-09-05T02:26:42.039669+00:00"
+    },
+    {
       "title": "혜전대 총학생회, 학생 안전 위한 ‘스쿨폴리스’ 발대식 - 한국대학신문",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81UWJ6NUZVd1g3QWVvLVRCQWVZQmZiRGxJYy1pUGxyY2xSSmtzZlM4bjR0SjlCejRQdkJTN1BXWDExXzZ4VDR1dEphMXVMZF9NTllrbHNSQTFpN3JjSXB0cjd4d1VHdw?oc=5",
       "summary": "혜전대 총학생회, 학생 안전 위한 ‘스쿨폴리스’ 발대식 한국대학신문",
@@ -75,6 +111,18 @@
       "id": "1dca1a2cc1b67a9436d9",
       "category": "기타",
       "collected_at": "2026-09-04T02:25:33.167371+00:00"
+    },
+    {
+      "title": "혜전대 총학생회, 학생 안전 위한 ‘스쿨폴리스’ 발대식 - news.unn.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81UWJ6NUZVd1g3QWVvLVRCQWVZQmZiRGxJYy1pUGxyY2xSSmtzZlM4bjR0SjlCejRQdkJTN1BXWDExXzZ4VDR1dEphMXVMZF9NTllrbHNSQTFpN3JjSXB0cjd4d1VHdw?oc=5",
+      "summary": "혜전대 총학생회, 학생 안전 위한 ‘스쿨폴리스’ 발대식 news.unn.net",
+      "source": "news.unn.net",
+      "published_at": "2026-09-04T01:26:32+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4c9283a52259cd0b82e5",
+      "category": "기타",
+      "collected_at": "2026-09-05T02:26:42.039490+00:00"
     },
     {
       "title": "혜전대 총학생회 ‘스쿨폴리스’ 발대 - 홍성신문",
@@ -291,6 +339,18 @@
       "id": "32a46df0dd73a9305cc3",
       "category": "선거·조직",
       "collected_at": "2026-08-28T21:38:23.857079+00:00"
+    },
+    {
+      "title": "[속보] 총학 비대위장, 비상대책위원회 설립위원회 통해 선출돼 - chunchu.yonsei.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8ybkFtUk1JZnV2Tm1fMncyd1ZRRm0xTm1mdFFldjVwSGlzdmRKcmdFU2pJMzI0RWpxLVBnMm03SUdUY3RPWks5cnhNX0RyWlZPRTU3Y19keXUxc0dETHFPWkdsdGhVVXZkTjYxb19yMzI?oc=5",
+      "summary": "[속보] 총학 비대위장, 비상대책위원회 설립위원회 통해 선출돼 chunchu.yonsei.ac.kr",
+      "source": "chunchu.yonsei.ac.kr",
+      "published_at": "2026-08-28T15:01:31+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "15d59599de523a723f2f",
+      "category": "선거·조직",
+      "collected_at": "2026-09-05T02:26:42.039813+00:00"
     },
     {
       "title": "총학 공약 31.8% 완료··· 핵심 공약은 여전히 ‘미확정’ - 채널PNU",
@@ -7782,6 +7842,18 @@
       "collected_at": "2026-08-20T12:34:30.113691+00:00"
     },
     {
+      "title": "백석문화대, 학생자치단체·동아리실 개소식…“학생 중심 공간으로 재탄생” - 뉴스밴드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TcnFfdXJjOUFweTJmaDdtREV0VmtnMm56QkhOTXhNMzJmV3JNOWtDTXJ1TU53TlktQzdYTlRERGxrVmdfcHpEblJYRHhERVZZQ0czZnVzOGdzRm5pT3hxdmV3aDNsM3Nn?oc=5",
+      "summary": "백석문화대, 학생자치단체·동아리실 개소식…“학생 중심 공간으로 재탄생” 뉴스밴드",
+      "source": "뉴스밴드",
+      "published_at": "2026-03-18T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "8d06eef88e1d4f6d242c",
+      "category": "의결·자치",
+      "collected_at": "2026-09-05T02:26:43.900073+00:00"
+    },
+    {
       "title": "제56대 서울총학 재선거에 ‘초점’ 단독 예비후보 등록 - 고대신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83V1EwOXNnS2pGeURaTTVDby1OOEY2LVVpNk1RSXZsaXEtMF9BZ09ZRnFFbVZxVXlEMTFuS0RmNndVdWY1RUpKaUVQR1V3OFQxTlNWaVliYm1WWWtiWmlwMTRfdlluZDJvMmc?oc=5",
       "summary": "제56대 서울총학 재선거에 ‘초점’ 단독 예비후보 등록 고대신문",
@@ -9597,6 +9669,18 @@
       "id": "70b3d7a39ac2b419b92b",
       "category": "의결·자치",
       "collected_at": "2026-08-23T12:26:13.992581+00:00"
+    },
+    {
+      "title": "국립한밭대, 2026학년도 학생자치기구 회장단 임명장 수여 - news.nate.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZa1I1QjBUSGo1TTViTXNwV0ZPb0h2bXdleG8zQTM1UXpHN2VlLWZyVFgtVEJHdld2cXhFUmJIa1pPay16LThPU3VXNGZzYmtnVEFSVE0tY1A0d3plWmlncg?oc=5",
+      "summary": "국립한밭대, 2026학년도 학생자치기구 회장단 임명장 수여 news.nate.com",
+      "source": "news.nate.com",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "68e98470b4b252f8b3cc",
+      "category": "의결·자치",
+      "collected_at": "2026-09-05T02:26:43.900487+00:00"
     },
     {
       "title": "[속보] 2026 총학, PASS가 이끈다 - 채널PNU",
