@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-09-05T11:27:13.670372+09:00",
-  "item_count": 883,
+  "updated_at": "2026-09-05T23:23:04.619633+09:00",
+  "item_count": 888,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "국립목포대 총학생회, 불공정 의대 선정 장외 투쟁 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50UlliTFRheUhCdzdySHlTNHkxTUlldlNjbmZoQV9ISVRhS05aRVFDNDF0OHo3aG1Wa2ZKS0c1UU1FQVluQXBlUG5YWmJ0NERVbExENTN3T082bjBqMEFZYWk1aElVU1FLZWoxTm9ET2FhVUh6?oc=5",
+      "summary": "국립목포대 총학생회, 불공정 의대 선정 장외 투쟁 아시아뉴스통신",
+      "source": "아시아뉴스통신",
+      "published_at": "2026-09-05T12:02:43+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "2c6d50e88ad35ec64590",
+      "category": "기타",
+      "collected_at": "2026-09-05T14:22:35.037866+00:00"
+    },
+    {
+      "title": "박홍근 기획예산처 장관, 전·현직 총학생회장단과 ‘미래대응·청년정책' 간담회 - 뉴스밴드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kXzBsQWgwV3lNV3BMX3FYS19jZVd2Q0NfTG9QeVBGZTlmWl9kcENUNVV5RURUTnA1bW9vdTZuYjdhZ0JCeU54YllkZmhjMzJVYnNVUkp0Yy1rc3lCeXlMX1RYVGN4eGs5?oc=5",
+      "summary": "박홍근 기획예산처 장관, 전·현직 총학생회장단과 ‘미래대응·청년정책' 간담회 뉴스밴드",
+      "source": "뉴스밴드",
+      "published_at": "2026-09-05T08:59:30+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "cb0e986e804e7529513d",
+      "category": "재정·감사",
+      "collected_at": "2026-09-05T14:22:35.037835+00:00"
+    },
     {
       "title": "기획예산처, 대학 총학생회장단과 미래대응·청년정책 간담회… 호서대 등 대학생 23명 참석 - 스포트라이트유",
       "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQUVk5NF82ZUpUc0gtNzVEdlc4ejZwZ2VWM3RHS1lQQmhXT3lVempCSEEwNnFScHZ4amFBckRDVmVvNy03RFBrb1dCelplTE9lQTQ2ekQ2SGEtLTVzNDFkcmp4VmsyRy1YZThqVE82NVlLdWpsZjVXTkYyNnVJNEtLQ0tWbWpoNHB1RUYzQjFEUWpfbUhrNVVrLUtsWFVweW9fWW52YTBOREUtd2tXazBlUU91VkJJTGdyLTlxaUpNQWtRMWJOekNQQVJVT3BZZFFxT2FuZGtBamtVTXM5Y09FQzNYay1JZ096SzZzelNhZjlBTWNmSVYwdEpiWG9iRXkxMWN5X3FQdWtUck9Kb05hcEhMOVZWQ2QyWjZUMHd6V2ZaNjRGWEhoZGZZZVduc3drMkZOX2YxVFc1cmRPQ3Q3ZTl4dlkzV3pUYkxqcC13?oc=5",
@@ -327,6 +351,18 @@
       "id": "daa55eee0340e7b4dd75",
       "category": "선거·조직",
       "collected_at": "2026-09-04T15:34:55.939230+00:00"
+    },
+    {
+      "title": "[속보] '스텝업' 71.5%로 제57대 총학 당선… 득표율 '스타트'보다 26%p 높았다 - inews.ewha.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pS0FrV2NDMkpqQktFVnRSV2QyZlhIdko0dHJyc1luRzA5ZTNCNEZZRmkxUTVBdms1TENUdmFweTFkM2N3U0JZd1FjWWxaNUFIWmJMU25mNkF2LUtwYktWLTd0SjhYS3BZcHfSAW5BVV95cUxNMDZWc0ZidFRRN3pYQW1HZVU4WlZKU3lGUVlQVFZXbkNDa2NSLTh6c09UQ0kzdXdfa2FiZU5qQnBnTlpSY0hPTGs2VlcxX3pCSjB6dnFZVTREVmtMS3g0TVFXaDY0YnhsQ3I1Y0duUQ?oc=5",
+      "summary": "[속보] '스텝업' 71.5%로 제57대 총학 당선… 득표율 '스타트'보다 26%p 높았다 inews.ewha.ac.kr",
+      "source": "inews.ewha.ac.kr",
+      "published_at": "2026-08-30T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "19bc1ec8301a767f4f79",
+      "category": "선거·조직",
+      "collected_at": "2026-09-05T14:22:35.038028+00:00"
     },
     {
       "title": "[속보] 총학 비대위장, 비상대책위원회 설립위원회 통해 선출돼 - 연세춘추",
@@ -2306,6 +2342,18 @@
       "id": "1bc18ec797b16a8d53de",
       "category": "재정·감사",
       "collected_at": "2026-09-04T15:34:55.940721+00:00"
+    },
+    {
+      "title": "고려대 총학생회, 예산서 농활 - ikpnews.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sNXpaZVVGN0t6YWgxdUVGa0MwdnFvME5kcDl1c1lUNGZNNV9XOFljbHJwRjdib0tBcXpQaWFfSm9jcENOZkpNMFA5MWVmRmVZbDB0Mi0zcXdoMkFLT0pxNElQeFBXbkVLNFRV0gFrQVVfeXFMTmw1elplVUY3S3phaDF1RUZrQzB2cW8wTmRwOXVzWVQ0Zk01X1c4WWNscnBGN2JvS0FxelBpYV9Kb2NwQ05mSk0wUDkxZWZGZVlsMHQyLTNxd2gyQUtPSnE0SVB4UFduRUs0VFU?oc=5",
+      "summary": "고려대 총학생회, 예산서 농활 ikpnews.net",
+      "source": "ikpnews.net",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "74408c5fb6b6799bd0ca",
+      "category": "재정·감사",
+      "collected_at": "2026-09-05T14:22:35.039282+00:00"
     },
     {
       "title": "등심위 구조 개선 논의···학생 참여 확대 놓고 이견 - 이대학보",
@@ -9681,6 +9729,18 @@
       "id": "68e98470b4b252f8b3cc",
       "category": "의결·자치",
       "collected_at": "2026-09-05T02:26:43.900487+00:00"
+    },
+    {
+      "title": "국립한밭대, 2026학년도 학생자치기구 회장단 임명장 수여 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZa1I1QjBUSGo1TTViTXNwV0ZPb0h2bXdleG8zQTM1UXpHN2VlLWZyVFgtVEJHdld2cXhFUmJIa1pPay16LThPU3VXNGZzYmtnVEFSVE0tY1A0d3plWmlncg?oc=5",
+      "summary": "국립한밭대, 2026학년도 학생자치기구 회장단 임명장 수여 네이트",
+      "source": "네이트",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "2954cb65d2d8daa3dce2",
+      "category": "의결·자치",
+      "collected_at": "2026-09-05T14:22:36.643714+00:00"
     },
     {
       "title": "[속보] 2026 총학, PASS가 이끈다 - 채널PNU",
