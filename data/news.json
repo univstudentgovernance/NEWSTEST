@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T11:23:26.351683+09:00",
-  "item_count": 911,
+  "updated_at": "2026-09-06T23:45:36.326997+09:00",
+  "item_count": 912,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -8304,6 +8304,18 @@
       "id": "1091b8d331c6bcde62e8",
       "category": "재정·감사",
       "collected_at": "2026-09-02T02:22:46.264860+00:00"
+    },
+    {
+      "title": "국립한밭대, 2026학년도 학생자치기구 출범식 성료 - ggilbo.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnNWRTLXFtLUdfU2JQaGswaVVER3h6R0JIcWkwMFRJSXRSSk5LMTRNOUZNNy13cXRYZUVYTzBBam5CYnpPNl9hYWVsdGZGYUgtUFFBdkJ6cWk5Z3NNQ1M5Z195TUhvMWtBZnc?oc=5",
+      "summary": "국립한밭대, 2026학년도 학생자치기구 출범식 성료 ggilbo.com",
+      "source": "ggilbo.com",
+      "published_at": "2026-03-12T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "52618227a03dd60492c6",
+      "category": "의결·자치",
+      "collected_at": "2026-09-06T14:45:09.627674+00:00"
     },
     {
       "title": "휘청이는 학생자치…새학기 불구 대학 곳곳서 '총학생회 공백' 뚜렷 - 대전일보",
