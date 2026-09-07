@@ -1,9 +1,93 @@
 {
-  "updated_at": "2026-09-07T11:20:20.929343+09:00",
-  "item_count": 916,
+  "updated_at": "2026-09-08T02:01:55.175779+09:00",
+  "item_count": 928,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "화신사이버대학교, 총동문회·총학생회와 함께 해운대 해변 환경정화 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54Z3RNMFRKbWRIQldGZzhTLXBpTjRoMWVEOFdvMVo3TE41WXJxUzlkNF80SVg5M0l4R0g0cnU4MmVrUHFlaHA2RkZ1WmNPaFFVUnRQdVF3bzZWMTNmODBxSk55Ul9GU3B6T0Z3WVdrRGRwU1laTEtLekI5SUU?oc=5",
+      "summary": "화신사이버대학교, 총동문회·총학생회와 함께 해운대 해변 환경정화 부산일보",
+      "source": "부산일보",
+      "published_at": "2026-09-07T08:50:06+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "7c7400dcebf2846e8388",
+      "category": "기타",
+      "collected_at": "2026-09-07T17:01:22.531409+00:00"
+    },
+    {
+      "title": "국립목포대 총학생회 “1.30점 차이 전남 의대 공모, 재검증해야” - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JRmRPdzJSOTBZNVVGTlpkY3N0eWhrbU9lNzc0clNLUU9qeVI4Z3FLMDVqbkhDb09ERkdPRGE4U1ROVEM3QmwyT3diUTFwTHktbnF3S1pxalFwZ2oxVENoMjFsRjhGS0J5akpZekVneTjSAXRBVV95cUxQVUhyUUE1YjRtWUdMcW5FYmloMllrMDdocU5MYkRaZ0NYMkdRaFZxRjFMNnd5Vm8ycVRWdDhFVXY3VlBkVjI5VlBVZ2VRWXBJREF0ZFoyaV9nbVJFUVQwNmZhM08zX0wzeEhpM0tybjVEY0JuRQ?oc=5",
+      "summary": "국립목포대 총학생회 “1.30점 차이 전남 의대 공모, 재검증해야” 이뉴스투데이",
+      "source": "이뉴스투데이",
+      "published_at": "2026-09-07T08:35:19+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b7f17c6c2742516c4e3e",
+      "category": "기타",
+      "collected_at": "2026-09-07T17:01:22.531203+00:00"
+    },
+    {
+      "title": "목포대 총학생회장, 국립의대 평가 검증 촉구…무안청사 앞 1인 시위 - 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LQXUtQjVEMVhjN2EzXzVoaWMtRlF6QlF6dlk1TVZWVS1paGx5RDFZdU9iX1h4WGxhV0lLaE1ZQnhVaU4yV19lNUtjUnBoZFo2MWRDWndHWnFFdWVwQzlsQ1BmYlQ4MUR5bi03Q01n?oc=5",
+      "summary": "목포대 총학생회장, 국립의대 평가 검증 촉구…무안청사 앞 1인 시위 아시아투데이",
+      "source": "아시아투데이",
+      "published_at": "2026-09-07T08:01:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b2b811bb8d64a63b52f8",
+      "category": "기타",
+      "collected_at": "2026-09-07T17:01:22.531123+00:00"
+    },
+    {
+      "title": "국립목포대 총학생회, “1.30점 차이 전남 의대 공모, 평가 과정 공정성부터 재검증하라” 1인 시위 돌입 - 호남타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkekhaZFd3aU4tQ042XzhnVjVhc0tuc0lIbERjZ1Z1TXJ6VVNldTl0Rm9qZEdkRFl3N1AtZ3JwcTB2MTdqOHNGdjYwOTMxLWtxUDIwUkdRa1FwY3dwSXdJem1JdTBxOWpRQ05acw?oc=5",
+      "summary": "국립목포대 총학생회, “1.30점 차이 전남 의대 공모, 평가 과정 공정성부터 재검증하라” 1인 시위 돌입 호남타임즈",
+      "source": "호남타임즈",
+      "published_at": "2026-09-07T07:46:41+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "6a2f5eef86979b824401",
+      "category": "기타",
+      "collected_at": "2026-09-07T17:01:22.531177+00:00"
+    },
+    {
+      "title": "목포대 총학, \"전남 의대 공모 평가 공정성부터 재검증해야\"...1인시위 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10R0NxNEJoS1BOZHBOSENzT2IzRWx5NDF5TUNPdGd0MGhVQS1aU2RIYXluOXVKRU1CanB2Rlc1RnM3ZnBEd2RwbW5CZThXWElzTkhoWjNuU0RFc211bFBpdXFvNFg2QUVRUm9fZXF6b9IBb0FVX3lxTE10R0NxNEJoS1BOZHBOSENzT2IzRWx5NDF5TUNPdGd0MGhVQS1aU2RIYXluOXVKRU1CanB2Rlc1RnM3ZnBEd2RwbW5CZThXWElzTkhoWjNuU0RFc211bFBpdXFvNFg2QUVRUm9fZXF6bw?oc=5",
+      "summary": "목포대 총학, \"전남 의대 공모 평가 공정성부터 재검증해야\"...1인시위 - 머니투데이 머니투데이",
+      "source": "머니투데이",
+      "published_at": "2026-09-07T07:38:23+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e868df68a864f9b82d55",
+      "category": "기타",
+      "collected_at": "2026-09-07T17:01:22.531054+00:00"
+    },
+    {
+      "title": "국립목포대 총학생회, “전남 의대 공모, 평가 과정 공정성부터 재검증하라” - 대학IN",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQWszbndReTg1cmg4WXRGcjRpdXBlZktJY2xyT0ZfeGZFazlXQXFMeWZUNFRfNEJmcTJnRlp1Q2JpSEFiNHk1ZTMxcTczbnotQ0haMEQ0cDIweG8xVU9SWjVvS2F6NDBSRDRWX9IBcEFVX3lxTFBQeUxFcW1aWXpWdmszcjJQMUN4bDR3ODFQN09NQnhISmpUU2FzbElQd1FCMUljeGRpN0t5Z1lBdXVoWGJ1YmstWVV4YlZENlBuaUh3LUs3ai1jTjU2SEt2YkhWT2xlcklRWmFkSUhLamw?oc=5",
+      "summary": "국립목포대 총학생회, “전남 의대 공모, 평가 과정 공정성부터 재검증하라” 대학IN",
+      "source": "대학IN",
+      "published_at": "2026-09-07T06:56:55+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "fca6f831887e36a3f921",
+      "category": "기타",
+      "collected_at": "2026-09-07T17:01:22.531248+00:00"
+    },
+    {
+      "title": "목포대 총학생회장, 1인 시위…\"국립의대 평가 과정 투명하게 공개해야\" - 프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkeHRzY25RT0dwend3enBfWUVRNGZCdHd4QzRRZnlvNVZJV0llX21PRDg2NnNEMzFfZVo1U2tmb3NlNXBzSktnRXBMb1JublM5eXlCRmVBUzZYQkx0OFVYdnZYMUhYUUhRbzE0?oc=5",
+      "summary": "목포대 총학생회장, 1인 시위…\"국립의대 평가 과정 투명하게 공개해야\" 프레시안",
+      "source": "프레시안",
+      "published_at": "2026-09-07T06:25:55+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "664c8977761ea022eb89",
+      "category": "기타",
+      "collected_at": "2026-09-07T17:01:22.531095+00:00"
+    },
     {
       "title": "서울대 총학생회칙, ‘차별받지 않을 권리’ 명시 - 서울대저널",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xcmlXRWJkWWVXZEt3YWlBVDhvN2FSLUFIUDNHYU9faFpYamkzaUh0bXhTRExjdWw1X2tWQkJIbVI2LTdkdGZjZGdZbXBMUUNsU3JUWUNQT2pFY0xCck4tVDhFakZyUQ?oc=5",
@@ -147,6 +231,18 @@
       "id": "7d7f55505037c10a13d5",
       "category": "재정·감사",
       "collected_at": "2026-09-07T02:19:48.109474+00:00"
+    },
+    {
+      "title": "박홍근 기획예산처 장관, 전현직 총학생회장단과 청년 정책 간담회 개최 - seonamtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44MUdNYk1wcHl2R3c3cVp4cmtlbkhSUTljVl9GcVZoc1F4bndSeExlRVYwcjhUUVpZTVVKaE9BX191bUh1cWxFN1FIMm9Tb0lMRGdXWFUybmhEZw?oc=5",
+      "summary": "박홍근 기획예산처 장관, 전현직 총학생회장단과 청년 정책 간담회 개최 seonamtoday.com",
+      "source": "seonamtoday.com",
+      "published_at": "2026-09-04T06:53:23+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d46c03004d6c20b81bd2",
+      "category": "재정·감사",
+      "collected_at": "2026-09-07T17:01:22.531387+00:00"
     },
     {
       "title": "박운기 구청장, '청년로그인' 9개 대학 총학생회장·학보사 기자 간담회 개최 - 서울복지신문",
@@ -6504,6 +6600,18 @@
       "collected_at": "2026-08-01T17:27:17.517896+00:00"
     },
     {
+      "title": "2026학년도 1학기 총학생회 공약 이행 평가 - 아주대학보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TN1VscFo5YzVsdnJLN1hVbTNLWDVXcXNJS3I2TmpqNVlEMGhreU5vRmthR3kyTW1rcUlydzN0UlUza0JvbzFmdUxrUFZEVk41YVYxQ1lyRFZ3UktMTmgyTldGOUk3bkZyN3c?oc=5",
+      "summary": "2026학년도 1학기 총학생회 공약 이행 평가 아주대학보",
+      "source": "아주대학보",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "3ddc7d4864c3897be29d",
+      "category": "복지·문화",
+      "collected_at": "2026-09-07T17:01:30.856004+00:00"
+    },
+    {
       "title": "\"에스파 부르면 1억?\" 학생회비 '영끌'...대학 축제 '아이돌 섭외' 전쟁 - 머니투데이 - 머니투데이",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5a2J1N01xek92Vl9QcW9FcUF5S2VPX2prYkRlSWdUaFFXdlZlMnZ3V0w1dDF1dDIxNGxRcVJiUXZhT29mMk1mVGZwb1J4R2FqU0tEZ2tYNEFYU00tUWJaQVRKVVZ4ZWFyYy000gFwQVVfeXFMT0R4WERSVVM0TW41RTNMRURJVDJZQmlURFBfQ3B5ajJ5djNYdEdweno5M01tX0VOQnBVYTVRMEN3M1ZRM0V0NThUQ0ItRzlUZ19Rd3U0Vjk2Tk1HSTJ4cjFndVdQcVBvU2duYlR4aElzTg?oc=5",
       "summary": "\"에스파 부르면 1억?\" 학생회비 '영끌'...대학 축제 '아이돌 섭외' 전쟁 - 머니투데이 머니투데이",
@@ -7129,6 +7237,18 @@
       "collected_at": "2026-09-02T15:47:08.535717+00:00"
     },
     {
+      "title": "“학우들의 든든한 버팀목 되겠다” 총학 공백 메울 비대위 체제 1년 - news.knsu.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vTy0yWU1IU0lKSlc0M1BtTUlseFJtY1BMd2g3bWZUb28wSjFsRGp6ZDRWeXZUSi1aUk1tM001b0ZndzB0eWxHcHphbXJZZU5lNThYV2hnY2ZXNW5Vcm0zMktiMWQ2QmM?oc=5",
+      "summary": "“학우들의 든든한 버팀목 되겠다” 총학 공백 메울 비대위 체제 1년 news.knsu.ac.kr",
+      "source": "news.knsu.ac.kr",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "df2314272f670cf2fe98",
+      "category": "선거·조직",
+      "collected_at": "2026-09-07T17:01:25.898864+00:00"
+    },
+    {
       "title": "[D뉴스] '한예종 광주 이전' 두고 갈등... 총학생회 \"지방 이전은 책임 전가\" 반발 - KBC광주방송",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fU3VSRnhyME1wTW8xSnZ6akFqMTk0ajhtMUlfUXVrMjFNc3J6OFUxT0s4QmZjMkMwdEl3TjhFbml0X1RsczZVMmdfUEUtbEhXMFF2RjNxZHNUVDJqTi1ZSQ?oc=5",
       "summary": "[D뉴스] '한예종 광주 이전' 두고 갈등... 총학생회 \"지방 이전은 책임 전가\" 반발 KBC광주방송",
@@ -7232,6 +7352,18 @@
       "id": "f23a82bb129b6e8bd7fa",
       "category": "의결·자치",
       "collected_at": "2026-08-20T12:34:30.113256+00:00"
+    },
+    {
+      "title": "광주대 학생자치기구, 중간고사 대박 기원 이벤트 ‘활기’ - kyosu.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aTGVFUjhZZVFtbFE1TjZEWExIUmNWbkxLck1DQWltdnlrYzNjVmxFTW0waFBpNGUtT2Y3aEd1NkllZlZMWWtDQl9zRlAzSG5LTEg2NC1YQ1YyMy1MdGk3S2FTS3kxNVE?oc=5",
+      "summary": "광주대 학생자치기구, 중간고사 대박 기원 이벤트 ‘활기’ kyosu.net",
+      "source": "kyosu.net",
+      "published_at": "2026-04-17T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "8b9f100defae8bdef84c",
+      "category": "의결·자치",
+      "collected_at": "2026-09-07T17:01:24.215428+00:00"
     },
     {
       "title": "왕복아닌 편도 8천원…총학 예비군 셔틀버스 지원 '시끌' - 뉴시스",
@@ -10065,6 +10197,18 @@
       "id": "14824606bd62e62a7b61",
       "category": "의결·자치",
       "collected_at": "2026-09-06T02:22:55.722581+00:00"
+    },
+    {
+      "title": "강원대 삼척 연합 학생자치단체, 수시모집 면접 수험생 대상 따뜻한 응원 행사 펼쳐 - veritas-a.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00eWFaRjkzcXF6SkdSX0FELTFXVTZ3SnZBTTBVZ1BhUjhxY3NIdVI1ckFwV1MyaXNPT040ZDRHQ0lCREROcE9scDhwb1pCUU1TWkk2SFhGaGhZeTJKVWRRVnFRODZzanRxTFpSMA?oc=5",
+      "summary": "강원대 삼척 연합 학생자치단체, 수시모집 면접 수험생 대상 따뜻한 응원 행사 펼쳐 veritas-a.com",
+      "source": "veritas-a.com",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "b5c9120cd2c05f329892",
+      "category": "의결·자치",
+      "collected_at": "2026-09-07T17:01:24.216365+00:00"
     },
     {
       "title": "[속보] 2026 총학, PASS가 이끈다 - 채널PNU",
