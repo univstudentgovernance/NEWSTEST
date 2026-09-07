@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-09-06T23:45:36.326997+09:00",
-  "item_count": 912,
+  "updated_at": "2026-09-07T11:20:20.929343+09:00",
+  "item_count": 916,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "서울대 총학생회칙, ‘차별받지 않을 권리’ 명시 - 서울대저널",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xcmlXRWJkWWVXZEt3YWlBVDhvN2FSLUFIUDNHYU9faFpYamkzaUh0bXhTRExjdWw1X2tWQkJIbVI2LTdkdGZjZGdZbXBMUUNsU3JUWUNQT2pFY0xCck4tVDhFakZyUQ?oc=5",
+      "summary": "서울대 총학생회칙, ‘차별받지 않을 권리’ 명시 서울대저널",
+      "source": "서울대저널",
+      "published_at": "2026-09-07T02:14:12+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "0fae348c3f279a28fc7a",
+      "category": "의결·자치",
+      "collected_at": "2026-09-07T02:19:48.109362+00:00"
+    },
     {
       "title": "총학 구성원 비위 제기되면 인사 조치 가능해진다 - 대학신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rOFBES2tXQV9JNmtNVkRZbEkzelZLQWduLU5Md2lvalk5X2lfM3Q2cng1MHNkR0JiWkFDWVZTMU4zY0p1cmU5UEpZWE5yVG1Ualc2TXFrMlJKdkU3YndnRl80VHVtTUJz?oc=5",
@@ -39,6 +51,18 @@
       "id": "cb0e986e804e7529513d",
       "category": "재정·감사",
       "collected_at": "2026-09-05T14:22:35.037835+00:00"
+    },
+    {
+      "title": "박홍근 기획예산처 장관, 전·현직 총학생회장단과 ‘미래대응·청년정책' 간담회 - newsband.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kXzBsQWgwV3lNV3BMX3FYS19jZVd2Q0NfTG9QeVBGZTlmWl9kcENUNVV5RURUTnA1bW9vdTZuYjdhZ0JCeU54YllkZmhjMzJVYnNVUkp0Yy1rc3lCeXlMX1RYVGN4eGs5?oc=5",
+      "summary": "박홍근 기획예산처 장관, 전·현직 총학생회장단과 ‘미래대응·청년정책' 간담회 newsband.kr",
+      "source": "newsband.kr",
+      "published_at": "2026-09-05T08:59:30+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "528d3aefdb95f7d0df8d",
+      "category": "재정·감사",
+      "collected_at": "2026-09-07T02:19:48.109441+00:00"
     },
     {
       "title": "기획예산처, 대학 총학생회장단과 미래대응·청년정책 간담회… 호서대 등 대학생 23명 참석 - 스포트라이트유",
@@ -111,6 +135,18 @@
       "id": "5ed1b6c9e962a31cd329",
       "category": "재정·감사",
       "collected_at": "2026-09-04T15:34:55.939031+00:00"
+    },
+    {
+      "title": "박홍근 기획예산처 장관, 전현직 총학생회장단과 청년 정책 간담회 개최 - 서남투데이",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44MUdNYk1wcHl2R3c3cVp4cmtlbkhSUTljVl9GcVZoc1F4bndSeExlRVYwcjhUUVpZTVVKaE9BX191bUh1cWxFN1FIMm9Tb0lMRGdXWFUybmhEZw?oc=5",
+      "summary": "박홍근 기획예산처 장관, 전현직 총학생회장단과 청년 정책 간담회 개최 서남투데이",
+      "source": "서남투데이",
+      "published_at": "2026-09-04T06:53:23+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "7d7f55505037c10a13d5",
+      "category": "재정·감사",
+      "collected_at": "2026-09-07T02:19:48.109474+00:00"
     },
     {
       "title": "박운기 구청장, '청년로그인' 9개 대학 총학생회장·학보사 기자 간담회 개최 - 서울복지신문",
@@ -8152,6 +8188,18 @@
       "id": "8d06eef88e1d4f6d242c",
       "category": "의결·자치",
       "collected_at": "2026-09-05T02:26:43.900073+00:00"
+    },
+    {
+      "title": "백석문화대, 학생자치단체·동아리실 개소식…“학생 중심 공간으로 재탄생” - newsband.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TcnFfdXJjOUFweTJmaDdtREV0VmtnMm56QkhOTXhNMzJmV3JNOWtDTXJ1TU53TlktQzdYTlRERGxrVmdfcHpEblJYRHhERVZZQ0czZnVzOGdzRm5pT3hxdmV3aDNsM3Nn?oc=5",
+      "summary": "백석문화대, 학생자치단체·동아리실 개소식…“학생 중심 공간으로 재탄생” newsband.kr",
+      "source": "newsband.kr",
+      "published_at": "2026-03-18T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "6298b9c28955082d1b38",
+      "category": "의결·자치",
+      "collected_at": "2026-09-07T02:19:49.856224+00:00"
     },
     {
       "title": "제56대 서울총학 재선거에 ‘초점’ 단독 예비후보 등록 - 고대신문",
