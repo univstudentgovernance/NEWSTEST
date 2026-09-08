@@ -1,9 +1,45 @@
 {
-  "updated_at": "2026-09-08T02:01:55.175779+09:00",
-  "item_count": 928,
+  "updated_at": "2026-09-08T11:32:43.531590+09:00",
+  "item_count": 935,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "한밭대와는 무산됐는데···충남대, 공주대 통합 성사될까",
+      "url": "https://www.khan.co.kr/article/202609080955001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": "2년 만에 공주대 통합 재추진반발 속 10일까지 찬반투표학과·정원 조정 등 쟁점 여전충남대와 국립공주대의 통합에 반대하는 내용의 근조화환이 충남대 교내에 설치돼 있다. 충남대 총학생회 비상대책위원회 제공충남대와 국립공주대가 통합대학의 교명을 충남대로 정하고 양 대학 구성원을 대상으로 통합 찬반투표를 진행하면서 통합 논의가 막바지로 접어들고 있다. 여전히 학···",
+      "source": "경향신문",
+      "published_at": "2026-09-08T02:32:34.481694+00:00",
+      "matched_query": "",
+      "feed": "경향신문",
+      "id": "e126d32720605f6c26f2",
+      "category": "선거·조직",
+      "collected_at": "2026-09-08T02:32:34.482762+00:00"
+    },
+    {
+      "title": "목포대 총학생회, 전남 국립의대 재검증 요구…시청 앞 1인 시위 - kgdm.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmZzRyeDNWeURzaFlPQzRfaFNobElSYTh1cE5GVHY1cnF6a244Q0dkdXkwUVM2SW9SR2dFMURteDd6OEY1cC13blFLTFEzR3gzZUdZWnNvTUF6SXdRU29xaDV0Rzdndw?oc=5",
+      "summary": "목포대 총학생회, 전남 국립의대 재검증 요구…시청 앞 1인 시위 kgdm.kr",
+      "source": "kgdm.kr",
+      "published_at": "2026-09-07T18:26:11+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "a2dad471ad04b6746612",
+      "category": "기타",
+      "collected_at": "2026-09-08T02:32:15.370987+00:00"
+    },
+    {
+      "title": "목포대 총학생회, 전남 의대 평가 검증 촉구…도청 앞 1인 시위 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GNzBUaEY0eURGQ0QwVHliREtaTUNTZjZzZk5aNWJZbVZvSTh1R2FFTUtiSEY1d1FvbkZRRFcxalA3bHZ3R3hodmZycF94U3EtU2s4?oc=5",
+      "summary": "목포대 총학생회, 전남 의대 평가 검증 촉구…도청 앞 1인 시위 네이트",
+      "source": "네이트",
+      "published_at": "2026-09-07T09:12:06+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e7583993114a1a4df660",
+      "category": "기타",
+      "collected_at": "2026-09-08T02:32:15.371268+00:00"
+    },
     {
       "title": "화신사이버대학교, 총동문회·총학생회와 함께 해운대 해변 환경정화 - 부산일보",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54Z3RNMFRKbWRIQldGZzhTLXBpTjRoMWVEOFdvMVo3TE41WXJxUzlkNF80SVg5M0l4R0g0cnU4MmVrUHFlaHA2RkZ1WmNPaFFVUnRQdVF3bzZWMTNmODBxSk55Ul9GU3B6T0Z3WVdrRGRwU1laTEtLekI5SUU?oc=5",
@@ -495,6 +531,18 @@
       "id": "2c4b16cc785f1ddbdfe4",
       "category": "선거·조직",
       "collected_at": "2026-09-01T15:55:16.500546+00:00"
+    },
+    {
+      "title": "\"개강에 강한 자들이여 사자상 앞으로\"... 총학생회 비대위, 사자상 일대서 2학기 개강 행사 개최 - newshyu.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JYzdwM0hhc3BZcGpXSlZjajVMdFprZDdELS01TXI2OTk2NktLNTRHaGtPNk81TmhLaDZYZGsyLWd3QnRYbHJoZnhBSHRsMDdwT0VKVGdxRE0yelkzcjBIR21yOXpOYWVuY2Q0?oc=5",
+      "summary": "\"개강에 강한 자들이여 사자상 앞으로\"... 총학생회 비대위, 사자상 일대서 2학기 개강 행사 개최 newshyu.com",
+      "source": "newshyu.com",
+      "published_at": "2026-09-01T04:16:07+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ab22c2f04cd40a42ea84",
+      "category": "선거·조직",
+      "collected_at": "2026-09-08T02:32:15.371393+00:00"
     },
     {
       "title": "동명대 인권센터-총학생회, 전문 탐지장비 활용해 불법촬영카메라 합동 점검 - 국제신문",
@@ -7888,6 +7936,18 @@
       "collected_at": "2026-08-16T00:55:24.872621+00:00"
     },
     {
+      "title": "[한국외국어대학교 서울캠퍼스 제60대 총학생회장단 선거운동본부 '선명']: 공약 톺아보기 - univalli.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BQWNzWmhBNWJyU1NkM1V0SkxnYnFhY0JNelJQaGw0T01CV3lPTmNjWWVDODdwd2tnUW9mdWFIMGhqSzhUYVBKZFpCY1dXSDVTLXhKNTlrTnpJNnZaajBBMA?oc=5",
+      "summary": "[한국외국어대학교 서울캠퍼스 제60대 총학생회장단 선거운동본부 '선명']: 공약 톺아보기 univalli.com",
+      "source": "univalli.com",
+      "published_at": "2026-04-06T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "0d8fd8c4fb333c30c9e4",
+      "category": "선거·조직",
+      "collected_at": "2026-09-08T02:32:23.171853+00:00"
+    },
+    {
       "title": "총학생회비 쓰임 몰라 납부하지 않는 학생들···10명 중 3명만 낸다 - inews.ewha.ac.kr",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ubGowZkdsNzJpUE5jZVRzZkEteEdCcFdxMkx6YUJMWEFGZ3djTjVFVGhGUTZUZ2xESlFmTi1sclFLVUVpRmJqTjBCUV9zWFdKbmliaEV3U2NtaHZnQnFfdEJRdkxsOWEyenfSAW5BVV95cUxNREhCZy0zTldxY2NIZXBHcHN3SnJmdzluWXQ5UU5Rb1pDMlhoN1VJVkp1M1UzR3NHdThhSTNQUjFPYzYySFVTQ2psRFdXS0FyZUd2Nm8wRFJwT0U5YUR1TzJjQUtWLTFKNFZ1Tjd1dw?oc=5",
       "summary": "총학생회비 쓰임 몰라 납부하지 않는 학생들···10명 중 3명만 낸다 inews.ewha.ac.kr",
@@ -10281,6 +10341,18 @@
       "collected_at": "2026-08-01T17:27:38.660093+00:00"
     },
     {
+      "title": "충북대 총학생회 선거, '극우 폭력 사태 연루' 의혹 후보자 논란 확산 - univalli.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vQXFpelk0ZGRpUmplbUU1NzBNU0xYTjVHVEQxNjRBRW5UOWVFM3BtenpEV011eUx6cFpqdGU0YXFYSVh0WUUwcmpmb1FDbFd5cExmT1FsRTd2Rkk?oc=5",
+      "summary": "충북대 총학생회 선거, '극우 폭력 사태 연루' 의혹 후보자 논란 확산 univalli.com",
+      "source": "univalli.com",
+      "published_at": "2025-11-25T08:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "fd70eb8a4b7e87f8cd8c",
+      "category": "선거·조직",
+      "collected_at": "2026-09-08T02:32:23.172271+00:00"
+    },
+    {
       "title": "대학 총학생회가 아니라 '엔터테인먼트 기획사' - OhmyNews",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HMmgyNWpjd0RCMGJqYjhpM09QTURKTHhZblRCa1V5bGI2aHZfRnhfSllPcDZlRjRYdFlGVk4zXzZ1TkZrU1d0a0hkeUJQUDJTX2lGZWRmV3k0elkxZVdlN2Rfc05UT3pHM0w4OGdiLTVOa2tYSlNN?oc=5",
       "summary": "대학 총학생회가 아니라 '엔터테인먼트 기획사' OhmyNews",
@@ -10384,6 +10456,18 @@
       "id": "f8bfaf3b51be9cde5cf3",
       "category": "선거·조직",
       "collected_at": "2026-08-04T10:15:22.205362+00:00"
+    },
+    {
+      "title": "“깊이 사과드린다” 가톨릭대 총학생회 선본 ‘여운’ 선관위 징계 조치에 사과문 올려 - univalli.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16NHpydm1VeF9oN1ZybDgwUkhNUEp0bVU2dWVtZUVIWW8xVW1ScEJTdFFCUUhqR0pWRDY0dDR6SmpiaGNYZjF5UVVSUVJiWWlfazgtYktBT3I2QkU?oc=5",
+      "summary": "“깊이 사과드린다” 가톨릭대 총학생회 선본 ‘여운’ 선관위 징계 조치에 사과문 올려 univalli.com",
+      "source": "univalli.com",
+      "published_at": "2025-11-18T08:00:00+00:00",
+      "matched_query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
+      "feed": "Google News RSS",
+      "id": "15ffc8f1de697b39aa7e",
+      "category": "선거·조직",
+      "collected_at": "2026-09-08T02:32:26.181504+00:00"
     },
     {
       "title": "[2026 학생회] 투표 전 필독, 총학 세 후보가 말하는 비전 - 채널PNU",
