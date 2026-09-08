@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T11:32:43.531590+09:00",
-  "item_count": 935,
+  "updated_at": "2026-09-09T00:49:03.380530+09:00",
+  "item_count": 938,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -15,6 +15,18 @@
       "id": "e126d32720605f6c26f2",
       "category": "선거·조직",
       "collected_at": "2026-09-08T02:32:34.482762+00:00"
+    },
+    {
+      "title": "목포대 총학생회, 전남 의대 평가 재검증 촉구 - 전국매일신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvbjJFNmRycTZFNHg3U0ZsTkxuVUZfbnlVNnIzazFlSlZ2SGRPQ2hic3BlcWppSWM1SERYNlJQNEFwY2F4dGlfa1pNcGxTSlpWWE50ci1XUmxWRjl6bE1IUUViOS13SkJWTnNhTDJB?oc=5",
+      "summary": "목포대 총학생회, 전남 의대 평가 재검증 촉구 전국매일신문",
+      "source": "전국매일신문",
+      "published_at": "2026-09-08T01:20:01+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "9e37ce91e11be2eeeaf6",
+      "category": "기타",
+      "collected_at": "2026-09-08T15:48:32.859441+00:00"
     },
     {
       "title": "목포대 총학생회, 전남 국립의대 재검증 요구…시청 앞 1인 시위 - kgdm.kr",
@@ -39,6 +51,18 @@
       "id": "e7583993114a1a4df660",
       "category": "기타",
       "collected_at": "2026-09-08T02:32:15.371268+00:00"
+    },
+    {
+      "title": "목포대 총학생회, 전남 의대 평가 검증 촉구…도청 앞 1인 시위 - Nate News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GNzBUaEY0eURGQ0QwVHliREtaTUNTZjZzZk5aNWJZbVZvSTh1R2FFTUtiSEY1d1FvbkZRRFcxalA3bHZ3R3hodmZycF94U3EtU2s4?oc=5",
+      "summary": "목포대 총학생회, 전남 의대 평가 검증 촉구…도청 앞 1인 시위 Nate News",
+      "source": "Nate News",
+      "published_at": "2026-09-07T09:12:06+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f3da88e4569f10d776ed",
+      "category": "기타",
+      "collected_at": "2026-09-08T15:48:32.859731+00:00"
     },
     {
       "title": "화신사이버대학교, 총동문회·총학생회와 함께 해운대 해변 환경정화 - 부산일보",
@@ -471,6 +495,18 @@
       "id": "6356498ad0fbb6d4f906",
       "category": "기타",
       "collected_at": "2026-09-03T02:29:38.670710+00:00"
+    },
+    {
+      "title": "\"밀실 평가·정치적 무책임 규탄\"…목포대 총학 의대 신설 탈락 입장 발표 - Nate News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4waW52dUhhUFhwYVktZm9LQmd2Y1pEdXh2NERzcHljeGgta19VdUxmaW8wQUprMzYzZFdUMXdIZU85R0NpRzRTZTJlR21aU2lwX0lR?oc=5",
+      "summary": "\"밀실 평가·정치적 무책임 규탄\"…목포대 총학 의대 신설 탈락 입장 발표 Nate News",
+      "source": "Nate News",
+      "published_at": "2026-09-02T05:47:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "c9c0a6be200a8b6c6706",
+      "category": "기타",
+      "collected_at": "2026-09-08T15:48:32.859984+00:00"
     },
     {
       "title": "\"밀실 평가·정치적 무책임 규탄\"...목포대 총학 의대 신설 탈락 입장 발표 - 머니투데이 - 머니투데이",
