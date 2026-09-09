@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T00:49:03.380530+09:00",
-  "item_count": 938,
+  "updated_at": "2026-09-09T11:34:02.271347+09:00",
+  "item_count": 941,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -6974,6 +6974,18 @@
       "collected_at": "2026-09-02T02:22:47.778718+00:00"
     },
     {
+      "title": "인하대 총학생회, 민주당 김정식 미추홀구청장 후보 캠프 방문 - 경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCLXNva3diQlRNUzI5VTFNZUtBMnFpdlUtVkl6MTJMTl9MWFBQUTdZTWZTZXFTMDBqS1Iwa3JTRi1JcXFfVG1ISUNFZkhITVBMXzVzVksxTHNXOEc4ZzVkVnRn?oc=5",
+      "summary": "인하대 총학생회, 민주당 김정식 미추홀구청장 후보 캠프 방문 경기신문",
+      "source": "경기신문",
+      "published_at": "2026-05-19T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "5847cb069f4ce671ff76",
+      "category": "선거·조직",
+      "collected_at": "2026-09-09T02:33:40.255422+00:00"
+    },
+    {
       "title": "[동네 정치를 꿈꾸다] 카이스트 총학생회장 출신 윤서진 “청년 정치 가능성 보여주고파” - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82emxfenN1WUVoSl9hNWZpRVVoN2FhdUIzUGVyVVdLUnBhMkVBMzBfQVVfN0ZDN1VWNEJVeXE1TnlrRm5qbkp4QUYxWQ?oc=5",
       "summary": "[동네 정치를 꿈꾸다] 카이스트 총학생회장 출신 윤서진 “청년 정치 가능성 보여주고파” v.daum.net",
@@ -8430,6 +8442,18 @@
       "collected_at": "2026-09-07T02:19:49.856224+00:00"
     },
     {
+      "title": "백석문화대, 교내 자유관 학생자치단체·동아리실 개소식 개최 - 뉴스파고",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9RMzRTdVBXbFNwMF8yOWY2UElmUzY4ZFNRTTlUQTNzUV9fM1dBOEQwYW51SGZaT0RsX2Z2cXRiV0wtUHh0?oc=5",
+      "summary": "백석문화대, 교내 자유관 학생자치단체·동아리실 개소식 개최 뉴스파고",
+      "source": "뉴스파고",
+      "published_at": "2026-03-18T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "1631a6bcae3488d0ce8e",
+      "category": "의결·자치",
+      "collected_at": "2026-09-09T02:33:33.762580+00:00"
+    },
+    {
       "title": "제56대 서울총학 재선거에 ‘초점’ 단독 예비후보 등록 - 고대신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83V1EwOXNnS2pGeURaTTVDby1OOEY2LVVpNk1RSXZsaXEtMF9BZ09ZRnFFbVZxVXlEMTFuS0RmNndVdWY1RUpKaUVQR1V3OFQxTlNWaVliYm1WWWtiWmlwMTRfdlluZDJvMmc?oc=5",
       "summary": "제56대 서울총학 재선거에 ‘초점’ 단독 예비후보 등록 고대신문",
@@ -9651,6 +9675,18 @@
       "id": "44f2e61a57360f3d896b",
       "category": "등록금·교육",
       "collected_at": "2026-08-04T10:15:15.887657+00:00"
+    },
+    {
+      "title": "대전 사립대 등록금 인상 초읽기?…등심위 본격화 - 대전일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQVk9CSUY5WTNYVFZSQlQwYzVFeW94NDhtazQ3aVVPWnV0YnVZRU5uQzdBNjdySHZ0Z3B1bTJxUldxYkZ6WXBPZ3Jqbm5Pai10V05KYzAxMktFMW5jRmpndjBxOVRNTmF4WjV2NUYyZ9IBc0FVX3lxTE91aXNKWXBnck5jakJ5dnYyOWVNN2hLaDloMUZQQzhOUVRmX1dEV1FaR3RsSV9RbVZwT21vTWJQbk5JbVBVY2VHTVJHTjZnRTZIZXY0dF9HTFNHTE9pME1YeEF6Q0tINTBvSG5FUzh1b1JpUEE?oc=5",
+      "summary": "대전 사립대 등록금 인상 초읽기?…등심위 본격화 대전일보",
+      "source": "대전일보",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "54179c18240a2c374393",
+      "category": "등록금·교육",
+      "collected_at": "2026-09-09T02:33:37.085419+00:00"
     },
     {
       "title": "전국총학생회협의회, 교육장관에 \"등록금 동결 기조 유지\" 요구 - 연합뉴스",
