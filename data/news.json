@@ -1,9 +1,69 @@
 {
-  "updated_at": "2026-09-09T11:34:02.271347+09:00",
-  "item_count": 941,
+  "updated_at": "2026-09-10T00:44:59.867038+09:00",
+  "item_count": 951,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "[인터뷰] '40주년' 안치환 \"연대 총학생회장 선거 때 만든 '솔아 솔아 푸르른 솔아'…세월 갈수록 '일상의 소중함' 느껴\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008745402&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "'SBS ' ■ ■ 진행 : 주영진 앵커■ 가수 안치환● 인터뷰\"'사람이 꽃보다 아름다워' 가수 안치환, 데뷔 40주년'\"\"정규 15집 앨범 발매...신곡 제목 '나는 오늘만 산다'\"\"세월이 갈수록 '일상의 소중함'을 더 느끼면서 살아야\"\"1991년 민주화 이후 '내면'에 더 집중...음악 영역 넓혀\"\"추석 전 '가을을 노래하다' 콘서트...11월 부산서도\"▷ 주영진 / 앵커 : 여러분, 안치환 씨 하면 정말 노래들 많이 부르셨죠.",
+      "source": "SBS 뉴스",
+      "published_at": "2026-09-09T07:45:28+00:00",
+      "matched_query": "",
+      "feed": "SBS 뉴스",
+      "id": "9d954be2207068de9151",
+      "category": "선거·조직",
+      "collected_at": "2026-09-09T15:44:46.560238+00:00"
+    },
+    {
+      "title": "[인터뷰] '40주년' 안치환 \"연대 총학생회장 선거 때 만든 '솔아 솔아 푸르른 솔아'…세월 갈수록 '일상의 소중함' 느껴\" - news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NalJiZlp6VzFLMENfSnZXQU9US2lRWnlqU0hLZGdONE5hNERWRTllbTd1UTJaY2FwVW5OSVpLZjZSX0ZhUU5aWmxQSW1BSTNhMnJ0OWxSSm82SkMzYjBkWTY5UDRkTW1nMXfSAWZBVV95cUxPSGdwWlM3MDJPd2pjNmlvQUtrTFZ2dWNpNDlNQ0s2bkRuZUpCQVlJRkdSLUJaUm9zNnpWckExR3NUVlRLOVd1TVRmUlBOQW5qSlU2RV95T0tHemVPMXdacjUwRWRwT2c?oc=5",
+      "summary": "[인터뷰] '40주년' 안치환 \"연대 총학생회장 선거 때 만든 '솔아 솔아 푸르른 솔아'…세월 갈수록 '일상의 소중함' 느껴\" news.sbs.co.kr",
+      "source": "news.sbs.co.kr",
+      "published_at": "2026-09-09T07:45:14+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "bf1ce557b6570d5a85b7",
+      "category": "선거·조직",
+      "collected_at": "2026-09-09T15:44:30.854822+00:00"
+    },
+    {
+      "title": "목포대 총장과 총학생회장 국회서 '전남의대 탈락' 재검증 요구 호소 - Nate News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PUG1ldnBCZ2ZyNU1JblpYU1hORkdYakk0UHFkUlgxNG9ieV9vMGg3ZWxxb1JDTE9GUjdBQnhDVUE1MGlKdUxnLW9oWngzS2loVXlSR3JILS1mYjFDV2NMV0tpQ05RMHJEa1U3a1N6cVlSakFZbHlQeg?oc=5",
+      "summary": "목포대 총장과 총학생회장 국회서 '전남의대 탈락' 재검증 요구 호소 Nate News",
+      "source": "Nate News",
+      "published_at": "2026-09-09T07:03:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "41fadd526b22652916f6",
+      "category": "기타",
+      "collected_at": "2026-09-09T15:44:30.855187+00:00"
+    },
+    {
+      "title": "대학축제 '외부 아아돌 팬' 논란 점입가경 : 충남대 총학 '홈마존' 설치하며 저작권 요구, 서약서에 면접도 - 허프포스트코리아",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56MkVTaWtQUlZTMnluTS0tdnVSd2ZMb2FPMUJjUndvUDBXOFFWaDZiWkthVHpRbkF1ZDlfeTJ6WXUxa19jUWF1c2o5YXNucDdTNlpaVzlUUQ?oc=5",
+      "summary": "대학축제 '외부 아아돌 팬' 논란 점입가경 : 충남대 총학 '홈마존' 설치하며 저작권 요구, 서약서에 면접도 허프포스트코리아",
+      "source": "허프포스트코리아",
+      "published_at": "2026-09-09T06:57:02+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "2c787a4a91f6060c42f0",
+      "category": "복지·문화",
+      "collected_at": "2026-09-09T15:44:30.854992+00:00"
+    },
+    {
+      "title": "목포대·총학생회 \"전남 의대 심사 공정했나\"…평가 과정 재검증 촉구 - KBC광주방송",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXdGxuU3hlNXlXN05rcWYxQ1V6RzVETVMzZDVLNDhCOENucFY0Q0F1alp6dVREbTFTM01qcTFTdGNJbG9VZmNIb0RXdzFycmtELVY3V0ExbUp6UUtKMU1OZQ?oc=5",
+      "summary": "목포대·총학생회 \"전남 의대 심사 공정했나\"…평가 과정 재검증 촉구 KBC광주방송",
+      "source": "KBC광주방송",
+      "published_at": "2026-09-09T05:27:02+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "1ca27ec03cd555dc87f9",
+      "category": "기타",
+      "collected_at": "2026-09-09T15:44:30.854739+00:00"
+    },
     {
       "title": "한밭대와는 무산됐는데···충남대, 공주대 통합 성사될까",
       "url": "https://www.khan.co.kr/article/202609080955001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
@@ -101,6 +161,18 @@
       "collected_at": "2026-09-07T17:01:22.531123+00:00"
     },
     {
+      "title": "목포대 총학생회장, 국립의대 평가 검증 촉구…무안청사 앞 1인 시위 - asiatoday.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LQXUtQjVEMVhjN2EzXzVoaWMtRlF6QlF6dlk1TVZWVS1paGx5RDFZdU9iX1h4WGxhV0lLaE1ZQnhVaU4yV19lNUtjUnBoZFo2MWRDWndHWnFFdWVwQzlsQ1BmYlQ4MUR5bi03Q01n?oc=5",
+      "summary": "목포대 총학생회장, 국립의대 평가 검증 촉구…무안청사 앞 1인 시위 asiatoday.co.kr",
+      "source": "asiatoday.co.kr",
+      "published_at": "2026-09-07T08:01:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "53f78a244164dabc9e9d",
+      "category": "기타",
+      "collected_at": "2026-09-09T15:44:30.854937+00:00"
+    },
+    {
       "title": "국립목포대 총학생회, “1.30점 차이 전남 의대 공모, 평가 과정 공정성부터 재검증하라” 1인 시위 돌입 - 호남타임즈",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkekhaZFd3aU4tQ042XzhnVjVhc0tuc0lIbERjZ1Z1TXJ6VVNldTl0Rm9qZEdkRFl3N1AtZ3JwcTB2MTdqOHNGdjYwOTMxLWtxUDIwUkdRa1FwY3dwSXdJem1JdTBxOWpRQ05acw?oc=5",
       "summary": "국립목포대 총학생회, “1.30점 차이 전남 의대 공모, 평가 과정 공정성부터 재검증하라” 1인 시위 돌입 호남타임즈",
@@ -137,6 +209,18 @@
       "collected_at": "2026-09-07T17:01:22.531248+00:00"
     },
     {
+      "title": "국립목포대 총학생회, “전남 의대 공모, 평가 과정 공정성부터 재검증하라” - dhinsight.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NQWszbndReTg1cmg4WXRGcjRpdXBlZktJY2xyT0ZfeGZFazlXQXFMeWZUNFRfNEJmcTJnRlp1Q2JpSEFiNHk1ZTMxcTczbnotQ0haMEQ0cDIweG8xVU9SWjVvS2F6NDBSRDRWX9IBcEFVX3lxTFBQeUxFcW1aWXpWdmszcjJQMUN4bDR3ODFQN09NQnhISmpUU2FzbElQd1FCMUljeGRpN0t5Z1lBdXVoWGJ1YmstWVV4YlZENlBuaUh3LUs3ai1jTjU2SEt2YkhWT2xlcklRWmFkSUhLamw?oc=5",
+      "summary": "국립목포대 총학생회, “전남 의대 공모, 평가 과정 공정성부터 재검증하라” dhinsight.co.kr",
+      "source": "dhinsight.co.kr",
+      "published_at": "2026-09-07T06:56:55+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "20f9a5bc22f91704c0eb",
+      "category": "기타",
+      "collected_at": "2026-09-09T15:44:30.855136+00:00"
+    },
+    {
       "title": "목포대 총학생회장, 1인 시위…\"국립의대 평가 과정 투명하게 공개해야\" - 프레시안",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkeHRzY25RT0dwend3enBfWUVRNGZCdHd4QzRRZnlvNVZJV0llX21PRDg2NnNEMzFfZVo1U2tmb3NlNXBzSktnRXBMb1JublM5eXlCRmVBUzZYQkx0OFVYdnZYMUhYUUhRbzE0?oc=5",
       "summary": "목포대 총학생회장, 1인 시위…\"국립의대 평가 과정 투명하게 공개해야\" 프레시안",
@@ -171,6 +255,18 @@
       "id": "86f25624db348c03d1a7",
       "category": "기타",
       "collected_at": "2026-09-06T02:22:53.892153+00:00"
+    },
+    {
+      "title": "총학 구성원 비위 제기되면 인사 조치 가능해진다 - snunews.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rOFBES2tXQV9JNmtNVkRZbEkzelZLQWduLU5Md2lvalk5X2lfM3Q2cng1MHNkR0JiWkFDWVZTMU4zY0p1cmU5UEpZWE5yVG1Ualc2TXFrMlJKdkU3YndnRl80VHVtTUJz?oc=5",
+      "summary": "총학 구성원 비위 제기되면 인사 조치 가능해진다 snunews.com",
+      "source": "snunews.com",
+      "published_at": "2026-09-05T17:25:20+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "91f3b7f63ce3aa40fabf",
+      "category": "기타",
+      "collected_at": "2026-09-09T15:44:30.854877+00:00"
     },
     {
       "title": "국립목포대 총학생회, 불공정 의대 선정 장외 투쟁 - 아시아뉴스통신",
@@ -7870,6 +7966,18 @@
       "collected_at": "2026-08-26T00:55:14.116222+00:00"
     },
     {
+      "title": "영남이공대, 학생 자치기구 대상 ‘학생 의견수렴 설명회’ - 세명일보",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMTGRkeDVKOVRFMFh3aGZwejJ3bzBJWXB4SVpiSlhnbmtPYzhYUjg5aGJyU0s0SE96NTFiVWM3aGFOUVNnU2NMSk1FRkhERzVPSDZ2ag?oc=5",
+      "summary": "영남이공대, 학생 자치기구 대상 ‘학생 의견수렴 설명회’ 세명일보",
+      "source": "세명일보",
+      "published_at": "2026-04-07T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "ec29f9bd855221684a4a",
+      "category": "기타",
+      "collected_at": "2026-09-09T15:44:32.683779+00:00"
+    },
+    {
       "title": "팍팍한 청춘…대학 총학생회가 사라졌다 - 한국경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSelE5Q1JwQ2NCOFplc29pMmJZUGlkeFI0U3YyX1pJalpJMFlJOXlxSHFsMDFIVGdqa0U1bkk3N1NFdGtIdmpEWTJUalpVeVJpbDh3Tk1ZbmdoUQ?oc=5",
       "summary": "팍팍한 청춘…대학 총학생회가 사라졌다 한국경제",
@@ -8454,6 +8562,18 @@
       "collected_at": "2026-09-09T02:33:33.762580+00:00"
     },
     {
+      "title": "백석문화대, 교내 자유관 학생자치단체·동아리실 개소식 개최 - newspago.com",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9RMzRTdVBXbFNwMF8yOWY2UElmUzY4ZFNRTTlUQTNzUV9fM1dBOEQwYW51SGZaT0RsX2Z2cXRiV0wtUHh0?oc=5",
+      "summary": "백석문화대, 교내 자유관 학생자치단체·동아리실 개소식 개최 newspago.com",
+      "source": "newspago.com",
+      "published_at": "2026-03-18T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "a05fe11e4bf5dbfcce0c",
+      "category": "의결·자치",
+      "collected_at": "2026-09-09T15:44:32.684034+00:00"
+    },
+    {
       "title": "제56대 서울총학 재선거에 ‘초점’ 단독 예비후보 등록 - 고대신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83V1EwOXNnS2pGeURaTTVDby1OOEY2LVVpNk1RSXZsaXEtMF9BZ09ZRnFFbVZxVXlEMTFuS0RmNndVdWY1RUpKaUVQR1V3OFQxTlNWaVliYm1WWWtiWmlwMTRfdlluZDJvMmc?oc=5",
       "summary": "제56대 서울총학 재선거에 ‘초점’ 단독 예비후보 등록 고대신문",
@@ -8780,6 +8900,18 @@
       "id": "873af125ea7a2d41c102",
       "category": "기타",
       "collected_at": "2026-08-02T07:55:07.962541+00:00"
+    },
+    {
+      "title": "2026년 ‘책임감 있는 학생 자치’ 실현 다짐 - 지금제주",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nQnVpZkJzNDJEWlY2cjdfZExqSklFeU80cmRCeW9ZWDBTZV9uOGszTzlEa250QkdGRkFzaTdMX3lCLXdlVV9EU0VuZS1mdFdvLXZQTEZhNVc3UVlYLUF2SUJyUmFzRXVubFBPR3RR?oc=5",
+      "summary": "2026년 ‘책임감 있는 학생 자치’ 실현 다짐 지금제주",
+      "source": "지금제주",
+      "published_at": "2026-03-03T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "020bd21617b0fc0cf479",
+      "category": "기타",
+      "collected_at": "2026-09-09T15:44:32.684140+00:00"
     },
     {
       "title": "학과 두 곳 중 하나는 과방 없어···휴식·학생자치 걸림돌 - 이대학보",
@@ -10833,6 +10965,18 @@
       "collected_at": "2026-08-30T15:51:12.972788+00:00"
     },
     {
+      "title": "상명대 학생 자치기구 대표 총장간담회 진행 - 베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GdjItV19tQWMxbWVvVUViWXlYTlpyNWlBTWl6WXdHS3A5ZUs3dmZWQmN1T0RmbzhkWHpuYzJWSDdqM1A4X3lBdEFuNXpSc3JaRGNIYVdmdFkwVFdWVTRUQ1FScUhvOEZNRHE4Qw?oc=5",
+      "summary": "상명대 학생 자치기구 대표 총장간담회 진행 베리타스알파",
+      "source": "베리타스알파",
+      "published_at": "2025-09-29T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "c9b923657dfee6524938",
+      "category": "기타",
+      "collected_at": "2026-09-09T15:44:32.684503+00:00"
+    },
+    {
       "title": "참가자 저조로 '총학 운동회' 개최 좌절 - 채널PNU",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByaHFPVmVTUUkxbnFfMUlwNlJvRkVSejVZbkNKWVRTemM2NzN4WWZPMExWQ296Q040Z0hiMUFwWEx5ek55WS02NzNCUVJoazNCM0gwWFEwNkExX2lkUHZzSml0SVhGdkdLVm12ck0xQlEtQdIBdkFVX3lxTE1YbDFkRHN0V2d4OHRqSXVfeVdlMmZDcVMzc3Z3RmNUWHlXY0xMODNMVjNkTmNxUms5ZTVIWExsVEdhZnRDQlZZdEpqMGZkUko4ME9iazZBNlBxeUNKOEdFdlAzN3gyaHFxdllQbVBtZENWNFVKX1E?oc=5",
       "summary": "참가자 저조로 '총학 운동회' 개최 좌절 채널PNU",
@@ -11018,29 +11162,6 @@
       "id": "5bf27300ca9c9e2ccc95",
       "category": "의결·자치",
       "collected_at": "2026-08-15T12:23:38.905786+00:00"
-    },
-    {
-      "title": "총학생회 둘러싼 리더십 장학금 논란… 학생사회 ‘절차 무시’ 반발 거세져 - 서울시립대신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94RWNBREdDSDVtaFhNc2VKRDJ4ZTZJTmMybFdoR3NXc1g3WGZGWm9Nclp5b2JtRmszbzgzNzBYb0R2RTR4MjRSbVd4SV9qNWcwRVBBbXhwX20wa3BiNXdQaHBvbGtwdTBI?oc=5",
-      "summary": "총학생회 둘러싼 리더십 장학금 논란… 학생사회 ‘절차 무시’ 반발 거세져 서울시립대신문",
-      "source": "서울시립대신문",
-      "published_at": "2025-09-09T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "id": "8b28b61f01913f76794f",
-      "category": "인권·갈등",
-      "collected_at": "2026-08-01T17:27:22.100162+00:00"
-    },
-    {
-      "title": "총학생회 둘러싼 리더십 장학금 논란… 학생사회 ‘절차 무시’ 반발 거세져 - press.uos.ac.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94RWNBREdDSDVtaFhNc2VKRDJ4ZTZJTmMybFdoR3NXc1g3WGZGWm9Nclp5b2JtRmszbzgzNzBYb0R2RTR4MjRSbVd4SV9qNWcwRVBBbXhwX20wa3BiNXdQaHBvbGtwdTBI?oc=5",
-      "summary": "총학생회 둘러싼 리더십 장학금 논란… 학생사회 ‘절차 무시’ 반발 거세져 press.uos.ac.kr",
-      "source": "press.uos.ac.kr",
-      "published_at": "2025-09-09T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "5e6769e2590eb3f294ab",
-      "category": "인권·갈등",
-      "collected_at": "2026-08-16T12:26:00.766653+00:00"
     }
   ]
 }
