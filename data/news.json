@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T11:35:31.720049+09:00",
-  "item_count": 958,
+  "updated_at": "2026-09-11T00:39:56.471750+09:00",
+  "item_count": 966,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -15,6 +15,18 @@
       "id": "fe3de6fa37f51f44097a",
       "category": "선거·조직",
       "collected_at": "2026-09-10T02:34:59.992833+00:00"
+    },
+    {
+      "title": "목포대·총학생회, 국립의대 후보 선정 재검증 촉구 - ikbc.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvMFhWWU1ZcnZ4RHFteDdadl9ENTNfWHFzSEd1MmpadkR2OUF0V1hJUi1YaDF0MjRoY3plYWNtLXhKdHlobnlqQm96aUc5NG5GVFVuZF9ZX0NEQzFGbXQwLQ?oc=5",
+      "summary": "목포대·총학생회, 국립의대 후보 선정 재검증 촉구 ikbc.co.kr",
+      "source": "ikbc.co.kr",
+      "published_at": "2026-09-10T00:25:37+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f158d6372c233a7f66f2",
+      "category": "선거·조직",
+      "collected_at": "2026-09-10T15:39:23.768604+00:00"
     },
     {
       "title": "총학 \"교육부, 학점포기제 긍정\" 대총서 공개 - 채널PNU",
@@ -77,6 +89,18 @@
       "collected_at": "2026-09-09T15:44:30.855187+00:00"
     },
     {
+      "title": "목포대 총장과 총학생회장 국회서 '전남의대 탈락' 재검증 요구 호소 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2V1NjTGt5c0tQOWFoM2NfM1ZGRmhuOFNUc2Y4UWpFVXh5dUJGMzVsYkNOUmVjaW9WZUdOcXdQb2NWRU9sVWllbFdhYnRRZVE?oc=5",
+      "summary": "목포대 총장과 총학생회장 국회서 '전남의대 탈락' 재검증 요구 호소 v.daum.net",
+      "source": "v.daum.net",
+      "published_at": "2026-09-09T07:01:49+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "0298582e3997db28652c",
+      "category": "기타",
+      "collected_at": "2026-09-10T15:39:23.768849+00:00"
+    },
+    {
       "title": "대학축제 '외부 아아돌 팬' 논란 점입가경 : 충남대 총학 '홈마존' 설치하며 저작권 요구, 서약서에 면접도 - 허프포스트코리아",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56MkVTaWtQUlZTMnluTS0tdnVSd2ZMb2FPMUJjUndvUDBXOFFWaDZiWkthVHpRbkF1ZDlfeTJ6WXUxa19jUWF1c2o5YXNucDdTNlpaVzlUUQ?oc=5",
       "summary": "대학축제 '외부 아아돌 팬' 논란 점입가경 : 충남대 총학 '홈마존' 설치하며 저작권 요구, 서약서에 면접도 허프포스트코리아",
@@ -111,6 +135,18 @@
       "id": "1ca27ec03cd555dc87f9",
       "category": "기타",
       "collected_at": "2026-09-09T15:44:30.854739+00:00"
+    },
+    {
+      "title": "목포대·총학생회 \"전남 의대 심사 공정했나\"…평가 과정 재검증 촉구 - ikbc.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXdGxuU3hlNXlXN05rcWYxQ1V6RzVETVMzZDVLNDhCOENucFY0Q0F1alp6dVREbTFTM01qcTFTdGNJbG9VZmNIb0RXdzFycmtELVY3V0ExbUp6UUtKMU1OZQ?oc=5",
+      "summary": "목포대·총학생회 \"전남 의대 심사 공정했나\"…평가 과정 재검증 촉구 ikbc.co.kr",
+      "source": "ikbc.co.kr",
+      "published_at": "2026-09-09T05:27:02+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "24c173f90606faf69ae1",
+      "category": "기타",
+      "collected_at": "2026-09-10T15:39:23.768828+00:00"
     },
     {
       "title": "한밭대와는 무산됐는데···충남대, 공주대 통합 성사될까",
@@ -617,6 +653,18 @@
       "collected_at": "2026-09-04T15:34:55.939155+00:00"
     },
     {
+      "title": "총학생회장단 만난 박홍근 ＂청년 성장단계별 종합투자 추진＂ - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXNkUWtZSXhPSGZoQWNHU3lrekN4SVI5bHRxQWNpUWpzcUlnUTI0QUQ4aHBoaWpTbFVZSUVLSVkyX0lHZTZ3SXJ1T0VxUHc1ZVpwd2NyNXY0Y2I4M2pTUTBfZzlUSm9oR0puX3V6WFFDdkdyMXp1blhSTTBydnBqRw?oc=5",
+      "summary": "총학생회장단 만난 박홍근 ＂청년 성장단계별 종합투자 추진＂ 한국경제TV",
+      "source": "한국경제TV",
+      "published_at": "2026-09-03T09:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "998a5b44422e2a62c8ca",
+      "category": "기타",
+      "collected_at": "2026-09-10T15:39:23.769569+00:00"
+    },
+    {
       "title": "\"밀실 평가·정치적 무책임 규탄\"…목포대 총학 의대 신설 탈락 입장 발표 - news.nate.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4waW52dUhhUFhwYVktZm9LQmd2Y1pEdXh2NERzcHljeGgta19VdUxmaW8wQUprMzYzZFdUMXdIZU85R0NpRzRTZTJlR21aU2lwX0lR?oc=5",
       "summary": "\"밀실 평가·정치적 무책임 규탄\"…목포대 총학 의대 신설 탈락 입장 발표 news.nate.com",
@@ -987,6 +1035,18 @@
       "id": "e23d4bf036b16887b188",
       "category": "기타",
       "collected_at": "2026-08-22T00:52:01.234813+00:00"
+    },
+    {
+      "title": "한남대 총학 \"대전북연결선 공사 중단·노선 변경해야…학습권 침해 우려\" - daejonilbo.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ieEpFWWFuV1pMQnpiMGEwaHBBdEZSMkdhWHVoaTQxaE5yS2hDRF9wUWhzYnVxVEU5NUV3SlcwOU1lTy16UF80WmlXTTVpeDlESkI3RjFFZUpBaUFJcUpjaXM1LUxleF9Zci1Jd3BXWQ?oc=5",
+      "summary": "한남대 총학 \"대전북연결선 공사 중단·노선 변경해야…학습권 침해 우려\" daejonilbo.com",
+      "source": "daejonilbo.com",
+      "published_at": "2026-08-21T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "eae10580e0eb03edc859",
+      "category": "기타",
+      "collected_at": "2026-09-10T15:39:23.769429+00:00"
     },
     {
       "title": "한남대 총학 \"대전북연결선 공사 중단·노선 변경해야…학습권 침해 우려\" | - 대전일보",
@@ -7945,6 +8005,18 @@
       "collected_at": "2026-09-03T02:29:40.499730+00:00"
     },
     {
+      "title": "국립군산대, 학생자치기구 출범 - domin.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zdGM5QURYMzBEMWRlcmY5WmJTWDJDbkVRLWUtVXVMNkhtcEQyQU4zNkpvVHJtYTl6NVJRV2ZHeW9nM0ktc1hrOXJBMHc1NjljNnVuMjhJeDlMb3BsRnR3eGFPckotS3BtbDkw?oc=5",
+      "summary": "국립군산대, 학생자치기구 출범 domin.co.kr",
+      "source": "domin.co.kr",
+      "published_at": "2026-04-09T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "fd8e28b4bead8ff8f18f",
+      "category": "의결·자치",
+      "collected_at": "2026-09-10T15:39:25.441101+00:00"
+    },
+    {
       "title": "한국외국어대학교 서울캠퍼스 제60대 총학생회장단 재선거 개표… 선거운동본부 '선명' 당선 - 대학알리",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0JkODR3NjhyTEpiMkU5ZUNTdkZ4X09uaUZoRjMwbkVCRlJVRVdydjFHek1FdkNCbXdNQ2pUa2hKWHZLZDJuM0IxblIyaXl0SW04NFlxUVNUNVVhenp4Rw?oc=5",
       "summary": "한국외국어대학교 서울캠퍼스 제60대 총학생회장단 재선거 개표… 선거운동본부 '선명' 당선 대학알리",
@@ -8036,6 +8108,18 @@
       "id": "ec29f9bd855221684a4a",
       "category": "기타",
       "collected_at": "2026-09-09T15:44:32.683779+00:00"
+    },
+    {
+      "title": "영남이공대, 학생 자치기구 대상 ‘학생 의견수렴 설명회’ - smnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMTGRkeDVKOVRFMFh3aGZwejJ3bzBJWXB4SVpiSlhnbmtPYzhYUjg5aGJyU0s0SE96NTFiVWM3aGFOUVNnU2NMSk1FRkhERzVPSDZ2ag?oc=5",
+      "summary": "영남이공대, 학생 자치기구 대상 ‘학생 의견수렴 설명회’ smnews.co.kr",
+      "source": "smnews.co.kr",
+      "published_at": "2026-04-07T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "2e7f24e645c17602a158",
+      "category": "기타",
+      "collected_at": "2026-09-10T15:39:25.441205+00:00"
     },
     {
       "title": "팍팍한 청춘…대학 총학생회가 사라졌다 - 한국경제",
@@ -8526,6 +8610,18 @@
       "id": "ee27d7871aa0631af000",
       "category": "등록금·교육",
       "collected_at": "2026-08-08T14:05:39.257678+00:00"
+    },
+    {
+      "title": "백석문화대, 학생자치단체·동아리실 개소식…‘소통과 창의의 허브’로 - 아이굿뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VazVrNGNGRWVMZTFmY0FtLXpjYVhHd0RUNjdPTlRobUY3cnMtaVQ3OGdJbWNkbFpqblRCMzZjUmtIaldmRmdra0hXMjJscTlaVjRrRUtKaVhaSXk4bmxVQVJLYklVNjFFakpj?oc=5",
+      "summary": "백석문화대, 학생자치단체·동아리실 개소식…‘소통과 창의의 허브’로 아이굿뉴스",
+      "source": "아이굿뉴스",
+      "published_at": "2026-03-23T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "d24249eda9253d21cda0",
+      "category": "의결·자치",
+      "collected_at": "2026-09-10T15:39:25.441145+00:00"
     },
     {
       "title": "공약 검증의 장, 한양대 제54대 총학생회 보궐선거 정책공청회 개최 - newshyu.com",
