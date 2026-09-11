@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-09-11T00:39:56.471750+09:00",
-  "item_count": 966,
+  "updated_at": "2026-09-11T11:29:29.185462+09:00",
+  "item_count": 970,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "경상국립대, 총학생회와 대규모 헌혈 캠페인 - 경남신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5telZnSU9WNDlpVVYxWlYxLW9zTnpIWEpjcER0a1RfLU1zQWM1T0NGVWtnSHFDN09QbjV4Q2xkSzU2dU5tM2thNko1R2RGLUhiajNJV1BPODhaSkl2ZllCZzFOWkxhNXhEZHo4?oc=5",
+      "summary": "경상국립대, 총학생회와 대규모 헌혈 캠페인 경남신문",
+      "source": "경남신문",
+      "published_at": "2026-09-10T22:41:52+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "933cc3ee0d3f4f55f817",
+      "category": "기타",
+      "collected_at": "2026-09-11T02:28:56.910681+00:00"
+    },
     {
       "title": "목포대·총학생회, 국립의대 후보 선정 재검증 촉구 - KBC광주방송",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvMFhWWU1ZcnZ4RHFteDdadl9ENTNfWHFzSEd1MmpadkR2OUF0V1hJUi1YaDF0MjRoY3plYWNtLXhKdHlobnlqQm96aUc5NG5GVFVuZF9ZX0NEQzFGbXQwLQ?oc=5",
@@ -209,6 +221,18 @@
       "collected_at": "2026-09-08T15:48:32.859731+00:00"
     },
     {
+      "title": "목포대 총학생회, 전남 의대 평가 검증 촉구…도청 앞 1인 시위 - news.nate.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GNzBUaEY0eURGQ0QwVHliREtaTUNTZjZzZk5aNWJZbVZvSTh1R2FFTUtiSEY1d1FvbkZRRFcxalA3bHZ3R3hodmZycF94U3EtU2s4?oc=5",
+      "summary": "목포대 총학생회, 전남 의대 평가 검증 촉구…도청 앞 1인 시위 news.nate.com",
+      "source": "news.nate.com",
+      "published_at": "2026-09-07T09:12:06+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "2d821145c4b8342a5a98",
+      "category": "기타",
+      "collected_at": "2026-09-11T02:28:56.911186+00:00"
+    },
+    {
       "title": "화신사이버대학교, 총동문회·총학생회와 함께 해운대 해변 환경정화 - 부산일보",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54Z3RNMFRKbWRIQldGZzhTLXBpTjRoMWVEOFdvMVo3TE41WXJxUzlkNF80SVg5M0l4R0g0cnU4MmVrUHFlaHA2RkZ1WmNPaFFVUnRQdVF3bzZWMTNmODBxSk55Ul9GU3B6T0Z3WVdrRGRwU1laTEtLekI5SUU?oc=5",
       "summary": "화신사이버대학교, 총동문회·총학생회와 함께 해운대 해변 환경정화 부산일보",
@@ -219,6 +243,18 @@
       "id": "7c7400dcebf2846e8388",
       "category": "기타",
       "collected_at": "2026-09-07T17:01:22.531409+00:00"
+    },
+    {
+      "title": "화신사이버대학교, 총동문회·총학생회와 함께 해운대 해변 환경정화 - busan.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50Zl9OZFg1UDJxWFNWcnNtT0xJZG55R0Z6VEhENEE4OEp0WlVnWGJrdzNlcXFPOS02NHpmLWFrajFBMlVsZHRQQWpfM1JfRWZvN1l0YmpnLUpFZmVXNFBENjhYXzQ0cDZ2M3ZLS1p1YnllUQ?oc=5",
+      "summary": "화신사이버대학교, 총동문회·총학생회와 함께 해운대 해변 환경정화 busan.com",
+      "source": "busan.com",
+      "published_at": "2026-09-07T08:50:06+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "cdab2fc75896a76c91f3",
+      "category": "기타",
+      "collected_at": "2026-09-11T02:28:56.910942+00:00"
     },
     {
       "title": "국립목포대 총학생회 “1.30점 차이 전남 의대 공모, 재검증해야” - 이뉴스투데이",
@@ -903,6 +939,18 @@
       "id": "b33d79d856f995ec08dd",
       "category": "인권·갈등",
       "collected_at": "2026-08-28T21:38:23.857154+00:00"
+    },
+    {
+      "title": "동명대 인권센터·총학생회, 전문 탐지장비 활용해 불법촬영카메라 합동 점검 - busan.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DQXMteHdSc2F6ekZsdnZEZGUwbGZRVnl0WVBYWlhwUERFdnc0S1pfbF94STFSQlF6Z2wtUnp3eThJbTRFWnpPaUt0WlBDYWk1WTEyeXhJb3FnbXVKTm1TU09hNUtfdUJrcFM3NDBVS002OFln?oc=5",
+      "summary": "동명대 인권센터·총학생회, 전문 탐지장비 활용해 불법촬영카메라 합동 점검 busan.com",
+      "source": "busan.com",
+      "published_at": "2026-08-28T07:40:14+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e1578a2350fcca8a1bc2",
+      "category": "인권·갈등",
+      "collected_at": "2026-09-11T02:28:56.911412+00:00"
     },
     {
       "title": "총학생회 건의가 현실로… 한세대, 기숙사·학생복지시설 개선 - 경기일보",
