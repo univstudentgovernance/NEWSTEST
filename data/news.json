@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T11:29:29.185462+09:00",
-  "item_count": 970,
+  "updated_at": "2026-09-12T00:41:35.721357+09:00",
+  "item_count": 971,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -687,6 +687,18 @@
       "id": "452b0b69f858d42d2f28",
       "category": "기타",
       "collected_at": "2026-09-04T15:34:55.939155+00:00"
+    },
+    {
+      "title": "총학생회장단 만난 박홍근 \"청년 성장단계별 종합투자 추진\" - 연합뉴스 한민족센터",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85anNWX1NrQWUxLUdvY05pN3g5cXBQRmFwTUw2cm9TeGxod25WQkMxNmdQMnZ6RXptQmlFOVpGVXFZVmpaTEpDaXNXWURKbE56eGlPSjFjdDdYMmwwN3RfYjRVNk1VNHgwbF9EVko4YVdfUVNX?oc=5",
+      "summary": "총학생회장단 만난 박홍근 \"청년 성장단계별 종합투자 추진\" 연합뉴스 한민족센터",
+      "source": "연합뉴스 한민족센터",
+      "published_at": "2026-09-03T09:00:07+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "a5316c0c311a7e776db6",
+      "category": "기타",
+      "collected_at": "2026-09-11T15:41:00.325347+00:00"
     },
     {
       "title": "총학생회장단 만난 박홍근 ＂청년 성장단계별 종합투자 추진＂ - 한국경제TV",
