@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T11:37:52.045711+09:00",
-  "item_count": 981,
+  "updated_at": "2026-09-12T23:48:58.837257+09:00",
+  "item_count": 980,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -7657,6 +7657,18 @@
       "collected_at": "2026-09-07T17:01:25.898864+00:00"
     },
     {
+      "title": "대전 7개 대학 총학, 심야버스 신설 등 7개 분야 26개 정책 제안 - yna.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tMEkyeks0MnFlWTdYdUNKVDZWT2hJTFNhQXQyV01ORWRiM0JLOXJjN0djZmpRcUtmSlQtWEJxN2d1dXZjNm1YWC1PNlBJMk1fZHdnOFlkTnZiaWPSAWBBVV95cUxQX3hvc19NMmliMlZkNWVkQUMxd3Z0N0Q2blBvcThsVk84T19uNzBHaE5HOGZKaDVZWmdqeExrQ1N2NVRlYVp3bWFhQjJBZ19wRDI3UTFtVXFYTWE3ZjAtcGg?oc=5",
+      "summary": "대전 7개 대학 총학, 심야버스 신설 등 7개 분야 26개 정책 제안 yna.co.kr",
+      "source": "yna.co.kr",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "adfae34ea9128ea12204",
+      "category": "기타",
+      "collected_at": "2026-09-12T14:48:27.641549+00:00"
+    },
+    {
       "title": "[D뉴스] '한예종 광주 이전' 두고 갈등... 총학생회 \"지방 이전은 책임 전가\" 반발 - KBC광주방송",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fU3VSRnhyME1wTW8xSnZ6akFqMTk0ajhtMUlfUXVrMjFNc3J6OFUxT0s4QmZjMkMwdEl3TjhFbml0X1RsczZVMmdfUEUtbEhXMFF2RjNxZHNUVDJqTi1ZSQ?oc=5",
       "summary": "[D뉴스] '한예종 광주 이전' 두고 갈등... 총학생회 \"지방 이전은 책임 전가\" 반발 KBC광주방송",
@@ -10391,6 +10403,18 @@
       "collected_at": "2026-08-16T12:26:00.765316+00:00"
     },
     {
+      "title": "대학 등록금 관련 총학생회단체 간담회 - yna.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KRE9HUDhqUUtOWGlXZ0N4andPUHN2NHB2clFPbDdpWnBvd3A1VkozZS11bHJTN2lmM0N0R3dyMjd2MThqd29UdVVsRnFVOGYtaDhsSVlVQ3RNMm_SAWBBVV95cUxNallWckxOQ09FNklHWHVxaDRNRlg1T3NsM2xqUkpxV2dsb1RlU053TUtmZkJSN201ZFM0MmZpQXpIMl9OcU8wTHlMTlEzb09Ncko4SndTUzdkcmM4MFBaUFc?oc=5",
+      "summary": "대학 등록금 관련 총학생회단체 간담회 yna.co.kr",
+      "source": "yna.co.kr",
+      "published_at": "2025-12-30T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "d84ee9e2326d60a5a6fa",
+      "category": "등록금·교육",
+      "collected_at": "2026-09-12T14:48:32.653430+00:00"
+    },
+    {
       "title": "국립창원대 총학생회, '통합 오디세이' 성공적 개최! - 베리타스알파",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RclpEU21LN1JQRlBKbXFZaV9Vbks2ZVRWaHF2dVgxU3Fta3NfWlkyeGkxRkQtY3Fnc1VUY214R09vUmE0WG5kM0JPSWhsSE1aWUsxRm9vbC04NWVTeGNUb2lxYUhDazhaSTdFRw?oc=5",
       "summary": "국립창원대 총학생회, '통합 오디세이' 성공적 개최! 베리타스알파",
@@ -10785,6 +10809,18 @@
       "id": "b5c9120cd2c05f329892",
       "category": "의결·자치",
       "collected_at": "2026-09-07T17:01:24.216365+00:00"
+    },
+    {
+      "title": "국립한밭대, 2026학년도 학생자치기구 회장단 임명장 수여 - 교수신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GUWZCQ0dmdWdMXzd0ZHVuSmhwWnZRRmRYVmw2UGcxUEtIOHVoYUxMTk1MRlNsMkd6dkJ4QzNnalE2OG9hWG1zYlQ0S2xTR3dJYUFXMXYtMG9WNVRCemVleE40eWM2bGs?oc=5",
+      "summary": "국립한밭대, 2026학년도 학생자치기구 회장단 임명장 수여 교수신문",
+      "source": "교수신문",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "a7ca49107fb9bcaf031f",
+      "category": "의결·자치",
+      "collected_at": "2026-09-12T14:48:29.365129+00:00"
     },
     {
       "title": "[속보] 2026 총학, PASS가 이끈다 - 채널PNU",
@@ -11476,52 +11512,6 @@
       "id": "c20974235d502cc83fcd",
       "category": "의결·자치",
       "collected_at": "2026-09-04T15:34:57.651625+00:00"
-    },
-    {
-      "title": "“오늘, 인생을 건 베팅이 시작됐다” 전주대, 2025 학생자치기구 연합축제 성황리 종료 - 전북미래교육신문",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zcENFU21Rc0pFcjFyNzBONC1nYmpidVlQX0tNMF9mMUk4cVQ3cXBvLWlGVmgzeXV1OWdVUUVKODJaYUFEM0phalBnNkg2NHJMa2w1MEFMVmQyRHBjc3BB?oc=5",
-      "summary": "“오늘, 인생을 건 베팅이 시작됐다” 전주대, 2025 학생자치기구 연합축제 성황리 종료 전북미래교육신문",
-      "source": "전북미래교육신문",
-      "published_at": "2025-09-12T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "id": "a08a826def00d9831122",
-      "category": "의결·자치",
-      "collected_at": "2026-08-01T17:27:22.099855+00:00"
-    },
-    {
-      "title": "전주대, 2025 학생자치기구 연합축제 성공적 마무리 - 아시아뉴스전북",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9udUdxcUVybGdoeTI0VXZ3elBVamdNNV95ZzdrX2Z2eEtuNkRWR0ZQWG1tbnpTOGY2eWpZRWZYN1lLR0hIUkpyUG9XV0pMNG50NFBDWnByb2dMN1Y5NHhVQUh2OFZNUjFTT3fSAW5BVV95cUxPZWtNbUEyOU1ibFpQRXNmNXY3OF95X1dlc3ZyM25xQ2xUVFhVLU1OQmgzeTVwNnNWcnowWEVCV3RQNVVsVjZ1dWhHVVNFY004a2FuNEROOXFpS1g3RDYwazZxNjhLX1UxTXZUWXQyZw?oc=5",
-      "summary": "전주대, 2025 학생자치기구 연합축제 성공적 마무리 아시아뉴스전북",
-      "source": "아시아뉴스전북",
-      "published_at": "2025-09-12T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "id": "01744c03c68038838043",
-      "category": "의결·자치",
-      "collected_at": "2026-08-01T17:27:22.099868+00:00"
-    },
-    {
-      "title": "“오늘, 인생을 건 베팅이 시작됐다” 전주대, 2025 학생자치기구 연합축제 성황리 종료 - edujb.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zcENFU21Rc0pFcjFyNzBONC1nYmpidVlQX0tNMF9mMUk4cVQ3cXBvLWlGVmgzeXV1OWdVUUVKODJaYUFEM0phalBnNkg2NHJMa2w1MEFMVmQyRHBjc3BB?oc=5",
-      "summary": "“오늘, 인생을 건 베팅이 시작됐다” 전주대, 2025 학생자치기구 연합축제 성황리 종료 edujb.com",
-      "source": "edujb.com",
-      "published_at": "2025-09-12T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "85cd6ccef05106b999ac",
-      "category": "의결·자치",
-      "collected_at": "2026-08-12T01:20:12.265437+00:00"
-    },
-    {
-      "title": "전주대, 2025 학생자치기구 연합축제 성공적 마무리 - mjeonbuk.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9udUdxcUVybGdoeTI0VXZ3elBVamdNNV95ZzdrX2Z2eEtuNkRWR0ZQWG1tbnpTOGY2eWpZRWZYN1lLR0hIUkpyUG9XV0pMNG50NFBDWnByb2dMN1Y5NHhVQUh2OFZNUjFTT3fSAW5BVV95cUxPZWtNbUEyOU1ibFpQRXNmNXY3OF95X1dlc3ZyM25xQ2xUVFhVLU1OQmgzeTVwNnNWcnowWEVCV3RQNVVsVjZ1dWhHVVNFY004a2FuNEROOXFpS1g3RDYwazZxNjhLX1UxTXZUWXQyZw?oc=5",
-      "summary": "전주대, 2025 학생자치기구 연합축제 성공적 마무리 mjeonbuk.com",
-      "source": "mjeonbuk.com",
-      "published_at": "2025-09-12T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "5bf27300ca9c9e2ccc95",
-      "category": "의결·자치",
-      "collected_at": "2026-08-15T12:23:38.905786+00:00"
     }
   ]
 }
