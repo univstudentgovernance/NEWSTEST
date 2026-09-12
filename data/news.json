@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-09-12T00:41:35.721357+09:00",
-  "item_count": 971,
+  "updated_at": "2026-09-12T11:37:52.045711+09:00",
+  "item_count": 981,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "국립목포대 총학생회,14일 광주청사서 '부실·불공정 의대 선정' 궐기대회 개최 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92dE9oRFpEUUk1XzBJZjJMcmo4ZkduZHRtZzl1VDI3SzRSaXNSb2RlZHpRdS02TXlqdEJyUFhjdGoyaWMwWlhWMUhXR3pPUQ?oc=5",
+      "summary": "국립목포대 총학생회,14일 광주청사서 '부실·불공정 의대 선정' 궐기대회 개최 전자신문",
+      "source": "전자신문",
+      "published_at": "2026-09-12T01:51:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "fa2de604ab22684bb57e",
+      "category": "기타",
+      "collected_at": "2026-09-12T02:37:22.487533+00:00"
+    },
+    {
+      "title": "국립목포대 총학생회, “불공정 의대 심사 철회' 14일 광주청사 궐기대회 - newsinjn.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZUWZ5SEljVVdhTDhDMU5zY1ZMVHJNTjRtMDM1QnFIMWthYUxvMWlLS0JCaHpzdW1XOXhtYkh4Y3dfa1RBc3YzNVh5R3FGUHdJZDUxaHdsQXZKODJUaU5JVVh1U25mWk0zZ2c?oc=5",
+      "summary": "국립목포대 총학생회, “불공정 의대 심사 철회' 14일 광주청사 궐기대회 newsinjn.com",
+      "source": "newsinjn.com",
+      "published_at": "2026-09-11T23:17:23+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "fde5405e6a225c7e93c3",
+      "category": "기타",
+      "collected_at": "2026-09-12T02:37:22.487372+00:00"
+    },
     {
       "title": "경상국립대, 총학생회와 대규모 헌혈 캠페인 - 경남신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5telZnSU9WNDlpVVYxWlYxLW9zTnpIWEpjcER0a1RfLU1zQWM1T0NGVWtnSHFDN09QbjV4Q2xkSzU2dU5tM2thNko1R2RGLUhiajNJV1BPODhaSkl2ZllCZzFOWkxhNXhEZHo4?oc=5",
@@ -39,6 +63,18 @@
       "id": "f158d6372c233a7f66f2",
       "category": "선거·조직",
       "collected_at": "2026-09-10T15:39:23.768604+00:00"
+    },
+    {
+      "title": "총학 \"교육부, 학점포기제 긍정\" 대총서 공개 | - channelpnu.pusan.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aUjZOZ0gwTWpQN0w1WXZyTzFIRFlxOVpWZ0VjRnVhRm1QRVF2UDZZOV8xcl9lNlRGOWpybFRxQzBVV3Z2THRHYkIxQTVWVjd5czFiUVY3T010THlEdF91WGpCZ2E4Tnh6SVdwd3ZCVmN6YzAtSUE?oc=5",
+      "summary": "총학 \"교육부, 학점포기제 긍정\" 대총서 공개 | channelpnu.pusan.ac.kr",
+      "source": "channelpnu.pusan.ac.kr",
+      "published_at": "2026-09-09T09:26:44+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "67d11fc1f55edfee6e75",
+      "category": "기타",
+      "collected_at": "2026-09-12T02:37:22.487482+00:00"
     },
     {
       "title": "총학 \"교육부, 학점포기제 긍정\" 대총서 공개 - 채널PNU",
@@ -7238,6 +7274,18 @@
       "collected_at": "2026-09-02T02:22:47.778718+00:00"
     },
     {
+      "title": "15만 원짜리 암표 등장··· 총학 “무관용 원칙, 징계 절차 가능\" - channelpnu.pusan.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JV2FrajRTZGoyUlplSWtuazVJRURwcjFGR1BnaGlOdXVyanFabkIyWjAxWVRKajN2N2VKa1ItbHBPbWZqUUplWVNnSS1GTC1nUDBUMW5hM2huLWZveGNHQ3ZZeDZOQ19sZGVxdUpZLS1sUQ?oc=5",
+      "summary": "15만 원짜리 암표 등장··· 총학 “무관용 원칙, 징계 절차 가능\" channelpnu.pusan.ac.kr",
+      "source": "channelpnu.pusan.ac.kr",
+      "published_at": "2026-05-21T07:00:00+00:00",
+      "matched_query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
+      "feed": "Google News RSS",
+      "id": "53bca36d2f57b3031206",
+      "category": "인권·갈등",
+      "collected_at": "2026-09-12T02:37:33.838245+00:00"
+    },
+    {
       "title": "인하대 총학생회, 민주당 김정식 미추홀구청장 후보 캠프 방문 - 경기신문",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCLXNva3diQlRNUzI5VTFNZUtBMnFpdlUtVkl6MTJMTl9MWFBQUTdZTWZTZXFTMDBqS1Iwa3JTRi1JcXFfVG1ISUNFZkhITVBMXzVzVksxTHNXOEc4ZzVkVnRn?oc=5",
       "summary": "인하대 총학생회, 민주당 김정식 미추홀구청장 후보 캠프 방문 경기신문",
@@ -8966,6 +9014,18 @@
       "collected_at": "2026-09-06T14:45:09.627674+00:00"
     },
     {
+      "title": "\"학생회비 내면 줄 안 서도 돼\" 총학, 우선 입장 혜택 첫 도입 - channelpnu.pusan.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zOXFEMm9SM3d1T0ZUZkcxZTZYbDNrdEFjRkQ2SFJJc0J4V2ZoNkJFVDQ2SGUtNHFuMTVMNFZndXRKaFMwd0lrSnMxV0JRTEhfeTlja2RqSVViS0UxRV9Hc3JGdEhhRXBfUEF1RGR2LVkyUQ?oc=5",
+      "summary": "\"학생회비 내면 줄 안 서도 돼\" 총학, 우선 입장 혜택 첫 도입 channelpnu.pusan.ac.kr",
+      "source": "channelpnu.pusan.ac.kr",
+      "published_at": "2026-03-12T07:00:00+00:00",
+      "matched_query": "대학 학생회비 OR 자치비 OR 회계감사",
+      "feed": "Google News RSS",
+      "id": "05642f1b849f0b64f5c3",
+      "category": "재정·감사",
+      "collected_at": "2026-09-12T02:37:32.292317+00:00"
+    },
+    {
       "title": "휘청이는 학생자치…새학기 불구 대학 곳곳서 '총학생회 공백' 뚜렷 - 대전일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qclR1VW16clFnQldpbENFS2pvWE5HWHo3UndHUXh0NHZMR3Yta190bk5HdlJnSU5BZ2lPNks0V1JDZHMyeW9Gamt2S2F5dUd5cnA5amJMTG0xb3VCQVl1bzdGVkd0ME9mM2NFM1FUa9IBc0FVX3lxTE9ScU5DMkYyMUZNamZwTXlMYVplcXEwblc5SUNIRmc2N21zUlJCT1VndVhLbDgxX0c0bnNJS1hTVjUyVFhpS1Q2akN6S3BIaTY1SzkwNUFLQmo0MzVWZ1hGWjRTX0ZxMkwtQ1BrazRNR3huNkk?oc=5",
       "summary": "휘청이는 학생자치…새학기 불구 대학 곳곳서 '총학생회 공백' 뚜렷 대전일보",
@@ -9221,6 +9281,18 @@
       "id": "629e2a461bc28ff02eb9",
       "category": "기타",
       "collected_at": "2026-08-01T17:27:38.659824+00:00"
+    },
+    {
+      "title": "체감·문화·통합, 총학생회 PASS가 그리는 2026년 - channelpnu.pusan.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JZm45VFp2emFpZjIybVVFMFhfbGF5UC0yc3FmSUNnUUVvS0lVcHpYQ0JFOUo2Qk9VSFhRam94d1VmekNYRnY1cTVwaGtUZGxkUXhldkZRRmJVdDBkaDNaaUxVOXlDUi1tZ295aHV1aDZCUdIBdkFVX3lxTFBNdWNoYkJKM3ZPMV95RFdjczdENzEwU2ZtSGZ5NFhZRkEyQmhkUVFVSkkyVUQ5QkNTNGpvN1oyVzNDa21VcGxZNU5obTBBUjRQMl9HWjBDT3hxSVV5ZXVBX3daVDJPYmh3RTR0UHUycGxPWEhfX3c?oc=5",
+      "summary": "체감·문화·통합, 총학생회 PASS가 그리는 2026년 channelpnu.pusan.ac.kr",
+      "source": "channelpnu.pusan.ac.kr",
+      "published_at": "2026-02-28T08:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "63700e7856325af80c4b",
+      "category": "기타",
+      "collected_at": "2026-09-12T02:37:30.715998+00:00"
     },
     {
       "title": "제주청년센터, 3개 대학 총학생회 ‘교류-연계’ 업무협약 - 제주의소리",
@@ -10890,6 +10962,18 @@
       "collected_at": "2026-09-02T02:22:44.686150+00:00"
     },
     {
+      "title": "[채Pick] 2026 부산대 총학생회 선거, 우리들의 선택은? - channelpnu.pusan.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVSVVySWg5MWZ2RXExZ01BZWlPV09EazNzMVRZOUlSWTRxTWNPaWRReDhHaTdEenZVYmRIdUVvVENUNkIxT002aVVYZEc2OFJRNTVzU2lTSU0zQ0piTWZrZE1CcmFzUHdCS1pPZjdxTEoxUdIBdkFVX3lxTFA0V2VPcjJlUEFrZFBZZ3gyalBPWHIxUS1zdUEzQVRLS1M2Tk9LUXd2UU1xVVBQdXpZNGtsT2RHamI4b28zZzg4QXgwckcxSU5CMFMxb1NJdFdjVTVXUXEwM2R2MnlqQXc2TFFINzJjaWdqY0puMFE?oc=5",
+      "summary": "[채Pick] 2026 부산대 총학생회 선거, 우리들의 선택은? channelpnu.pusan.ac.kr",
+      "source": "channelpnu.pusan.ac.kr",
+      "published_at": "2025-11-19T08:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "65335db1a43c9aa4dad5",
+      "category": "선거·조직",
+      "collected_at": "2026-09-12T02:37:30.716293+00:00"
+    },
+    {
       "title": "“깊이 사과드린다” 가톨릭대 총학생회 선본 ‘여운’ 선관위 징계 조치에 사과문 올려 - 대학알리",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16NHpydm1VeF9oN1ZybDgwUkhNUEp0bVU2dWVtZUVIWW8xVW1ScEJTdFFCUUhqR0pWRDY0dDR6SmpiaGNYZjF5UVVSUVJiWWlfazgtYktBT3I2QkU?oc=5",
       "summary": "“깊이 사과드린다” 가톨릭대 총학생회 선본 ‘여운’ 선관위 징계 조치에 사과문 올려 대학알리",
@@ -10935,6 +11019,18 @@
       "id": "80c703963e5d3e1edbea",
       "category": "선거·조직",
       "collected_at": "2026-09-02T02:22:44.686104+00:00"
+    },
+    {
+      "title": "[2026 학생회] 투표 전 필독, 총학 세 후보가 말하는 비전 - channelpnu.pusan.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NWXRMNWtiM3NRYXgxd211dk82QWVNaVc2Z2YxRnl0U1BFbjBKOVl1My01R1YtclAwOUhHbnZIUTFpOVgxZ2JUZzd2OHpoWGVZbEVCM2hucTY1ZHdQM19uTHVBdTNSSlZSM0w4UUJCNi1qd9IBdkFVX3lxTE9VeGRHaGg4Mk9sSzFHQ2d4azZycjVBX2hPMWNjc3M3QXNRS05aYW1nNmtJcElqYmE0eEc4SjhtYzlSVHZnLUExMTNTVU10aXBKUFFjRTVSNW1wMF8zV284Y09DVEN2cFhsMUs5QWcyYjl4ak1uWVE?oc=5",
+      "summary": "[2026 학생회] 투표 전 필독, 총학 세 후보가 말하는 비전 channelpnu.pusan.ac.kr",
+      "source": "channelpnu.pusan.ac.kr",
+      "published_at": "2025-11-14T08:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "e012d5517cd34f2cfffc",
+      "category": "선거·조직",
+      "collected_at": "2026-09-12T02:37:30.716141+00:00"
     },
     {
       "title": "인천대 총학생회, 국힘 시의원 선거 개입 규탄··· 학생 자치 침해 반발 - 인천투데이",
@@ -11039,6 +11135,30 @@
       "id": "3aec604fe37e49227e70",
       "category": "선거·조직",
       "collected_at": "2026-09-02T02:22:44.686128+00:00"
+    },
+    {
+      "title": "[2026 총학선거] 40년간 '민주화 선봉'서 '축제 준비단'까지 - channelpnu.pusan.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TREE3WmlwcnpsNHpZbHRib3RkN3pObTBHUW12WVdDdFVaMVlXNGJ4QzIybUUyeXBYQjY0eHJXVmRIclpqQUszX2hJTXkxdmxHdW82MXlpck9Za1ZCOXlwV1U4Q3JWdzBDMmh5dmlWVDZxUdIBdkFVX3lxTE9wWTJWTXFFaURGd0N1Wk1LV1NmSTNiM1hha1NYRDVZNEY5YUF0YmJWbDd1RmhCeGRHbm50b0ZUWklEcHRFMTJEMTE4UXNjaWdfSHdLRHBOd1BUNU1oVUduVGxHTGZNeFFuUENnRUtvTU9tMTBDcFE?oc=5",
+      "summary": "[2026 총학선거] 40년간 '민주화 선봉'서 '축제 준비단'까지 channelpnu.pusan.ac.kr",
+      "source": "channelpnu.pusan.ac.kr",
+      "published_at": "2025-11-07T08:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "80c8c58f25d88e9b2c2a",
+      "category": "선거·조직",
+      "collected_at": "2026-09-12T02:37:30.715927+00:00"
+    },
+    {
+      "title": "[2026 총학 선거] “필요하지만 관심 없어” 총학을 외면하는 이유 - channelpnu.pusan.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQQ0MwRmxiY2x3bTc0UzVhLXRoQ2R0U0dzdFg5TWRmS0ZrVzY0NDJGOGllV0hhcDRTVElqVE92aEU3djJMTnc0STVQQWlzUWtibjhZdEdnV1p4XzRsLVlIYTR2bWJFV3JqQTJ0V1JOenpWZ9IBdkFVX3lxTE15VDZmc19UeHhZM0NiNE1PYndpUmhuc3Z0VmNvNHBHQmlDQkxNQ2pTcnZiTWVfclBnd3dIR2U3cmlzT2J3bTV6V3I0WDJ3bDBFOHRvR1JVR3NlWEl6QmVta3RLenFEdnJybHExSXlBc2NZUkZoYWc?oc=5",
+      "summary": "[2026 총학 선거] “필요하지만 관심 없어” 총학을 외면하는 이유 channelpnu.pusan.ac.kr",
+      "source": "channelpnu.pusan.ac.kr",
+      "published_at": "2025-11-07T08:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "9cf774916382364a80f1",
+      "category": "선거·조직",
+      "collected_at": "2026-09-12T02:37:30.716239+00:00"
     },
     {
       "title": "학생회비 빼돌린 전 인하대 학생자치기구 간부 징역형 집유 - 연합뉴스",
