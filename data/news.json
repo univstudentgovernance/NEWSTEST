@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T23:48:58.837257+09:00",
-  "item_count": 980,
+  "updated_at": "2026-09-13T11:36:10.016723+09:00",
+  "item_count": 982,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -147,6 +147,18 @@
       "id": "0298582e3997db28652c",
       "category": "기타",
       "collected_at": "2026-09-10T15:39:23.768849+00:00"
+    },
+    {
+      "title": "목포대 총장과 총학생회장 국회서 '전남의대 탈락' 재검증 요구 호소 - news.tf.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pZ2xjd2oxZ3QzTDZ5NWlJNTg3eWZUa3YxR2FRNnVzOGZ1R0lfQ0xhS3A5d1gxdUEzNmI0el96cHhzMWRDWk1zRG9GN00ySnI2NmViZERwRFJGTTDSAVZBVV95cUxPT0Zla2xxTUdUSGVHS19zTkpzRVRRekRiUllNakJqeGRzVndscEttdmw2RWhvby1EaDhzLXd5ZjN4UTN6NXAtcjd2ZllCTWJ3TTUzMmNEZw?oc=5",
+      "summary": "목포대 총장과 총학생회장 국회서 '전남의대 탈락' 재검증 요구 호소 news.tf.co.kr",
+      "source": "news.tf.co.kr",
+      "published_at": "2026-09-09T07:00:19+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "664de54419220526ad83",
+      "category": "기타",
+      "collected_at": "2026-09-13T02:35:37.310521+00:00"
     },
     {
       "title": "대학축제 '외부 아아돌 팬' 논란 점입가경 : 충남대 총학 '홈마존' 설치하며 저작권 요구, 서약서에 면접도 - 허프포스트코리아",
@@ -1719,6 +1731,18 @@
       "id": "f9273776c7592c4431f8",
       "category": "기타",
       "collected_at": "2026-08-24T12:35:23.533654+00:00"
+    },
+    {
+      "title": "최동민 동대문구청장, 경희대·시립대·외대 총학생회와 협약…청년 정책·생활불편 해소 맞손 - 메가경제",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HNDVleVdBd0xFUVViSndaMnBtRFVsYi1zSjBMNllhbWxrc2hzRFo0c005RW0xQ1RZUDUxVlYzd0JETjFsUksyRU1DUjdMa0lsSWE3cW5ZRklCdTRGZ2hoRHFWbFNLbDItZlcyd0tzaWNWUdIBckFVX3lxTE1HNDVleVdBd0xFUVViSndaMnBtRFVsYi1zSjBMNllhbWxrc2hzRFo0c005RW0xQ1RZUDUxVlYzd0JETjFsUksyRU1DUjdMa0lsSWE3cW5ZRklCdTRGZ2hoRHFWbFNLbDItZlcyd0tzaWNWUQ?oc=5",
+      "summary": "최동민 동대문구청장, 경희대·시립대·외대 총학생회와 협약…청년 정책·생활불편 해소 맞손 메가경제",
+      "source": "메가경제",
+      "published_at": "2026-08-11T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "858abeab6d6e0aa3040e",
+      "category": "기타",
+      "collected_at": "2026-09-13T02:35:45.266731+00:00"
     },
     {
       "title": "동대문구, 관내 3개 대학 총학생회와 청년 정책 협약 - 네이트",
