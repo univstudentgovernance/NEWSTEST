@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T11:36:10.016723+09:00",
-  "item_count": 982,
+  "updated_at": "2026-09-14T00:27:03.996678+09:00",
+  "item_count": 986,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -159,6 +159,18 @@
       "id": "664de54419220526ad83",
       "category": "기타",
       "collected_at": "2026-09-13T02:35:37.310521+00:00"
+    },
+    {
+      "title": "목포대 총장과 총학생회장 국회서 '전남의대 탈락' 재검증 요구 호소 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pZ2xjd2oxZ3QzTDZ5NWlJNTg3eWZUa3YxR2FRNnVzOGZ1R0lfQ0xhS3A5d1gxdUEzNmI0el96cHhzMWRDWk1zRG9GN00ySnI2NmViZERwRFJGTTDSAVZBVV95cUxPT0Zla2xxTUdUSGVHS19zTkpzRVRRekRiUllNakJqeGRzVndscEttdmw2RWhvby1EaDhzLXd5ZjN4UTN6NXAtcjd2ZllCTWJ3TTUzMmNEZw?oc=5",
+      "summary": "목포대 총장과 총학생회장 국회서 '전남의대 탈락' 재검증 요구 호소 더팩트",
+      "source": "더팩트",
+      "published_at": "2026-09-09T07:00:19+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8bfc235dc7bef5b2aa82",
+      "category": "기타",
+      "collected_at": "2026-09-13T15:26:31.010096+00:00"
     },
     {
       "title": "대학축제 '외부 아아돌 팬' 논란 점입가경 : 충남대 총학 '홈마존' 설치하며 저작권 요구, 서약서에 면접도 - 허프포스트코리아",
@@ -1743,6 +1755,18 @@
       "id": "858abeab6d6e0aa3040e",
       "category": "기타",
       "collected_at": "2026-09-13T02:35:45.266731+00:00"
+    },
+    {
+      "title": "최동민 동대문구청장, 경희대·시립대·외대 총학생회와 협약…청년 정책·생활불편 해소 맞손 - megaeconomy.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HNDVleVdBd0xFUVViSndaMnBtRFVsYi1zSjBMNllhbWxrc2hzRFo0c005RW0xQ1RZUDUxVlYzd0JETjFsUksyRU1DUjdMa0lsSWE3cW5ZRklCdTRGZ2hoRHFWbFNLbDItZlcyd0tzaWNWUdIBckFVX3lxTE1HNDVleVdBd0xFUVViSndaMnBtRFVsYi1zSjBMNllhbWxrc2hzRFo0c005RW0xQ1RZUDUxVlYzd0JETjFsUksyRU1DUjdMa0lsSWE3cW5ZRklCdTRGZ2hoRHFWbFNLbDItZlcyd0tzaWNWUQ?oc=5",
+      "summary": "최동민 동대문구청장, 경희대·시립대·외대 총학생회와 협약…청년 정책·생활불편 해소 맞손 megaeconomy.co.kr",
+      "source": "megaeconomy.co.kr",
+      "published_at": "2026-08-11T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "209a26a6af47755c8261",
+      "category": "기타",
+      "collected_at": "2026-09-13T15:26:40.378765+00:00"
     },
     {
       "title": "동대문구, 관내 3개 대학 총학생회와 청년 정책 협약 - 네이트",
@@ -4465,6 +4489,18 @@
       "id": "a741ca52a94d9bf48db6",
       "category": "기타",
       "collected_at": "2026-09-04T02:25:36.588204+00:00"
+    },
+    {
+      "title": "전국 대학 총학생회, ‘투표용지 부족 사태’ 선관위 항의 방문… 진상규명·재발방지 대책 요구 - segye.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Nb09WbE1xVUpXSDRyb0ZkOUowYzdGNE0wQVZQYThsbGtPanZzamQyNEJkM3FlcFduNGprbzlHOTh3UWRHRzhDSy0yM2lmS1RlS2J2bVlhMmfSAVRBVV95cUxQZzVSY3pyVnpRVnhpSWdEY0tpc2dzdHZwLU9UMllEVGFxeThVSzIyQjlKcXp3dzUxeEdvYjZrRHdyTFNzZU1rdFJRQ0s0UVhBREt6Z3M?oc=5",
+      "summary": "전국 대학 총학생회, ‘투표용지 부족 사태’ 선관위 항의 방문… 진상규명·재발방지 대책 요구 segye.com",
+      "source": "segye.com",
+      "published_at": "2026-06-17T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "5daf138b0c86c0babbf5",
+      "category": "기타",
+      "collected_at": "2026-09-13T15:26:34.427981+00:00"
     },
     {
       "title": "전국 대학 전·현직 총학생회장, 투표지 부족 사태 간담회 - 서울일보",
@@ -10845,6 +10881,18 @@
       "id": "a7ca49107fb9bcaf031f",
       "category": "의결·자치",
       "collected_at": "2026-09-12T14:48:29.365129+00:00"
+    },
+    {
+      "title": "국립한밭대, 2026학년도 학생자치기구 회장단 임명장 수여 - kyosu.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GUWZCQ0dmdWdMXzd0ZHVuSmhwWnZRRmRYVmw2UGcxUEtIOHVoYUxMTk1MRlNsMkd6dkJ4QzNnalE2OG9hWG1zYlQ0S2xTR3dJYUFXMXYtMG9WNVRCemVleE40eWM2bGs?oc=5",
+      "summary": "국립한밭대, 2026학년도 학생자치기구 회장단 임명장 수여 kyosu.net",
+      "source": "kyosu.net",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "b87b3c2f5480f9a0dd19",
+      "category": "의결·자치",
+      "collected_at": "2026-09-13T15:26:32.723494+00:00"
     },
     {
       "title": "[속보] 2026 총학, PASS가 이끈다 - 채널PNU",
