@@ -1,9 +1,81 @@
 {
-  "updated_at": "2026-09-14T11:52:09.339846+09:00",
-  "item_count": 992,
+  "updated_at": "2026-09-15T02:24:40.073659+09:00",
+  "item_count": 1000,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "임기 반환점 돈 총학에 학우들 4.6점 부여, “공약 이행 수준에 아쉬움” - 아주대학보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00SGVlR2M3UjBkcXRUQzVSWUc2d2JpVUl2YWpmZlptdzRTQ0w4VVl3SUtWTGtncUVZZXJyUm95bjZzMmE4eHBtdHlDY1hGV29wQVNxVGhOVl9Oc0x6UlF1Y2FDWWpwLU94MHc?oc=5",
+      "summary": "임기 반환점 돈 총학에 학우들 4.6점 부여, “공약 이행 수준에 아쉬움” 아주대학보",
+      "source": "아주대학보",
+      "published_at": "2026-09-14T09:42:01+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4844acbe68b7af94abb8",
+      "category": "복지·문화",
+      "collected_at": "2026-09-14T17:24:13.437423+00:00"
+    },
+    {
+      "title": "목포대 총학생회, 전남권 의대 신설 후보 대학 심사 규탄 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6UE9rRzlhTVFhQ0pDUlpvWS00SDNHUkZuLWpRSF82RXFlVFdOOG5PcVZIMnpfdnpkTExXdEo0X1BMMktYeTB4NzJ6ckFWM3dTaEtuNjBsWmdCY24zcEo2N1dRUHg1RWNwZE41ZFJpX3FXTUhGMHZwadIBeEFVX3lxTFB6UE9rRzlhTVFhQ0pDUlpvWS00SDNHUkZuLWpRSF82RXFlVFdOOG5PcVZIMnpfdnpkTExXdEo0X1BMMktYeTB4NzJ6ckFWM3dTaEtuNjBsWmdCY24zcEo2N1dRUHg1RWNwZE41ZFJpX3FXTUhGMHZwaQ?oc=5",
+      "summary": "목포대 총학생회, 전남권 의대 신설 후보 대학 심사 규탄 뉴시스",
+      "source": "뉴시스",
+      "published_at": "2026-09-14T03:01:03+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ef6ce0dac7b15a025653",
+      "category": "선거·조직",
+      "collected_at": "2026-09-14T17:24:13.437799+00:00"
+    },
+    {
+      "title": "목포대 총학생회, 광주청사서 '불공정 국립의대 심사 규탄' 집회 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ybXB1MGVnWGRBWXBXczdMa1pRd1JtNmxwZUtwbERSSHl1S09zalZpZzZ4eldzSF91alpPZ0MxUGIzX2lfeEd5UjF4MEIwZ2JuOGZ0TGZXRS03azBSODVWenprMVXSAWRBVV95cUxPcm1wdTBlZ1hkQVlwV3M3TGtaUXdSbTZscGVLcGxEUkh5dUtPc2pWaWc2eHpXc0hfdWpaT2dDMVBiM19pX3hHeVIxeDBCMGdibjhmdExmV0UtN2swUjg1Vnp6azFV?oc=5",
+      "summary": "목포대 총학생회, 광주청사서 '불공정 국립의대 심사 규탄' 집회 뉴스1",
+      "source": "뉴스1",
+      "published_at": "2026-09-14T02:57:28+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e0a3e4bdef17fc886e9a",
+      "category": "인권·갈등",
+      "collected_at": "2026-09-14T17:24:13.437492+00:00"
+    },
+    {
+      "title": "목포대 총학생회 \"불공정 전남권 의대 선정 재검토하라\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8ydjVmVnVoWXc2Z3lGSUNyNUhRVW9XQmhtUXphcnR4VjBWS0hVR0RXZGN4RS1yWVRYZU4xZWF4ZUdsQUtiTVdzUHNpZVhJVERRbHgwU0Z5R20wRFRlODFlc3RFbVdETVZxNjZXa19oOWZCMUxyZi1WTNIBeEFVX3lxTE8ydjVmVnVoWXc2Z3lGSUNyNUhRVW9XQmhtUXphcnR4VjBWS0hVR0RXZGN4RS1yWVRYZU4xZWF4ZUdsQUtiTVdzUHNpZVhJVERRbHgwU0Z5R20wRFRlODFlc3RFbVdETVZxNjZXa19oOWZCMUxyZi1WTA?oc=5",
+      "summary": "목포대 총학생회 \"불공정 전남권 의대 선정 재검토하라\" 뉴시스",
+      "source": "뉴시스",
+      "published_at": "2026-09-14T02:56:27+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "9b2dead302fa4142a974",
+      "category": "기타",
+      "collected_at": "2026-09-14T17:24:13.437537+00:00"
+    },
+    {
+      "title": "목포대 총학생회, 의대 신설 불공정 심사 규탄 대회 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LWjVpMEVYdEpORjZqRUVqUzV1bjVMN0dsM0xoa1ZmanBVMFhlM2kta2U0S1JKb1NUTHJfeXd0OEl4UU16bzZwRG5VNXJSNHprYl9TMTdfdFA2OHotMXk4RA?oc=5",
+      "summary": "목포대 총학생회, 의대 신설 불공정 심사 규탄 대회 뉴시스",
+      "source": "뉴시스",
+      "published_at": "2026-09-14T02:56:05+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "33fc948bc6891dd323cd",
+      "category": "기타",
+      "collected_at": "2026-09-14T17:24:13.438036+00:00"
+    },
+    {
+      "title": "목포대 총학생회, 의대 신설 불공정 심사 규탄 대회 - nwww.newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLR0RDaDN3NFVqbEhzcV81TnlwZHd5cjhuV1lXejhET1RfT1dyY2psd0p3UUFFZGFsYVFzVEJYTlpFZ1d4OFVFODEzcFBEcWQwY3V6RTV4QnJ5SU1sQkV2TVJ3?oc=5",
+      "summary": "목포대 총학생회, 의대 신설 불공정 심사 규탄 대회 nwww.newsis.com",
+      "source": "nwww.newsis.com",
+      "published_at": "2026-09-14T02:56:05+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "afb2a2fd84ea038f45e9",
+      "category": "기타",
+      "collected_at": "2026-09-14T17:24:13.438115+00:00"
+    },
     {
       "title": "국립목포대 총학생회,14일 광주청사서 '부실·불공정 의대 선정' 궐기대회 개최 - 전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92dE9oRFpEUUk1XzBJZjJMcmo4ZkduZHRtZzl1VDI3SzRSaXNSb2RlZHpRdS02TXlqdEJyUFhjdGoyaWMwWlhWMUhXR3pPUQ?oc=5",
@@ -15,6 +87,18 @@
       "id": "fa2de604ab22684bb57e",
       "category": "기타",
       "collected_at": "2026-09-12T02:37:22.487533+00:00"
+    },
+    {
+      "title": "국립목포대 총학생회,14일 광주청사서 '부실·불공정 의대 선정' 궐기대회 개최 - etnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92dE9oRFpEUUk1XzBJZjJMcmo4ZkduZHRtZzl1VDI3SzRSaXNSb2RlZHpRdS02TXlqdEJyUFhjdGoyaWMwWlhWMUhXR3pPUQ?oc=5",
+      "summary": "국립목포대 총학생회,14일 광주청사서 '부실·불공정 의대 선정' 궐기대회 개최 etnews.com",
+      "source": "etnews.com",
+      "published_at": "2026-09-12T01:51:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ba17959e1fc1225675da",
+      "category": "기타",
+      "collected_at": "2026-09-14T17:24:13.438523+00:00"
     },
     {
       "title": "국립목포대 총학생회, “불공정 의대 심사 철회' 14일 광주청사 궐기대회 - newsinjn.com",
@@ -195,6 +279,18 @@
       "id": "3d667eb53537a8ffff5b",
       "category": "복지·문화",
       "collected_at": "2026-09-10T02:34:59.993154+00:00"
+    },
+    {
+      "title": "대학축제 '외부 아아돌 팬' 논란 점입가경 : 충남대 총학 '홈마존' 설치하며 서약서에 저작권 요구, 면접도 - huffingtonpost.kr",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56MkVTaWtQUlZTMnluTS0tdnVSd2ZMb2FPMUJjUndvUDBXOFFWaDZiWkthVHpRbkF1ZDlfeTJ6WXUxa19jUWF1c2o5YXNucDdTNlpaVzlUUQ?oc=5",
+      "summary": "대학축제 '외부 아아돌 팬' 논란 점입가경 : 충남대 총학 '홈마존' 설치하며 서약서에 저작권 요구, 면접도 huffingtonpost.kr",
+      "source": "huffingtonpost.kr",
+      "published_at": "2026-09-09T06:57:02+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "030437dcd4761857b8b0",
+      "category": "복지·문화",
+      "collected_at": "2026-09-14T17:24:21.190338+00:00"
     },
     {
       "title": "목포대·총학생회 \"전남 의대 심사 공정했나\"…평가 과정 재검증 촉구 - KBC광주방송",
@@ -6769,6 +6865,18 @@
       "collected_at": "2026-09-04T02:25:33.168920+00:00"
     },
     {
+      "title": "광주지역 대학 총학생회, 투표용지 부족 사태 규탄 - kmib.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JU2FWclVsVVNUMkFmUm5jX3YwbC1tdGlwZmQ1ejlFWXQxRlVJLUhsRVZfVEZUZDZiRFMwVGZwNTR5bk1rV3hwZzBSUTM2QUoyNGtrSmpmaTdSeUJ1bGo4azVreEkzbUXSAWxBVV95cUxQazJITmFkNjVHSjhuOVlEenA0REVud3F1cTd6LXBwV1ZPc1oyM1RWYV9TQnFBV1YyWDlOWEVNV3pkeG4zWlpiSnpHS1BNVGp0alFWZjkxSm5qNW8zcnFYbi0tcEpjbGVuUkhIN0M?oc=5",
+      "summary": "광주지역 대학 총학생회, 투표용지 부족 사태 규탄 kmib.co.kr",
+      "source": "kmib.co.kr",
+      "published_at": "2026-06-08T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "6c13d6d501d0ccabd7e5",
+      "category": "기타",
+      "collected_at": "2026-09-14T17:24:13.440397+00:00"
+    },
+    {
       "title": "소통과 화합의 장 마련한 대구노인대학 총학생회 - 경북매일",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kbkJXbzJtMnFwNnZZZXpsdzNHUU56MmVFY1JtQ0JIWFRVY1QyNnVZRFJEZVdubTFXVjdMZWIzY3NmMFVhREdRTmZERG1xLUNSZFFHUWV3eVlIQQ?oc=5",
       "summary": "소통과 화합의 장 마련한 대구노인대학 총학생회 경북매일",
@@ -11634,28 +11742,16 @@
       "collected_at": "2026-09-02T02:22:38.185054+00:00"
     },
     {
-      "title": "학생자치 60주년, 통일공대의 역사와 미래를 잇다 - 중대신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOOFNMSDZISWRqZlJaMVdJcVR4YTJNUTJUUzZSaGNUc2EzZEp1dFN1V2o1eDl5bUthTWtYSW9FS0FVQUVFTXFGTlFmQVRqREFueVFjcEltZllXckZVY3Y0NzJMaXBjMUHSAWtBVV95cUxPUDNNUXVWYXIwcTVIQndlZm45UEZaWm9kQnltbHFzbkJwck95TzFiY1dQUy1heTlZRncyeW9ZdUNRS3I5RzZ3dUdmV1B3WHc2Y2t5UzVPd1AtN3JHX3gteURhcWIzbzN1UUtiZw?oc=5",
-      "summary": "학생자치 60주년, 통일공대의 역사와 미래를 잇다 중대신문",
-      "source": "중대신문",
-      "published_at": "2025-09-14T07:00:00+00:00",
+      "title": "강원대학교 삼척 학생자치단체, 강릉원주대학교에 생수 지원 - gwnews.org",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBITEZ4NC10M1FQVW5DNTU2a2xVcWdKbjlpaXItUkhLTGkyNmxCTHZ0eVVKdmZqeVphd2R2WTR0dU9DZmRoNzFBem5qTWNPQkJ0M1hRNDRmWVY1d2RrdGRFcGdPakRCRFZ3?oc=5",
+      "summary": "강원대학교 삼척 학생자치단체, 강릉원주대학교에 생수 지원 gwnews.org",
+      "source": "gwnews.org",
+      "published_at": "2025-09-15T07:00:00+00:00",
       "matched_query": "대학 학생자치",
       "feed": "Google News RSS",
-      "id": "1aa693cd90860d5adfc5",
+      "id": "24d2787a7f0365a5e3d5",
       "category": "의결·자치",
-      "collected_at": "2026-08-12T12:54:24.815103+00:00"
-    },
-    {
-      "title": "학생자치 60주년, 통일공대의 역사와 미래를 잇다 - news.cauon.net",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOOFNMSDZISWRqZlJaMVdJcVR4YTJNUTJUUzZSaGNUc2EzZEp1dFN1V2o1eDl5bUthTWtYSW9FS0FVQUVFTXFGTlFmQVRqREFueVFjcEltZllXckZVY3Y0NzJMaXBjMUHSAWtBVV95cUxPUDNNUXVWYXIwcTVIQndlZm45UEZaWm9kQnltbHFzbkJwck95TzFiY1dQUy1heTlZRncyeW9ZdUNRS3I5RzZ3dUdmV1B3WHc2Y2t5UzVPd1AtN3JHX3gteURhcWIzbzN1UUtiZw?oc=5",
-      "summary": "학생자치 60주년, 통일공대의 역사와 미래를 잇다 news.cauon.net",
-      "source": "news.cauon.net",
-      "published_at": "2025-09-14T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "c20974235d502cc83fcd",
-      "category": "의결·자치",
-      "collected_at": "2026-09-04T15:34:57.651625+00:00"
+      "collected_at": "2026-09-14T17:24:15.008409+00:00"
     }
   ]
 }
