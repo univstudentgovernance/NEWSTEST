@@ -1,9 +1,26 @@
 {
-  "updated_at": "2026-09-15T11:55:20.236945+09:00",
-  "item_count": 1003,
+  "updated_at": "2026-09-16T01:02:33.856025+09:00",
+  "item_count": 999,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [],
+  "failures": [
+    {
+      "source": "연합뉴스",
+      "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>"
+    }
+  ],
   "items": [
+    {
+      "title": "한국공학대 총학생회, 보행터널 축소 논의에 반발…시흥시의회에 성명 전달 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52V1BmVlNXdU5kdDVfU0VTd25keEQtSjBhMm5jaF80MmNaNHAzaUxQNDY5Umx1QVM3dlJtc3hhRzVHMWVVcERJdTBNV1prdw?oc=5",
+      "summary": "한국공학대 총학생회, 보행터널 축소 논의에 반발…시흥시의회에 성명 전달 전자신문",
+      "source": "전자신문",
+      "published_at": "2026-09-15T08:11:09+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "7a1296eeab0d0f378c4d",
+      "category": "인권·갈등",
+      "collected_at": "2026-09-15T16:01:59.518600+00:00"
+    },
     {
       "title": "국립목포대 학생자치기구, 불공정 의대 선정심사 규탄 - 아시아뉴스통신",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2ZVBCaE44U3VLZmFPMVNvVkxxdXBjQUVtd3RWemlRUndJeXJHUFlUUWZtQTM5NENBMXZzS3RCSE9qN0htTktRbTlMTV85VTd0RmFzZWRBOTljWnh0?oc=5",
@@ -915,6 +932,18 @@
       "id": "a5316c0c311a7e776db6",
       "category": "기타",
       "collected_at": "2026-09-11T15:41:00.325347+00:00"
+    },
+    {
+      "title": "총학생회장단 만난 박홍근 \"청년 성장단계별 종합투자 추진\" - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lSzRRaEhwcU1KaFE2UFU4bGczdGU5OUdXQV9LZU9VZzNJTkNsVFdTQTVlbmFINEljSWNhcWtrbzZzYVJURWRwWWFSd2dHTDlpWWc?oc=5",
+      "summary": "총학생회장단 만난 박홍근 \"청년 성장단계별 종합투자 추진\" 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "published_at": "2026-09-03T09:00:07+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "75b3dfbe5b32556d38d3",
+      "category": "기타",
+      "collected_at": "2026-09-15T16:01:59.518909+00:00"
     },
     {
       "title": "총학생회장단 만난 박홍근 ＂청년 성장단계별 종합투자 추진＂ - 한국경제TV",
@@ -11717,77 +11746,6 @@
       "id": "cb06a9ddc64db1d35c33",
       "category": "의결·자치",
       "collected_at": "2026-08-21T00:55:47.522101+00:00"
-    },
-    {
-      "title": "강원대 삼척 학생자치단체, 강릉원주대학교에 생수 지원 - 교수신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51QkdaakVtcW1fUWdWVk4wSG9pNEREblRRak9TVnRVRnFBUUFmcjNucDBhb01icXB5TjdnRC1HLWlxclNyUlFlSS14QzBUWEpNNVNwTU9pVmJaLTdZWDVyRE9MMDE3Q1E?oc=5",
-      "summary": "강원대 삼척 학생자치단체, 강릉원주대학교에 생수 지원 교수신문",
-      "source": "교수신문",
-      "published_at": "2025-09-15T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "id": "8e9f7ee2ebf409084fe9",
-      "category": "의결·자치",
-      "collected_at": "2026-08-01T17:27:22.099895+00:00"
-    },
-    {
-      "title": "강원대 삼척 학생자치단체, 강릉원주대에 생수 지원 - 베리타스알파",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12RDU5dkk5QzBZMG0tOF9BbHlJdnVLaWdHb1c3djBmdzMtM0dQa2stVy1nUE9OTndlVUlXYW11RGpFalA5RmxWVnpMMkJKNUZTck9XMW9DSDJicmxJX1NjRTNqQ3htVmp6Wk0xVw?oc=5",
-      "summary": "강원대 삼척 학생자치단체, 강릉원주대에 생수 지원 베리타스알파",
-      "source": "베리타스알파",
-      "published_at": "2025-09-15T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "efe1296c9b878455062d",
-      "category": "의결·자치",
-      "collected_at": "2026-08-02T15:47:12.272995+00:00"
-    },
-    {
-      "title": "강원대 삼척 학생자치단체, 강릉원주대학교에 생수 지원 - kyosu.net",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51QkdaakVtcW1fUWdWVk4wSG9pNEREblRRak9TVnRVRnFBUUFmcjNucDBhb01icXB5TjdnRC1HLWlxclNyUlFlSS14QzBUWEpNNVNwTU9pVmJaLTdZWDVyRE9MMDE3Q1E?oc=5",
-      "summary": "강원대 삼척 학생자치단체, 강릉원주대학교에 생수 지원 kyosu.net",
-      "source": "kyosu.net",
-      "published_at": "2025-09-15T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "e68f5d77a53f4bea7d8e",
-      "category": "의결·자치",
-      "collected_at": "2026-08-09T12:36:23.209679+00:00"
-    },
-    {
-      "title": "강원대 삼척 학생자치단체, 강릉원주대에 생수 지원 - veritas-a.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12RDU5dkk5QzBZMG0tOF9BbHlJdnVLaWdHb1c3djBmdzMtM0dQa2stVy1nUE9OTndlVUlXYW11RGpFalA5RmxWVnpMMkJKNUZTck9XMW9DSDJicmxJX1NjRTNqQ3htVmp6Wk0xVw?oc=5",
-      "summary": "강원대 삼척 학생자치단체, 강릉원주대에 생수 지원 veritas-a.com",
-      "source": "veritas-a.com",
-      "published_at": "2025-09-15T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "30f4a76e651f5a6f45fb",
-      "category": "의결·자치",
-      "collected_at": "2026-08-11T12:49:18.174971+00:00"
-    },
-    {
-      "title": "강원대학교 삼척 학생자치단체, 강릉원주대학교에 생수 지원 - 강원신문",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBITEZ4NC10M1FQVW5DNTU2a2xVcWdKbjlpaXItUkhLTGkyNmxCTHZ0eVVKdmZqeVphd2R2WTR0dU9DZmRoNzFBem5qTWNPQkJ0M1hRNDRmWVY1d2RrdGRFcGdPakRCRFZ3?oc=5",
-      "summary": "강원대학교 삼척 학생자치단체, 강릉원주대학교에 생수 지원 강원신문",
-      "source": "강원신문",
-      "published_at": "2025-09-15T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "a9594ab53cf0278dcd6f",
-      "category": "의결·자치",
-      "collected_at": "2026-09-02T02:22:38.185054+00:00"
-    },
-    {
-      "title": "강원대학교 삼척 학생자치단체, 강릉원주대학교에 생수 지원 - gwnews.org",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBITEZ4NC10M1FQVW5DNTU2a2xVcWdKbjlpaXItUkhLTGkyNmxCTHZ0eVVKdmZqeVphd2R2WTR0dU9DZmRoNzFBem5qTWNPQkJ0M1hRNDRmWVY1d2RrdGRFcGdPakRCRFZ3?oc=5",
-      "summary": "강원대학교 삼척 학생자치단체, 강릉원주대학교에 생수 지원 gwnews.org",
-      "source": "gwnews.org",
-      "published_at": "2025-09-15T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "24d2787a7f0365a5e3d5",
-      "category": "의결·자치",
-      "collected_at": "2026-09-14T17:24:15.008409+00:00"
     }
   ]
 }
