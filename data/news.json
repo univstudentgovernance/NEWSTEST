@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-09-15T02:24:40.073659+09:00",
-  "item_count": 1000,
+  "updated_at": "2026-09-15T11:55:20.236945+09:00",
+  "item_count": 1003,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "국립목포대 학생자치기구, 불공정 의대 선정심사 규탄 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2ZVBCaE44U3VLZmFPMVNvVkxxdXBjQUVtd3RWemlRUndJeXJHUFlUUWZtQTM5NENBMXZzS3RCSE9qN0htTktRbTlMTV85VTd0RmFzZWRBOTljWnh0?oc=5",
+      "summary": "국립목포대 학생자치기구, 불공정 의대 선정심사 규탄 아시아뉴스통신",
+      "source": "아시아뉴스통신",
+      "published_at": "2026-09-15T01:43:29+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "f460d4c521041877abd1",
+      "category": "의결·자치",
+      "collected_at": "2026-09-15T02:54:48.447531+00:00"
+    },
     {
       "title": "임기 반환점 돈 총학에 학우들 4.6점 부여, “공약 이행 수준에 아쉬움” - 아주대학보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00SGVlR2M3UjBkcXRUQzVSWUc2d2JpVUl2YWpmZlptdzRTQ0w4VVl3SUtWTGtncUVZZXJyUm95bjZzMmE4eHBtdHlDY1hGV29wQVNxVGhOVl9Oc0x6UlF1Y2FDWWpwLU94MHc?oc=5",
@@ -75,6 +87,18 @@
       "id": "afb2a2fd84ea038f45e9",
       "category": "기타",
       "collected_at": "2026-09-14T17:24:13.438115+00:00"
+    },
+    {
+      "title": "목포대 총학생회장 '의대 선정 정당성 다시 확보하라' - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01NzlLRVlUbjV0cHRWdk1pbmtyQk5rOHUtaTQ1ZE5weEw1ZEJfN1FyNXNra0d3YkYzZzN2X3FwMW9vaWtHWkI3LW1yaw?oc=5",
+      "summary": "목포대 총학생회장 '의대 선정 정당성 다시 확보하라' 뉴스1",
+      "source": "뉴스1",
+      "published_at": "2026-09-14T02:47:54+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "7bee10fb303ebe96431d",
+      "category": "기타",
+      "collected_at": "2026-09-15T02:54:46.736283+00:00"
     },
     {
       "title": "국립목포대 총학생회,14일 광주청사서 '부실·불공정 의대 선정' 궐기대회 개최 - 전자신문",
@@ -315,6 +339,18 @@
       "id": "24c173f90606faf69ae1",
       "category": "기타",
       "collected_at": "2026-09-10T15:39:23.768828+00:00"
+    },
+    {
+      "title": "호원대 제41대 여울 총학생회, 18~19일 대동제 ‘HOWON IN THE FOREST’ 개최 - 투데이 군산",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIMEtmdlJBT3JaV3VSbkljMVE0VF9WYkluU3N6Sy1aaloxcEh4TXNaVjB5bXQ2NjlrY0tfT0pZVUVNdGpjV0xSYkZwRUdQQ1BOTW9FTzFOQjVhTlJQaHdHRjcza0NwMzlVdWc4?oc=5",
+      "summary": "호원대 제41대 여울 총학생회, 18~19일 대동제 ‘HOWON IN THE FOREST’ 개최 투데이 군산",
+      "source": "투데이 군산",
+      "published_at": "2026-09-09T02:32:06+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "673dbbe6cea0bd101329",
+      "category": "복지·문화",
+      "collected_at": "2026-09-15T02:54:55.307608+00:00"
     },
     {
       "title": "한밭대와는 무산됐는데···충남대, 공주대 통합 성사될까",
