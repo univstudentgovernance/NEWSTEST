@@ -1,13 +1,8 @@
 {
-  "updated_at": "2026-09-16T01:02:33.856025+09:00",
-  "item_count": 999,
+  "updated_at": "2026-09-16T11:50:06.560772+09:00",
+  "item_count": 1000,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
-    {
-      "source": "연합뉴스",
-      "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>"
-    }
-  ],
+  "failures": [],
   "items": [
     {
       "title": "한국공학대 총학생회, 보행터널 축소 논의에 반발…시흥시의회에 성명 전달 - 전자신문",
@@ -104,6 +99,18 @@
       "id": "afb2a2fd84ea038f45e9",
       "category": "기타",
       "collected_at": "2026-09-14T17:24:13.438115+00:00"
+    },
+    {
+      "title": "목포대 총학생회 '특별시, 의대 심사 과정 규탄' - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SV0pkYXhyQXhsaXhteUszS3hGVkZKaXdGY0xEUWhBWlNmX19ScmVRZnZUSkV1d1dKODlVc3cwX2JfOGJpR2pYdEJPTQ?oc=5",
+      "summary": "목포대 총학생회 '특별시, 의대 심사 과정 규탄' 뉴스1",
+      "source": "뉴스1",
+      "published_at": "2026-09-14T02:47:56+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "384e8bf54745ce5639d7",
+      "category": "기타",
+      "collected_at": "2026-09-16T02:49:32.702555+00:00"
     },
     {
       "title": "목포대 총학생회장 '의대 선정 정당성 다시 확보하라' - 뉴스1",
