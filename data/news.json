@@ -1,9 +1,57 @@
 {
-  "updated_at": "2026-09-16T11:50:06.560772+09:00",
-  "item_count": 1000,
+  "updated_at": "2026-09-17T00:56:05.443003+09:00",
+  "item_count": 1010,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "호서대 총학생회, 경찰과 불법촬영 예방 합동점검… 천안·아산캠퍼스 화장실 점검 - 스포트라이트유",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNZ2liM1d4TS1hMWVGRTlZU0RwTWpTd09JVFNJVU04elI0YVF5bEVlWjdia1lQV2QyWlhUQ1hFMXNoTDRib2JzU3lCb3FEcjNLWGRWZ181WWFXb1BVVl9yei1MNkdqTWs4MVZrVWl4SlFoSkhBR1B2MkM3VnVVVU9pWE1vWXJJZXRSVC1yYlhCa2hzQUloR09yX1ExSmpoeGYxd3hsRWdudkpkOGhfVml5azZGemo2OHJkaWJYR3BmaGRkalE5aFBrMDlDTlp3cl9zZDhsSnF6UDFIWmxSZmJQTGMzSnZKWHMyOTJyWEVtcGtlUjVIeGhXN2VIbVNaRmNPNld3OFJUb2dINEVMZXhqelMweThrLW5HVDlaR1hFYmNVOER6SWt1YXZSRW9ZMlhEdFZER2EzT0s0VC1l?oc=5",
+      "summary": "호서대 총학생회, 경찰과 불법촬영 예방 합동점검… 천안·아산캠퍼스 화장실 점검 스포트라이트유",
+      "source": "스포트라이트유",
+      "published_at": "2026-09-16T14:39:23+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "85da2ad415c33a3ca020",
+      "category": "기타",
+      "collected_at": "2026-09-16T15:55:33.536463+00:00"
+    },
+    {
+      "title": "서울대 총학 ‘성적 지향 차별 금지’ 회칙 신설…대학가 ‘작은 차별금지법’ 확산 - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56dnNZLUtham43LUd1elFRR2djeUptelZYSzc1Ym1xNzlNdE9faUpJc1JFM3hTV0NKeGJKM0dYamZ0ZUtqSVNGdHRIRExZTVBoX1R4M2Njc0Q5LXFNdzNDeEZzeVhRNjFoclJfaGZRaEx5Zw?oc=5",
+      "summary": "서울대 총학 ‘성적 지향 차별 금지’ 회칙 신설…대학가 ‘작은 차별금지법’ 확산 한겨레",
+      "source": "한겨레",
+      "published_at": "2026-09-16T10:06:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4a8b9b66836fdc9f8018",
+      "category": "의결·자치",
+      "collected_at": "2026-09-16T15:55:33.536361+00:00"
+    },
+    {
+      "title": "호서대 총학생회,캠퍼스 불법촬영 합동점검 - 충청일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uZHBUYnU1bHpfaGpsenlxT0ZfY3kwWVVtcHlfRXVhX21WaENPaGJQZjFhZ2xBUWNUS3A5Y25ocm45NDlERDZEcVJMczg1c3hVUHJwdUdxR3dCbVh3MENRZFFYbjRtbnJPak1VVGJhVlI?oc=5",
+      "summary": "호서대 총학생회,캠퍼스 불법촬영 합동점검 충청일보",
+      "source": "충청일보",
+      "published_at": "2026-09-16T06:45:15+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "1a0a8e5128d0ce61efdd",
+      "category": "기타",
+      "collected_at": "2026-09-16T15:55:33.536442+00:00"
+    },
+    {
+      "title": "호서대 총학생회, 경찰과 캠퍼스 불법촬영 예방 합동점검 - 디트NEWS24",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pRGlMZEVvTUlvbE0zN2lELVNNdzNpRkpmY2gyWVJxWDhsbWxBcEpPM2FlQzM4SVdvR0xleFl3cmZUR0F6MHk1WHB6d0JGX2xGaFd5ZHhYTGVUZVN5dVNMMEJYazN1ei10dVlN?oc=5",
+      "summary": "호서대 총학생회, 경찰과 캠퍼스 불법촬영 예방 합동점검 디트NEWS24",
+      "source": "디트NEWS24",
+      "published_at": "2026-09-16T06:00:06+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "cd1ba8723dea7d5baa9c",
+      "category": "기타",
+      "collected_at": "2026-09-16T15:55:33.536412+00:00"
+    },
     {
       "title": "한국공학대 총학생회, 보행터널 축소 논의에 반발…시흥시의회에 성명 전달 - 전자신문",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52V1BmVlNXdU5kdDVfU0VTd25keEQtSjBhMm5jaF80MmNaNHAzaUxQNDY5Umx1QVM3dlJtc3hhRzVHMWVVcERJdTBNV1prdw?oc=5",
@@ -15,6 +63,18 @@
       "id": "7a1296eeab0d0f378c4d",
       "category": "인권·갈등",
       "collected_at": "2026-09-15T16:01:59.518600+00:00"
+    },
+    {
+      "title": "무안교육지원청, 학생자치 담당교사 연수로 학교자치 역량 높여 - 톡톡뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wQ0gtN0o2Q25HMFB4aHhVYXpUYUhQWk1DT3AzSHBid2JYaDctV0xZbm1Lc2hIa1RuMGlXRWt0ODI0REs3SnBtMk12T1ZrZloyNTdudnNPWGQ2cmZfSDdadg?oc=5",
+      "summary": "무안교육지원청, 학생자치 담당교사 연수로 학교자치 역량 높여 톡톡뉴스",
+      "source": "톡톡뉴스",
+      "published_at": "2026-09-15T07:46:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "c13563de870c26258c18",
+      "category": "의결·자치",
+      "collected_at": "2026-09-16T15:55:35.260986+00:00"
     },
     {
       "title": "국립목포대 학생자치기구, 불공정 의대 선정심사 규탄 - 아시아뉴스통신",
@@ -41,6 +101,18 @@
       "collected_at": "2026-09-14T17:24:13.437423+00:00"
     },
     {
+      "title": "임기 반환점 돈 총학에 학우들 4.6점 부여, “공약 이행 수준에 아쉬움” - press.ajou.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00SGVlR2M3UjBkcXRUQzVSWUc2d2JpVUl2YWpmZlptdzRTQ0w4VVl3SUtWTGtncUVZZXJyUm95bjZzMmE4eHBtdHlDY1hGV29wQVNxVGhOVl9Oc0x6UlF1Y2FDWWpwLU94MHc?oc=5",
+      "summary": "임기 반환점 돈 총학에 학우들 4.6점 부여, “공약 이행 수준에 아쉬움” press.ajou.ac.kr",
+      "source": "press.ajou.ac.kr",
+      "published_at": "2026-09-14T09:42:01+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "fdc3fb3c4e1f25eaa4a2",
+      "category": "복지·문화",
+      "collected_at": "2026-09-16T15:55:33.536484+00:00"
+    },
+    {
       "title": "목포대 총학생회, 전남권 의대 신설 후보 대학 심사 규탄 - 뉴시스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6UE9rRzlhTVFhQ0pDUlpvWS00SDNHUkZuLWpRSF82RXFlVFdOOG5PcVZIMnpfdnpkTExXdEo0X1BMMktYeTB4NzJ6ckFWM3dTaEtuNjBsWmdCY24zcEo2N1dRUHg1RWNwZE41ZFJpX3FXTUhGMHZwadIBeEFVX3lxTFB6UE9rRzlhTVFhQ0pDUlpvWS00SDNHUkZuLWpRSF82RXFlVFdOOG5PcVZIMnpfdnpkTExXdEo0X1BMMktYeTB4NzJ6ckFWM3dTaEtuNjBsWmdCY24zcEo2N1dRUHg1RWNwZE41ZFJpX3FXTUhGMHZwaQ?oc=5",
       "summary": "목포대 총학생회, 전남권 의대 신설 후보 대학 심사 규탄 뉴시스",
@@ -63,6 +135,18 @@
       "id": "e0a3e4bdef17fc886e9a",
       "category": "인권·갈등",
       "collected_at": "2026-09-14T17:24:13.437492+00:00"
+    },
+    {
+      "title": "목포대 총학생회, 광주청사서 '불공정 국립의대 심사 규탄' 집회 - news1.kr",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HWHIwVmpfb3IzQklwQnhNR0lrSFJEd2hKOWFSdnlqWXRiUU9KWDdILXdrbUV0N1JoSlMwUTRGOUhKaXJ6eGVsbk1MZXM1d2RDSUlLOEVyYUlNS2huRFVj0gFkQVVfeXFMT3JtcHUwZWdYZEFZcFdzN0xrWlF3Um02bHBlS3BsRFJIeXVLT3NqVmlnNnh6V3NIX3VqWk9nQzFQYjNfaV94R3lSMXgwQjBnYm44ZnRMZldFLTdrMFI4NVZ6emsxVQ?oc=5",
+      "summary": "목포대 총학생회, 광주청사서 '불공정 국립의대 심사 규탄' 집회 news1.kr",
+      "source": "news1.kr",
+      "published_at": "2026-09-14T02:57:28+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "9f099a353daa203a6bab",
+      "category": "인권·갈등",
+      "collected_at": "2026-09-16T15:55:33.536522+00:00"
     },
     {
       "title": "목포대 총학생회 \"불공정 전남권 의대 선정 재검토하라\" - 뉴시스",
@@ -113,6 +197,18 @@
       "collected_at": "2026-09-16T02:49:32.702555+00:00"
     },
     {
+      "title": "목포대 총학생회 '특별시, 의대 심사 과정 규탄' - news1.kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SV0pkYXhyQXhsaXhteUszS3hGVkZKaXdGY0xEUWhBWlNmX19ScmVRZnZUSkV1d1dKODlVc3cwX2JfOGJpR2pYdEJPTQ?oc=5",
+      "summary": "목포대 총학생회 '특별시, 의대 심사 과정 규탄' news1.kr",
+      "source": "news1.kr",
+      "published_at": "2026-09-14T02:47:56+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "213e7a5c2b15f6829d35",
+      "category": "기타",
+      "collected_at": "2026-09-16T15:55:33.536646+00:00"
+    },
+    {
       "title": "목포대 총학생회장 '의대 선정 정당성 다시 확보하라' - 뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01NzlLRVlUbjV0cHRWdk1pbmtyQk5rOHUtaTQ1ZE5weEw1ZEJfN1FyNXNra0d3YkYzZzN2X3FwMW9vaWtHWkI3LW1yaw?oc=5",
       "summary": "목포대 총학생회장 '의대 선정 정당성 다시 확보하라' 뉴스1",
@@ -123,6 +219,18 @@
       "id": "7bee10fb303ebe96431d",
       "category": "기타",
       "collected_at": "2026-09-15T02:54:46.736283+00:00"
+    },
+    {
+      "title": "목포대 총학생회장 '의대 선정 정당성 다시 확보하라' - news1.kr",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01NzlLRVlUbjV0cHRWdk1pbmtyQk5rOHUtaTQ1ZE5weEw1ZEJfN1FyNXNra0d3YkYzZzN2X3FwMW9vaWtHWkI3LW1yaw?oc=5",
+      "summary": "목포대 총학생회장 '의대 선정 정당성 다시 확보하라' news1.kr",
+      "source": "news1.kr",
+      "published_at": "2026-09-14T02:47:54+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "5a345bc0b73a436fce1c",
+      "category": "기타",
+      "collected_at": "2026-09-16T15:55:33.536681+00:00"
     },
     {
       "title": "국립목포대 총학생회,14일 광주청사서 '부실·불공정 의대 선정' 궐기대회 개최 - 전자신문",
@@ -4717,6 +4825,18 @@
       "id": "5daf138b0c86c0babbf5",
       "category": "기타",
       "collected_at": "2026-09-13T15:26:34.427981+00:00"
+    },
+    {
+      "title": "한국대학총학생회공동포럼 소속 대표자들이 17일 오후... - OhmyNews",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1raFZwQ1Z4REpxMGpXQ2VRR1gyUHdXZVpvREt1Q3RrS2Rsd0pXYkpfUjlqYk9ZcnpTZVB1cVNJTGRMdGFWWWExdTVaTUU0V21GTGFOQ0JlWWZkaE5vVXljSGd2WFR5WWI2a1p1TmI5Z1hXc0wzd3dNbQ?oc=5",
+      "summary": "한국대학총학생회공동포럼 소속 대표자들이 17일 오후... OhmyNews",
+      "source": "OhmyNews",
+      "published_at": "2026-06-17T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "b2b1e555df75ac2be3a0",
+      "category": "기타",
+      "collected_at": "2026-09-16T15:55:36.968112+00:00"
     },
     {
       "title": "전국 대학 전·현직 총학생회장, 투표지 부족 사태 간담회 - 서울일보",
