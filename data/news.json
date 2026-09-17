@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-09-17T00:56:05.443003+09:00",
-  "item_count": 1010,
+  "updated_at": "2026-09-17T11:54:15.648163+09:00",
+  "item_count": 1016,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "진주시, ‘혁신도시 완성’릴레이 1인 시위... 경상국립대 총학생회 동참 - 포인트경남",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFV0VvTE15T00yZWFWamRLUVhCS29QZ05qUmdWWHR2MTFFNTUwc1pseEhRNkZXb244bkRaYU5MMHFRejNkOVd4RXNqdXNSNm53ajV1Wi03SDBkbEpaNXBZY1ppaEhyQk1DLWZ6OHZSWlA?oc=5",
+      "summary": "진주시, ‘혁신도시 완성’릴레이 1인 시위... 경상국립대 총학생회 동참 포인트경남",
+      "source": "포인트경남",
+      "published_at": "2026-09-17T02:01:32+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "77e5f0a494efc3c95e8d",
+      "category": "기타",
+      "collected_at": "2026-09-17T02:53:41.465180+00:00"
+    },
+    {
+      "title": "총학생회와 학생진로취업처, 변증법적 결합을 말하다! - jejusori.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12MlotX1NtRTJMVUNlaS1rUVpfMXZibUxJZTZEZXFzZ3BDY0ZnOGxMMWJNc2lZM2ZpbFVFQjVPU0pnT2tnTGZqbTZhVm5hUHVMRkdtZFZ0NE5JUnZUeHJvYzIyLXdOemdaT1pB?oc=5",
+      "summary": "총학생회와 학생진로취업처, 변증법적 결합을 말하다! jejusori.net",
+      "source": "jejusori.net",
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "0c852a3ef66df284453c",
+      "category": "기타",
+      "collected_at": "2026-09-17T02:53:41.465134+00:00"
+    },
     {
       "title": "호서대 총학생회, 경찰과 불법촬영 예방 합동점검… 천안·아산캠퍼스 화장실 점검 - 스포트라이트유",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNZ2liM1d4TS1hMWVGRTlZU0RwTWpTd09JVFNJVU04elI0YVF5bEVlWjdia1lQV2QyWlhUQ1hFMXNoTDRib2JzU3lCb3FEcjNLWGRWZ181WWFXb1BVVl9yei1MNkdqTWs4MVZrVWl4SlFoSkhBR1B2MkM3VnVVVU9pWE1vWXJJZXRSVC1yYlhCa2hzQUloR09yX1ExSmpoeGYxd3hsRWdudkpkOGhfVml5azZGemo2OHJkaWJYR3BmaGRkalE5aFBrMDlDTlp3cl9zZDhsSnF6UDFIWmxSZmJQTGMzSnZKWHMyOTJyWEVtcGtlUjVIeGhXN2VIbVNaRmNPNld3OFJUb2dINEVMZXhqelMweThrLW5HVDlaR1hFYmNVOER6SWt1YXZSRW9ZMlhEdFZER2EzT0s0VC1l?oc=5",
@@ -125,6 +149,18 @@
       "collected_at": "2026-09-14T17:24:13.437799+00:00"
     },
     {
+      "title": "목포대 총학생회, 전남권 의대 신설 후보 대학 심사 규탄 - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6UE9rRzlhTVFhQ0pDUlpvWS00SDNHUkZuLWpRSF82RXFlVFdOOG5PcVZIMnpfdnpkTExXdEo0X1BMMktYeTB4NzJ6ckFWM3dTaEtuNjBsWmdCY24zcEo2N1dRUHg1RWNwZE41ZFJpX3FXTUhGMHZwadIBeEFVX3lxTFB6UE9rRzlhTVFhQ0pDUlpvWS00SDNHUkZuLWpRSF82RXFlVFdOOG5PcVZIMnpfdnpkTExXdEo0X1BMMktYeTB4NzJ6ckFWM3dTaEtuNjBsWmdCY24zcEo2N1dRUHg1RWNwZE41ZFJpX3FXTUhGMHZwaQ?oc=5",
+      "summary": "목포대 총학생회, 전남권 의대 신설 후보 대학 심사 규탄 newsis.com",
+      "source": "newsis.com",
+      "published_at": "2026-09-14T03:01:03+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "c87cc4d4ed61ea406386",
+      "category": "선거·조직",
+      "collected_at": "2026-09-17T02:53:41.465486+00:00"
+    },
+    {
       "title": "목포대 총학생회, 광주청사서 '불공정 국립의대 심사 규탄' 집회 - 뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ybXB1MGVnWGRBWXBXczdMa1pRd1JtNmxwZUtwbERSSHl1S09zalZpZzZ4eldzSF91alpPZ0MxUGIzX2lfeEd5UjF4MEIwZ2JuOGZ0TGZXRS03azBSODVWenprMVXSAWRBVV95cUxPcm1wdTBlZ1hkQVlwV3M3TGtaUXdSbTZscGVLcGxEUkh5dUtPc2pWaWc2eHpXc0hfdWpaT2dDMVBiM19pX3hHeVIxeDBCMGdibjhmdExmV0UtN2swUjg1Vnp6azFV?oc=5",
       "summary": "목포대 총학생회, 광주청사서 '불공정 국립의대 심사 규탄' 집회 뉴스1",
@@ -161,6 +197,18 @@
       "collected_at": "2026-09-14T17:24:13.437537+00:00"
     },
     {
+      "title": "목포대 총학생회 \"불공정 전남권 의대 선정 재검토하라\" - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8ydjVmVnVoWXc2Z3lGSUNyNUhRVW9XQmhtUXphcnR4VjBWS0hVR0RXZGN4RS1yWVRYZU4xZWF4ZUdsQUtiTVdzUHNpZVhJVERRbHgwU0Z5R20wRFRlODFlc3RFbVdETVZxNjZXa19oOWZCMUxyZi1WTNIBeEFVX3lxTE8ydjVmVnVoWXc2Z3lGSUNyNUhRVW9XQmhtUXphcnR4VjBWS0hVR0RXZGN4RS1yWVRYZU4xZWF4ZUdsQUtiTVdzUHNpZVhJVERRbHgwU0Z5R20wRFRlODFlc3RFbVdETVZxNjZXa19oOWZCMUxyZi1WTA?oc=5",
+      "summary": "목포대 총학생회 \"불공정 전남권 의대 선정 재검토하라\" newsis.com",
+      "source": "newsis.com",
+      "published_at": "2026-09-14T02:56:27+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b603d204ba8bf81f6384",
+      "category": "기타",
+      "collected_at": "2026-09-17T02:53:41.465352+00:00"
+    },
+    {
       "title": "목포대 총학생회, 의대 신설 불공정 심사 규탄 대회 - 뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LWjVpMEVYdEpORjZqRUVqUzV1bjVMN0dsM0xoa1ZmanBVMFhlM2kta2U0S1JKb1NUTHJfeXd0OEl4UU16bzZwRG5VNXJSNHprYl9TMTdfdFA2OHotMXk4RA?oc=5",
       "summary": "목포대 총학생회, 의대 신설 불공정 심사 규탄 대회 뉴시스",
@@ -183,6 +231,18 @@
       "id": "afb2a2fd84ea038f45e9",
       "category": "기타",
       "collected_at": "2026-09-14T17:24:13.438115+00:00"
+    },
+    {
+      "title": "목포대 총학생회, 의대 신설 불공정 심사 규탄 대회 - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LWjVpMEVYdEpORjZqRUVqUzV1bjVMN0dsM0xoa1ZmanBVMFhlM2kta2U0S1JKb1NUTHJfeXd0OEl4UU16bzZwRG5VNXJSNHprYl9TMTdfdFA2OHotMXk4RA?oc=5",
+      "summary": "목포대 총학생회, 의대 신설 불공정 심사 규탄 대회 newsis.com",
+      "source": "newsis.com",
+      "published_at": "2026-09-14T02:56:05+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "dadfc4435529c908aa35",
+      "category": "기타",
+      "collected_at": "2026-09-17T02:53:41.465528+00:00"
     },
     {
       "title": "목포대 총학생회 '특별시, 의대 심사 과정 규탄' - 뉴스1",
@@ -483,6 +543,18 @@
       "id": "673dbbe6cea0bd101329",
       "category": "복지·문화",
       "collected_at": "2026-09-15T02:54:55.307608+00:00"
+    },
+    {
+      "title": "울산과학대, 2022학년도 학생자치단체 출범식·신입생 환영회 개최 - 한국대학신문",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4NjhBaDZmUkptandzM1ppckY5ekFTLVpReFFTZGRjb2w1Y2VQbnJxU3dYc3VjUkltTTdLeUg4Znh6RTRtOWhVTEZQbm1fLTBjTkdXa2ZqVmlQS1d0T0Q2akNFVkM0QQ?oc=5",
+      "summary": "울산과학대, 2022학년도 학생자치단체 출범식·신입생 환영회 개최 한국대학신문",
+      "source": "한국대학신문",
+      "published_at": "2026-09-08T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "bff467165191ed2bc2c9",
+      "category": "의결·자치",
+      "collected_at": "2026-09-17T02:53:43.069348+00:00"
     },
     {
       "title": "한밭대와는 무산됐는데···충남대, 공주대 통합 성사될까",
