@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-09-18T11:40:41.313331+09:00",
-  "item_count": 1023,
+  "updated_at": "2026-09-19T00:37:30.960372+09:00",
+  "item_count": 1027,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "진주시, ‘혁신도시 완성’ 릴레이 1인 시위... 경상국립대 총학생회 동참 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IWklONmdIcGN6LXVCbVFob1JYSElfT3Q2ZUZ2WmlPT3dYa3FjSW9qWEkzMFQySVhKRWVSdG5Sa0pRTldKTnhMUExjWDh3Sm13X3hUVlIwVWcxNmt1U0lqOThn?oc=5",
+      "summary": "진주시, ‘혁신도시 완성’ 릴레이 1인 시위... 경상국립대 총학생회 동참 아시아뉴스통신",
+      "source": "아시아뉴스통신",
+      "published_at": "2026-09-18T03:49:23+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d6b89a39568a44203de7",
+      "category": "기타",
+      "collected_at": "2026-09-18T15:36:56.954796+00:00"
+    },
     {
       "title": "진주시, ‘혁신도시 완성’릴레이 1인 시위... 경상국립대 총학생회 동참 - 포인트경남",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFV0VvTE15T00yZWFWamRLUVhCS29QZ05qUmdWWHR2MTFFNTUwc1pseEhRNkZXb244bkRaYU5MMHFRejNkOVd4RXNqdXNSNm53ajV1Wi03SDBkbEpaNXBZY1ppaEhyQk1DLWZ6OHZSWlA?oc=5",
@@ -2199,6 +2211,18 @@
       "id": "209a26a6af47755c8261",
       "category": "기타",
       "collected_at": "2026-09-13T15:26:40.378765+00:00"
+    },
+    {
+      "title": "시립대 총학생회장 출신 최동민 동대문구청장 3개 대학 총학과 청년정책 ‘현장 소통’ 강화 - biz.heraldcorp.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XQmFhbzZVTUNBWFlOY2xEdVcyT3QwcFNUUHhmNVlTdlFzVlRfbWRKZnAzbzN0Rk1sbkRONjRLRm8zc3JtR1ZIYmt2QUZaRWN5UzJYbExR?oc=5",
+      "summary": "시립대 총학생회장 출신 최동민 동대문구청장 3개 대학 총학과 청년정책 ‘현장 소통’ 강화 biz.heraldcorp.com",
+      "source": "biz.heraldcorp.com",
+      "published_at": "2026-08-11T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d894458620fcc94af573",
+      "category": "기타",
+      "collected_at": "2026-09-18T15:36:56.955236+00:00"
     },
     {
       "title": "동대문구, 관내 3개 대학 총학생회와 청년 정책 협약 - 네이트",
@@ -9261,6 +9285,18 @@
       "collected_at": "2026-08-02T07:55:06.143891+00:00"
     },
     {
+      "title": "9개 선본 입후보, 재선거 앞두고 2026학년도 학생자치기구 선거공청회 개최 - 서울시립대신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5waVlWcG5ONl95Mnhqd2tHWjVMTU5KajlKQkloaVlxQktRcEh4NHdXMERLV1FueXRuejFBbnNqYkx4UEs4dmlQSDVLNHhrRHMzTXNzbVdnMDNRSlp2RUlfMTN4S1ZRdVdy?oc=5",
+      "summary": "9개 선본 입후보, 재선거 앞두고 2026학년도 학생자치기구 선거공청회 개최 서울시립대신문",
+      "source": "서울시립대신문",
+      "published_at": "2026-03-24T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "35167f366f7aa1617367",
+      "category": "선거·조직",
+      "collected_at": "2026-09-18T15:36:58.632656+00:00"
+    },
+    {
       "title": "등록금 오르는데 학생 목소리는 작다… “‘등심위’ 불균형 해소해야” - 한국대학신문",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SRzZDWHRSdkdzQkJJbTVRMXFUbVE2VkRpYURJVjdINFZTOXRtZEhmazV5UHRfdklBWjVLOUhNNkh0R3BGcDlCa2p3OVROLXBuZlJoSzd1XzYxMU51aUZqZXV5SUNBUQ?oc=5",
       "summary": "등록금 오르는데 학생 목소리는 작다… “‘등심위’ 불균형 해소해야” 한국대학신문",
@@ -11806,6 +11842,18 @@
       "id": "594e2b6f960c486d38e8",
       "category": "재정·감사",
       "collected_at": "2026-09-18T02:40:15.715622+00:00"
+    },
+    {
+      "title": "학생회비 횡령 혐의 인하대 전 학생 자치 기구 간부 징역형 집유 - incheonilbo.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fekZmdEwxd09ueWlYRHhVcWJXUnNxUDhid09wLUJXMnBWTDUzMk9nUV9RdGprNHZUeTRvazdBZDk2TFl3VTIweTlHLVlVS21ZNWIzRWhlWDZHdHE3UW5RaVpqR2VaaFVRNm8zZUJ1cGQ?oc=5",
+      "summary": "학생회비 횡령 혐의 인하대 전 학생 자치 기구 간부 징역형 집유 incheonilbo.com",
+      "source": "incheonilbo.com",
+      "published_at": "2025-10-30T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "5a0863c7f8667f776eed",
+      "category": "재정·감사",
+      "collected_at": "2026-09-18T15:36:58.632844+00:00"
     },
     {
       "title": "서울대 총학 입후보자 부재로 선거 무산 - 문화일보",
