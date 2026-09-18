@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T01:02:23.780733+09:00",
-  "item_count": 1021,
+  "updated_at": "2026-09-18T11:40:41.313331+09:00",
+  "item_count": 1023,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -8689,6 +8689,18 @@
       "collected_at": "2026-09-10T15:39:25.441101+00:00"
     },
     {
+      "title": "국립군산대, 학생자치기구 출범식·동아리 박람회 개최 - inews24.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45QVRRajNNRHRYeGJwYXc3XzlQVXRlWGs2eWY4U1RCR2xhWENPdV9LZkk1emRtTlRQMVd3dG55SVMtNzlxaEhrMUFiQkQ?oc=5",
+      "summary": "국립군산대, 학생자치기구 출범식·동아리 박람회 개최 inews24.com",
+      "source": "inews24.com",
+      "published_at": "2026-04-09T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "32bf817bc301856579e0",
+      "category": "의결·자치",
+      "collected_at": "2026-09-18T02:40:15.715208+00:00"
+    },
+    {
       "title": "한국외국어대학교 서울캠퍼스 제60대 총학생회장단 재선거 개표… 선거운동본부 '선명' 당선 - 대학알리",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Cd0JkODR3NjhyTEpiMkU5ZUNTdkZ4X09uaUZoRjMwbkVCRlJVRVdydjFHek1FdkNCbXdNQ2pUa2hKWHZLZDJuM0IxblIyaXl0SW04NFlxUVNUNVVhenp4Rw?oc=5",
       "summary": "한국외국어대학교 서울캠퍼스 제60대 총학생회장단 재선거 개표… 선거운동본부 '선명' 당선 대학알리",
@@ -11782,6 +11794,18 @@
       "id": "c426488a503498797dfa",
       "category": "의결·자치",
       "collected_at": "2026-09-06T02:22:55.722135+00:00"
+    },
+    {
+      "title": "학생회비 횡령 혐의 인하대 전 학생 자치 기구 간부 징역형 집유 - 인천일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fekZmdEwxd09ueWlYRHhVcWJXUnNxUDhid09wLUJXMnBWTDUzMk9nUV9RdGprNHZUeTRvazdBZDk2TFl3VTIweTlHLVlVS21ZNWIzRWhlWDZHdHE3UW5RaVpqR2VaaFVRNm8zZUJ1cGQ?oc=5",
+      "summary": "학생회비 횡령 혐의 인하대 전 학생 자치 기구 간부 징역형 집유 인천일보",
+      "source": "인천일보",
+      "published_at": "2025-10-30T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "594e2b6f960c486d38e8",
+      "category": "재정·감사",
+      "collected_at": "2026-09-18T02:40:15.715622+00:00"
     },
     {
       "title": "서울대 총학 입후보자 부재로 선거 무산 - 문화일보",
