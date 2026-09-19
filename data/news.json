@@ -1,9 +1,45 @@
 {
-  "updated_at": "2026-09-19T00:37:30.960372+09:00",
-  "item_count": 1027,
+  "updated_at": "2026-09-19T11:39:51.940521+09:00",
+  "item_count": 1030,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "총학생회비 사용 심의하지만 … 명확한 기준 없어 선례에 기대는 예결특위 - kunews.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zQndHRENlNmFLdWcxWTZCY3RtR2xYVFY3TDNWNkJ0RzkwUmFVU3Rjb1M3cHJYWXdEekVsYWdXanc1WWFBZVNsbGw3ZHAxUEJ6QUw2cnQ5cmZnWWZKVWNrRmZnODBkejlkS1E?oc=5",
+      "summary": "총학생회비 사용 심의하지만 … 명확한 기준 없어 선례에 기대는 예결특위 kunews.ac.kr",
+      "source": "kunews.ac.kr",
+      "published_at": "2026-09-18T20:30:11+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8332b48fe46d79d1608d",
+      "category": "재정·감사",
+      "collected_at": "2026-09-19T02:39:18.019733+00:00"
+    },
+    {
+      "title": "[뉴스] 자유전공학부, 9월 보궐선거 학생회 구성돼도 중운위 참여는 미정 - 경희대학교 미디어센터",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRT0NZUFlJYm9QM1V1WHFnUWtKa1BBZXh2eEtHWnJaZk10QVN4LVpfbkdUVGdXMkt0Y3FtUXdvZHJkejYyellYTXg5MXlmQjNMYzhxZk9ybk5iYmtkbmxxMG5jSEVtZjRzcXp1RG5qMXREQVFjc1E?oc=5",
+      "summary": "[뉴스] 자유전공학부, 9월 보궐선거 학생회 구성돼도 중운위 참여는 미정 경희대학교 미디어센터",
+      "source": "경희대학교 미디어센터",
+      "published_at": "2026-09-18T18:09:35+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "1e94c953fa24f89cb6d5",
+      "category": "선거·조직",
+      "collected_at": "2026-09-19T02:39:18.019777+00:00"
+    },
+    {
+      "title": "[현장취재]충남대학교 총동창회, 총학생회와 2만 학우에게 호소문 발표 - 중도일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YNmhocWN6dkRSODJBdV9ETW80eDNuellyZFBpeGgta05DWUJSV2x1RU5oS3NCVkxadkVhdW9MZktYaDZUMFNjR25kNzZtaTktNTc5Tk5FdzY2XzAzSTNDaTI0NEw?oc=5",
+      "summary": "[현장취재]충남대학교 총동창회, 총학생회와 2만 학우에게 호소문 발표 중도일보",
+      "source": "중도일보",
+      "published_at": "2026-09-18T15:32:54+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "18424e9fd16c25e1a724",
+      "category": "기타",
+      "collected_at": "2026-09-19T02:39:18.019803+00:00"
+    },
     {
       "title": "진주시, ‘혁신도시 완성’ 릴레이 1인 시위... 경상국립대 총학생회 동참 - 아시아뉴스통신",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IWklONmdIcGN6LXVCbVFob1JYSElfT3Q2ZUZ2WmlPT3dYa3FjSW9qWEkzMFQySVhKRWVSdG5Sa0pRTldKTnhMUExjWDh3Sm13X3hUVlIwVWcxNmt1U0lqOThn?oc=5",
