@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T00:10:41.291143+09:00",
-  "item_count": 1032,
+  "updated_at": "2026-09-20T11:51:59.589482+09:00",
+  "item_count": 1038,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -51,6 +51,18 @@
       "id": "18424e9fd16c25e1a724",
       "category": "기타",
       "collected_at": "2026-09-19T02:39:18.019803+00:00"
+    },
+    {
+      "title": "[현장취재]충남대학교 총동창회, 총학생회와 2만 학우에게 호소문 발표 - joongdo.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YNmhocWN6dkRSODJBdV9ETW80eDNuellyZFBpeGgta05DWUJSV2x1RU5oS3NCVkxadkVhdW9MZktYaDZUMFNjR25kNzZtaTktNTc5Tk5FdzY2XzAzSTNDaTI0NEw?oc=5",
+      "summary": "[현장취재]충남대학교 총동창회, 총학생회와 2만 학우에게 호소문 발표 joongdo.co.kr",
+      "source": "joongdo.co.kr",
+      "published_at": "2026-09-18T15:32:54+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "fdc2d595d8f5914925d8",
+      "category": "기타",
+      "collected_at": "2026-09-20T02:51:28.013930+00:00"
     },
     {
       "title": "진주시, ‘혁신도시 완성’ 릴레이 1인 시위... 경상국립대 총학생회 동참 - 아시아뉴스통신",
@@ -279,6 +291,18 @@
       "id": "9f099a353daa203a6bab",
       "category": "인권·갈등",
       "collected_at": "2026-09-16T15:55:33.536522+00:00"
+    },
+    {
+      "title": "목포대 총학생회 \"불공정 전남권 의대 선정 재검토하라\" - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jUEFYUkVvcHBhdi1uV3luZ040ZGt0aC1QLURTNVI2cXE3X0xObmdqblYzNGZ4ZVRlck5nQUp3SHYyM3Z0WjlQY1V0WjBWQnVVYmxOdldLb0N2Zw?oc=5",
+      "summary": "목포대 총학생회 \"불공정 전남권 의대 선정 재검토하라\" 파이낸셜뉴스",
+      "source": "파이낸셜뉴스",
+      "published_at": "2026-09-14T02:57:04+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e57f43e5c1ebc2d6d8a0",
+      "category": "기타",
+      "collected_at": "2026-09-20T02:51:28.015085+00:00"
     },
     {
       "title": "목포대 총학생회 \"불공정 전남권 의대 선정 재검토하라\" - 뉴시스",
@@ -651,6 +675,18 @@
       "id": "bff467165191ed2bc2c9",
       "category": "의결·자치",
       "collected_at": "2026-09-17T02:53:43.069348+00:00"
+    },
+    {
+      "title": "울산과학대, 2022학년도 학생자치단체 출범식·신입생 환영회 개최 - news.unn.net",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4NjhBaDZmUkptandzM1ppckY5ekFTLVpReFFTZGRjb2w1Y2VQbnJxU3dYc3VjUkltTTdLeUg4Znh6RTRtOWhVTEZQbm1fLTBjTkdXa2ZqVmlQS1d0T0Q2akNFVkM0QQ?oc=5",
+      "summary": "울산과학대, 2022학년도 학생자치단체 출범식·신입생 환영회 개최 news.unn.net",
+      "source": "news.unn.net",
+      "published_at": "2026-09-08T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "c7463aebee66e9566928",
+      "category": "의결·자치",
+      "collected_at": "2026-09-20T02:51:29.717410+00:00"
     },
     {
       "title": "한밭대와는 무산됐는데···충남대, 공주대 통합 성사될까",
@@ -1251,6 +1287,18 @@
       "id": "75b3dfbe5b32556d38d3",
       "category": "기타",
       "collected_at": "2026-09-15T16:01:59.518909+00:00"
+    },
+    {
+      "title": "총학생회장단 만난 박홍근 \"청년 성장단계별 종합투자 추진\" - koreancenter.or.kr",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85anNWX1NrQWUxLUdvY05pN3g5cXBQRmFwTUw2cm9TeGxod25WQkMxNmdQMnZ6RXptQmlFOVpGVXFZVmpaTEpDaXNXWURKbE56eGlPSjFjdDdYMmwwN3RfYjRVNk1VNHgwbF9EVko4YVdfUVNX?oc=5",
+      "summary": "총학생회장단 만난 박홍근 \"청년 성장단계별 종합투자 추진\" koreancenter.or.kr",
+      "source": "koreancenter.or.kr",
+      "published_at": "2026-09-03T09:00:07+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b885f4a4a425644c69ca",
+      "category": "기타",
+      "collected_at": "2026-09-20T02:51:28.014733+00:00"
     },
     {
       "title": "총학생회장단 만난 박홍근 ＂청년 성장단계별 종합투자 추진＂ - 한국경제TV",
@@ -9333,6 +9381,18 @@
       "collected_at": "2026-09-02T15:47:05.230352+00:00"
     },
     {
+      "title": "[속보] 2026년 학생회 보궐선거, 총학생회 선본 'AU:SUM' 당선 - press.ajou.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52aEZaNVAwTEJyQTNkd3JNalY2cUlZYzZZWHdvbDJSaTYyWUc1Ql83TXNza1ZTZUtKWWlKc2dPc296dllsLUFrd0pwMTJfRnI1MTU5VnNLMUppaFBzTGpDbC1HS3BoMVpRYWc?oc=5",
+      "summary": "[속보] 2026년 학생회 보궐선거, 총학생회 선본 'AU:SUM' 당선 press.ajou.ac.kr",
+      "source": "press.ajou.ac.kr",
+      "published_at": "2026-03-26T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e1429f177757cf1b4229",
+      "category": "선거·조직",
+      "collected_at": "2026-09-20T02:51:28.015935+00:00"
+    },
+    {
       "title": "'공학 반대' 동덕여대 래커칠한 총학생회장 등 11명 재판행 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CbDl6a0FKR01FTGtnc3VjeWEtc29FNDBnNFNZUXlMUjlRRFpWSjBXcGo5S0pJZG41eTZuNXM1am45X3lGUWM1WEFJeXpna00?oc=5",
       "summary": "'공학 반대' 동덕여대 래커칠한 총학생회장 등 11명 재판행 v.daum.net",
@@ -11375,6 +11435,18 @@
       "id": "07bf195f0ac2b29fde26",
       "category": "복지·문화",
       "collected_at": "2026-08-01T17:27:38.659881+00:00"
+    },
+    {
+      "title": "2025년도 2학기 총학생회 공약 이행 평가 (전체 21개 공약 중 이행 10개, 진행 중 6개, 불이행 5개) - press.ajou.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xejhTZ2dRNGl5MXhsQnNYcjF2aEtWYXAyaDVDamhEWjdudHhzQXRDWEYtZzFtSjR2ajRmby1Id09GZnlSVHVfbDRIa3I4dHRxUEVhaHU1RUptR0szQzdwNER4LUUtSl9abUE?oc=5",
+      "summary": "2025년도 2학기 총학생회 공약 이행 평가 (전체 21개 공약 중 이행 10개, 진행 중 6개, 불이행 5개) press.ajou.ac.kr",
+      "source": "press.ajou.ac.kr",
+      "published_at": "2025-12-03T08:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "5e8d03f78e822bb5bb82",
+      "category": "복지·문화",
+      "collected_at": "2026-09-20T02:51:36.096732+00:00"
     },
     {
       "title": "2026 한밭대 학생자치, 새 얼굴들이 캠퍼스를 다시 움직인다 - 충청일보",
