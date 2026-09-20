@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-09-20T11:51:59.589482+09:00",
-  "item_count": 1038,
+  "updated_at": "2026-09-21T00:15:04.749457+09:00",
+  "item_count": 1043,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "한국건강관리협회 강원특별자치도지부, 한림성심대학교 총학생회와 대학생 건강증진 위한 업무협약 체결 - gwbiz.kr",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFA4cG9IYWcwWGdoNG1xVkNsb1JnLTkwS3FmdEJhSGZNRXJ3RzkyWmRiQWNSRlJqLXNGdkh1ZTB3?oc=5",
+      "summary": "한국건강관리협회 강원특별자치도지부, 한림성심대학교 총학생회와 대학생 건강증진 위한 업무협약 체결 gwbiz.kr",
+      "source": "gwbiz.kr",
+      "published_at": "2026-09-19T22:02:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "a4deb827cebd542519b3",
+      "category": "기타",
+      "collected_at": "2026-09-20T15:14:31.477895+00:00"
+    },
     {
       "title": "총학생회비 사용 심의하지만 … 명확한 기준 없어 선례에 기대는 예결특위 - kunews.ac.kr",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zQndHRENlNmFLdWcxWTZCY3RtR2xYVFY3TDNWNkJ0RzkwUmFVU3Rjb1M3cHJYWXdEekVsYWdXanc1WWFBZVNsbGw3ZHAxUEJ6QUw2cnQ5cmZnWWZKVWNrRmZnODBkejlkS1E?oc=5",
@@ -665,6 +677,18 @@
       "collected_at": "2026-09-15T02:54:55.307608+00:00"
     },
     {
+      "title": "호원대 제41대 여울 총학생회, 18~19일 대동제 ‘HOWON IN THE FOREST’ 개최 - todaygunsan.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIMEtmdlJBT3JaV3VSbkljMVE0VF9WYkluU3N6Sy1aaloxcEh4TXNaVjB5bXQ2NjlrY0tfT0pZVUVNdGpjV0xSYkZwRUdQQ1BOTW9FTzFOQjVhTlJQaHdHRjcza0NwMzlVdWc4?oc=5",
+      "summary": "호원대 제41대 여울 총학생회, 18~19일 대동제 ‘HOWON IN THE FOREST’ 개최 todaygunsan.co.kr",
+      "source": "todaygunsan.co.kr",
+      "published_at": "2026-09-09T02:32:06+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "0c4c46dd9a9b59ca974d",
+      "category": "복지·문화",
+      "collected_at": "2026-09-20T15:14:39.930577+00:00"
+    },
+    {
       "title": "울산과학대, 2022학년도 학생자치단체 출범식·신입생 환영회 개최 - 한국대학신문",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4NjhBaDZmUkptandzM1ppckY5ekFTLVpReFFTZGRjb2w1Y2VQbnJxU3dYc3VjUkltTTdLeUg4Znh6RTRtOWhVTEZQbm1fLTBjTkdXa2ZqVmlQS1d0T0Q2akNFVkM0QQ?oc=5",
       "summary": "울산과학대, 2022학년도 학생자치단체 출범식·신입생 환영회 개최 한국대학신문",
@@ -1323,6 +1347,18 @@
       "id": "6dea5b005fed04c2a980",
       "category": "기타",
       "collected_at": "2026-09-14T02:51:34.325843+00:00"
+    },
+    {
+      "title": "목포대 총학생회 \"의과대 밀실 평가·정치적 무책임 규탄\" - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlMUdTU3JENE1JNW1zM0xTNk1RRDBISjgxdl9LMGE0UWc2bEtNUXNFZHE3Y0UtbjU5RU9Id0F4bjYtR1Y2eVZWY0pncTdoa1ZJWFFuN29IaGtaVzZNR0RDRFB5aHF6NkxzMFI1R1dyRUYyZWpKQ19DSdIBeEFVX3lxTFBlMUdTU3JENE1JNW1zM0xTNk1RRDBISjgxdl9LMGE0UWc2bEtNUXNFZHE3Y0UtbjU5RU9Id0F4bjYtR1Y2eVZWY0pncTdoa1ZJWFFuN29IaGtaVzZNR0RDRFB5aHF6NkxzMFI1R1dyRUYyZWpKQ19DSQ?oc=5",
+      "summary": "목포대 총학생회 \"의과대 밀실 평가·정치적 무책임 규탄\" newsis.com",
+      "source": "newsis.com",
+      "published_at": "2026-09-02T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "1237f5da38a400ddd386",
+      "category": "기타",
+      "collected_at": "2026-09-20T15:14:31.478426+00:00"
     },
     {
       "title": "\"밀실 평가·정치적 무책임 규탄\"…목포대 총학 의대 신설 탈락 입장 발표 - news.nate.com",
@@ -10632,6 +10668,18 @@
       "collected_at": "2026-08-30T15:51:12.972603+00:00"
     },
     {
+      "title": "총학 공동행동 \"등록금 인상, 두쫀쿠 몇 개 안 사먹는 걸로 치부 말라\" - newsis.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JY1RlbUZMQTJJeGhfRURKOEFOOGUzZHQ1eVl1dDN5eG42cXQydFpIODh6Tzg5eW1hNjFZSzBXWkoxN0M0Wk1hc3E4YUtjeEsyRk55WWZQSnJyX3ZJQ0Zrc9IBeEFVX3lxTE40VXdELVJ6S3dKcTFrOF9wZF82SGJCem1fbzgyYnh1UjVVUy1RdkRPS25PREJLVGFtaHdFWjJPZlcyb3BPNFV5N3R2dTVqSzA4OHlsRHUwQlByWEFJUHc5TjNJUEhyT0VjY3pVRjVZZks3eUVtc2N1bQ?oc=5",
+      "summary": "총학 공동행동 \"등록금 인상, 두쫀쿠 몇 개 안 사먹는 걸로 치부 말라\" newsis.com",
+      "source": "newsis.com",
+      "published_at": "2026-01-20T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "07a3724b36ac2ad46420",
+      "category": "등록금·교육",
+      "collected_at": "2026-09-20T15:14:36.541022+00:00"
+    },
+    {
       "title": "5% 올리고 3% 또?...한국외대 총학생회 \"학교는 등록금 갑질 인상 멈춰라\" - 더에듀",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvUXk0V1gtSkNyQnplWFlGenlYSXlXNXViYUJRTHJwYmJHeEtKVzVtWGVsZk1JdzRPMGpNZFF5X3gwd1hHSVB4eThqaW5kSVRoOGdCY3VXTm9CdlU?oc=5",
       "summary": "5% 올리고 3% 또?...한국외대 총학생회 \"학교는 등록금 갑질 인상 멈춰라\" 더에듀",
@@ -10817,6 +10865,18 @@
       "id": "4f7d4977f84734639057",
       "category": "등록금·교육",
       "collected_at": "2026-08-08T14:05:39.259078+00:00"
+    },
+    {
+      "title": "[에듀플러스]한국사립대학총장협의회-전국총학생협의회, 등록금·고등교육 재정 놓고 간담회 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zTHozbXYxc05yUE5rRHdMZU5zYll2R01NMHc0MDJyN3N3UmRLdG15d2h5MzJNUTJGMERWcjRoMjdBaWRZQmVoX1ljSVRmUQ?oc=5",
+      "summary": "[에듀플러스]한국사립대학총장협의회-전국총학생협의회, 등록금·고등교육 재정 놓고 간담회 전자신문",
+      "source": "전자신문",
+      "published_at": "2026-01-16T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "357fe782a41af037609b",
+      "category": "등록금·교육",
+      "collected_at": "2026-09-20T15:14:36.540853+00:00"
     },
     {
       "title": "총학생회협의회, 사립대協에 \"일방적 등록금 인상\" 문제 제기 - 연합뉴스",
