@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-09-21T00:15:04.749457+09:00",
-  "item_count": 1043,
+  "updated_at": "2026-09-21T11:49:11.160625+09:00",
+  "item_count": 1048,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "‘헌혈 고연전’ 아시나요…양교 ‘나눔 경쟁’ 누가 이겼을까?",
+      "url": "https://www.donga.com/news/Culture/article/all/20260921/134700348/1",
+      "summary": "다음 달 2, 3일 안암골 호랑이와 신촌골 독수리가 뜨겁게 맞붙는 정기 고연전(연고전)이 열린다. 100년이 넘게 이어온 이 행사는 일제강점기인 1925년 5월 제5회 전조선 정구대회에서 양교의 전신인 보성전문과 연희전문이 첫 맞대결을 펼친데서 유래했다. 광복 전까지는 연식정구와 축구로 겨루는 비정기적 행사였으나 광복 후 두 학교가 대학으로 승격하면서 ‘고연전’으로 명칭이 바뀌었고, 1956년 정식으로 1회 대회를 치르면서 정기전이 됐다. 야구, 농구, 아이스하키, 축구, 럭비 등 5종목에서 벌어지는 경기와 응원전은 젊음의 뜨거움 그 자체. 하지만 진짜 ‘피 튀기는’ 양교의 경쟁은 따로 있다. 1일부터 정기전이 시작하는 다음 달 2일까지 한 달간 열리는 ‘제5회 헌혈 정기전(고연제)’이다.두 학교의 ‘헌혈 정기전’은 2022년 가을 정기전을 앞두고 양교 총학생회가 대한적십자사를 찾아 헌혈 행사 개최를 제안하면서 시작됐다. 당시는 몇 년간의 신종 코로나바이러스 감염증(코로나19) 여파",
+      "source": "동아일보",
+      "published_at": "2026-09-21T01:56:00+00:00",
+      "matched_query": "",
+      "feed": "동아일보",
+      "id": "19a71030481bd52a3989",
+      "category": "기타",
+      "collected_at": "2026-09-21T02:49:07.679862+00:00"
+    },
+    {
+      "title": "한국건강관리협회 강원특별자치도지부와 한림성심대 총학생회, 18일 대학생 건강증진 위한 업무협약 체결 - 강원일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ycUxmNUhuZXNJQUxyNFNmR0pHdzgtXzEwVk1oTFpZVllNazBncmV0T2ZUN2VqYWg3NFB2anFWMGxTYTlpU1pRSzZHd18tUHpnX1pnc0tHN21URjA?oc=5",
+      "summary": "한국건강관리협회 강원특별자치도지부와 한림성심대 총학생회, 18일 대학생 건강증진 위한 업무협약 체결 강원일보",
+      "source": "강원일보",
+      "published_at": "2026-09-20T05:05:49+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ed956d0e4df03bd5df5e",
+      "category": "기타",
+      "collected_at": "2026-09-21T02:48:37.781474+00:00"
+    },
     {
       "title": "한국건강관리협회 강원특별자치도지부, 한림성심대학교 총학생회와 대학생 건강증진 위한 업무협약 체결 - gwbiz.kr",
       "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFA4cG9IYWcwWGdoNG1xVkNsb1JnLTkwS3FmdEJhSGZNRXJ3RzkyWmRiQWNSRlJqLXNGdkh1ZTB3?oc=5",
@@ -15,6 +39,18 @@
       "id": "a4deb827cebd542519b3",
       "category": "기타",
       "collected_at": "2026-09-20T15:14:31.477895+00:00"
+    },
+    {
+      "title": "한국건강관리협회 강원특별자치도지부, 한림성심대학교 총학생회와 대학생 건강증진 위한 업무협약 체결 - 강원경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFA4cG9IYWcwWGdoNG1xVkNsb1JnLTkwS3FmdEJhSGZNRXJ3RzkyWmRiQWNSRlJqLXNGdkh1ZTB3?oc=5",
+      "summary": "한국건강관리협회 강원특별자치도지부, 한림성심대학교 총학생회와 대학생 건강증진 위한 업무협약 체결 강원경제신문",
+      "source": "강원경제신문",
+      "published_at": "2026-09-19T22:02:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "aeccca1996e9b19c2d8e",
+      "category": "기타",
+      "collected_at": "2026-09-21T02:48:37.781716+00:00"
     },
     {
       "title": "총학생회비 사용 심의하지만 … 명확한 기준 없어 선례에 기대는 예결특위 - kunews.ac.kr",
@@ -221,6 +257,18 @@
       "collected_at": "2026-09-16T15:55:35.260986+00:00"
     },
     {
+      "title": "무안교육지원청, 학생자치 담당교사 연수로 학교자치 역량 높여 - newstoktok.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wQ0gtN0o2Q25HMFB4aHhVYXpUYUhQWk1DT3AzSHBid2JYaDctV0xZbm1Lc2hIa1RuMGlXRWt0ODI0REs3SnBtMk12T1ZrZloyNTdudnNPWGQ2cmZfSDdadg?oc=5",
+      "summary": "무안교육지원청, 학생자치 담당교사 연수로 학교자치 역량 높여 newstoktok.com",
+      "source": "newstoktok.com",
+      "published_at": "2026-09-15T07:46:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "2a6b7106aff6e3d2118b",
+      "category": "의결·자치",
+      "collected_at": "2026-09-21T02:48:39.446024+00:00"
+    },
+    {
       "title": "국립목포대 학생자치기구, 불공정 의대 선정심사 규탄 - 아시아뉴스통신",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2ZVBCaE44U3VLZmFPMVNvVkxxdXBjQUVtd3RWemlRUndJeXJHUFlUUWZtQTM5NENBMXZzS3RCSE9qN0htTktRbTlMTV85VTd0RmFzZWRBOTljWnh0?oc=5",
       "summary": "국립목포대 학생자치기구, 불공정 의대 선정심사 규탄 아시아뉴스통신",
@@ -231,6 +279,18 @@
       "id": "f460d4c521041877abd1",
       "category": "의결·자치",
       "collected_at": "2026-09-15T02:54:48.447531+00:00"
+    },
+    {
+      "title": "국립목포대 학생자치기구, 불공정 의대 선정심사 규탄 집회 개최 - 무안신안뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12WC1SbVU0dWUzbWF2MEtQaGFnZndhSXAwcjJyMUhhMjhuMWIzSlp3N2xZekg1YVBFYzJfREhwWDRRRDdFM0hVM1ZqY01LaHpBOXFhSmstLUFYSWg4LVRGdFdnc2xNTFk4bEE?oc=5",
+      "summary": "국립목포대 학생자치기구, 불공정 의대 선정심사 규탄 집회 개최 무안신안뉴스",
+      "source": "무안신안뉴스",
+      "published_at": "2026-09-15T01:35:50+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "53cb827dda5abbcdb0cc",
+      "category": "의결·자치",
+      "collected_at": "2026-09-21T02:48:39.445955+00:00"
     },
     {
       "title": "임기 반환점 돈 총학에 학우들 4.6점 부여, “공약 이행 수준에 아쉬움” - 아주대학보",
