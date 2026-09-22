@@ -1,13 +1,8 @@
 {
-  "updated_at": "2026-09-22T11:49:42.032967+09:00",
-  "item_count": 1054,
+  "updated_at": "2026-09-23T01:05:41.178750+09:00",
+  "item_count": 1051,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
-    {
-      "source": "연합뉴스",
-      "error": "ParseError: not well-formed (invalid token): line 41, column 80"
-    }
-  ],
+  "failures": [],
   "items": [
     {
       "title": "‘헌혈 고연전’ 아시나요…양교 ‘나눔 경쟁’ 누가 이겼을까?",
@@ -1172,6 +1167,18 @@
       "id": "b41aa394fc30ecdebc03",
       "category": "기타",
       "collected_at": "2026-09-06T02:22:53.892430+00:00"
+    },
+    {
+      "title": "혜전대 총학생회, ‘스쿨폴리스’ 발대…7일부터 야간 순찰 - newstnt.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRWNsTDl6Yk9EbDJOc0ktay1NX3BXUjBVWGlBVVNnckFuTXVsZml6RkstQ3NTSGw0d05VbGtXTjNsODJ5VzQ1Wjg0QnVqY3YweFpDNlMyb1pRc1VUOGoyUkZLYTR1bjdINWc?oc=5",
+      "summary": "혜전대 총학생회, ‘스쿨폴리스’ 발대…7일부터 야간 순찰 newstnt.com",
+      "source": "newstnt.com",
+      "published_at": "2026-09-04T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "04c4e13ecf64914fd453",
+      "category": "기타",
+      "collected_at": "2026-09-22T16:05:05.367100+00:00"
     },
     {
       "title": "박홍근 기획예산처 장관, 전현직 총학생회장단과 청년 정책 간담회 개최 - 부산경제",
@@ -12359,53 +12366,6 @@
       "id": "5546b4989d371d5b2567",
       "category": "기타",
       "collected_at": "2026-08-01T17:27:38.660064+00:00"
-    },
-    {
-      "title": "동아대, 총학생회 주관으로 가을축제 성황리 개최 - 교수신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10bUJFOHk3U0FHcjlla1h0YW9CcU0tVFJoeHNBQkFqVUF6LUREUG15WXFMQTEyRG9ja0FaaXZtbkpCdHd2RHlqY2hHTW9HSEt1a01vOG1XbVJZai1XODdJOWVINHlab0U?oc=5",
-      "summary": "동아대, 총학생회 주관으로 가을축제 성황리 개최 교수신문",
-      "source": "교수신문",
-      "published_at": "2025-09-22T07:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "id": "d4374e7fb948a5958158",
-      "category": "복지·문화",
-      "collected_at": "2026-08-01T17:27:38.660019+00:00"
-    },
-    {
-      "title": "동아대, 총학생회 주관으로 가을축제 성황리 개최 - kyosu.net",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10bUJFOHk3U0FHcjlla1h0YW9CcU0tVFJoeHNBQkFqVUF6LUREUG15WXFMQTEyRG9ja0FaaXZtbkpCdHd2RHlqY2hHTW9HSEt1a01vOG1XbVJZai1XODdJOWVINHlab0U?oc=5",
-      "summary": "동아대, 총학생회 주관으로 가을축제 성황리 개최 kyosu.net",
-      "source": "kyosu.net",
-      "published_at": "2025-09-22T07:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "86cbd8568e5915ff7706",
-      "category": "복지·문화",
-      "collected_at": "2026-08-09T12:36:29.895256+00:00"
-    },
-    {
-      "title": "동아대, 총학생회 주관으로 가을축제 성황리 개최 - 베리타스알파",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xSWo4SUI4dFlQUXM1bE1UbUxnQjZBSU5wWC1ycnVubkIyNEEzOUpvS0hWcWtwVkNkX3ZQRVY3RFg5YWpmeGZDcmkxWXZEek5kd3l6TjBnQVE4eDJfa2RqS2wtN2pGSWx3d0tHeA?oc=5",
-      "summary": "동아대, 총학생회 주관으로 가을축제 성황리 개최 베리타스알파",
-      "source": "베리타스알파",
-      "published_at": "2025-09-22T07:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "b41564b4aa497223c6d2",
-      "category": "복지·문화",
-      "collected_at": "2026-08-24T12:35:31.624405+00:00"
-    },
-    {
-      "title": "동아대, 총학생회 주관으로 가을축제 성황리 개최 - veritas-a.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xSWo4SUI4dFlQUXM1bE1UbUxnQjZBSU5wWC1ycnVubkIyNEEzOUpvS0hWcWtwVkNkX3ZQRVY3RFg5YWpmeGZDcmkxWXZEek5kd3l6TjBnQVE4eDJfa2RqS2wtN2pGSWx3d0tHeA?oc=5",
-      "summary": "동아대, 총학생회 주관으로 가을축제 성황리 개최 veritas-a.com",
-      "source": "veritas-a.com",
-      "published_at": "2025-09-22T07:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "d42d53d22c99a3ef4cfd",
-      "category": "복지·문화",
-      "collected_at": "2026-09-22T02:49:19.176524+00:00"
     }
   ]
 }
