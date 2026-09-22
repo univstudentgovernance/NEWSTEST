@@ -1,39 +1,11 @@
 {
-  "updated_at": "2026-09-22T02:39:40.548024+09:00",
-  "item_count": 1048,
+  "updated_at": "2026-09-22T11:49:42.032967+09:00",
+  "item_count": 1054,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [
     {
-      "query": "총학생회 OR 총학",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생자치",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 등록금 총학생회 OR 등록금심의위원회",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생총회 OR 전체학생대표자회의",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생회비 OR 자치비 OR 회계감사",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+      "source": "연합뉴스",
+      "error": "ParseError: not well-formed (invalid token): line 41, column 80"
     }
   ],
   "items": [
@@ -254,6 +226,18 @@
       "collected_at": "2026-09-16T15:55:33.536442+00:00"
     },
     {
+      "title": "호서대 총학생회,캠퍼스 불법촬영 합동점검 - ccdailynews.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uZHBUYnU1bHpfaGpsenlxT0ZfY3kwWVVtcHlfRXVhX21WaENPaGJQZjFhZ2xBUWNUS3A5Y25ocm45NDlERDZEcVJMczg1c3hVUHJwdUdxR3dCbVh3MENRZFFYbjRtbnJPak1VVGJhVlI?oc=5",
+      "summary": "호서대 총학생회,캠퍼스 불법촬영 합동점검 ccdailynews.com",
+      "source": "ccdailynews.com",
+      "published_at": "2026-09-16T06:45:15+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "aa9bb13e08e53435a0d6",
+      "category": "기타",
+      "collected_at": "2026-09-22T02:49:11.396869+00:00"
+    },
+    {
       "title": "호서대 총학생회, 경찰과 캠퍼스 불법촬영 예방 합동점검 - 디트NEWS24",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pRGlMZEVvTUlvbE0zN2lELVNNdzNpRkpmY2gyWVJxWDhsbWxBcEpPM2FlQzM4SVdvR0xleFl3cmZUR0F6MHk1WHB6d0JGX2xGaFd5ZHhYTGVUZVN5dVNMMEJYazN1ei10dVlN?oc=5",
       "summary": "호서대 총학생회, 경찰과 캠퍼스 불법촬영 예방 합동점검 디트NEWS24",
@@ -468,6 +452,18 @@
       "id": "dadfc4435529c908aa35",
       "category": "기타",
       "collected_at": "2026-09-17T02:53:41.465528+00:00"
+    },
+    {
+      "title": "국립목포대 총학생회 의대 재심사 결의대회 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xMGFKQ0pIQTNZbmVzeENFZklsSTFxcmNNWFpJWk83SW1XMk1rRjNDcXJOcFVUX21ybjFsYW1rU1M1T3NHVWFZMWdFQQ?oc=5",
+      "summary": "국립목포대 총학생회 의대 재심사 결의대회 뉴스1",
+      "source": "뉴스1",
+      "published_at": "2026-09-14T02:48:03+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4e58dda1eb569ff74efc",
+      "category": "기타",
+      "collected_at": "2026-09-22T02:49:11.397140+00:00"
     },
     {
       "title": "목포대 총학생회 '특별시, 의대 심사 과정 규탄' - 뉴스1",
@@ -10773,6 +10769,18 @@
       "collected_at": "2026-09-20T15:14:36.541022+00:00"
     },
     {
+      "title": "총학 공동행동 \"등록금 인상, 두쫀쿠 몇 개 안 사먹는 걸로 치부 말라\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JY1RlbUZMQTJJeGhfRURKOEFOOGUzZHQ1eVl1dDN5eG42cXQydFpIODh6Tzg5eW1hNjFZSzBXWkoxN0M0Wk1hc3E4YUtjeEsyRk55WWZQSnJyX3ZJQ0Zrc9IBeEFVX3lxTE40VXdELVJ6S3dKcTFrOF9wZF82SGJCem1fbzgyYnh1UjVVUy1RdkRPS25PREJLVGFtaHdFWjJPZlcyb3BPNFV5N3R2dTVqSzA4OHlsRHUwQlByWEFJUHc5TjNJUEhyT0VjY3pVRjVZZks3eUVtc2N1bQ?oc=5",
+      "summary": "총학 공동행동 \"등록금 인상, 두쫀쿠 몇 개 안 사먹는 걸로 치부 말라\" 뉴시스",
+      "source": "뉴시스",
+      "published_at": "2026-01-20T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "739cee2077bac76a30bf",
+      "category": "등록금·교육",
+      "collected_at": "2026-09-22T02:49:16.033583+00:00"
+    },
+    {
       "title": "5% 올리고 3% 또?...한국외대 총학생회 \"학교는 등록금 갑질 인상 멈춰라\" - 더에듀",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvUXk0V1gtSkNyQnplWFlGenlYSXlXNXViYUJRTHJwYmJHeEtKVzVtWGVsZk1JdzRPMGpNZFF5X3gwd1hHSVB4eThqaW5kSVRoOGdCY3VXTm9CdlU?oc=5",
       "summary": "5% 올리고 3% 또?...한국외대 총학생회 \"학교는 등록금 갑질 인상 멈춰라\" 더에듀",
@@ -12223,6 +12231,18 @@
       "collected_at": "2026-08-12T01:20:12.264649+00:00"
     },
     {
+      "title": "계명문화대, ‘비슬제’, 학생 자치 강화로 대학 축제 새 장 열어 - 오늘경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mZ3NXdjNfZkkxTm1XMnU0VC1EaE0yS0UyWTlHbEZxd2gyWllrbGVoU0RvVFdIVDRPblgxTHRuYTJGN1FTYmo0TFMtX0VTUzd1VnNIUDFsUE5MNEktSWNCbjVMUUk1QzhZVHBjSG1Id193eVU?oc=5",
+      "summary": "계명문화대, ‘비슬제’, 학생 자치 강화로 대학 축제 새 장 열어 오늘경제",
+      "source": "오늘경제",
+      "published_at": "2025-10-10T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "ba1ee39be877a7743e0c",
+      "category": "복지·문화",
+      "collected_at": "2026-09-22T02:49:12.930159+00:00"
+    },
+    {
       "title": "[축제트렌드2025③] 상업화와 학생 자치의 변화 - 케이트렌디뉴스",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CcDFXa2p2TlNlSXBMQzlRdFpoZk01b2dEcm1QTEpxdm15MjVMMlNUUkpaRTFwQkUyZXZrUFN0SjdHazhSdF9nYlBQS0l0UmJkUmJQVDVYMXF1SFV0RUp2QVBSenFSdmpGSUE1LXU5QQ?oc=5",
       "summary": "[축제트렌드2025③] 상업화와 학생 자치의 변화 케이트렌디뉴스",
@@ -12294,6 +12314,18 @@
       "collected_at": "2026-08-30T15:51:12.972788+00:00"
     },
     {
+      "title": "상지대 총학생회, '학생복지 FLEX! 반값 생필품 공동구매' 추진 - veritas-a.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44T2s4NWFyVTgyUUdmejVxZFFiUXUwRF84blRoeG5TV0ppTmhyclRkSkx4OTV3Si1UdHBsTEtMRWE3X19ab3l1QWpfOFVldXVJdXA1MDFQcnUxR3JVcUU0S1pmSEh6dzhVNmo3Ng?oc=5",
+      "summary": "상지대 총학생회, '학생복지 FLEX! 반값 생필품 공동구매' 추진 veritas-a.com",
+      "source": "veritas-a.com",
+      "published_at": "2025-09-30T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "f46099498cfc158b6e28",
+      "category": "복지·문화",
+      "collected_at": "2026-09-22T02:49:19.176438+00:00"
+    },
+    {
       "title": "상명대 학생 자치기구 대표 총장간담회 진행 - 베리타스알파",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GdjItV19tQWMxbWVvVUViWXlYTlpyNWlBTWl6WXdHS3A5ZUs3dmZWQmN1T0RmbzhkWHpuYzJWSDdqM1A4X3lBdEFuNXpSc3JaRGNIYVdmdFkwVFdWVTRUQ1FScUhvOEZNRHE4Qw?oc=5",
       "summary": "상명대 학생 자치기구 대표 총장간담회 진행 베리타스알파",
@@ -12362,6 +12394,18 @@
       "id": "b41564b4aa497223c6d2",
       "category": "복지·문화",
       "collected_at": "2026-08-24T12:35:31.624405+00:00"
+    },
+    {
+      "title": "동아대, 총학생회 주관으로 가을축제 성황리 개최 - veritas-a.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xSWo4SUI4dFlQUXM1bE1UbUxnQjZBSU5wWC1ycnVubkIyNEEzOUpvS0hWcWtwVkNkX3ZQRVY3RFg5YWpmeGZDcmkxWXZEek5kd3l6TjBnQVE4eDJfa2RqS2wtN2pGSWx3d0tHeA?oc=5",
+      "summary": "동아대, 총학생회 주관으로 가을축제 성황리 개최 veritas-a.com",
+      "source": "veritas-a.com",
+      "published_at": "2025-09-22T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "d42d53d22c99a3ef4cfd",
+      "category": "복지·문화",
+      "collected_at": "2026-09-22T02:49:19.176524+00:00"
     }
   ]
 }
