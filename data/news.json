@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T01:05:41.178750+09:00",
-  "item_count": 1051,
+  "updated_at": "2026-09-23T11:50:05.259997+09:00",
+  "item_count": 1054,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -303,6 +303,18 @@
       "id": "53cb827dda5abbcdb0cc",
       "category": "의결·자치",
       "collected_at": "2026-09-21T02:48:39.445955+00:00"
+    },
+    {
+      "title": "국립목포대 학생자치기구, 불공정 의대 선정심사 규탄 집회 개최 - msonews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12WC1SbVU0dWUzbWF2MEtQaGFnZndhSXAwcjJyMUhhMjhuMWIzSlp3N2xZekg1YVBFYzJfREhwWDRRRDdFM0hVM1ZqY01LaHpBOXFhSmstLUFYSWg4LVRGdFdnc2xNTFk4bEE?oc=5",
+      "summary": "국립목포대 학생자치기구, 불공정 의대 선정심사 규탄 집회 개최 msonews.co.kr",
+      "source": "msonews.co.kr",
+      "published_at": "2026-09-15T01:35:50+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "c3e2414cedfea62727e8",
+      "category": "의결·자치",
+      "collected_at": "2026-09-23T02:49:35.271483+00:00"
     },
     {
       "title": "임기 반환점 돈 총학에 학우들 4.6점 부여, “공약 이행 수준에 아쉬움” - 아주대학보",
@@ -4488,6 +4500,18 @@
       "collected_at": "2026-09-06T02:22:53.893949+00:00"
     },
     {
+      "title": "순천대 총학 “의대 설립 흥정 대상 아냐” 반대 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52X3BUelBwa0l6dVRfZEVkU2x4YTdhQjZBd1VoY1VRUEs1NFZlZ2NUSlNnY0NsbDRBMkJZbmZlbnZRYjA1NE1DZEFRVEFvRW15VDI1MUln?oc=5",
+      "summary": "순천대 총학 “의대 설립 흥정 대상 아냐” 반대 헤럴드경제",
+      "source": "헤럴드경제",
+      "published_at": "2026-07-20T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "cee3b83c6c6e923bbd09",
+      "category": "기타",
+      "collected_at": "2026-09-23T02:49:33.511575+00:00"
+    },
+    {
       "title": "부산경상대 총학생회, 몽골 글로벌 서비스러닝 프로그램 참가 - 부산일보",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcElnR3kzUmh5clBUNXpUanNVZEJ0RTZPODIzY2lBdHJEZnhaTG1hS2RlTXBpdExGVENKNXBHOGxfYzRqbTNzdC1pWGJHTG04OFRtVENwTUdEeU1ILW1mcVB6eTJ5amNXaDVodERvUVhqQW41VmFSS25uM1lEdGd5akZuNnNLdw?oc=5",
       "summary": "부산경상대 총학생회, 몽골 글로벌 서비스러닝 프로그램 참가 부산일보",
@@ -7323,6 +7347,18 @@
       "id": "e35c192389ac06efaafa",
       "category": "기타",
       "collected_at": "2026-09-06T02:22:57.450251+00:00"
+    },
+    {
+      "title": "12개 대학 총학, 10일 동시 시국선언…\"참정권 침해 규탄\" - newspim.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JbnJzTlp6TDlTZGNDZ2pmaDF3Q1ZzeHFmSWE3cU5YV1l0OWY5UkljTDRSSnpsX1d6SXdnNmxXVFNWN1RtM0huU1pkNER4eXdNT21MSExBalRDNlEy?oc=5",
+      "summary": "12개 대학 총학, 10일 동시 시국선언…\"참정권 침해 규탄\" newspim.com",
+      "source": "newspim.com",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "8650f2b98d58f261682d",
+      "category": "기타",
+      "collected_at": "2026-09-23T02:49:36.924064+00:00"
     },
     {
       "title": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 - 중앙일보",
