@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-09-23T11:50:05.259997+09:00",
-  "item_count": 1054,
+  "updated_at": "2026-09-24T00:55:31.431741+09:00",
+  "item_count": 1058,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "가톨릭관동대 총학생회, 추석 맞이 장거리 '명절 셔틀버스' 운행 - 한국NGO신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WeVhkai1OUU9McnBVVWZjcE5TMlFYbmdtTkh0R3haM2NueEtVb2tUTnpKeGtBQ25jV3dheE9JTzdicmRZbkNqZnlkLTFINUpSY2hubjkwZmFxbTN5d2t2TzdkRXpVTmlC?oc=5",
+      "summary": "가톨릭관동대 총학생회, 추석 맞이 장거리 '명절 셔틀버스' 운행 한국NGO신문",
+      "source": "한국NGO신문",
+      "published_at": "2026-09-23T07:45:51+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "7001a8a7160c48c40a7c",
+      "category": "기타",
+      "collected_at": "2026-09-23T15:54:56.283234+00:00"
+    },
+    {
+      "title": "‘딥페이크’ 공포에서 졸업사진 추억 지키려…서울대 총학 ‘방지 기술’ 적용 - hani.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qam9BU19ORFBGcUc4d0pnclhWME9jWXA5YzFnTFJxMmVnN0FCZDlGRVlybklXNzEyUzN6bjNnRXIzbWg5eDBzaXphSjkyRk1fMmJVbHNpUXh5T2U1Q1lBc0JySVhTb2pBX1h6T3l3T2FRZw?oc=5",
+      "summary": "‘딥페이크’ 공포에서 졸업사진 추억 지키려…서울대 총학 ‘방지 기술’ 적용 hani.co.kr",
+      "source": "hani.co.kr",
+      "published_at": "2026-09-23T07:38:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "a9bfd999a628b30c8799",
+      "category": "기타",
+      "collected_at": "2026-09-23T15:54:56.283191+00:00"
+    },
     {
       "title": "‘헌혈 고연전’ 아시나요…양교 ‘나눔 경쟁’ 누가 이겼을까?",
       "url": "https://www.donga.com/news/Culture/article/all/20260921/134700348/1",
@@ -207,6 +231,18 @@
       "id": "4a8b9b66836fdc9f8018",
       "category": "의결·자치",
       "collected_at": "2026-09-16T15:55:33.536361+00:00"
+    },
+    {
+      "title": "서울대 총학 ‘성적 지향 차별 금지’ 회칙 신설…대학가 ‘작은 차별금지법’ 확산 - hani.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56dnNZLUtham43LUd1elFRR2djeUptelZYSzc1Ym1xNzlNdE9faUpJc1JFM3hTV0NKeGJKM0dYamZ0ZUtqSVNGdHRIRExZTVBoX1R4M2Njc0Q5LXFNdzNDeEZzeVhRNjFoclJfaGZRaEx5Zw?oc=5",
+      "summary": "서울대 총학 ‘성적 지향 차별 금지’ 회칙 신설…대학가 ‘작은 차별금지법’ 확산 hani.co.kr",
+      "source": "hani.co.kr",
+      "published_at": "2026-09-16T10:06:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "99ef2e847ca93f2d0a1d",
+      "category": "의결·자치",
+      "collected_at": "2026-09-23T15:54:56.283564+00:00"
     },
     {
       "title": "호서대 총학생회,캠퍼스 불법촬영 합동점검 - 충청일보",
@@ -9524,6 +9560,18 @@
       "id": "65c5c85c55434c123bfd",
       "category": "기타",
       "collected_at": "2026-08-14T01:21:15.350340+00:00"
+    },
+    {
+      "title": "제주대 총학생회, 캠퍼스 전용 앱 '다-드림' 출시...'강의실 찾기부터 AED 위치까지' - 헤드라인제주",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wZEU0ZXZybk5kd09KemtyTF9jeUZkbTZvT2JkZFE1dm9iZXZYOUU4TmpwUW5KcWlPUGRKUEdFaUNsOGI1cUVtVWthLWRaRHMtTmVmTXhpQnJialdwSm9RMjg5SkloVHJfMnRzaEtPdXozQzQ?oc=5",
+      "summary": "제주대 총학생회, 캠퍼스 전용 앱 '다-드림' 출시...'강의실 찾기부터 AED 위치까지' 헤드라인제주",
+      "source": "헤드라인제주",
+      "published_at": "2026-03-27T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "6f6d9371f0ccea63aa0a",
+      "category": "기타",
+      "collected_at": "2026-09-23T15:54:56.285557+00:00"
     },
     {
       "title": "[속보] 2026년 학생회 보궐선거, 총학생회 선본 'AU:SUM' 당선 - 아주대학보",
