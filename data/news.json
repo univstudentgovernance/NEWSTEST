@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T00:55:31.431741+09:00",
-  "item_count": 1058,
+  "updated_at": "2026-09-24T11:39:58.352250+09:00",
+  "item_count": 1060,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -27,6 +27,18 @@
       "id": "a9bfd999a628b30c8799",
       "category": "기타",
       "collected_at": "2026-09-23T15:54:56.283191+00:00"
+    },
+    {
+      "title": "‘딥페이크’ 공포에서 졸업사진 추억 지키려…서울대 총학 ‘방지 기술’ 적용 - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qam9BU19ORFBGcUc4d0pnclhWME9jWXA5YzFnTFJxMmVnN0FCZDlGRVlybklXNzEyUzN6bjNnRXIzbWg5eDBzaXphSjkyRk1fMmJVbHNpUXh5T2U1Q1lBc0JySVhTb2pBX1h6T3l3T2FRZw?oc=5",
+      "summary": "‘딥페이크’ 공포에서 졸업사진 추억 지키려…서울대 총학 ‘방지 기술’ 적용 한겨레",
+      "source": "한겨레",
+      "published_at": "2026-09-23T07:38:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "276a28ba6849259c7a00",
+      "category": "기타",
+      "collected_at": "2026-09-24T02:39:30.112190+00:00"
     },
     {
       "title": "‘헌혈 고연전’ 아시나요…양교 ‘나눔 경쟁’ 누가 이겼을까?",
@@ -8555,6 +8567,18 @@
       "id": "adfae34ea9128ea12204",
       "category": "기타",
       "collected_at": "2026-09-12T14:48:27.641549+00:00"
+    },
+    {
+      "title": "대전 7개 대학 총학생회, 6.3 지방선거 정책제안 발표회 개최 - nocutnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14aXg5dVFyZy1lUDlaWHgtMGZQYVNBT0twR0lYdGQ2enJ0S21ldnlJUWs4eUFoNlQ5dWx6bHlPeUhwMzFtUFMyWEhsbl9sZmFONWc?oc=5",
+      "summary": "대전 7개 대학 총학생회, 6.3 지방선거 정책제안 발표회 개최 nocutnews.co.kr",
+      "source": "nocutnews.co.kr",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "21377a547b81b46337fd",
+      "category": "선거·조직",
+      "collected_at": "2026-09-24T02:39:33.405604+00:00"
     },
     {
       "title": "[D뉴스] '한예종 광주 이전' 두고 갈등... 총학생회 \"지방 이전은 책임 전가\" 반발 - KBC광주방송",
