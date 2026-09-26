@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T01:18:34.180323+09:00",
-  "item_count": 1068,
+  "updated_at": "2026-09-26T12:00:11.815473+09:00",
+  "item_count": 1072,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -1911,6 +1911,18 @@
       "id": "4cc0fc5de1400b28904a",
       "category": "기타",
       "collected_at": "2026-08-24T12:35:23.532525+00:00"
+    },
+    {
+      "title": "한남대 총학생회 \"캠퍼스 지나가는 경부고속철도 공사중단 촉구\" - yna.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02dEJCdV9VZmJkUE9fYVdFZUlCTUxGWkNCR0kyU19aRlcyYW5ndDVDNWtEU29rSjlMTGFlWEdMN2lORU55WGhac0FnVzFRUTRKOGJnMXA2OF8wQlnSAWBBVV95cUxOeXlLcmd2bmlGeHFMXzRUQlF3WUxfR1V5VnU0SXZfMWdDcG9LUEg2d3pVeFZFcjY2RkJERGF2VTl1d2hXX1VTV3FfNzR2N2Z1Qmd5TVRoMXdrT192ZXFteWE?oc=5",
+      "summary": "한남대 총학생회 \"캠퍼스 지나가는 경부고속철도 공사중단 촉구\" yna.co.kr",
+      "source": "yna.co.kr",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "3360dd98e18c11368343",
+      "category": "기타",
+      "collected_at": "2026-09-26T02:59:41.560956+00:00"
     },
     {
       "title": "한남대 총학생회, 캠퍼스 관통 경부고속철도 건설공사 전면 재검토 촉구 - 뉴스1",
@@ -5367,6 +5379,18 @@
       "collected_at": "2026-09-16T15:55:36.968112+00:00"
     },
     {
+      "title": "14개 대학 총학생회장, 선관위 항의 방문 - 채널A 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VRzdCclFkUG5YY3RCdm14MVkySlE5eDEtM3JDQV9ITHlTZWtMWmJoMzBUdC1tc3BJajZ6aHRvdVRVdWpmVmVib1A2TUhyTDFZUmF0NDZiZjUwRlVFUlHSAWNBVV95cUxPZGhkVWExNjI2N2VJM3gxTjYtZmJKSEtnc3ZzYlVNWGlzRUdjaEI0SW0xSUpycVcySDl5TG84ZmhweVBmbTZaR0xtY1BJQXN4VVVWYklLaEhvbldSdFZyODlncWs?oc=5",
+      "summary": "14개 대학 총학생회장, 선관위 항의 방문 채널A 뉴스",
+      "source": "채널A 뉴스",
+      "published_at": "2026-06-17T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "296c20e470b96527d3ec",
+      "category": "기타",
+      "collected_at": "2026-09-26T02:59:44.787363+00:00"
+    },
+    {
       "title": "전국 대학 전·현직 총학생회장, 투표지 부족 사태 간담회 - 서울일보",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83SzNsMnRUTGZfQWlBWDhnaWtaUm9HMUNJWVVSTjViMGxDdmd3ZGtZQW91ajNBNzEtSDVtZlpucVQtZ25hV0xjZC1TTklGbnQ1aU1Ua09xejEtMjdSeFZmckhza1BfQ3lMV0hr0gFvQVVfeXFMUFp6Tjk4bEI1SXZWRmh2NWFDSnJ6aTJITlM2STBJQVN2QTZCVmNuUlp2Z0sxX3ZsLWhodmE3d0VMcjNoTVR0VGR2b0Jlc1hQX0ZHOHhCeEE0MDYwRW1RdWNkNUVueWd5bmRGTjNzVDRV?oc=5",
       "summary": "전국 대학 전·현직 총학생회장, 투표지 부족 사태 간담회 서울일보",
@@ -6570,6 +6594,18 @@
       "collected_at": "2026-09-06T02:22:57.450019+00:00"
     },
     {
+      "title": "대학 총학생회들 오늘 ‘투표용지 부족 사태’ 규탄 시국선언 - 채널A 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83bmVZeXNhRk52RXZESnk4eVdjTExKeXVqclpmang5N0NCU25zSGEtY0Nfc1JTa1I5bmg3dVFtQ2NteUk2ZjNWQlFrSVhobEROSFRMSEEtSV90Y21jakHSAWNBVV95cUxNSV96bFlUWEVHUXMyeEJJbF9hNU1Yc25oMVJ2bWtpX1VLRWpSampPQUR5bHhQbk1ENXBwd3FNLTBkUHpJMUtCNkdYNzZZZzRNNkpMbUhSWWdya3pXTzBkRVlESms?oc=5",
+      "summary": "대학 총학생회들 오늘 ‘투표용지 부족 사태’ 규탄 시국선언 채널A 뉴스",
+      "source": "채널A 뉴스",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "9ab99c7fd5d80d4036f1",
+      "category": "기타",
+      "collected_at": "2026-09-26T02:59:44.786749+00:00"
+    },
+    {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14QXZkc01Ub0VPSjBuZjNwMkJoOUhhRllkbFpGVFhvYWVKYmVzcnNyWjN1NHNQVW5HZmJNckNPanZ3NFJPT1ZxdTNJa2Z6X1BXVl82U0wxZ2ZuSXI1eGRtTFVyYVZqWExQ?oc=5",
       "summary": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 안동MBC",
@@ -7467,6 +7503,18 @@
       "id": "8650f2b98d58f261682d",
       "category": "기타",
       "collected_at": "2026-09-23T02:49:36.924064+00:00"
+    },
+    {
+      "title": "대학 총학생회들 줄줄이 내일 ‘투표용지 부족 사태’ 규탄 시국선언 - 채널A 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BWUk4MGsxdnRrSlNSYmppdlVDQ2tfMlpxaEsxTzZHSWVZWWNlUjE1dl83dkJqcVFhQUl3bktKYWRzaFNpNGppUTUweGN5X2tMSWhMbnFhd3ZXM1U0MVHSAWNBVV95cUxPVDlCQmJQYkw3WVgyU2c2a1I1bVRhamVSWTFTVFh4eVNTRk1yOUlSbFpwSzRsWWI4eUdHbTZaUTRwS1hpWkp5Y3R6bi1pY3A4dkxyODYzYkVEM09IWGltb3dGcUU?oc=5",
+      "summary": "대학 총학생회들 줄줄이 내일 ‘투표용지 부족 사태’ 규탄 시국선언 채널A 뉴스",
+      "source": "채널A 뉴스",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "532433def92d55d9081e",
+      "category": "기타",
+      "collected_at": "2026-09-26T02:59:44.786957+00:00"
     },
     {
       "title": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 - 중앙일보",
