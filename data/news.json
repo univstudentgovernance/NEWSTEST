@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T00:32:07.295895+09:00",
-  "item_count": 1072,
+  "updated_at": "2026-09-27T12:04:52.585702+09:00",
+  "item_count": 1073,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -27,6 +27,18 @@
       "id": "56272ad67b65145b3961",
       "category": "기타",
       "collected_at": "2026-09-25T02:58:41.880908+00:00"
+    },
+    {
+      "title": "‘딥페이크’ 공포에서 졸업사진 추억 지키려…서울대 총학 ‘방지 기술’ 적용 - supple.kr",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93U0U0QUFKUHk1RGVLN2h2eFZPOGdVRDVXRFlMWHVfdUJPT0huZnlxbnRXV0pwNTMyaERLVi1Ec0NoSktLaW1aNTI0Y0F0MV9vak1PZGV4Ql9IZ2xr?oc=5",
+      "summary": "‘딥페이크’ 공포에서 졸업사진 추억 지키려…서울대 총학 ‘방지 기술’ 적용 supple.kr",
+      "source": "supple.kr",
+      "published_at": "2026-09-23T07:38:56+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f18c68d75d90807c5932",
+      "category": "기타",
+      "collected_at": "2026-09-27T03:04:19.582940+00:00"
     },
     {
       "title": "‘딥페이크’ 공포에서 졸업사진 추억 지키려…서울대 총학 ‘방지 기술’ 적용 - hani.co.kr",
