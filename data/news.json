@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T01:12:08.245077+09:00",
-  "item_count": 1073,
+  "updated_at": "2026-09-28T12:02:24.337857+09:00",
+  "item_count": 1074,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -5601,6 +5601,18 @@
       "id": "1a3fce23c2cd2a2211d1",
       "category": "기타",
       "collected_at": "2026-09-04T15:34:55.940814+00:00"
+    },
+    {
+      "title": "전북대 총학생회 “사라진 한 표, 민주주의 훼손” - kmib.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NanVZcURhUDNXSFM5OXFmbzRTU09Kb29SWWxBTDk2QUN2YThfN2hKWXBCeEI3MnFka1NvX2k1cXJxc2w3MEtrSUNVb0FjeEJEWVFwN2RjcU5HWWVOay1xZzB4TjhsSG_SAWxBVV95cUxNR3VCQ3p0Ni1DSE1zUnJLaVltN0F4MXNjc1dBRHYzN2hRWVNxYWx5Y0tFaVZDeXZFTWl6LW5XVVhmbE9xU0NrcTB1Xy1xWUoxOXMtY2FnSTVOX2dlOXVwTU1wWTJVQy1NMEhRTzg?oc=5",
+      "summary": "전북대 총학생회 “사라진 한 표, 민주주의 훼손” kmib.co.kr",
+      "source": "kmib.co.kr",
+      "published_at": "2026-06-11T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "2d512ee8f3fde8487c55",
+      "category": "기타",
+      "collected_at": "2026-09-28T03:01:54.355094+00:00"
     },
     {
       "title": "'투표용지 부족 규탄' 18개대 총학 시국선언…\"참정권 수호해야\"(종합) - 연합뉴스",
