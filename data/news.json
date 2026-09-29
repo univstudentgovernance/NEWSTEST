@@ -1,9 +1,50 @@
 {
-  "updated_at": "2026-09-29T04:06:30.621723+09:00",
-  "item_count": 1074,
+  "updated_at": "2026-09-29T12:41:57.295464+09:00",
+  "item_count": 1077,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [],
+  "failures": [
+    {
+      "source": "연합뉴스",
+      "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>"
+    }
+  ],
   "items": [
+    {
+      "title": "강릉시 4개 대학 총학생회협의회 출범, 연합 체육대회도 열려 > 뉴스데스크 - MBC 강원영동",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBld1o0X1I3aVVWNTUyRmU0aFRvNmNCOFlaeXFyXzhnVGRFTnBBR1BTNER4Q3ZNdXN0X2pXYW9BU2U4R0FnaHNnaTAtdw?oc=5",
+      "summary": "강릉시 4개 대학 총학생회협의회 출범, 연합 체육대회도 열려 > 뉴스데스크 MBC 강원영동",
+      "source": "MBC 강원영동",
+      "published_at": "2026-09-29T02:35:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "fea4b6aa083f52121160",
+      "category": "기타",
+      "collected_at": "2026-09-29T03:41:25.748214+00:00"
+    },
+    {
+      "title": "켄텍 총학생회, \"반드시 연내 총장을 선임하라\" 성명서 발표 - 머니투데이 - mt.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LWWNGTEdKYW9JUGNqMlpLQmhmam5yQ25KUFdldGRtTU5ZNmJOWEZuOWI2Vl9WQldfbXVXRDZEMTBGNzBJam5LY0tocHNNaU9DNnBNa1RzZDh1SUp1Z3VqTW1PQVYxUjBLdnfSAW9BVV95cUxPNjZ0dkttREotU0RPcU9WVWIzUjJlVHpMODltUmlIV0ltajlOblFSalRIeGdBTDJEb3JMS3lsajd4N0h4Q2g5SWpoYmJtVzBWY0dLSFp0b3dhSGRpUzVQNFhHWi1IS3BRUllwYWhURE0?oc=5",
+      "summary": "켄텍 총학생회, \"반드시 연내 총장을 선임하라\" 성명서 발표 - 머니투데이 mt.co.kr",
+      "source": "mt.co.kr",
+      "published_at": "2026-09-29T02:03:45+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4e7253188afd8df99b53",
+      "category": "인권·갈등",
+      "collected_at": "2026-09-29T03:41:25.748258+00:00"
+    },
+    {
+      "title": "켄텍 총학생회 \"총장 공백 3년째…연내 반드시 선임해야\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16YkZWVkN4YmNTOGhqdFhjd3BLVDBaZkhVOTRKWHZlMzhKQVBjSkdydWlvbUYzazRYZFVrdDhZazhteTdSMjJiV3BJREFyNDMzRG9EdkNKajJhQ21OU0pVT0pNeW1aR09WcjBzS0ZFdVMtcEpWeEhuUNIBeEFVX3lxTE16YkZWVkN4YmNTOGhqdFhjd3BLVDBaZkhVOTRKWHZlMzhKQVBjSkdydWlvbUYzazRYZFVrdDhZazhteTdSMjJiV3BJREFyNDMzRG9EdkNKajJhQ21OU0pVT0pNeW1aR09WcjBzS0ZFdVMtcEpWeEhuUA?oc=5",
+      "summary": "켄텍 총학생회 \"총장 공백 3년째…연내 반드시 선임해야\" 뉴시스",
+      "source": "뉴시스",
+      "published_at": "2026-09-29T00:52:48+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "86de183f1a960895c06e",
+      "category": "선거·조직",
+      "collected_at": "2026-09-29T03:41:25.748287+00:00"
+    },
     {
       "title": "가톨릭관동대 총학생회, 추석 맞이 장거리 '명절 셔틀버스' 운행 - 한국NGO신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WeVhkai1OUU9McnBVVWZjcE5TMlFYbmdtTkh0R3haM2NueEtVb2tUTnpKeGtBQ25jV3dheE9JTzdicmRZbkNqZnlkLTFINUpSY2hubjkwZmFxbTN5d2t2TzdkRXpVTmlC?oc=5",
