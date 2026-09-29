@@ -1,14 +1,33 @@
 {
-  "updated_at": "2026-09-29T12:41:57.295464+09:00",
-  "item_count": 1077,
+  "updated_at": "2026-09-30T02:27:39.733717+09:00",
+  "item_count": 1078,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
-    {
-      "source": "연합뉴스",
-      "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>"
-    }
-  ],
+  "failures": [],
   "items": [
+    {
+      "title": "정화예술대 총학생회, 2026 청춘화원 개최… 4천명 참여 대표 예술제 - 중구신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjWGdZV3JFVkgzQ21Id0cxcjNNTXVSM1NxNjdnekd2YklCNTI0bEQ0OVRBUE00QmJDSkdZUmZFLXRsMkd5dmUwWmd1Y04xdFZ2a0ZJcEY0ekZjRUhPdUh3dUZCQ1BLNWxuU1hDVA?oc=5",
+      "summary": "정화예술대 총학생회, 2026 청춘화원 개최… 4천명 참여 대표 예술제 중구신문",
+      "source": "중구신문",
+      "published_at": "2026-09-29T11:17:58+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "3e4f60c24882842cef50",
+      "category": "기타",
+      "collected_at": "2026-09-29T17:27:07.441777+00:00"
+    },
+    {
+      "title": "\"필요한 건 지원금 아닌 일자리\" 울산 4개대 총학, 에너지자원공사 유치 촉구 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xdFY1T0VfNG1ZVG1NV0l3MTZDbE8tMVFYTTFYZVJmNmI4MTVlazlQbTBUQ0lqWmNnQ3VLUXhPN0RtaEtla2xSdHdNaEpQR0wwTWfSAVdBVV95cUxOSENHcUNIb3E4b2RRSl9VcEJWYzdjV3k4MnpzUkxkZkRVQ2xuQzdJQWRBUEFvUkVqZ2V6dW1nNWJoUWNTNmxxVWhpZlRRNjRrdGU4T08waVE?oc=5",
+      "summary": "\"필요한 건 지원금 아닌 일자리\" 울산 4개대 총학, 에너지자원공사 유치 촉구 뉴스1",
+      "source": "뉴스1",
+      "published_at": "2026-09-29T08:11:32+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f5bfdcb64fce067ee5be",
+      "category": "기타",
+      "collected_at": "2026-09-29T17:27:07.441732+00:00"
+    },
     {
       "title": "강릉시 4개 대학 총학생회협의회 출범, 연합 체육대회도 열려 > 뉴스데스크 - MBC 강원영동",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBld1o0X1I3aVVWNTUyRmU0aFRvNmNCOFlaeXFyXzhnVGRFTnBBR1BTNER4Q3ZNdXN0X2pXYW9BU2U4R0FnaHNnaTAtdw?oc=5",
@@ -32,6 +51,18 @@
       "id": "4e7253188afd8df99b53",
       "category": "인권·갈등",
       "collected_at": "2026-09-29T03:41:25.748258+00:00"
+    },
+    {
+      "title": "켄텍 총학생회, \"반드시 연내 총장을 선임하라\" 성명서 발표 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LWWNGTEdKYW9JUGNqMlpLQmhmam5yQ25KUFdldGRtTU5ZNmJOWEZuOWI2Vl9WQldfbXVXRDZEMTBGNzBJam5LY0tocHNNaU9DNnBNa1RzZDh1SUp1Z3VqTW1PQVYxUjBLdnfSAW9BVV95cUxPNjZ0dkttREotU0RPcU9WVWIzUjJlVHpMODltUmlIV0ltajlOblFSalRIeGdBTDJEb3JMS3lsajd4N0h4Q2g5SWpoYmJtVzBWY0dLSFp0b3dhSGRpUzVQNFhHWi1IS3BRUllwYWhURE0?oc=5",
+      "summary": "켄텍 총학생회, \"반드시 연내 총장을 선임하라\" 성명서 발표 - 머니투데이 머니투데이",
+      "source": "머니투데이",
+      "published_at": "2026-09-29T02:03:45+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "68f868de03b476baea35",
+      "category": "인권·갈등",
+      "collected_at": "2026-09-29T17:27:07.441835+00:00"
     },
     {
       "title": "켄텍 총학생회 \"총장 공백 3년째…연내 반드시 선임해야\" - 뉴시스",
@@ -12660,30 +12691,6 @@
       "id": "f46099498cfc158b6e28",
       "category": "복지·문화",
       "collected_at": "2026-09-22T02:49:19.176438+00:00"
-    },
-    {
-      "title": "상명대 학생 자치기구 대표 총장간담회 진행 - 베리타스알파",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GdjItV19tQWMxbWVvVUViWXlYTlpyNWlBTWl6WXdHS3A5ZUs3dmZWQmN1T0RmbzhkWHpuYzJWSDdqM1A4X3lBdEFuNXpSc3JaRGNIYVdmdFkwVFdWVTRUQ1FScUhvOEZNRHE4Qw?oc=5",
-      "summary": "상명대 학생 자치기구 대표 총장간담회 진행 베리타스알파",
-      "source": "베리타스알파",
-      "published_at": "2025-09-29T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "c9b923657dfee6524938",
-      "category": "기타",
-      "collected_at": "2026-09-09T15:44:32.684503+00:00"
-    },
-    {
-      "title": "상명대 학생 자치기구 대표 총장간담회 진행 - veritas-a.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GdjItV19tQWMxbWVvVUViWXlYTlpyNWlBTWl6WXdHS3A5ZUs3dmZWQmN1T0RmbzhkWHpuYzJWSDdqM1A4X3lBdEFuNXpSc3JaRGNIYVdmdFkwVFdWVTRUQ1FScUhvOEZNRHE4Qw?oc=5",
-      "summary": "상명대 학생 자치기구 대표 총장간담회 진행 veritas-a.com",
-      "source": "veritas-a.com",
-      "published_at": "2025-09-29T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "6e3a6cc6f3c9bd479f1d",
-      "category": "기타",
-      "collected_at": "2026-09-14T02:51:36.121092+00:00"
     }
   ]
 }
