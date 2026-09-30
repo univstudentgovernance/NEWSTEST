@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-09-30T12:29:33.705186+09:00",
-  "item_count": 1079,
+  "updated_at": "2026-10-01T02:25:07.173166+09:00",
+  "item_count": 1077,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "창원대 총학생회·중앙위 “법인화 찬반 밝힌 적 없다” - 경남신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KbGRiS3FQLUdWd2ZPZDc3Z2pIUkxGMG9Wa29NZFBQOTY2cFhfdFBhd0IxOEdWQW5oNFJTLTlHNmRwMENaczl5bWl3Y0VoSHlMb0dzaU1QVG5tQQ?oc=5",
+      "summary": "창원대 총학생회·중앙위 “법인화 찬반 밝힌 적 없다” 경남신문",
+      "source": "경남신문",
+      "published_at": "2026-09-30T11:09:21+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8d25b5f8c41e31cac513",
+      "category": "기타",
+      "collected_at": "2026-09-30T17:24:36.387397+00:00"
+    },
     {
       "title": "정화예술대 총학생회, 2026 청춘화원 개최… 4천명 참여 대표 예술제 - 중구신문",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjWGdZV3JFVkgzQ21Id0cxcjNNTXVSM1NxNjdnekd2YklCNTI0bEQ0OVRBUE00QmJDSkdZUmZFLXRsMkd5dmUwWmd1Y04xdFZ2a0ZJcEY0ekZjRUhPdUh3dUZCQ1BLNWxuU1hDVA?oc=5",
@@ -27,6 +39,18 @@
       "id": "f5bfdcb64fce067ee5be",
       "category": "기타",
       "collected_at": "2026-09-29T17:27:07.441732+00:00"
+    },
+    {
+      "title": "충북대 역대 총학생회장들 “교통대와 통합 논의 계속해야”…도의회도 책임 규명 촉구 - 중부매일",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wREJPWmRyZzFLZWk0NF9ISXlnSC16eEVSZUR5OHJlSndSd2R4VFJPY25KWkxGUGJkVTJ1ei1oSHZHdnFxSjhxZTlmdkVEYWJ5aU1TdVNBR2ZvU25ibXdYNEVyU3g1cTdNSGc?oc=5",
+      "summary": "충북대 역대 총학생회장들 “교통대와 통합 논의 계속해야”…도의회도 책임 규명 촉구 중부매일",
+      "source": "중부매일",
+      "published_at": "2026-09-29T07:06:26+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "86896fcaab8da3812264",
+      "category": "기타",
+      "collected_at": "2026-09-30T17:24:36.387440+00:00"
     },
     {
       "title": "강릉시 4개 대학 총학생회협의회 출범, 연합 체육대회도 열려 > 뉴스데스크 - MBC 강원영동",
@@ -6702,6 +6726,18 @@
       "collected_at": "2026-09-26T02:59:44.786749+00:00"
     },
     {
+      "title": "\"주권자의 한 표가 멈춰 섰다\"…18개大 총학, '투표용지 부족' 규탄 시국선언 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVRXZVVFViRVBacGVuVWhrLXFlNEFQZzRQa0h3RzNPVHh0aFFacFFycGh5WnY4NXR0NWRIbWtzczJjc2xlQmc?oc=5",
+      "summary": "\"주권자의 한 표가 멈춰 섰다\"…18개大 총학, '투표용지 부족' 규탄 시국선언 v.daum.net",
+      "source": "v.daum.net",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "c3f873dcfb3d49259e31",
+      "category": "기타",
+      "collected_at": "2026-09-30T17:24:36.389676+00:00"
+    },
+    {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14QXZkc01Ub0VPSjBuZjNwMkJoOUhhRllkbFpGVFhvYWVKYmVzcnNyWjN1NHNQVW5HZmJNckNPanZ3NFJPT1ZxdTNJa2Z6X1BXVl82U0wxZ2ZuSXI1eGRtTFVyYVZqWExQ?oc=5",
       "summary": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 안동MBC",
@@ -12643,66 +12679,6 @@
       "id": "33e4f3db782d68b2b979",
       "category": "복지·문화",
       "collected_at": "2026-08-11T01:12:13.718220+00:00"
-    },
-    {
-      "title": "상지대 총학생회, ‘학생복지 FLEX! 반값 생필품 공동구매’ 추진 - 교수신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9udVhYOE9rMHhJbEpjWUNjZDU1Z3o1dzVlbmFLbzZrYkh2SWVUMTJKbGExdUxKMFJ4NjA2WDNvbUxLTlRrdHA5QksxMVFHTmZSdVU1R0l0Q1BEN3Zhd2tuenA5Yi1UdFE?oc=5",
-      "summary": "상지대 총학생회, ‘학생복지 FLEX! 반값 생필품 공동구매’ 추진 교수신문",
-      "source": "교수신문",
-      "published_at": "2025-09-30T07:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "6ac251931b02daf3d4ed",
-      "category": "복지·문화",
-      "collected_at": "2026-08-02T07:55:14.719933+00:00"
-    },
-    {
-      "title": "상지대 총학생회, ‘학생복지 FLEX! 반값 생필품 공동구매’ 추진 - kyosu.net",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9udVhYOE9rMHhJbEpjWUNjZDU1Z3o1dzVlbmFLbzZrYkh2SWVUMTJKbGExdUxKMFJ4NjA2WDNvbUxLTlRrdHA5QksxMVFHTmZSdVU1R0l0Q1BEN3Zhd2tuenA5Yi1UdFE?oc=5",
-      "summary": "상지대 총학생회, ‘학생복지 FLEX! 반값 생필품 공동구매’ 추진 kyosu.net",
-      "source": "kyosu.net",
-      "published_at": "2025-09-30T07:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "225d0670e291ea489a29",
-      "category": "복지·문화",
-      "collected_at": "2026-08-09T12:36:29.895444+00:00"
-    },
-    {
-      "title": "상지대 총학생회, '학생복지 FLEX! 반값 생필품 공동구매' 추진 - 베리타스알파",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44T2s4NWFyVTgyUUdmejVxZFFiUXUwRF84blRoeG5TV0ppTmhyclRkSkx4OTV3Si1UdHBsTEtMRWE3X19ab3l1QWpfOFVldXVJdXA1MDFQcnUxR3JVcUU0S1pmSEh6dzhVNmo3Ng?oc=5",
-      "summary": "상지대 총학생회, '학생복지 FLEX! 반값 생필품 공동구매' 추진 베리타스알파",
-      "source": "베리타스알파",
-      "published_at": "2025-09-30T07:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "353d36f7f43a083b6bc4",
-      "category": "복지·문화",
-      "collected_at": "2026-08-23T12:26:20.661697+00:00"
-    },
-    {
-      "title": "'글로컬대 선정' 충남대 총학 규탄시위 \"학생 의견 반영 안 해\" - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rZ3dRQWZBaTF2TkVBYXlCTmdIVkxyNEx2dkF0Qmh2N2lJQkpiTi16NjJNNThzamxra2MwTTBNT042MEwwdEY4U25lRVYxQ0x6Z3JsS0E1S1pmUmfSAWBBVV95cUxQd0lYSmZGeC1KZ2R0TnFoeTg5ekN5N0Q1SmdjbUFzNlRWTFJYdmYyVlhzRGI1MElCX0ZZNTlBblBzYjZUSVRCeW80U212aXNQbXRoZkVYeDVLN21oU0R3WkQ?oc=5",
-      "summary": "'글로컬대 선정' 충남대 총학 규탄시위 \"학생 의견 반영 안 해\" 연합뉴스",
-      "source": "연합뉴스",
-      "published_at": "2025-09-30T07:00:00+00:00",
-      "matched_query": "총학생회 OR 총학",
-      "feed": "Google News RSS",
-      "id": "2c0b5df8402e052e0584",
-      "category": "기타",
-      "collected_at": "2026-08-30T15:51:12.972788+00:00"
-    },
-    {
-      "title": "상지대 총학생회, '학생복지 FLEX! 반값 생필품 공동구매' 추진 - veritas-a.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44T2s4NWFyVTgyUUdmejVxZFFiUXUwRF84blRoeG5TV0ppTmhyclRkSkx4OTV3Si1UdHBsTEtMRWE3X19ab3l1QWpfOFVldXVJdXA1MDFQcnUxR3JVcUU0S1pmSEh6dzhVNmo3Ng?oc=5",
-      "summary": "상지대 총학생회, '학생복지 FLEX! 반값 생필품 공동구매' 추진 veritas-a.com",
-      "source": "veritas-a.com",
-      "published_at": "2025-09-30T07:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "f46099498cfc158b6e28",
-      "category": "복지·문화",
-      "collected_at": "2026-09-22T02:49:19.176438+00:00"
     }
   ]
 }
