@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T02:27:39.733717+09:00",
-  "item_count": 1078,
+  "updated_at": "2026-09-30T12:29:33.705186+09:00",
+  "item_count": 1079,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -11591,6 +11591,18 @@
       "id": "42df6e22f9813665635d",
       "category": "등록금·교육",
       "collected_at": "2026-09-10T02:35:05.147880+00:00"
+    },
+    {
+      "title": "부산외대, 학생자치기구와 ‘학생 행복’ 정책 간담회 성료 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeE9CRlpVZXFnbzBDQVRKcmw2QkczcEUycmRvaWRmaFJob29ac2hXT000bVU1ODltT2RNVDJzUU5vQnNlVE5Gb25TRVRmckZYZ1Fid0IyN1lBemk0bGgxaGJIT0NjbXR6enNxWVREcko4MWIwZnRhcHlVUjVIZmJ0bGJ4SE4xNnlOd1VJVVJB?oc=5",
+      "summary": "부산외대, 학생자치기구와 ‘학생 행복’ 정책 간담회 성료 국제신문",
+      "source": "국제신문",
+      "published_at": "2026-01-05T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "dd7314f4b116995dcce0",
+      "category": "의결·자치",
+      "collected_at": "2026-09-30T03:29:03.678464+00:00"
     },
     {
       "title": "대학 등록금 인상 상한 3.19%···‘견제 장치’ 등심위 실효성 논란 - 경향신문",
