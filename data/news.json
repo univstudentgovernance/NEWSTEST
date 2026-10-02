@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-10-02T12:34:56.324153+09:00",
-  "item_count": 1090,
+  "updated_at": "2026-10-03T02:14:41.940932+09:00",
+  "item_count": 1094,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "부산디지털대, 총학생회와 소통 강화…학생 참여형 ‘가을축제’ 준비 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EdGVzWVhXZG1GSVJ6UFltOGRzcjFVekNyZ0p1YlR3cldocktGTjBjUnhVa0FQaUtDS09DMlE1QmNWS2NhRkxKUmRvZXF5VWFLYU5NZnNKUnhZZTJxeEVoeWtubEJVZ25QQnk5U0wwUnFOMjN20gF0QVVfeXFMTUR0ZXNZWFdkbUZJUnpQWW04ZHNyMVV6Q3JnSnViVHdyV2hyS0ZOMGNSeFVrQVBpS0NLT0MyUTVCY1ZLY2FGTEpSZG9lcXlVYUthTk1mc0pSeFllMnF4RWh5a25sQlVnblBCeTlTTDBScU4yM3Y?oc=5",
+      "summary": "부산디지털대, 총학생회와 소통 강화…학생 참여형 ‘가을축제’ 준비 이뉴스투데이",
+      "source": "이뉴스투데이",
+      "published_at": "2026-10-02T08:36:30+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "6d7ae17715c4a9521307",
+      "category": "복지·문화",
+      "collected_at": "2026-10-02T17:14:20.410305+00:00"
+    },
+    {
+      "title": "부산디지털대, 2학기 총학생회 간담회 개최 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52OFZnNUNRQzdSOVZwd3JUeVFkWS1kMnd1V200eGpNSmpCMDBzUTE1WTlXQWFzR0ZHYV93d3hBUkJNWk03S0pJLXpGWFVsT21Xc2hIaEtkLUFuS0ZsaFBfT0lhY1hmME9MVnJNdlJzc2pHMnBjZmItRV96UQ?oc=5",
+      "summary": "부산디지털대, 2학기 총학생회 간담회 개최 부산일보",
+      "source": "부산일보",
+      "published_at": "2026-10-02T05:02:10+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e86b32358034e35705b3",
+      "category": "기타",
+      "collected_at": "2026-10-02T17:14:11.683493+00:00"
+    },
     {
       "title": "\"이번 축제에 연예인 누구 와요?\"만 궁금…스펙 안되는 총학생회 외면하는 대학가 - 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zbWRjcUo5Y1Byd1dfUnhiUUtuQXZfUldHS0JVMnZsZ2VxUVk1SWdzajNLTlZjb3c3T2h3djdpMDhWM2xRdnduQWcxQkEtZXlmSFFMR2lJY0lhNjBVbHlrcA?oc=5",
@@ -27,6 +51,18 @@
       "id": "a2f4f0308a8fcc08f479",
       "category": "기타",
       "collected_at": "2026-10-02T03:34:24.533083+00:00"
+    },
+    {
+      "title": "\"이번 축제에 연예인 누구 와요?\"만 궁금…스펙 안되는 총학생회 외면하는 대학가 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDV05aUmw5SHd5NWViMy1qMWVROFFfSGd1RFlsZHF6MnhMaWY1aFJFcmJVbWg2NlhfdGtmcTJoVTV6a2ZEZXVWRW0wcDFrNXlaMmZ5Rw?oc=5",
+      "summary": "\"이번 축제에 연예인 누구 와요?\"만 궁금…스펙 안되는 총학생회 외면하는 대학가 v.daum.net",
+      "source": "v.daum.net",
+      "published_at": "2026-10-02T02:03:10+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e5d758459fab4823946e",
+      "category": "복지·문화",
+      "collected_at": "2026-10-02T17:14:11.683548+00:00"
     },
     {
       "title": "동두천 두드림장애인학교 총학, 현직 시의원 학교 접근 금지·징계 촉구 - 경기신문",
@@ -11795,6 +11831,18 @@
       "id": "dd7314f4b116995dcce0",
       "category": "의결·자치",
       "collected_at": "2026-09-30T03:29:03.678464+00:00"
+    },
+    {
+      "title": "부산외대, 학생자치기구와 ‘학생 행복’ 정책 간담회 성료 - kookje.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeE9CRlpVZXFnbzBDQVRKcmw2QkczcEUycmRvaWRmaFJob29ac2hXT000bVU1ODltT2RNVDJzUU5vQnNlVE5Gb25TRVRmckZYZ1Fid0IyN1lBemk0bGgxaGJIT0NjbXR6enNxWVREcko4MWIwZnRhcHlVUjVIZmJ0bGJ4SE4xNnlOd1VJVVJB?oc=5",
+      "summary": "부산외대, 학생자치기구와 ‘학생 행복’ 정책 간담회 성료 kookje.co.kr",
+      "source": "kookje.co.kr",
+      "published_at": "2026-01-05T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "ae3821ba86def631822b",
+      "category": "의결·자치",
+      "collected_at": "2026-10-02T17:14:13.477083+00:00"
     },
     {
       "title": "대학 등록금 인상 상한 3.19%···‘견제 장치’ 등심위 실효성 논란 - 경향신문",
