@@ -1,9 +1,45 @@
 {
-  "updated_at": "2026-10-02T02:51:20.748256+09:00",
-  "item_count": 1086,
+  "updated_at": "2026-10-02T12:34:56.324153+09:00",
+  "item_count": 1090,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "\"이번 축제에 연예인 누구 와요?\"만 궁금…스펙 안되는 총학생회 외면하는 대학가 - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zbWRjcUo5Y1Byd1dfUnhiUUtuQXZfUldHS0JVMnZsZ2VxUVk1SWdzajNLTlZjb3c3T2h3djdpMDhWM2xRdnduQWcxQkEtZXlmSFFMR2lJY0lhNjBVbHlrcA?oc=5",
+      "summary": "\"이번 축제에 연예인 누구 와요?\"만 궁금…스펙 안되는 총학생회 외면하는 대학가 아시아경제",
+      "source": "아시아경제",
+      "published_at": "2026-10-02T03:29:34+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "44e730512808b7b0b1db",
+      "category": "복지·문화",
+      "collected_at": "2026-10-02T03:34:32.472782+00:00"
+    },
+    {
+      "title": "\"스펙 안 되는데 뭐하러\"…서울 대학가 텅 빈 총학생회 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rYUpGZHgzUzdDT0oxdnNyQWw0OHZLNy15eFZhRXhReU4tU2N1OGFVRjI5UFhrQnE3bGo1X2xnVUZEOUJvc19qMndmdGMtZE0?oc=5",
+      "summary": "\"스펙 안 되는데 뭐하러\"…서울 대학가 텅 빈 총학생회 v.daum.net",
+      "source": "v.daum.net",
+      "published_at": "2026-10-02T02:03:10+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "a2f4f0308a8fcc08f479",
+      "category": "기타",
+      "collected_at": "2026-10-02T03:34:24.533083+00:00"
+    },
+    {
+      "title": "동두천 두드림장애인학교 총학, 현직 시의원 학교 접근 금지·징계 촉구 - 경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hYlp4bVMtWi1rMHNNYjJfcjNZVG1LcklsTlBnVTZtcG9fVFE1R255WEtqSUR6ZXFxWjVqTjg4TUZ1ekhxZGhnUDlxVW1id2RyeG9RNE9JR3pnTWJxQWEyYVFB?oc=5",
+      "summary": "동두천 두드림장애인학교 총학, 현직 시의원 학교 접근 금지·징계 촉구 경기신문",
+      "source": "경기신문",
+      "published_at": "2026-10-01T09:15:49+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ed1f40cae7b388f9c9e8",
+      "category": "인권·갈등",
+      "collected_at": "2026-10-02T03:34:24.533131+00:00"
+    },
     {
       "title": "폴리텍대 청주캠퍼스 총학생회 ‘청렴 선언’…예산 집행 내역 상시 공유 - 중부매일",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04dVhOX0hJRnVEZUNNQ3Fqc0poNkplZmtJZ0xHNEpEbko1LWlCSHNFTDBHVFo1YUEzRkdxYk93NlBzb1lXLU5mQS1VTjFNNm5xWVpfeEdacGcybnEzYUJ6QlhOVV84QzZjWFpVOTl30gFuQVVfeXFMTTh1WE5fSElGdURlQ01DcWpzSmg2SmVma0lnTEc0SkRuSjUtaUJIc0VMMEdUWjVhQTNGR3FiT3c2UHNvWVctTmZBLVVOMU02bnFZWl94R1pwZzJucTNhQnpCWE5VXzhDNmNYWlU5OXc?oc=5",
@@ -10027,6 +10063,18 @@
       "id": "35167f366f7aa1617367",
       "category": "선거·조직",
       "collected_at": "2026-09-18T15:36:58.632656+00:00"
+    },
+    {
+      "title": "9개 선본 입후보, 재선거 앞두고 2026학년도 학생자치기구 선거공청회 개최 - press.uos.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5waVlWcG5ONl95Mnhqd2tHWjVMTU5KajlKQkloaVlxQktRcEh4NHdXMERLV1FueXRuejFBbnNqYkx4UEs4dmlQSDVLNHhrRHMzTXNzbVdnMDNRSlp2RUlfMTN4S1ZRdVdy?oc=5",
+      "summary": "9개 선본 입후보, 재선거 앞두고 2026학년도 학생자치기구 선거공청회 개최 press.uos.ac.kr",
+      "source": "press.uos.ac.kr",
+      "published_at": "2026-03-24T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "77ebfa04f23fc37731f4",
+      "category": "선거·조직",
+      "collected_at": "2026-10-02T03:34:26.124929+00:00"
     },
     {
       "title": "등록금 오르는데 학생 목소리는 작다… “‘등심위’ 불균형 해소해야” - 한국대학신문",
