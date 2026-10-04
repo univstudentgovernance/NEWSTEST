@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-10-04T12:47:07.233854+09:00",
-  "item_count": 1101,
+  "updated_at": "2026-10-05T01:17:29.981566+09:00",
+  "item_count": 1103,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "[영상] 2026 총학생회 고연전 전야제 민주광장에서 열려 - 고대신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CMTVtaG1VOVV0eHVTZEI4LXljU2JQQnllTXJLTzNRRk5TTzVjdlpSOE5IbkFTa3ptZGRpMjF1cTNPZVVfWE5XOVpOdE50a0pIM0VfRVB0dV9vODNQMk0xV3VNVHRMWXRZN1E?oc=5",
+      "summary": "[영상] 2026 총학생회 고연전 전야제 민주광장에서 열려 고대신문",
+      "source": "고대신문",
+      "published_at": "2026-10-04T08:09:40+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8c483214f64ad693bb83",
+      "category": "기타",
+      "collected_at": "2026-10-04T16:16:58.035400+00:00"
+    },
     {
       "title": "부산디지털대, 총학생회와 소통 강화…학생 참여형 ‘가을축제’ 준비 - 이뉴스투데이",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EdGVzWVhXZG1GSVJ6UFltOGRzcjFVekNyZ0p1YlR3cldocktGTjBjUnhVa0FQaUtDS09DMlE1QmNWS2NhRkxKUmRvZXF5VWFLYU5NZnNKUnhZZTJxeEVoeWtubEJVZ25QQnk5U0wwUnFOMjN20gF0QVVfeXFMTUR0ZXNZWFdkbUZJUnpQWW04ZHNyMVV6Q3JnSnViVHdyV2hyS0ZOMGNSeFVrQVBpS0NLT0MyUTVCY1ZLY2FGTEpSZG9lcXlVYUthTk1mc0pSeFllMnF4RWh5a25sQlVnblBCeTlTTDBScU4yM3Y?oc=5",
@@ -11950,6 +11962,18 @@
       "id": "36ad5cdc91700535f052",
       "category": "등록금·교육",
       "collected_at": "2026-10-04T03:46:44.029354+00:00"
+    },
+    {
+      "title": "최교진 장관, 대학 등록금 관련 총학생회단체 면담 - 안동데일리",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSTDlyTllRNTI5aF8yMWIyS05KeFdseEg5cm1GVlJKRUZaTVB0OERHYlRoY3JvUk9NNE0tVzAtaFY0dTFwamF2ZGlPTlV6c1R3b1NMbE9OWUdyMm5FZW82ZWRkT09mYUJYX1NJWUt3?oc=5",
+      "summary": "최교진 장관, 대학 등록금 관련 총학생회단체 면담 안동데일리",
+      "source": "안동데일리",
+      "published_at": "2025-12-31T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "50d81f621d0c5d088af3",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-04T16:17:02.950668+00:00"
     },
     {
       "title": "2026학년도 학생자치기구 선거 무산, 학생자치 ‘공백기’ - 서울시립대신문",
