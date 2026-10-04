@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T00:33:34.734243+09:00",
-  "item_count": 1097,
+  "updated_at": "2026-10-04T12:47:07.233854+09:00",
+  "item_count": 1101,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -2103,6 +2103,18 @@
       "id": "7ac43a5471a4a04684a0",
       "category": "선거·조직",
       "collected_at": "2026-10-03T15:33:01.151676+00:00"
+    },
+    {
+      "title": "총학 비대위장, 졸업 앞두고 임기 중 사퇴 - chunchu.yonsei.ac.kr",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3TTdPSGJpTWZsYXZGZDVuRU1zMWFnRXZteHpQLUREbnAwa3NRc2pCNC1LLXRnTVNWT1ZpWFhJQzRuSm1Nb3dJTjhLYmJUNWMtbTBEcHF0UjZrUExET1duLVd6a1ZKYUQxT3owQURwbmY?oc=5",
+      "summary": "총학 비대위장, 졸업 앞두고 임기 중 사퇴 chunchu.yonsei.ac.kr",
+      "source": "chunchu.yonsei.ac.kr",
+      "published_at": "2026-08-26T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "1d9aa10fa12b421be736",
+      "category": "선거·조직",
+      "collected_at": "2026-10-04T03:46:39.069564+00:00"
     },
     {
       "title": "총학생회 건의가 현실로… 한세대, 기숙사·학생복지시설 개선 - 경기일보",
@@ -10196,6 +10208,18 @@
       "collected_at": "2026-09-10T15:39:25.441145+00:00"
     },
     {
+      "title": "백석문화대, 학생자치단체·동아리실 개소식…‘소통과 창의의 허브’로 - igoodnews.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VazVrNGNGRWVMZTFmY0FtLXpjYVhHd0RUNjdPTlRobUY3cnMtaVQ3OGdJbWNkbFpqblRCMzZjUmtIaldmRmdra0hXMjJscTlaVjRrRUtKaVhaSXk4bmxVQVJLYklVNjFFakpj?oc=5",
+      "summary": "백석문화대, 학생자치단체·동아리실 개소식…‘소통과 창의의 허브’로 igoodnews.net",
+      "source": "igoodnews.net",
+      "published_at": "2026-03-23T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "bb5b45603a5d0e6a81ac",
+      "category": "의결·자치",
+      "collected_at": "2026-10-04T03:46:40.784655+00:00"
+    },
+    {
       "title": "공약 검증의 장, 한양대 제54대 총학생회 보궐선거 정책공청회 개최 - newshyu.com",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEOVUwVmxtZmRYRHZHZVlrTGVBV1BzajRDczA3M2lpNFk1QkFnU0NGZlZ2Y0YwRkNRWFFnUV9wVm1Ba2VZLTZYQmdyLW14bC1iV3pJWmlIYUVUUGZJTTVUaTgzYl9Mc2ppV1FB?oc=5",
       "summary": "공약 검증의 장, 한양대 제54대 총학생회 보궐선거 정책공청회 개최 newshyu.com",
@@ -11916,6 +11940,18 @@
       "collected_at": "2026-08-11T12:49:21.210065+00:00"
     },
     {
+      "title": "최교진 장관, 대학 등록금 관련 총학생회단체 면담 - andongdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSTDlyTllRNTI5aF8yMWIyS05KeFdseEg5cm1GVlJKRUZaTVB0OERHYlRoY3JvUk9NNE0tVzAtaFY0dTFwamF2ZGlPTlV6c1R3b1NMbE9OWUdyMm5FZW82ZWRkT09mYUJYX1NJWUt3?oc=5",
+      "summary": "최교진 장관, 대학 등록금 관련 총학생회단체 면담 andongdaily.com",
+      "source": "andongdaily.com",
+      "published_at": "2025-12-31T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "36ad5cdc91700535f052",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-04T03:46:44.029354+00:00"
+    },
+    {
       "title": "2026학년도 학생자치기구 선거 무산, 학생자치 ‘공백기’ - 서울시립대신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYaGlTVXZGbUtzb2x5MHgzVWtWdEYyZ3FQSlJETnl3YWw0Y0xRWHpTSU9tOFdCM2FndUlYOWlyR21RUGRTeHV1aDVqYlpIWFcwYmFMT2lqbHhCQ2ZJWXJZQ21Nb2ZDU3dS?oc=5",
       "summary": "2026학년도 학생자치기구 선거 무산, 학생자치 ‘공백기’ 서울시립대신문",
@@ -12019,6 +12055,18 @@
       "id": "4da1ac4a90c67a321cb3",
       "category": "기타",
       "collected_at": "2026-08-05T17:13:08.808115+00:00"
+    },
+    {
+      "title": "전국 대학 총학생회 \"국가장학금 Ⅱ유형 폐지는 정책 후퇴\" - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYaUZrcThOakpGOFZWalNTRnFvMm8wNGtLa0hMUkEzcVoxbGJrcXZZb09GaGU2RWxCanFHOTdDcDRVSUpSZFROS2xrYXM0UWREeDRpRUowU1d3d9IBX0FVX3lxTE4xTG5BVHJGUTA0UkVncXNMa0p1VjVOcXZxTmE2eHRuamhyeHQ4VmFxYVZIcTlZeUhBdUlwTl9UcVhGYkZjYUozTk5YTnoxZmlfTFVzQUh1RW1Bc3U4bFpR?oc=5",
+      "summary": "전국 대학 총학생회 \"국가장학금 Ⅱ유형 폐지는 정책 후퇴\" 뉴스1",
+      "source": "뉴스1",
+      "published_at": "2025-12-26T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "a81f1917760f69e03074",
+      "category": "기타",
+      "collected_at": "2026-10-04T03:46:44.030021+00:00"
     },
     {
       "title": "[단독] 인하대 총학생회장, 성폭력·성희롱으로 학내 인권센터에 신고당해 - 프레시안",
