@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T01:17:29.981566+09:00",
-  "item_count": 1103,
+  "updated_at": "2026-10-05T12:31:19.148765+09:00",
+  "item_count": 1104,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -39,6 +39,18 @@
       "id": "e86b32358034e35705b3",
       "category": "기타",
       "collected_at": "2026-10-02T17:14:11.683493+00:00"
+    },
+    {
+      "title": "부산디지털대, 총학생회와 소통 강화…학생 참여형 ‘가을축제’ 준비 - enewstoday.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNVUlUTnBtZGFiX1VQeWUzRm44WGxoNGNidmlmZFlJYUttbV9YdzNReGJJb0U1Qy16SnZ4aTl0UGx1UmRzckg1eEltWjcxOE9Zb2NqSThxVnU0V3ZxMHJBcjU1ZktQR1dJWC1CVUpLb3lyd9IBdEFVX3lxTE1EdGVzWVhXZG1GSVJ6UFltOGRzcjFVekNyZ0p1YlR3cldocktGTjBjUnhVa0FQaUtDS09DMlE1QmNWS2NhRkxKUmRvZXF5VWFLYU5NZnNKUnhZZTJxeEVoeWtubEJVZ25QQnk5U0wwUnFOMjN2?oc=5",
+      "summary": "부산디지털대, 총학생회와 소통 강화…학생 참여형 ‘가을축제’ 준비 enewstoday.co.kr",
+      "source": "enewstoday.co.kr",
+      "published_at": "2026-10-02T03:45:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "5862b1212baa9eebe64e",
+      "category": "복지·문화",
+      "collected_at": "2026-10-05T03:30:55.946141+00:00"
     },
     {
       "title": "\"이번 축제에 연예인 누구 와요?\"만 궁금…스펙 안되는 총학생회 외면하는 대학가 - 아시아경제",
