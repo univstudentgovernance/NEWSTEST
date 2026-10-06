@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-10-05T12:31:19.148765+09:00",
-  "item_count": 1104,
+  "updated_at": "2026-10-06T13:19:11.705088+09:00",
+  "item_count": 1107,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "[보도] 우리의 권리를 직접 체험한 총학생회 인권행사 - 한림학보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRX0dqRnF6X2VMUGZaaHRXcU1la2VRaTd4Mm1KdExSSE5zWUZHUkg5aXlVTkE5eE41YTJkM0tzMUdVSzZLUnI0cDhjSEVkMGh3NnRPeTFQMTN4eDhqQVZ3SHg0emlTd1pTWjBZ?oc=5",
+      "summary": "[보도] 우리의 권리를 직접 체험한 총학생회 인권행사 한림학보",
+      "source": "한림학보",
+      "published_at": "2026-10-05T15:00:25+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b00c98cc8655894e6efb",
+      "category": "인권·갈등",
+      "collected_at": "2026-10-06T04:18:40.891075+00:00"
+    },
     {
       "title": "[영상] 2026 총학생회 고연전 전야제 민주광장에서 열려 - 고대신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CMTVtaG1VOVV0eHVTZEI4LXljU2JQQnllTXJLTzNRRk5TTzVjdlpSOE5IbkFTa3ptZGRpMjF1cTNPZVVfWE5XOVpOdE50a0pIM0VfRVB0dV9vODNQMk0xV3VNVHRMWXRZN1E?oc=5",
@@ -6966,6 +6978,18 @@
       "collected_at": "2026-10-03T15:33:01.151150+00:00"
     },
     {
+      "title": "'투표용지 부족사태 규탄' 시국선언 하는 대학 총학 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uX2hpNlNMTjJtMU1LLXcwa1ZTNmJXUGROWEdQRGg0WXVqalRyQzZtaE5VaWVDMlM4ZDFmSDdmSzdBdTJkNnVwNElXekhMaEtWcHBfRFhyVTlmQ3fSAWBBVV95cUxQM0Ytc2RVTVdxaTJXWk5udGVDQU1OOEtqQTRWWUthV1pZU0pOc1dscHpNcTZqVDQ4RHVKaE51MHY0em4xNWkydTcxazNJdnlleEd6ck42RHRWdEFvc0dYMHY?oc=5",
+      "summary": "'투표용지 부족사태 규탄' 시국선언 하는 대학 총학 연합뉴스",
+      "source": "연합뉴스",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "6f62a76c67a4dfc4f542",
+      "category": "기타",
+      "collected_at": "2026-10-06T04:18:40.892863+00:00"
+    },
+    {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14QXZkc01Ub0VPSjBuZjNwMkJoOUhhRllkbFpGVFhvYWVKYmVzcnNyWjN1NHNQVW5HZmJNckNPanZ3NFJPT1ZxdTNJa2Z6X1BXVl82U0wxZ2ZuSXI1eGRtTFVyYVZqWExQ?oc=5",
       "summary": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 안동MBC",
@@ -12161,6 +12185,18 @@
       "id": "9e66bf1602425a34d996",
       "category": "선거·조직",
       "collected_at": "2026-08-02T07:55:09.707537+00:00"
+    },
+    {
+      "title": "충북대 총학 선거 후폭풍, 학생총회 소집 운동으로 확산 - 충청리뷰",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YcXRyc2hrbmtqSndKWEpDLV84SWhsV2xkNDVYRVhYa0NXd3M1blprS2htN2NLd3lEdzJqVVZqVjRxV3d0Y1JUTklHZmZTWnFFakNVQzI1RXpRa0U4WUdNYmRRLU9RWGxtSHdoM0J30gFyQVVfeXFMTmNTa0djLVNMUHlXV1R0bjB5ZlNwUHQ0Z196TmZKOS05Z3AwOGtUdWo4YnFFclMxczNJUWRBM0hqVWdGdGU3d216b1l6ZUJEUWVDWm53Zk5ZSnJYZFBHYllNckQwVGJ1TnB5M0p2R2tsV0dB?oc=5",
+      "summary": "충북대 총학 선거 후폭풍, 학생총회 소집 운동으로 확산 충청리뷰",
+      "source": "충청리뷰",
+      "published_at": "2025-12-16T08:00:00+00:00",
+      "matched_query": "대학 학생총회 OR 전체학생대표자회의",
+      "feed": "Google News RSS",
+      "id": "f9e20a6132ce99eeeaa8",
+      "category": "선거·조직",
+      "collected_at": "2026-10-06T04:18:46.966702+00:00"
     },
     {
       "title": "충북대 학생단체, “총학생회 선거 세칙 위반” 규탄 - 중부매일",
