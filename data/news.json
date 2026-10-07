@@ -1,9 +1,69 @@
 {
-  "updated_at": "2026-10-07T12:45:33.394065+09:00",
-  "item_count": 1128,
+  "updated_at": "2026-10-08T03:16:30.722886+09:00",
+  "item_count": 1136,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "계명대·계명문화대 총학, 2차 공공기관 대구 이전 확대 촉구 - 경북일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03TWFMU1kzUmY3TXFZQ1lubVQ0X2owQjdlcW1teEFsdzhRdlBFcjVXUTV5d20tYWgxN0FOeTZNaHZBSG1rZjZJR0xtc1MwNm95NVlrcnRRdWdiOWN5MEx0cDhIcm5pbnFEV1FxYVVnaw?oc=5",
+      "summary": "계명대·계명문화대 총학, 2차 공공기관 대구 이전 확대 촉구 경북일보",
+      "source": "경북일보",
+      "published_at": "2026-10-07T10:13:32+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "7f28c188bd34b8fcaa40",
+      "category": "기타",
+      "collected_at": "2026-10-07T18:16:01.918060+00:00"
+    },
+    {
+      "title": "계명대학교-계명문화대학교 총학생회. ‘2차 공공기관 이전’ 대구 이전 촉구 - 데일리대구경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pcTNwd1NfdlczM3FhSUloSjU5LVB0OE5qUU5XVXRITXZYTGhoU2o0MmU3bGhZQ09ERUhJLTItbGRNUTNOemp1Q0N5ZVJZLVAtSFNydnVvZVlFZm5nS1BhNEsteU1FQQ?oc=5",
+      "summary": "계명대학교-계명문화대학교 총학생회. ‘2차 공공기관 이전’ 대구 이전 촉구 데일리대구경북뉴스",
+      "source": "데일리대구경북뉴스",
+      "published_at": "2026-10-07T09:30:46+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "dd269e3c314b6b3df965",
+      "category": "기타",
+      "collected_at": "2026-10-07T18:16:01.918090+00:00"
+    },
+    {
+      "title": "계명대·총학생회 공동 입장문 “2차 공공기관 대구 이전, 객관적 평가 기준 마련해야” - 더쎈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ubXNHSEplTWQxcWNVYzVHc19DZ3dEcVBwcjlxaHEtN2I3STJPd0xSelY4dkFNTUhqUF9WLVItZGpNNVpDNWltcUg5Zm9CRGhXY2lWYnJlQjRSbEhfYU9PWXlobWU4ZnVz?oc=5",
+      "summary": "계명대·총학생회 공동 입장문 “2차 공공기관 대구 이전, 객관적 평가 기준 마련해야” 더쎈뉴스",
+      "source": "더쎈뉴스",
+      "published_at": "2026-10-07T09:01:29+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b9facfecc22344f24075",
+      "category": "기타",
+      "collected_at": "2026-10-07T18:16:01.918185+00:00"
+    },
+    {
+      "title": "계명대·계명문화대 총학생회, '2차 공공기관 이전' 공동성명...대구 청년 의견 반영 촉구 - 국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wdFMzbDVjbUNZel9xdDMyRW9iNzdaWFpXcE1yQWZtYWZESHRtdk1fdU5POXNLOHJaenlKa2RYcGhsNmdVTWtvSzEzdG0xZ1pGTHM4Xzg2eXVfdGd4ZTE0cTJFRE0yaWpKUkphLUtn?oc=5",
+      "summary": "계명대·계명문화대 총학생회, '2차 공공기관 이전' 공동성명...대구 청년 의견 반영 촉구 국제뉴스",
+      "source": "국제뉴스",
+      "published_at": "2026-10-07T08:02:34+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "a03bdc018fd5adc1f766",
+      "category": "인권·갈등",
+      "collected_at": "2026-10-07T18:16:01.918155+00:00"
+    },
+    {
+      "title": "계명대·계명문화대 총학생회 \"2차 공공기관 대구로 이전해야\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvVEpUdWU0SzhPN19Od1VJa3dZQ3JxSXF3clZ2YzljRkdRZXN5d0M0ZWFsdkkwM0lET2xJWTd6akV2dnpsdnM2bS0yLVdOcGpUcV8ybW9RelpDZEJMTzNDVEVZbDZ1TE13dHpoOFhKX3M1UjJhb2FNc9IBeEFVX3lxTFBvVEpUdWU0SzhPN19Od1VJa3dZQ3JxSXF3clZ2YzljRkdRZXN5d0M0ZWFsdkkwM0lET2xJWTd6akV2dnpsdnM2bS0yLVdOcGpUcV8ybW9RelpDZEJMTzNDVEVZbDZ1TE13dHpoOFhKX3M1UjJhb2FNcw?oc=5",
+      "summary": "계명대·계명문화대 총학생회 \"2차 공공기관 대구로 이전해야\" 뉴시스",
+      "source": "뉴시스",
+      "published_at": "2026-10-07T07:29:16+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f1e13406a63d6280a8e5",
+      "category": "기타",
+      "collected_at": "2026-10-07T18:16:01.918107+00:00"
+    },
     {
       "title": "상명대, 학생자치기구 대표 총장간담회 개최 - 대학IN",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aWTd6cGZxdVJ5RW40SzlDQ21jSHM1by1sb3B5VGVHNjAzTHY2aE9Wcy0waFZLMUdJLV9tNVdzREdvcE1ZSl9KdG9VWFR3cmRfOWFXekJBMnUzbzRFalljTXBaLThWMUtxN240RNIBcEFVX3lxTE0xNXdKTWNwdzg4bTU1bU0wU0R4bUcyU2NuVkNTd2NnQV9sZ2tvZzUwdDR5c2I1UE0zWmQ5LV9DQUF4UllpelZRLUxJSTRWWVJTZk53OTYzcXlQOUtxMlhmN2dWQ19Jd1AyMEU4ZE5Pb00?oc=5",
@@ -255,6 +315,18 @@
       "id": "636dc0ec04f7425d6b2b",
       "category": "기타",
       "collected_at": "2026-10-01T17:50:48.945664+00:00"
+    },
+    {
+      "title": "창원대 총학생회·중앙위 “법인화 찬반 밝힌 적 없다” - Daum",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XT1E5NkNVb295VjNqaW13LTkxUWRZWk1OVEhIM1FkLU9IUC1TT011NjFYQ0xQVno0UVpvemV1UHFoWlU4VThnSlZhZw?oc=5",
+      "summary": "창원대 총학생회·중앙위 “법인화 찬반 밝힌 적 없다” Daum",
+      "source": "Daum",
+      "published_at": "2026-09-30T11:33:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "6bcc8650d143ee4ca2b5",
+      "category": "기타",
+      "collected_at": "2026-10-07T18:16:01.918288+00:00"
     },
     {
       "title": "창원대 총학생회·중앙위 “법인화 찬반 밝힌 적 없다” - 경남신문",
@@ -8129,6 +8201,18 @@
       "collected_at": "2026-10-06T17:44:09.379619+00:00"
     },
     {
+      "title": "“국가기관이 국민 기본권 침해”…전국 대학 총학생회 내일 동시 시국선언 - Daum",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IZXJOMi1WbXFLRXBkOWxHc0tSdnZWYTBiSlA2Q2NjM2JDeWhlNHYxeVJRT2NMS1ZNTEI3bUhXaGI2TUE0SHlQeEJjT0E2cVk?oc=5",
+      "summary": "“국가기관이 국민 기본권 침해”…전국 대학 총학생회 내일 동시 시국선언 Daum",
+      "source": "Daum",
+      "published_at": "2026-06-09T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "957919c20ca2118f9d03",
+      "category": "기타",
+      "collected_at": "2026-10-07T18:16:05.308401+00:00"
+    },
+    {
       "title": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 - 중앙일보",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1M2UtYVRVeTdZZ2dhMzVxaEdiRk9LMVN3Rk56WVA4b1VxZFJkcVllaXo5TGFneTh6N09ZS1FYR19sNXF2ZlVaMkdoeGY1b3AzamliaHFR?oc=5",
       "summary": "전국 12개 대학 총학생회, 6·10 항쟁일에 “공정 훼손” 시국선언 중앙일보",
@@ -12789,6 +12873,18 @@
       "id": "b87b3c2f5480f9a0dd19",
       "category": "의결·자치",
       "collected_at": "2026-09-13T15:26:32.723494+00:00"
+    },
+    {
+      "title": "국립한밭대, 2026학년도 학생자치기구 회장단 임명장 수여 - 대학저널",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nZGVtbjZuMG9SaVEzMHBFNW4zSnVlcDYzS2ZiNVhoNjNodXJoNkpydk1HUDBaTmxsQTBWa2h1WGhCa2Y2dW0ydlhsMlZXM3B0ZmVaSzc0NF9Id19uN1HSAWpBVV95cUxPc0FQVGlhQzJfSHZqWUdqQ2NoZWZmaFg3MDV6RFZrU1NsZkptc2poYUota3ZSZ3Q5bEtMdHVPOGNpWFA0X2Vsa0Mwd3lyWnVHVHYxYjRXTlZjeDl1aThlSVJJUXZ4bU9DQXlB?oc=5",
+      "summary": "국립한밭대, 2026학년도 학생자치기구 회장단 임명장 수여 대학저널",
+      "source": "대학저널",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "f87a796a567d82550089",
+      "category": "의결·자치",
+      "collected_at": "2026-10-07T18:16:03.592939+00:00"
     },
     {
       "title": "[속보] 2026 총학, PASS가 이끈다 - 채널PNU",
