@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-10-07T02:44:40.742869+09:00",
-  "item_count": 1125,
+  "updated_at": "2026-10-07T12:45:33.394065+09:00",
+  "item_count": 1128,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "상명대, 학생자치기구 대표 총장간담회 개최 - 대학IN",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aWTd6cGZxdVJ5RW40SzlDQ21jSHM1by1sb3B5VGVHNjAzTHY2aE9Wcy0waFZLMUdJLV9tNVdzREdvcE1ZSl9KdG9VWFR3cmRfOWFXekJBMnUzbzRFalljTXBaLThWMUtxN240RNIBcEFVX3lxTE0xNXdKTWNwdzg4bTU1bU0wU0R4bUcyU2NuVkNTd2NnQV9sZ2tvZzUwdDR5c2I1UE0zWmQ5LV9DQUF4UllpelZRLUxJSTRWWVJTZk53OTYzcXlQOUtxMlhmN2dWQ19Jd1AyMEU4ZE5Pb00?oc=5",
+      "summary": "상명대, 학생자치기구 대표 총장간담회 개최 대학IN",
+      "source": "대학IN",
+      "published_at": "2026-10-07T00:07:32+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "8a48c14c236f7a4c22c2",
+      "category": "의결·자치",
+      "collected_at": "2026-10-07T03:44:59.894464+00:00"
+    },
     {
       "title": "상명대, 2026학년도 2학기 학생자치기구 대표와 총장 간담회 - 핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BNEpzY0dkalVEM3FrMjlENjIyWlZIc0FWamFNQnIxZzdJRFBnUW5VRE4wcVZVVi1NSTRLdVhzb2VNVURvU09FNWQ1SGZUS2hQYVVzRktjVEs4eElfREw0ajFUTWxUb0Fia2l5eV9oMWJaSmZrNGJN0gF3QVVfeXFMTUE0SnNjR2RqVUQzcWsyOUQ2MjJaVkhzQVZqYU1CcjFnN0lEUGdRblVETjBxVlVWLU1JNEt1WHNvZU1VRG9TT0U1ZDVIZlRLaFBhVXNGS2NUSzh4SV9ETDRqMVRNbFRvQWJraXl5X2gxYlpKZms0Yk0?oc=5",
@@ -843,6 +855,18 @@
       "id": "04597f29031b6a4f4319",
       "category": "기타",
       "collected_at": "2026-09-24T16:17:42.786880+00:00"
+    },
+    {
+      "title": "목포대 총학생회 의대 심사 규탄대회 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42djZUSWk0WU43bU1RTF8zOFBfZ1djVEJXY2VUTjhxUjJ2WlkySFFvV3h2Q0phTnl6bjNkem1TUzYxbUpQSl9SdVNUbw?oc=5",
+      "summary": "목포대 총학생회 의대 심사 규탄대회 뉴스1",
+      "source": "뉴스1",
+      "published_at": "2026-09-14T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "7ff0cc77668a552eb682",
+      "category": "기타",
+      "collected_at": "2026-10-07T03:44:58.124409+00:00"
     },
     {
       "title": "목포대 총학생회, 전남권 의대 신설 후보 대학 심사 규탄 - 뉴시스",
@@ -11046,6 +11070,18 @@
       "id": "87a7a258958c3ac7dade",
       "category": "기타",
       "collected_at": "2026-08-11T01:12:15.272218+00:00"
+    },
+    {
+      "title": "[단독] 서울대 총학생회장 선거, 후보 없어 무산…“있으나 마나” 무용론 확산 - Daum",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JN1N2SHBaUW4wckxZQjVwNkZ5WDh2OVhYUGY0Nm5TTVBPYXhpMU9ESDhoTUpuN3ZCelJ5SExLS2NTUkpOc0xMMGtCUm5KLWM?oc=5",
+      "summary": "[단독] 서울대 총학생회장 선거, 후보 없어 무산…“있으나 마나” 무용론 확산 Daum",
+      "source": "Daum",
+      "published_at": "2026-03-01T08:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "0153ed9e4a621b283af5",
+      "category": "선거·조직",
+      "collected_at": "2026-10-07T03:44:58.124208+00:00"
     },
     {
       "title": "체감·문화·통합, 총학생회 PASS가 그리는 2026년 - 채널PNU",
