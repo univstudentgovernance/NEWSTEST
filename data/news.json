@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-10-08T03:16:30.722886+09:00",
+  "updated_at": "2026-10-08T12:59:10.117934+09:00",
   "item_count": 1136,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [],
+  "failures": [
+    {
+      "source": "연합뉴스",
+      "error": "ParseError: not well-formed (invalid token): line 536, column 80"
+    }
+  ],
   "items": [
     {
       "title": "계명대·계명문화대 총학, 2차 공공기관 대구 이전 확대 촉구 - 경북일보",
