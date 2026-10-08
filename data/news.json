@@ -1,13 +1,8 @@
 {
-  "updated_at": "2026-10-08T12:59:10.117934+09:00",
-  "item_count": 1136,
+  "updated_at": "2026-10-09T03:17:36.361551+09:00",
+  "item_count": 1137,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
-    {
-      "source": "연합뉴스",
-      "error": "ParseError: not well-formed (invalid token): line 536, column 80"
-    }
-  ],
+  "failures": [],
   "items": [
     {
       "title": "계명대·계명문화대 총학, 2차 공공기관 대구 이전 확대 촉구 - 경북일보",
@@ -8461,6 +8456,18 @@
       "id": "38e30f5d7c1c70a270a0",
       "category": "기타",
       "collected_at": "2026-08-03T12:39:45.106767+00:00"
+    },
+    {
+      "title": "서울 주요 대학 총학생회들 “선관위, 국민 참정권 침해... 원인 규명 철저히 해야” - Daum",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QYWg4MDlFN2FzYWZqY0hJNks2SE5VS1NZamtJVTZkeU1GNlBQUHlmUXp1dWo5RW0zTkxWb1puVnFXdWFvY1E?oc=5",
+      "summary": "서울 주요 대학 총학생회들 “선관위, 국민 참정권 침해... 원인 규명 철저히 해야” Daum",
+      "source": "Daum",
+      "published_at": "2026-06-06T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d46d6bb21d58bf8406a8",
+      "category": "기타",
+      "collected_at": "2026-10-08T18:17:04.983151+00:00"
     },
     {
       "title": "\"민주주의 멈췄다\" 대학 총학생회가 움직였다... '투표지 부족' 사태 규탄성명 확산 - v.daum.net",
