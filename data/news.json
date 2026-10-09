@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T03:17:36.361551+09:00",
-  "item_count": 1137,
+  "updated_at": "2026-10-09T13:04:23.200209+09:00",
+  "item_count": 1138,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -7252,6 +7252,18 @@
       "id": "17c17f9327b517d68c5a",
       "category": "기타",
       "collected_at": "2026-10-06T17:44:09.379871+00:00"
+    },
+    {
+      "title": "“참정권 수호해야”…18개대 총학 ‘투표용지 부족 규탄’ 시국선언 - Daum",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ncE0yVEJwYk82SF9pSjRwTnk3N3oyOTltNGhMd0V1U29IOWhPdmRuT1drbjM3YklEd19DcmZuY1B3aS13d2kyTUY5a2RSUG8?oc=5",
+      "summary": "“참정권 수호해야”…18개대 총학 ‘투표용지 부족 규탄’ 시국선언 Daum",
+      "source": "Daum",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "36909b5d5cd8c74481ae",
+      "category": "기타",
+      "collected_at": "2026-10-09T04:03:59.012360+00:00"
     },
     {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
