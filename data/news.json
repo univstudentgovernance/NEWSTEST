@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T12:49:49.120271+09:00",
-  "item_count": 1141,
+  "updated_at": "2026-10-11T01:46:33.559705+09:00",
+  "item_count": 1140,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -13436,18 +13436,6 @@
       "id": "70696892ebe9508135bd",
       "category": "기타",
       "collected_at": "2026-08-12T01:20:12.264649+00:00"
-    },
-    {
-      "title": "계명문화대, ‘비슬제’, 학생 자치 강화로 대학 축제 새 장 열어 - 오늘경제",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mZ3NXdjNfZkkxTm1XMnU0VC1EaE0yS0UyWTlHbEZxd2gyWllrbGVoU0RvVFdIVDRPblgxTHRuYTJGN1FTYmo0TFMtX0VTUzd1VnNIUDFsUE5MNEktSWNCbjVMUUk1QzhZVHBjSG1Id193eVU?oc=5",
-      "summary": "계명문화대, ‘비슬제’, 학생 자치 강화로 대학 축제 새 장 열어 오늘경제",
-      "source": "오늘경제",
-      "published_at": "2025-10-10T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "ba1ee39be877a7743e0c",
-      "category": "복지·문화",
-      "collected_at": "2026-09-22T02:49:12.930159+00:00"
     }
   ]
 }
