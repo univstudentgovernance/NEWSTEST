@@ -1,41 +1,8 @@
 {
-  "updated_at": "2026-10-10T02:51:41.032154+09:00",
-  "item_count": 1138,
+  "updated_at": "2026-10-10T12:49:49.120271+09:00",
+  "item_count": 1141,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
-    {
-      "query": "총학생회 OR 총학",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생자치",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 등록금 총학생회 OR 등록금심의위원회",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생총회 OR 전체학생대표자회의",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생회비 OR 자치비 OR 회계감사",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    }
-  ],
+  "failures": [],
   "items": [
     {
       "title": "계명대·계명문화대 총학, 2차 공공기관 대구 이전 확대 촉구 - 경북일보",
@@ -2112,6 +2079,18 @@
       "id": "998a5b44422e2a62c8ca",
       "category": "기타",
       "collected_at": "2026-09-10T15:39:23.769569+00:00"
+    },
+    {
+      "title": "박홍근 장관, 전현직 총학생회장단 만나 청년 목소리 청취 - Daum",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PX0s0c294bG1mQTh0OWIzWXFtR0Y0WWRmLU03MDZnZFpTcjl2QVl1aVVaZW9yREJDdUZ1dExPd0t6ZFBKeEFnU0gxeVpEY1U?oc=5",
+      "summary": "박홍근 장관, 전현직 총학생회장단 만나 청년 목소리 청취 Daum",
+      "source": "Daum",
+      "published_at": "2026-09-03T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "0ad9bc9301cd4b4a6793",
+      "category": "기타",
+      "collected_at": "2026-10-10T03:49:17.424755+00:00"
     },
     {
       "title": "\"밀실 평가·정치적 무책임 규탄\"...목포대 총학 의대 신설 탈락 입장 발표 - 머니투데이 - mt.co.kr",
@@ -4752,6 +4731,18 @@
       "id": "b8bcc5f4993fac9c2654",
       "category": "기타",
       "collected_at": "2026-09-14T02:51:43.411638+00:00"
+    },
+    {
+      "title": "조규일 진주시장, 대학 총학생회와 청년정책 소통 나서 - Daum",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Lb0VYRjVDQ0ZNa2pIZGxCWnNoTjhNVVZOOEltZDZwNWxUZmxBOEpqSEg0akdrWTNfV2d1RERjSE9Gb0x2VW9NdkhQcXBfQVd4aDg4Vg?oc=5",
+      "summary": "조규일 진주시장, 대학 총학생회와 청년정책 소통 나서 Daum",
+      "source": "Daum",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "cfbf90006102a72bf961",
+      "category": "기타",
+      "collected_at": "2026-10-10T03:49:17.424883+00:00"
     },
     {
       "title": "조규일 진주시장, 대학 총학생회와 청년정책 소통 나서 - v.daum.net",
@@ -9676,6 +9667,18 @@
       "id": "6576004249def0bec67e",
       "category": "재정·감사",
       "collected_at": "2026-08-01T17:27:22.099443+00:00"
+    },
+    {
+      "title": "백석대, 2026학년도 학생자치단체 연합 출범식 개최… “학생이 주인 되는 공동체” - 백석대학교 인트로",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lelJReDdqLTNjY2lselNja0Q4YVRFU2ZacFM2Tm5OZGJpX194Q0dsWG1nYU9jVDhUbjdHaW1hb3VhSUtNWlp3ZHJ5TVJLN1JXMEtGSnlkYXRudHdINmRyVTNBZGMxUQ?oc=5",
+      "summary": "백석대, 2026학년도 학생자치단체 연합 출범식 개최… “학생이 주인 되는 공동체” 백석대학교 인트로",
+      "source": "백석대학교 인트로",
+      "published_at": "2026-04-15T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "6262978e9c6197abee5c",
+      "category": "의결·자치",
+      "collected_at": "2026-10-10T03:49:19.096238+00:00"
     },
     {
       "title": "\"공동체보단 스펙이 먼저\"… '학생 자치' 사라지는 광주 대학가 - 진일보",
