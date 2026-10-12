@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-10-12T12:46:29.481775+09:00",
-  "item_count": 1141,
+  "updated_at": "2026-10-13T05:44:08.387314+09:00",
+  "item_count": 1144,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "\"총학이 왜 필요한지 보여줘야\"… 학생회장 출신 의원 3인의 쓴소리 - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NM2dKSFcwTE45NnV3QlZfUkhlX1dfX3NfQXU0RTlmYWFZQ1UybXBGdlIzMklsczVKcS0xaGZFNWV0cnpYckxvYk11ZHg0TkdIQ1pDbFNaZUlmT0RRSGdXWUxR?oc=5",
+      "summary": "\"총학이 왜 필요한지 보여줘야\"… 학생회장 출신 의원 3인의 쓴소리 매일신문",
+      "source": "매일신문",
+      "published_at": "2026-10-12T07:29:59+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "19a8d1df3333be943dfe",
+      "category": "기타",
+      "collected_at": "2026-10-12T20:43:34.464426+00:00"
+    },
+    {
+      "title": "총학 선거철 돌아오지만… 식어가는 대학가 `학생자치 열기` - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pNTExWkZlOG84eDk4TmNKX3FfN0JQR3gtWWxpQmQ3d3lpVXp0dXM1dzQyRFRBa2VHRm9IOURNMHZaWktqOG9BUnBzQVBzZkNKUjUyVVJkLU5GdGFFbHBKaWF3?oc=5",
+      "summary": "총학 선거철 돌아오지만… 식어가는 대학가 `학생자치 열기` 매일신문",
+      "source": "매일신문",
+      "published_at": "2026-10-12T07:26:07+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8f4bc411676b9c5d7926",
+      "category": "선거·조직",
+      "collected_at": "2026-10-12T20:43:34.464359+00:00"
+    },
     {
       "title": "계명대·계명문화대 총학, 2차 공공기관 대구 이전 확대 촉구 - 경북일보",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03TWFMU1kzUmY3TXFZQ1lubVQ0X2owQjdlcW1teEFsdzhRdlBFcjVXUTV5d20tYWgxN0FOeTZNaHZBSG1rZjZJR0xtc1MwNm95NVlrcnRRdWdiOWN5MEx0cDhIcm5pbnFEV1FxYVVnaw?oc=5",
@@ -7300,6 +7324,18 @@
       "id": "36909b5d5cd8c74481ae",
       "category": "기타",
       "collected_at": "2026-10-09T04:03:59.012360+00:00"
+    },
+    {
+      "title": "대학교 총학생회들, 6·3 지방선거 투표용지 부족 사태 규탄 시국선언 - https://www.ppss.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FN29rSjN0WlcxOTI2REdoY3VTMUpYR3BBZlB5d3BQRG1rZUFfNF8wNVJrWVd0SXFlVUNPUjB4LUdnbm1CVjRrVldjdWxuQlhoY0piLUxNbUNzMjhSeFlaSDRVWmk?oc=5",
+      "summary": "대학교 총학생회들, 6·3 지방선거 투표용지 부족 사태 규탄 시국선언 https://www.ppss.kr/",
+      "source": "https://www.ppss.kr/",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "69c7d867f715841429e5",
+      "category": "선거·조직",
+      "collected_at": "2026-10-12T20:43:38.012123+00:00"
     },
     {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
