@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T02:11:31.651359+09:00",
-  "item_count": 1140,
+  "updated_at": "2026-10-12T12:46:29.481775+09:00",
+  "item_count": 1141,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -5977,6 +5977,18 @@
       "id": "296c20e470b96527d3ec",
       "category": "기타",
       "collected_at": "2026-09-26T02:59:44.787363+00:00"
+    },
+    {
+      "title": "19개 대학 총학생회, 오후 중앙선관위 '투표용지 부족' 항의 방문 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RUlNhSG1jbTljSXlOVEpvWmV6Ni1RYXlraWF6d0w0X3Y0RXcyLURPNVI0RE41c2JERlRMVWtEbUl2YkJtd182dWNfQW1mXzBudzlCV3dNdWFha1R2SmRMX3pDbERZanV2dlIzNVgzdExjS28tSzZwUA?oc=5",
+      "summary": "19개 대학 총학생회, 오후 중앙선관위 '투표용지 부족' 항의 방문 네이트",
+      "source": "네이트",
+      "published_at": "2026-06-17T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "fbcbf856dc26558f08d6",
+      "category": "기타",
+      "collected_at": "2026-10-12T03:46:00.913656+00:00"
     },
     {
       "title": "전국 대학 전·현직 총학생회장, 투표지 부족 사태 간담회 - 서울일보",
