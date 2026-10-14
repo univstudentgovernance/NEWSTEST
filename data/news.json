@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-10-14T12:05:17.925680+09:00",
-  "item_count": 1146,
+  "updated_at": "2026-10-15T01:19:10.718818+09:00",
+  "item_count": 1147,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [],
+  "failures": [
+    {
+      "source": "연합뉴스",
+      "error": "ParseError: not well-formed (invalid token): line 1125, column 80"
+    }
+  ],
   "items": [
     {
       "title": "\"총학이 왜 필요한지 보여줘야\"… 학생회장 출신 의원 3인의 쓴소리 - 매일신문",
@@ -7348,6 +7353,18 @@
       "id": "69c7d867f715841429e5",
       "category": "선거·조직",
       "collected_at": "2026-10-12T20:43:38.012123+00:00"
+    },
+    {
+      "title": "[OK제보] 대학원 총학에 무슨 일?…단과대 회장단 무더기 해임 논란 - Daum",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hMEJzRVhJUkF5TlJJYWw0RnRFMHlkNzVUckpuVHMxV2k4aUhrbVVrN2h2VDJ3YlBxNmlZM0xWaDMtQ3NWc2Z1SGIxRW9WMTQ?oc=5",
+      "summary": "[OK제보] 대학원 총학에 무슨 일?…단과대 회장단 무더기 해임 논란 Daum",
+      "source": "Daum",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d6ed1e0c6511e3e108ef",
+      "category": "인권·갈등",
+      "collected_at": "2026-10-14T16:18:43.122876+00:00"
     },
     {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
