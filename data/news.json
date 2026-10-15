@@ -1,42 +1,33 @@
 {
-  "updated_at": "2026-10-15T11:46:12.282556+09:00",
-  "item_count": 1147,
+  "updated_at": "2026-10-16T01:07:13.720315+09:00",
+  "item_count": 1150,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
-    {
-      "query": "총학생회 OR 총학",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생자치",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 등록금 총학생회 OR 등록금심의위원회",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생총회 OR 전체학생대표자회의",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생회비 OR 자치비 OR 회계감사",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    }
-  ],
+  "failures": [],
   "items": [
+    {
+      "title": "영남이공대 총학생회, 중간고사 응원 간식 나눔 행사 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16Z2x4M0lOdElOeUlqemFKVUJsVEFZekNyTWxpTUhoUFMzSVl4UW5wV090bWlQaXROM0dkVkExX29RRHlQZ21TZkxHWHJ0d2F0ejlyWWhWY3M3bjZUSWpfM0ljdnB3V055bEtpZmp5UUhud9IBdEFVX3lxTFBUMHdVQ1NRczZXWjhRMFhmbGF2SEdac08zM013TVdrUklaUDh6MFh2SFRLV0NFOFpULVkzbmtKM3pqVnJ4aEFNTFBPLWx5YUltaGFVY0g3TXAzZHVjQTFJal9Zd09JRUcyclZtTktWZ21IcDd3?oc=5",
+      "summary": "영남이공대 총학생회, 중간고사 응원 간식 나눔 행사 이뉴스투데이",
+      "source": "이뉴스투데이",
+      "published_at": "2026-10-15T08:20:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8e4f2e393ee81acbcacb",
+      "category": "복지·문화",
+      "collected_at": "2026-10-15T16:06:40.194610+00:00"
+    },
+    {
+      "title": "“A+ 받아부리또~”…영남이공대 총학생회, 중간고사 재학생 응원 - 쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LOWtwYU5oYUQzVWk2QzNqWXVXcnVpZ0k0X2lGS0hCSGZGUVhjRlJvSGxHZzVCaUVfY1JPQTdLSHg4VXk3SE91SHpKYTdSNVFJNEgtLVk2NlRvS2E1VmpILThwRQ?oc=5",
+      "summary": "“A+ 받아부리또~”…영남이공대 총학생회, 중간고사 재학생 응원 쿠키뉴스",
+      "source": "쿠키뉴스",
+      "published_at": "2026-10-14T14:06:24+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "de19067b72778bec2571",
+      "category": "기타",
+      "collected_at": "2026-10-15T16:06:40.194708+00:00"
+    },
     {
       "title": "\"총학이 왜 필요한지 보여줘야\"… 학생회장 출신 의원 3인의 쓴소리 - 매일신문",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NM2dKSFcwTE45NnV3QlZfUkhlX1dfX3NfQXU0RTlmYWFZQ1UybXBGdlIzMklsczVKcS0xaGZFNWV0cnpYckxvYk11ZHg0TkdIQ1pDbFNaZUlmT0RRSGdXWUxR?oc=5",
@@ -6270,6 +6261,18 @@
       "id": "2d512ee8f3fde8487c55",
       "category": "기타",
       "collected_at": "2026-09-28T03:01:54.355094+00:00"
+    },
+    {
+      "title": "단독) 전국 18개 대학 총학생회, ‘6·3 지방선거 투표용지 부족 사태’ 규탄 공동 시국선언 - 한국미디어일보",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tdXF6VHhGT3I1d2lMbmJSVzdIeXJrMC0wa2JtSWlMbjRiR0ZvbndYVkZmYnpBWHo5dmpjclJZUGMta3pfN2VBX3VWZ21ORERibnplbzhhMGlwWFYya0ZVZk1ZYW5hZnhEcUxmWUtxM3RiQzlmS3gxdkUtS29mUQ?oc=5",
+      "summary": "단독) 전국 18개 대학 총학생회, ‘6·3 지방선거 투표용지 부족 사태’ 규탄 공동 시국선언 한국미디어일보",
+      "source": "한국미디어일보",
+      "published_at": "2026-06-11T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "2cb65a7bea104b8517ad",
+      "category": "선거·조직",
+      "collected_at": "2026-10-15T16:06:43.652934+00:00"
     },
     {
       "title": "'투표용지 부족 규탄' 18개대 총학 시국선언…\"참정권 수호해야\"(종합) - 연합뉴스",
