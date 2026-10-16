@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T11:41:25.141821+09:00",
-  "item_count": 1151,
+  "updated_at": "2026-10-17T00:54:46.270137+09:00",
+  "item_count": 1152,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -9822,6 +9822,18 @@
       "id": "b9b654c97f07132ad070",
       "category": "기타",
       "collected_at": "2026-08-02T15:47:12.271877+00:00"
+    },
+    {
+      "title": "\"공동체보단 스펙이 먼저\"… '학생 자치' 사라지는 광주 대학가 - 진일보 | 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XMnFBZ3poLWhIeWZGRnVlSmZvOW5HZkNPZ1dWdUtWdVM2elRTeDQ3a0FHM0NTZk55ZV9UZjU1YVdBQ1doMERUckE3OWRYZWZkLWNya3A1Z3pIYktxQmVNTzVuMWVUOTZ1c2o5UXdXWQ?oc=5",
+      "summary": "\"공동체보단 스펙이 먼저\"… '학생 자치' 사라지는 광주 대학가 진일보 | 전남일보",
+      "source": "진일보 | 전남일보",
+      "published_at": "2026-04-14T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "a0ed1d33079db63b3593",
+      "category": "기타",
+      "collected_at": "2026-10-16T15:54:16.099290+00:00"
     },
     {
       "title": "\"공동체보단 스펙이 먼저\"… '학생 자치' 사라지는 광주 대학가 - v.daum.net",
