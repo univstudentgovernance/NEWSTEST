@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T00:54:46.270137+09:00",
-  "item_count": 1152,
+  "updated_at": "2026-10-17T11:32:54.690955+09:00",
+  "item_count": 1153,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -135,6 +135,18 @@
       "id": "f1e13406a63d6280a8e5",
       "category": "기타",
       "collected_at": "2026-10-07T18:16:01.918107+00:00"
+    },
+    {
+      "title": "계명대·계명문화대 총학, 2차 공공기관 대구 이전 확대 촉구 - kyongbuk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03TWFMU1kzUmY3TXFZQ1lubVQ0X2owQjdlcW1teEFsdzhRdlBFcjVXUTV5d20tYWgxN0FOeTZNaHZBSG1rZjZJR0xtc1MwNm95NVlrcnRRdWdiOWN5MEx0cDhIcm5pbnFEV1FxYVVnaw?oc=5",
+      "summary": "계명대·계명문화대 총학, 2차 공공기관 대구 이전 확대 촉구 kyongbuk.co.kr",
+      "source": "kyongbuk.co.kr",
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b1c47f39d3d880df7363",
+      "category": "기타",
+      "collected_at": "2026-10-17T02:32:22.342709+00:00"
     },
     {
       "title": "상명대, 학생자치기구 대표 총장간담회 개최 - 대학IN",
