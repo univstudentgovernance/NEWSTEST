@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T11:32:54.690955+09:00",
-  "item_count": 1153,
+  "updated_at": "2026-10-17T23:47:56.431453+09:00",
+  "item_count": 1154,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -11650,6 +11650,18 @@
       "id": "bc1a114a200052ddc1b8",
       "category": "등록금·교육",
       "collected_at": "2026-09-04T02:25:38.210649+00:00"
+    },
+    {
+      "title": "\"교육부, 등심위 제도 개선해야\"…14개 대학 총학, 등록금 인상 규탄 - Daum",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ScnY2MV9ZUnJRQWg1NnlkVDREQWtXY3AzNGFvNHdnVTdFZml6dmxUcktsTGFZZExyRE5lanEySHU5dElMMHc?oc=5",
+      "summary": "\"교육부, 등심위 제도 개선해야\"…14개 대학 총학, 등록금 인상 규탄 Daum",
+      "source": "Daum",
+      "published_at": "2026-02-02T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "946a7a1c0f24f91f1e57",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-17T14:47:30.254780+00:00"
     },
     {
       "title": "사립대 등록금 인상이 ‘뉴 노멀’… ‘깜깜이 등심위’ 개선 과제로 - 국민일보",
