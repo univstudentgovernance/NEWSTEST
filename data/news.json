@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-10-18T11:34:09.865982+09:00",
-  "item_count": 1155,
+  "updated_at": "2026-10-19T00:13:19.212932+09:00",
+  "item_count": 1160,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "9개 대학 총학생회장·학보사 기자들과 '청년로그인’ - 서대문신문",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZUFNrQ0tMS1AxY0FwWXpickVKcGNhdlJMc3c0R3hKVXZ6VFNmbHhwOTB1MlN5S3FvWXh6VUdoOFNVOFRQR3JjOGNOdE1zSktzdzREbFMzOHhEUGNuSExXWg?oc=5",
+      "summary": "9개 대학 총학생회장·학보사 기자들과 '청년로그인’ 서대문신문",
+      "source": "서대문신문",
+      "published_at": "2026-10-18T14:38:30+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "7d5c573d6dc56f6efe64",
+      "category": "기타",
+      "collected_at": "2026-10-18T15:12:49.937048+00:00"
+    },
+    {
+      "title": "전학대회서 김민규 전 총학생회장 비판 입장문 '반대·기권 39명' 속 가결 - 서울대저널",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrRnpxM3h1ektObDhyR0pLMi0yXy1OcDRKbFVaX0FXdWpUVzlvUEJQY3paTGdhd1NOQ28xb3lsVHUwQVY3WUZMQ3VyQ1NTRGloY2RZT053ellBNERNX1VQSW13R2xlZw?oc=5",
+      "summary": "전학대회서 김민규 전 총학생회장 비판 입장문 '반대·기권 39명' 속 가결 서울대저널",
+      "source": "서울대저널",
+      "published_at": "2026-10-18T09:53:18+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "062ec4d6fef888b19a0f",
+      "category": "의결·자치",
+      "collected_at": "2026-10-18T15:12:49.937022+00:00"
+    },
     {
       "title": "영남이공대학교, 총학생회 주관 간식 제공 행사로 학업 동기↑ - 국제뉴스",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wWGlQZU1sQWNIMDJxLWN0a042RWVmdjRPR2c2NVFvcE9Icko4ZnNLR3VkdXN2SE00clJ5X1h4azBFczNsNkM4ekxnSGhnQ0pUQ3FqdWdVSEFFbW9kZnQyYlNXcVNkZTVZVUI1SThn?oc=5",
@@ -75,6 +99,18 @@
       "id": "8f4bc411676b9c5d7926",
       "category": "선거·조직",
       "collected_at": "2026-10-12T20:43:34.464359+00:00"
+    },
+    {
+      "title": "총학 하반기 프로모션으로 2700만 원 흑자 - 이대학보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGV3lHSWdydHpEdW1RWm1vR3VvOXFYMWZVbHYyQlJlZ0lTNHNjY2hISWlZMFNFVzFFS3lwbFFOSVBNU2JWQU9jYmI5Y1dWZng5bW9QLXVSTkw4VkpkZ2p1YnpBWWE1VFA1bXfSAW5BVV95cUxOZVhHR0lnMDYxeFUwSXRXQ2dUb01XZHlzVS04LWcyNWVwWkNWZWtaRGc0eWNfSXhXTUMwQUUyQ3ppaXV2b1A0ODEtTmh4VUN4ZzljUngwalJqblAxTFhHaXB6anVob1Rxa1J3WWJHdw?oc=5",
+      "summary": "총학 하반기 프로모션으로 2700만 원 흑자 이대학보",
+      "source": "이대학보",
+      "published_at": "2026-10-08T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b9f2acacf58e6dea59ad",
+      "category": "기타",
+      "collected_at": "2026-10-18T15:12:49.937078+00:00"
     },
     {
       "title": "계명대·계명문화대 총학, 2차 공공기관 대구 이전 확대 촉구 - 경북일보",
@@ -5302,6 +5338,18 @@
       "id": "cee3b83c6c6e923bbd09",
       "category": "기타",
       "collected_at": "2026-09-23T02:49:33.511575+00:00"
+    },
+    {
+      "title": "“의과대학 전리품 아니다”…순천대 총학, 정치 개입 중단 촉구 - 진일보 | 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPZUptLXZqYm9XOEtQemM4c3FIYlA2OEtkRmRQZDE5YXAwYmVsZFRQRjNIRllZd29COE5IaVdkaTQ2VWlxdDdoY2hiSHFvLWR4UWVmTkp4WXhxN0JRTFk0Wm10U0dGOU40UEYyMnkyYw?oc=5",
+      "summary": "“의과대학 전리품 아니다”…순천대 총학, 정치 개입 중단 촉구 진일보 | 전남일보",
+      "source": "진일보 | 전남일보",
+      "published_at": "2026-07-20T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "bbcf30526cf4c078ec9f",
+      "category": "기타",
+      "collected_at": "2026-10-18T15:12:49.938192+00:00"
     },
     {
       "title": "부산경상대 총학생회, 몽골 글로벌 서비스러닝 프로그램 참가 - 부산일보",
@@ -11405,6 +11453,18 @@
       "id": "63700e7856325af80c4b",
       "category": "기타",
       "collected_at": "2026-09-12T02:37:30.715998+00:00"
+    },
+    {
+      "title": "안산대 제41대 총학생회, 대학발전기부금 기탁 - 교수신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04OWhUOXlNZFlnX3EwSjFXSVlIdDFOWDl6UGxHTXltMmo4aHMyNE5MX1FMVkE2dWdHSEJucnZfSFlHQ2pYbTVNTW1ySm92ZllKbnpzUWZDbnhNOXMzM1cwaDkwRUc2M0E?oc=5",
+      "summary": "안산대 제41대 총학생회, 대학발전기부금 기탁 교수신문",
+      "source": "교수신문",
+      "published_at": "2026-02-27T08:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "18b32d8076e1d63b5ec5",
+      "category": "기타",
+      "collected_at": "2026-10-18T15:12:58.214135+00:00"
     },
     {
       "title": "제주청년센터, 3개 대학 총학생회 ‘교류-연계’ 업무협약 - 제주의소리",
