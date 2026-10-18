@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T23:47:56.431453+09:00",
-  "item_count": 1154,
+  "updated_at": "2026-10-18T11:34:09.865982+09:00",
+  "item_count": 1155,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -7420,6 +7420,18 @@
       "id": "d6ed1e0c6511e3e108ef",
       "category": "인권·갈등",
       "collected_at": "2026-10-14T16:18:43.122876+00:00"
+    },
+    {
+      "title": "\"저녁 6시 동시다발 시국선언\"…대학 총학생회들 나선다 - Daum",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fYjh4Y3N2bnVUUjdMZVVuNXpTclFSZXV0azZrSUYxQTdWd3ljWWszLTFJa2thQXpFa1hBMlUxQVljcUpnZmt1Nm5CMGVVMWs?oc=5",
+      "summary": "\"저녁 6시 동시다발 시국선언\"…대학 총학생회들 나선다 Daum",
+      "source": "Daum",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "610ce9a90acdf0ceaf98",
+      "category": "기타",
+      "collected_at": "2026-10-18T02:33:38.004012+00:00"
     },
     {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
