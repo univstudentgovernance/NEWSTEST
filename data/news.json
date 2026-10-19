@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T00:13:19.212932+09:00",
-  "item_count": 1160,
+  "updated_at": "2026-10-19T11:47:53.597697+09:00",
+  "item_count": 1162,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -7482,6 +7482,18 @@
       "collected_at": "2026-10-18T02:33:38.004012+00:00"
     },
     {
+      "title": "\"초동 대처 무능, 책임 앞 비겁했다\"...전국18개 대학 총학생회, '투표용지 부족' 공동 시국선언 - 청년일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Fa0tyak5uRlhRN3QyX1QxUFNsbDd3QVNoVGZUY01XdHJhSklPaEdIUnk4clhtcGVxcVdYMGVMdC04TU5XYlpWN0N2dy05SlhGbDNsMDFNWENwVGZ6QTQwLXpSWFZpY0k?oc=5",
+      "summary": "\"초동 대처 무능, 책임 앞 비겁했다\"...전국18개 대학 총학생회, '투표용지 부족' 공동 시국선언 청년일보",
+      "source": "청년일보",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "6a4ffe2828d85b904f2e",
+      "category": "기타",
+      "collected_at": "2026-10-19T02:47:25.124179+00:00"
+    },
+    {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14QXZkc01Ub0VPSjBuZjNwMkJoOUhhRllkbFpGVFhvYWVKYmVzcnNyWjN1NHNQVW5HZmJNckNPanZ3NFJPT1ZxdTNJa2Z6X1BXVl82U0wxZ2ZuSXI1eGRtTFVyYVZqWExQ?oc=5",
       "summary": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 안동MBC",
@@ -11172,6 +11184,18 @@
       "id": "05642f1b849f0b64f5c3",
       "category": "재정·감사",
       "collected_at": "2026-09-12T02:37:32.292317+00:00"
+    },
+    {
+      "title": "국립한밭대, 2026학년도 학생자치기구 출범식 성료 - 교수신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PZVowbVhxNVdqYkZUazFaVGRtb0lpeUFpVjdJNGc4TlFMaGt4ZWtKUzdUeXdxWnpRX0xsb2Z3Qy1QYzFBcFdNTXdKZmtwRHo2SjhUbWlJa09kVzZwR2pyOERZcnd0elk?oc=5",
+      "summary": "국립한밭대, 2026학년도 학생자치기구 출범식 성료 교수신문",
+      "source": "교수신문",
+      "published_at": "2026-03-12T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "0b1f51584a0f4725ec88",
+      "category": "의결·자치",
+      "collected_at": "2026-10-19T02:47:23.432088+00:00"
     },
     {
       "title": "휘청이는 학생자치…새학기 불구 대학 곳곳서 '총학생회 공백' 뚜렷 - 대전일보",
