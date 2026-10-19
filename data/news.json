@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-10-19T11:47:53.597697+09:00",
-  "item_count": 1162,
+  "updated_at": "2026-10-20T03:09:06.019058+09:00",
+  "item_count": 1163,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "서울대 총학생회 선거 다시 무산돼··· 세 번 연속 예비 후보 등록자 없었다 - 서울대저널",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBONDhxbjQxMktsQVVoUEZzMzhrRXRGdnMyN3plMmphelphVkVLNjd5YTAtdkZxUjdISUhzWkJGQkk3amNHLTl1dGs5RjB0cV9iaEFCbEdHQjlHSUJJdE5iVlE5VGZTQQ?oc=5",
+      "summary": "서울대 총학생회 선거 다시 무산돼··· 세 번 연속 예비 후보 등록자 없었다 서울대저널",
+      "source": "서울대저널",
+      "published_at": "2026-10-19T09:12:16+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "cfe85138ad1bc7fbcbc4",
+      "category": "선거·조직",
+      "collected_at": "2026-10-19T18:08:31.984803+00:00"
+    },
     {
       "title": "9개 대학 총학생회장·학보사 기자들과 '청년로그인’ - 서대문신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZUFNrQ0tMS1AxY0FwWXpickVKcGNhdlJMc3c0R3hKVXZ6VFNmbHhwOTB1MlN5S3FvWXh6VUdoOFNVOFRQR3JjOGNOdE1zSktzdzREbFMzOHhEUGNuSExXWg?oc=5",
@@ -10456,6 +10468,18 @@
       "collected_at": "2026-09-08T02:32:23.171853+00:00"
     },
     {
+      "title": "“총학생회 한다고 뭐가 남죠?...입후보자 없는 SKY, 보궐선거도 무산 - Daum",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBucEFEWjY4N29qTDRkNzlfUURGdVQwcm9kdVZmczUyVVhQalg4NGtzYWFsWXkxMTI0cHpoaDk1dExkNkhESmZxcGt4bw?oc=5",
+      "summary": "“총학생회 한다고 뭐가 남죠?...입후보자 없는 SKY, 보궐선거도 무산 Daum",
+      "source": "Daum",
+      "published_at": "2026-04-06T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "9ec5dab5e22e7fec1406",
+      "category": "선거·조직",
+      "collected_at": "2026-10-19T18:08:35.565370+00:00"
+    },
+    {
       "title": "총학생회비 쓰임 몰라 납부하지 않는 학생들···10명 중 3명만 낸다 - inews.ewha.ac.kr",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ubGowZkdsNzJpUE5jZVRzZkEteEdCcFdxMkx6YUJMWEFGZ3djTjVFVGhGUTZUZ2xESlFmTi1sclFLVUVpRmJqTjBCUV9zWFdKbmliaEV3U2NtaHZnQnFfdEJRdkxsOWEyenfSAW5BVV95cUxNREhCZy0zTldxY2NIZXBHcHN3SnJmdzluWXQ5UU5Rb1pDMlhoN1VJVkp1M1UzR3NHdThhSTNQUjFPYzYySFVTQ2psRFdXS0FyZUd2Nm8wRFJwT0U5YUR1TzJjQUtWLTFKNFZ1Tjd1dw?oc=5",
       "summary": "총학생회비 쓰임 몰라 납부하지 않는 학생들···10명 중 3명만 낸다 inews.ewha.ac.kr",
@@ -11008,6 +11032,18 @@
       "id": "a05fe11e4bf5dbfcce0c",
       "category": "의결·자치",
       "collected_at": "2026-09-09T15:44:32.684034+00:00"
+    },
+    {
+      "title": "백석문화대, 학생자치단체·동아리실 개소식 - 충청뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YX2VqdHV4bDVLeHV5Z3NGV21XbEtuSU5HNjlKYmJqMy1Jd3dYSTZnTlc2SzlmMExTNllxM3Y3eURwY1FOdzA3SGJZVmNCUV8tNnl3ZkJ5NXcxWm92bjY3RWpqaGpmdFgtSS1KZA?oc=5",
+      "summary": "백석문화대, 학생자치단체·동아리실 개소식 충청뉴스",
+      "source": "충청뉴스",
+      "published_at": "2026-03-18T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "b9bab073138d925d910d",
+      "category": "의결·자치",
+      "collected_at": "2026-10-19T18:08:33.781722+00:00"
     },
     {
       "title": "제56대 서울총학 재선거에 ‘초점’ 단독 예비후보 등록 - 고대신문",
@@ -13677,29 +13713,6 @@
       "id": "b3c4944bb09ba5160f9a",
       "category": "선거·조직",
       "collected_at": "2026-08-05T17:13:05.527010+00:00"
-    },
-    {
-      "title": "대학 총학생회, 역할과 위상의 변곡점 - 대학지성 In&Out",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pSEd1TmxmMzFIdHM5X0JrU0RzdDZOSk9BUHdiQVplV3dxQkgyVERnaU4tM3pOZ2EtQkFHdGhzamg0TmYwT1lsMnZ1MkFoNFA1STBzZ3J4YlUwN3FfUkhVZ01ETVozRWc?oc=5",
-      "summary": "대학 총학생회, 역할과 위상의 변곡점 대학지성 In&Out",
-      "source": "대학지성 In&Out",
-      "published_at": "2025-10-19T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "id": "6f632aadbee515f76785",
-      "category": "기타",
-      "collected_at": "2026-08-01T17:27:22.099727+00:00"
-    },
-    {
-      "title": "대학 총학생회, 역할과 위상의 변곡점 - unipress.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pSEd1TmxmMzFIdHM5X0JrU0RzdDZOSk9BUHdiQVplV3dxQkgyVERnaU4tM3pOZ2EtQkFHdGhzamg0TmYwT1lsMnZ1MkFoNFA1STBzZ3J4YlUwN3FfUkhVZ01ETVozRWc?oc=5",
-      "summary": "대학 총학생회, 역할과 위상의 변곡점 unipress.co.kr",
-      "source": "unipress.co.kr",
-      "published_at": "2025-10-19T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "70696892ebe9508135bd",
-      "category": "기타",
-      "collected_at": "2026-08-12T01:20:12.264649+00:00"
     }
   ]
 }
