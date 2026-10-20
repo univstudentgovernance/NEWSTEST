@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T11:58:36.897635+09:00",
-  "item_count": 1163,
+  "updated_at": "2026-10-21T01:10:41.626952+09:00",
+  "item_count": 1166,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -9059,6 +9059,18 @@
       "collected_at": "2026-09-04T02:25:41.377140+00:00"
     },
     {
+      "title": "\"에스파 부르면 1억?\" 학생회비 '영끌'…대학 축제 '아이돌 섭외' 전쟁 - Nate News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zQ1lZdEJ2NDRmQ19qUUNRZUpmcHFsODJrUHFpSjJGbUZ5cTJ4TEJoTFJ2a2xVdGhaa1h6OERITFdEUnhjal9HdEg4Zjlsa0M4Qi1N?oc=5",
+      "summary": "\"에스파 부르면 1억?\" 학생회비 '영끌'…대학 축제 '아이돌 섭외' 전쟁 Nate News",
+      "source": "Nate News",
+      "published_at": "2026-05-30T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "164344b2229dcd845ecf",
+      "category": "재정·감사",
+      "collected_at": "2026-10-20T16:10:18.770427+00:00"
+    },
+    {
       "title": "광주 금남로와 1980년 전남대 총학생회장 박관현 - OhmyNews",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BbmhQS0RGX0pqQ19oaDRyemVSbWtMcHhwcU9DRDZfNkVydGdoSW9xazFuUy1MeUhzaFJMcURiZVVfdFJlQlhjc1BDeWNuLUR6d21adHZxOXZGUmJvS3dQVGpRbU5fOHFiaGU0MGpDRjNVVDBoZFVZ?oc=5",
       "summary": "광주 금남로와 1980년 전남대 총학생회장 박관현 OhmyNews",
@@ -10940,6 +10952,18 @@
       "collected_at": "2026-08-09T04:44:46.419546+00:00"
     },
     {
+      "title": "선거 결과 실시간 공개…제54대 총학생회 개표방송 오는 25일 진행 - 뉴스H",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5Q0ZvRlJ2aDJ4SFBuTzlfQkVIR1BWMlhjbmktam5heDhjaDBIZjVMV1lMb0c4YjEwWFRuVVNaZGhndk8zSDFSSm5vN2tqQ0pVdHBSSjhuLW9DQ3VfSlcxcUhsVEZvWUc5WVpJ?oc=5",
+      "summary": "선거 결과 실시간 공개…제54대 총학생회 개표방송 오는 25일 진행 뉴스H",
+      "source": "뉴스H",
+      "published_at": "2026-03-19T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "466fcde163f26ab07bbe",
+      "category": "선거·조직",
+      "collected_at": "2026-10-20T16:10:12.249951+00:00"
+    },
+    {
       "title": "대구과학대, 학생자치 새 판 짰다 47명 전면 배치 - 대경일보",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54TjBDUW4tVGdpLTFqV0FaNmNPWUZPbWZDOHcxWUlvTEZhVUIxbktGLWlvSE9NMFZEUlhGYXN4azdKOGktUGlKTi1tX1l3c0RXN1Zpc2JqdTN4b1NoYWNlVTFLYU5OZ09C?oc=5",
       "summary": "대구과학대, 학생자치 새 판 짰다 47명 전면 배치 대경일보",
@@ -11408,6 +11432,18 @@
       "id": "020bd21617b0fc0cf479",
       "category": "기타",
       "collected_at": "2026-09-09T15:44:32.684140+00:00"
+    },
+    {
+      "title": "‘총학 공백’ 학생자치 적신호 - KNSU 미디어",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02Z0lBSll5bEhQaUVkS3A2ekJLcVZPVl9xT1VFSlYzV0h2c25jRFRfYXc4SjNzbkdhMVNjdWlaVTctY1lEYnk1NFVCYjhZZFZJa3puZUFkbHFfNnNOM1hFX1d4Y2ppc3c?oc=5",
+      "summary": "‘총학 공백’ 학생자치 적신호 KNSU 미디어",
+      "source": "KNSU 미디어",
+      "published_at": "2026-03-02T08:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "c925e5050899663b6f2b",
+      "category": "선거·조직",
+      "collected_at": "2026-10-20T16:10:12.249927+00:00"
     },
     {
       "title": "학과 두 곳 중 하나는 과방 없어···휴식·학생자치 걸림돌 - 이대학보",
