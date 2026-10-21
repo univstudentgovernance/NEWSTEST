@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T11:53:02.341253+09:00",
-  "item_count": 1166,
+  "updated_at": "2026-10-22T01:26:16.797063+09:00",
+  "item_count": 1167,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -7504,6 +7504,18 @@
       "id": "6a4ffe2828d85b904f2e",
       "category": "기타",
       "collected_at": "2026-10-19T02:47:25.124179+00:00"
+    },
+    {
+      "title": "\"참정권 침해 규탄\"…18개 대학 총학생회 공동 시국선언 - SBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HYXJoSDBxVm41bDlpTS04ZzlRRUdQeXl1VHVBQkFsNHpudTVkX25kOG9wRFd0bHc0Q3RwZXJEUE55Ukw3TTFqSWN4M08zYnVLa2tWSXBzZnhOMDBwWmNVVkJsX3R4TkhDR2c?oc=5",
+      "summary": "\"참정권 침해 규탄\"…18개 대학 총학생회 공동 시국선언 SBS 뉴스",
+      "source": "SBS 뉴스",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "bd48485e9efbcbb33760",
+      "category": "기타",
+      "collected_at": "2026-10-21T16:25:50.033711+00:00"
     },
     {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
