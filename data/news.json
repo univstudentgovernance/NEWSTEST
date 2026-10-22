@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T01:26:16.797063+09:00",
-  "item_count": 1167,
+  "updated_at": "2026-10-22T11:51:39.107922+09:00",
+  "item_count": 1169,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -9956,6 +9956,18 @@
       "collected_at": "2026-10-16T15:54:16.099290+00:00"
     },
     {
+      "title": "\"공동체보단 스펙이 먼저\"… '학생 자치' 사라지는 광주 대학가 - 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XMnFBZ3poLWhIeWZGRnVlSmZvOW5HZkNPZ1dWdUtWdVM2elRTeDQ3a0FHM0NTZk55ZV9UZjU1YVdBQ1doMERUckE3OWRYZWZkLWNya3A1Z3pIYktxQmVNTzVuMWVUOTZ1c2o5UXdXWQ?oc=5",
+      "summary": "\"공동체보단 스펙이 먼저\"… '학생 자치' 사라지는 광주 대학가 전남일보",
+      "source": "전남일보",
+      "published_at": "2026-04-14T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "a1997e0fbd66afdeb8c9",
+      "category": "기타",
+      "collected_at": "2026-10-22T02:51:12.080422+00:00"
+    },
+    {
       "title": "\"공동체보단 스펙이 먼저\"… '학생 자치' 사라지는 광주 대학가 - v.daum.net",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8yRlZxc3pfV1N1TGV2WWI0X2RCM0xFWTFsZDg5NEFPYzBlUjVuUlRkUlFCLWJ2Ym1qZGRyX3pBcmZMdnRmM2c?oc=5",
       "summary": "\"공동체보단 스펙이 먼저\"… '학생 자치' 사라지는 광주 대학가 v.daum.net",
@@ -12449,6 +12461,18 @@
       "id": "8252b6e605d6b0eb09f2",
       "category": "등록금·교육",
       "collected_at": "2026-09-25T02:58:46.779452+00:00"
+    },
+    {
+      "title": "한국사립대학총장협의회-전국총학생협의회, 등록금·고등교육 재정 놓고 간담회 - 에듀플러스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HY1lYeWxGMVQ0NjFITzNSQXhyYzZaWmxVbW5jZS1xWWNQR0tGWVV1T2ZCNW1jU1dRaWRWVDd6QTN5ZTFuOHNPZ0hNN1JoVHNCV3ZjbDQ2dlQ3bUdSQjNHeXd3RnJLckxQbHNVbDZn0gFyQVVfeXFMTlpJemVaREQ5T3JaY3k5cUJGdDBJem9JM3dHNUlQcmdHLWJQUEMybWp1ZFFSZF9IUTA4djg2a1hjYm5KZEJId0puMHhrX3ZNRnZqR3h0andpQmlRV2NLcUllOGFhYnF4MzNKb3VTam9VRmpB?oc=5",
+      "summary": "한국사립대학총장협의회-전국총학생협의회, 등록금·고등교육 재정 놓고 간담회 에듀플러스",
+      "source": "에듀플러스",
+      "published_at": "2026-01-16T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "d543a067dbee862f672c",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-22T02:51:15.210360+00:00"
     },
     {
       "title": "총학생회협의회, 사립대協에 \"일방적 등록금 인상\" 문제 제기 - 연합뉴스",
