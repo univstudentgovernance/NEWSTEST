@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T01:26:26.370196+09:00",
-  "item_count": 1175,
+  "updated_at": "2026-10-23T11:55:15.190670+09:00",
+  "item_count": 1177,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -5410,6 +5410,18 @@
       "id": "bbcf30526cf4c078ec9f",
       "category": "기타",
       "collected_at": "2026-10-18T15:12:49.938192+00:00"
+    },
+    {
+      "title": "“의과대학 전리품 아니다”…순천대 총학, 정치 개입 중단 촉구 - 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPZUptLXZqYm9XOEtQemM4c3FIYlA2OEtkRmRQZDE5YXAwYmVsZFRQRjNIRllZd29COE5IaVdkaTQ2VWlxdDdoY2hiSHFvLWR4UWVmTkp4WXhxN0JRTFk0Wm10U0dGOU40UEYyMnkyYw?oc=5",
+      "summary": "“의과대학 전리품 아니다”…순천대 총학, 정치 개입 중단 촉구 전남일보",
+      "source": "전남일보",
+      "published_at": "2026-07-20T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "75b38acc42c710972f9c",
+      "category": "기타",
+      "collected_at": "2026-10-23T02:54:48.150777+00:00"
     },
     {
       "title": "부산경상대 총학생회, 몽골 글로벌 서비스러닝 프로그램 참가 - 부산일보",
@@ -11164,6 +11176,18 @@
       "id": "b9bab073138d925d910d",
       "category": "의결·자치",
       "collected_at": "2026-10-19T18:08:33.781722+00:00"
+    },
+    {
+      "title": "백석문화대학교 학생자치단체·동아리실 개소식…“학생 중심 공간으로 재탄생” - 백석대학교 인트로",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Eenl5cDRGSlJJOHROaVhtT2hNZFJVOEZQZ0p3QUxfOEVqYldpRWpncllqd2ZQNTBuVkVKdUhCcGUteUwwZER2RnhOdWJ5YjdGcTd2VGlKUHpZMDRta1FFT1ZpT0d4UQ?oc=5",
+      "summary": "백석문화대학교 학생자치단체·동아리실 개소식…“학생 중심 공간으로 재탄생” 백석대학교 인트로",
+      "source": "백석대학교 인트로",
+      "published_at": "2026-03-18T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "1d95b20c4cdbb91fbdbf",
+      "category": "의결·자치",
+      "collected_at": "2026-10-23T02:54:49.790986+00:00"
     },
     {
       "title": "제56대 서울총학 재선거에 ‘초점’ 단독 예비후보 등록 - 고대신문",
