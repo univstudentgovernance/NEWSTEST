@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-10-23T11:55:15.190670+09:00",
-  "item_count": 1177,
+  "updated_at": "2026-10-24T01:15:46.848004+09:00",
+  "item_count": 1178,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "멘사코리아·서울대 총학생회 업무협약 체결… 특별 입회테스트 실시 - 뉴스N연합",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tZjZnbGVfNGFUb2lpZ1dCSnhUd1l3UDNoSHlLVmtfN0lTLW4wZ29Oc0NXUEVGcGVTRERXWHVlSk8tdUlGZUw5OXQ4alM1TDg?oc=5",
+      "summary": "멘사코리아·서울대 총학생회 업무협약 체결… 특별 입회테스트 실시 뉴스N연합",
+      "source": "뉴스N연합",
+      "published_at": "2026-10-23T05:52:11+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "3a7573ceca4602c7aae8",
+      "category": "기타",
+      "collected_at": "2026-10-23T16:15:16.874177+00:00"
+    },
     {
       "title": "폴리텍대 아산, 제25대 ‘청오’ 총학생회 출범… “소통과 협력으로 발전할 것” - 충청뉴스",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSTzNJY3hxLVN1dnZzeXpuMnI0XzdqR3RHaFFTWFlOT1dwYjJmejZ1U2JMMG42cmwzdmlIbDNtOUhZWUlyY0JOcFZueW10NDhCd2J3dTd4eGppMmJ5clN6X19DTlE0cUFoNTZFVQ?oc=5",
