@@ -1,14 +1,21 @@
 {
-  "updated_at": "2026-10-24T11:52:32.074214+09:00",
-  "item_count": 1179,
+  "updated_at": "2026-10-25T00:13:23.735136+09:00",
+  "item_count": 1181,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
-    {
-      "source": "동아일보",
-      "error": "URLError: <urlopen error timed out>"
-    }
-  ],
+  "failures": [],
   "items": [
+    {
+      "title": "강원대 28개국 유학생 한자리에…외국인 총학생회 'KISA' 출범 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LcXZfOFBpNS1EQUQtSmFIN0dHdmlBN00weTVxdExVSmFPUGtZMDlqOEk1SjZBSWJ3T05PQ081NDVsVVNERmNfQ2xCT0xvdzY1WkU1YVl4aEZfa25iVU80WdIBYEFVX3lxTE5LcXZfOFBpNS1EQUQtSmFIN0dHdmlBN00weTVxdExVSmFPUGtZMDlqOEk1SjZBSWJ3T05PQ081NDVsVVNERmNfQ2xCT0xvdzY1WkU1YVl4aEZfa25iVU80WQ?oc=5",
+      "summary": "강원대 28개국 유학생 한자리에…외국인 총학생회 'KISA' 출범 연합뉴스",
+      "source": "연합뉴스",
+      "published_at": "2026-10-24T04:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "692dfede39d8ba709cf1",
+      "category": "기타",
+      "collected_at": "2026-10-24T15:12:51.682530+00:00"
+    },
     {
       "title": "멘사코리아·서울대 총학생회 업무협약 체결… 특별 입회테스트 실시 - 뉴스N연합",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tZjZnbGVfNGFUb2lpZ1dCSnhUd1l3UDNoSHlLVmtfN0lTLW4wZ29Oc0NXUEVGcGVTRERXWHVlSk8tdUlGZUw5OXQ4alM1TDg?oc=5",
@@ -20,6 +27,18 @@
       "id": "3a7573ceca4602c7aae8",
       "category": "기타",
       "collected_at": "2026-10-23T16:15:16.874177+00:00"
+    },
+    {
+      "title": "멘사코리아·서울대 총학생회 업무협약 체결… 특별 입회테스트 실시 - 얼리어답터뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBrcXhCbVo0NFRYMG95U0xNbDZiLTFEdzl0SUpkb194Q2Q5cVhiQUthZG42a0dqcFhkdEVISHhlRURwWDNSV2F1ZXZ3?oc=5",
+      "summary": "멘사코리아·서울대 총학생회 업무협약 체결… 특별 입회테스트 실시 얼리어답터뉴스",
+      "source": "얼리어답터뉴스",
+      "published_at": "2026-10-23T05:16:46+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e7ed98c80d7049d67a74",
+      "category": "기타",
+      "collected_at": "2026-10-24T15:12:51.682611+00:00"
     },
     {
       "title": "폴리텍대 아산, 제25대 ‘청오’ 총학생회 출범… “소통과 협력으로 발전할 것” - 충청뉴스",
