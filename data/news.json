@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-10-24T01:15:46.848004+09:00",
-  "item_count": 1178,
+  "updated_at": "2026-10-24T11:52:32.074214+09:00",
+  "item_count": 1179,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [],
+  "failures": [
+    {
+      "source": "동아일보",
+      "error": "URLError: <urlopen error timed out>"
+    }
+  ],
   "items": [
     {
       "title": "멘사코리아·서울대 총학생회 업무협약 체결… 특별 입회테스트 실시 - 뉴스N연합",
@@ -12627,6 +12632,18 @@
       "id": "54179c18240a2c374393",
       "category": "등록금·교육",
       "collected_at": "2026-09-09T02:33:37.085419+00:00"
+    },
+    {
+      "title": "총학생회협의회, 사립대協에 \"일방적 등록금 인상\" 문제 제기(종합) - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KdTVQTjVMdk0wX0RxV00yc0VWZmVRaHNOeVpEZV94XzV4S1dycGxfdnFXVkd6d0dfekM5QU1FTGZsdEpVQ3lSODFxbURIUHVIS0JKb3BYSGpqT2vSAWBBVV95cUxONlNFbktBNjFKSzlmMjRzWW9xNFNQS1pCbW1GZ3g1Y25MR1FBMEFJN2dndHNmU0xNdV9KZlA2dDJRYzVUSW5uV3lvRndOMENrSHpVcDkxNUxjbVJSV195THo?oc=5",
+      "summary": "총학생회협의회, 사립대協에 \"일방적 등록금 인상\" 문제 제기(종합) 연합뉴스",
+      "source": "연합뉴스",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "91fb7a12689bbeb29b13",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-24T02:51:45.165717+00:00"
     },
     {
       "title": "전국총학생회협의회, 교육장관에 \"등록금 동결 기조 유지\" 요구 - 연합뉴스",
