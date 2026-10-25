@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-10-25T00:13:23.735136+09:00",
-  "item_count": 1181,
+  "updated_at": "2026-10-25T11:44:34.911849+09:00",
+  "item_count": 1183,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "강원대학교, 외국인 유학생 총학생회 'KISA' 출범 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VajdCdHFOR2xfWXBtWXVJRC1iUG9KWUVhTGoxbFJDREdPNFR4MGNoNFU4TG5BZWxDbV8yZGFxY0d6YkhjV1dVM0NmTXJWejV2WUhjeQ?oc=5",
+      "summary": "강원대학교, 외국인 유학생 총학생회 'KISA' 출범 뉴스1",
+      "source": "뉴스1",
+      "published_at": "2026-10-24T07:17:19+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "cfcebce4e38c5c6bee67",
+      "category": "기타",
+      "collected_at": "2026-10-25T02:44:00.980123+00:00"
+    },
     {
       "title": "강원대 28개국 유학생 한자리에…외국인 총학생회 'KISA' 출범 - 연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LcXZfOFBpNS1EQUQtSmFIN0dHdmlBN00weTVxdExVSmFPUGtZMDlqOEk1SjZBSWJ3T05PQ081NDVsVVNERmNfQ2xCT0xvdzY1WkU1YVl4aEZfa25iVU80WdIBYEFVX3lxTE5LcXZfOFBpNS1EQUQtSmFIN0dHdmlBN00weTVxdExVSmFPUGtZMDlqOEk1SjZBSWJ3T05PQ081NDVsVVNERmNfQ2xCT0xvdzY1WkU1YVl4aEZfa25iVU80WQ?oc=5",
@@ -9538,6 +9550,18 @@
       "id": "f1324136d05b10342e40",
       "category": "기타",
       "collected_at": "2026-10-06T17:44:09.379745+00:00"
+    },
+    {
+      "title": "동강대 총학생회, 조혈모세포 기증 캠페인 - 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VTTlVWmNOODA2TTVpS3lWVU94ZERxLWRQSEIySlNwYllvMkxiazUydlNxZzhtN0QyMS11S19jbDFsSnJSdTMtYkhkX252YzJzUnNNRmE2OXVUQXlxM0xnSUNGaXNYX2lBUmV0bmRCMA?oc=5",
+      "summary": "동강대 총학생회, 조혈모세포 기증 캠페인 전남일보",
+      "source": "전남일보",
+      "published_at": "2026-05-18T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b536d4b100a0523439ad",
+      "category": "기타",
+      "collected_at": "2026-10-25T02:44:00.981853+00:00"
     },
     {
       "title": "동덕여대 총학 \"공학반대 위해 총장직선제 요구\" - 연합뉴스TV",
