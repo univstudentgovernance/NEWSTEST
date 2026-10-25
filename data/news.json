@@ -1,9 +1,45 @@
 {
-  "updated_at": "2026-10-25T11:44:34.911849+09:00",
-  "item_count": 1183,
+  "updated_at": "2026-10-26T00:23:43.302930+09:00",
+  "item_count": 1186,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "강원대 외국인 총학생회 ‘KISA’ 출범 선포식 - 강원도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02WC1rOEpKRkJaT1JxNnZHRnhLS1YybjB4OFdodjlwZDVHRVJ4OTBrYVhIRm50M1FJcGFFLWROMjlkdGdiTjhSZklKbk5CYUhzVndZME1mcmswaEp0a05IeElJUDMwRDQ?oc=5",
+      "summary": "강원대 외국인 총학생회 ‘KISA’ 출범 선포식 강원도민일보",
+      "source": "강원도민일보",
+      "published_at": "2026-10-25T05:57:53+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f60b0b12f6b6af97b178",
+      "category": "기타",
+      "collected_at": "2026-10-25T15:23:09.340923+00:00"
+    },
+    {
+      "title": "강원대 외국인유학생 총학생회 설립⋯‘하나의 강원대’ 함께 만든다 - 강원일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xX1pCU0Y3UDFDbjc4M2JqdkIxaGtQdUFuMVhtblItRkNETFliZ3g2ZFJYSjZDd1hESTF0dkxtSnhTbnpjT1RDY3c0dEVrem1DNU11NnRUaldKVVE?oc=5",
+      "summary": "강원대 외국인유학생 총학생회 설립⋯‘하나의 강원대’ 함께 만든다 강원일보",
+      "source": "강원일보",
+      "published_at": "2026-10-25T04:59:29+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "285920428004c0424b61",
+      "category": "기타",
+      "collected_at": "2026-10-25T15:23:09.340876+00:00"
+    },
+    {
+      "title": "강원대 4개 캠퍼스 유학생 총학생회 설립 - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mMU9WbU0zTmc1VUVkakk4SGE4OXN6QnJwOW1VVjcyOFI4cDM0S1Y4aC0tdVY0Q0wweHJRRUl2TlVXalRwODFpWXA2dWlTdHRZN09rSWNMaGp5V2s?oc=5",
+      "summary": "강원대 4개 캠퍼스 유학생 총학생회 설립 KBS 뉴스",
+      "source": "KBS 뉴스",
+      "published_at": "2026-10-24T12:34:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "222e886293649cd347b8",
+      "category": "기타",
+      "collected_at": "2026-10-25T15:23:09.341006+00:00"
+    },
     {
       "title": "강원대학교, 외국인 유학생 총학생회 'KISA' 출범 - 뉴스1",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VajdCdHFOR2xfWXBtWXVJRC1iUG9KWUVhTGoxbFJDREdPNFR4MGNoNFU4TG5BZWxDbV8yZGFxY0d6YkhjV1dVM0NmTXJWejV2WUhjeQ?oc=5",
