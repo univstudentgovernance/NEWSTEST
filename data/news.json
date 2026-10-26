@@ -1,9 +1,57 @@
 {
-  "updated_at": "2026-10-26T11:42:19.036621+09:00",
-  "item_count": 1189,
+  "updated_at": "2026-10-27T03:04:31.862320+09:00",
+  "item_count": 1193,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "총학생회장 못 뽑는 서울대…왜? - 채널A",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mOVFHbHoyU2ZvbGxNLWxtekpnT25PRGVqSUVlVWhUZ3pUbWNvWV91bVYyOHY4QkJMbnZnVGc0WW0wX1VmbHkyY05hUlhqRDJtTnVxc2w2UzV3YlJUNkHSAWNBVV95cUxNNFdDeUdlbVZ5dmdZQ2R2RVltN01LVWEyMnpHVHdYSUc3R002T1lRM3pJaGdxamlEOEMyX1VES0ZxZzlLUkFqX3R5T1hRTTc5QnptMXlIRExhUWVZQXNaU0dDTlk?oc=5",
+      "summary": "총학생회장 못 뽑는 서울대…왜? 채널A",
+      "source": "채널A",
+      "published_at": "2026-10-26T10:54:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "9a551241307893394aa4",
+      "category": "기타",
+      "collected_at": "2026-10-26T18:04:01.094812+00:00"
+    },
+    {
+      "title": "동아대 총학생회, 개교 80주년 기념 행사 개최 - CNB뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJT1YtODNncE1oSUFRTWRlbDl5TTI1T3EyWG1VUmdUTjFBNUs3RDZnb1JtYkJkOFBkM0NNUURxc253dnBpa2pjV2RpVmRBLWV1ZTk0Y3gzVFZTMVhnUVlxM2hqYTAtVGNqMDZj?oc=5",
+      "summary": "동아대 총학생회, 개교 80주년 기념 행사 개최 CNB뉴스",
+      "source": "CNB뉴스",
+      "published_at": "2026-10-26T07:40:58+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f94de239d9909fc790f9",
+      "category": "기타",
+      "collected_at": "2026-10-26T18:04:01.094962+00:00"
+    },
+    {
+      "title": "서울대 총학 선거, 후보 없어 세 번 연속 무산… 공백 1년째 - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2ZNUXdJZ2NPcTFDa1ltWVVTVDAzTlN5Vnd2TW9pMS1MdmVaRjJVZ2hlNUFNQVFEQng4WG1qTXFWUllqbzEyZzJ6QXRqSkxzQnkxU0M4SnhDeTl6ekktS0VPVXgwQkpvenhEbE5iZzZoOFFoVWktTlNwVkpCSC1VNGEwSmVjZndTSlVJRzBFSmw?oc=5",
+      "summary": "서울대 총학 선거, 후보 없어 세 번 연속 무산… 공백 1년째 조선일보",
+      "source": "조선일보",
+      "published_at": "2026-10-26T07:06:25+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "cc84a93c09bda9f253ca",
+      "category": "선거·조직",
+      "collected_at": "2026-10-26T18:04:01.094854+00:00"
+    },
+    {
+      "title": "동아대 총학생회 '개교 80주년 기념 행사'... 화합의 장 마련 - BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lQ2ZZUDdXcTB6aEdYWU1XSF90d21EZDdVbDNFenY5aXFSWUxYbkFXaGtyb0dOVlpuRTNZX3U5eThaUmFIR2dGR3VzNUQ2eUwtaTlkRHpuUC1zM09ocWVHbkQzR1djUEphTTFj?oc=5",
+      "summary": "동아대 총학생회 '개교 80주년 기념 행사'... 화합의 장 마련 BBS불교방송",
+      "source": "BBS불교방송",
+      "published_at": "2026-10-26T02:15:18+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "40d518c22f5f2bc9784d",
+      "category": "기타",
+      "collected_at": "2026-10-26T18:04:01.094900+00:00"
+    },
     {
       "title": "동아대 제59대 총학생회, 개교 80주년 기념행사 개최 - 국제신문",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2xGbUhMT3NhcmlJZVF5R09aWmlsdDMxb2RzVExZTWVWa2RUNWp4ZjdQWjJPdjRpYThMenFDVW51Nm5hY2wtRU1mQnl5dVg0NHltM3BrOUFINHJPWWU2LTFNaDdaVEdxVllpVDNsWnB2V194RU1FdTZhWmRSV1JoVnYwR2lyQ3pGcFRzWWtn?oc=5",
