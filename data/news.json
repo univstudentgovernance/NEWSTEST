@@ -1,9 +1,141 @@
 {
-  "updated_at": "2026-10-27T12:17:00.430238+09:00",
-  "item_count": 1203,
+  "updated_at": "2026-10-28T02:13:09.895830+09:00",
+  "item_count": 1214,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "“등록금 인상 시 지출 계획 내세요” 등심위 역할 강화 - 충청신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uejJtV2Vpc0xqQ2U3Snp3dWQzUjlNWVd1WlFpcHdISURvRjhuYS0xS0hlTlJMU2hmeXhwOTNtbmRVXy1NMnpySm43NzJBdElET0lWNzlGWHFZaGVpQ3M3UDZrejdWT25HR3B6Vmdn0gFuQVVfeXFMTm56Mm1XZWlzTGpDZTdKend1ZDNSOU1ZV3VaUWlwd0hJRG9GOG5hLTFLSGVOUkxTaGZ5eHA5M21uZFVfLU0yenJKbjc3MkF0SURPSVY3OUZYcVloZWlDczdQNmt6N1ZPbkdHcHpWZ2c?oc=5",
+      "summary": "“등록금 인상 시 지출 계획 내세요” 등심위 역할 강화 충청신문",
+      "source": "충청신문",
+      "published_at": "2026-10-27T09:02:16+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "7c47e05491b08a564503",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-27T17:12:44.904339+00:00"
+    },
+    {
+      "title": "대학 등록금 올리면 어디에 쓰는지 따져본다, 등록금심의위원회 권한 강화 어떻게 바뀌나? 🎓 - 뉴닉",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LdVRYLURleV9Jd0dSUVhFMHRPVy1sWFRyTC1nbmtqS3N4aXhyVnExVlpBY0U2QWlET1hWa3Z0Z1EwWjUwSHBxRGF5Z2hQRUdmS0tn?oc=5",
+      "summary": "대학 등록금 올리면 어디에 쓰는지 따져본다, 등록금심의위원회 권한 강화 어떻게 바뀌나? 🎓 뉴닉",
+      "source": "뉴닉",
+      "published_at": "2026-10-27T08:25:29+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "42b2032ca65278fc331e",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-27T17:12:44.904079+00:00"
+    },
+    {
+      "title": "대구교사노조·대구교대 총학생회, ‘2027 임용합격기원 응원 프로젝트’ 공동 개최 - 경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rR1NCZkR4N1N0MlJnaHpIaWc1N25qRDlPTEMtcEtKZHozUkNnZkJzOXlpRTdvOUJpLU8wcUgyZU9VVHZpMXJjX05TLTBjOFhhQlBOT0t5cmNTQQ?oc=5",
+      "summary": "대구교사노조·대구교대 총학생회, ‘2027 임용합격기원 응원 프로젝트’ 공동 개최 경북매일",
+      "source": "경북매일",
+      "published_at": "2026-10-27T07:41:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "a7419baabe2ed5db561a",
+      "category": "기타",
+      "collected_at": "2026-10-27T17:12:40.088050+00:00"
+    },
+    {
+      "title": "선문대 건학 54주년…다자녀 진학 6가정·학생자치 공로자 시상 - 아산데일리",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sd2Z2SzRiV1pSM0VHQUQzaUZvQzR6bi14c3k5NjUxRVVHX3dEbi1QVGZaY21hZThodFpWRERlLVBEYXpaU2hQa0R4WjlpdUlUSWlB?oc=5",
+      "summary": "선문대 건학 54주년…다자녀 진학 6가정·학생자치 공로자 시상 아산데일리",
+      "source": "아산데일리",
+      "published_at": "2026-10-27T07:30:16+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "078fe9050c610f1486af",
+      "category": "의결·자치",
+      "collected_at": "2026-10-27T17:12:41.717582+00:00"
+    },
+    {
+      "title": "부산 동서대학교 총학생회, 사랑의 김치 200박스 사상구 주례2동에 기탁 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWGxabFU5cEtWWnNjanAtLV9CYWZKRlNiYllZYmdMR1ZlVjVONTRQOWhqRVNKbk9FMWgtemxkZ0l4TmNFNzlSeWxtWHFJcWZqTThLM1didmVfZE8yUUdSQmtGWHhpSEx3dU5OZDZOX0ZWdkc2LW56V3BEZC1kRWtYRW9RcTE1cE51X3FrMDgtQzRxUkF4?oc=5",
+      "summary": "부산 동서대학교 총학생회, 사랑의 김치 200박스 사상구 주례2동에 기탁 국제신문",
+      "source": "국제신문",
+      "published_at": "2026-10-27T06:55:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4f4a45289686421e85a9",
+      "category": "기타",
+      "collected_at": "2026-10-27T17:12:40.087973+00:00"
+    },
+    {
+      "title": "“대학 등록금 인상분 어디에 쓰나”…등심위가 살핀다 - 금강일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VaXRoaWQ2SFlMVWp2b1d1N3JYSDU3SE91ajhlU2UzM2pfUFotY09RZHM5bHZoTlhrUFBPSFlRTi1CR08tUlZhRkVHNm00YW1PZ2Y3aW9RT0U3R21JMHhuMGx4d2V2Rmo0VlE?oc=5",
+      "summary": "“대학 등록금 인상분 어디에 쓰나”…등심위가 살핀다 금강일보",
+      "source": "금강일보",
+      "published_at": "2026-10-27T06:45:04+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "5ba994585e24c23fdfb7",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-27T17:12:44.904491+00:00"
+    },
+    {
+      "title": "대학 등록금 심의 깐깐해진다… 등심위 권한 강화 - 충남일보",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFZi00NENWU0trNzlYZm1UUU1ZQXFfWjExMmVuM2cwMUVrZlp3NlpIbnphNE5ORWxrTVUxakhLNmltd1hvbHZha1hNS2NES29JZXNQN0ZsVVc0N25SWERBeGJTWVRBRWNoSjZtUHAzTWNxQQ?oc=5",
+      "summary": "대학 등록금 심의 깐깐해진다… 등심위 권한 강화 충남일보",
+      "source": "충남일보",
+      "published_at": "2026-10-27T06:39:48+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "1116fe27cce9620a75de",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-27T17:12:44.904314+00:00"
+    },
+    {
+      "title": "대학 등록금 올리면 지출계획도 심의…등심위 권한 강화 - 뉴스후플러스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xamxvM0VCMVRhTXE5XzRsV2lSbFlWd2RmeFpxWnMzY21MTnhoRjFWU3F3OC1GMTZocUpSWDZ6MlF3WVVxb3BsYUNIN2YtOXhRLTY2d042bkxZVC1TMVdtTkVEdklaT096TDhTMDB3?oc=5",
+      "summary": "대학 등록금 올리면 지출계획도 심의…등심위 권한 강화 뉴스후플러스",
+      "source": "뉴스후플러스",
+      "published_at": "2026-10-27T05:17:24+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "dff78d8535894d780a11",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-27T17:12:44.904215+00:00"
+    },
+    {
+      "title": "대학 등록금 올리려면 '지출 계획' 내야…등심위 권한 대폭 세진다 - 와이드경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhUVJuRG5Yb3JGN2lXQWk1X3NKWHRTSVFmQW51VXJFS2QtSTJTQVBScGEzU3JBTnJONFl1UXI4SXFCaUplZ1J1YzU5WVFMbktPU1BNbTYzOXdPTWtubnpkN3FKeDRhQmcwd3NqUQ?oc=5",
+      "summary": "대학 등록금 올리려면 '지출 계획' 내야…등심위 권한 대폭 세진다 와이드경제",
+      "source": "와이드경제",
+      "published_at": "2026-10-27T05:08:09+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "964950f459b5264cfbc6",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-27T17:12:44.904433+00:00"
+    },
+    {
+      "title": "“등록금 인상액 어디에 썼는지 제출하세요” 등심위 권한 법에 명시 - 교수신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xcFRvZEtibjJ4bHNrOTlUR3dzcjFBSFM2eVJZSlBZLUN4VWM0YmJpOEhsWUgwSjVHczJMZ0hLdWJXSVRXYWV3eFd5S2U4Q19fY2VTYTQyMlIwYlU0YlVzdldLM25aTWM?oc=5",
+      "summary": "“등록금 인상액 어디에 썼는지 제출하세요” 등심위 권한 법에 명시 교수신문",
+      "source": "교수신문",
+      "published_at": "2026-10-27T04:50:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "4a7770dfa7972bd5bf6d",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-27T17:12:44.904250+00:00"
+    },
+    {
+      "title": "대학 등록금 올리려면 돈 어디에 쓸지 먼저 밝혀야…등심위 투명성·실효성 대폭 강화 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2TE1XTlJpdW1rc080Q1NQVFZzUTgtTzVHTW13cExmU2x4amRmVXQ5Y3RxZTdEdi1iMlJ3Z182c1NYZ2VnRTRLRnpwVGt3dkVOUUpsUFFBUXXSAVhBVV95cUxQdkxNV05SaXVta3NPNENTUFRWc1E4LU81R01td3BMZlNseGpkZlV0OWN0cWU3RHYtYjJSd2dfNnNTWGdlZ0U0S0Z6cFRrd3ZFTlFKbFBRQVF1?oc=5",
+      "summary": "대학 등록금 올리려면 돈 어디에 쓸지 먼저 밝혀야…등심위 투명성·실효성 대폭 강화 아주경제",
+      "source": "아주경제",
+      "published_at": "2026-10-27T04:20:26+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "51f1df39cfd7d6fdcd5a",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-27T17:12:44.904457+00:00"
+    },
     {
       "title": "등록금 규제 완화 앞두고 대학 등심위 손본다…전문위원 임기 제한·감면 대상 확대",
       "url": "https://www.khan.co.kr/article/202610271200001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
@@ -9792,6 +9924,18 @@
       "collected_at": "2026-10-25T02:44:00.981853+00:00"
     },
     {
+      "title": "동강대 총학생회, 조혈모세포 기증 캠페인 - 진일보 | 전남일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VTTlVWmNOODA2TTVpS3lWVU94ZERxLWRQSEIySlNwYllvMkxiazUydlNxZzhtN0QyMS11S19jbDFsSnJSdTMtYkhkX252YzJzUnNNRmE2OXVUQXlxM0xnSUNGaXNYX2lBUmV0bmRCMA?oc=5",
+      "summary": "동강대 총학생회, 조혈모세포 기증 캠페인 진일보 | 전남일보",
+      "source": "진일보 | 전남일보",
+      "published_at": "2026-05-18T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f195cf4e49d665278902",
+      "category": "기타",
+      "collected_at": "2026-10-27T17:12:40.090098+00:00"
+    },
+    {
       "title": "동덕여대 총학 \"공학반대 위해 총장직선제 요구\" - 연합뉴스TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tdENQUWRVUHp4bzVrY2c0YnNDOWJXV2ZUbVpzd3kwZXhpOXFWejllVk5JUUEwd21WZFdQNDl2aXFQTUJPY0E2Vnd2NTVuRzVhVDdMMHlWSWg1RDFrYzFOSWx5Ym1aWFk?oc=5",
       "summary": "동덕여대 총학 \"공학반대 위해 총장직선제 요구\" 연합뉴스TV",
@@ -13715,6 +13859,18 @@
       "collected_at": "2026-10-07T18:16:03.592939+00:00"
     },
     {
+      "title": "7개 기구 ‘선거 무산’ 속 2026학년도 학생자치기구 선거공청회 개최 - 서울시립대신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yOVI4QTRucjAtUElZLXI4QlZ4c3J5TUx4bUZTREVJVE5iSG45V3RoUEp1aUtDQmN6LXFQMHlWc2tmYTZjNXZyOVNYZ0gyX0daOEw2d01nc2JKSDVSM0liOWVIUlRBVmVU?oc=5",
+      "summary": "7개 기구 ‘선거 무산’ 속 2026학년도 학생자치기구 선거공청회 개최 서울시립대신문",
+      "source": "서울시립대신문",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "b4cd833744d581e8538b",
+      "category": "선거·조직",
+      "collected_at": "2026-10-27T17:12:41.718492+00:00"
+    },
+    {
       "title": "[속보] 2026 총학, PASS가 이끈다 - 채널PNU",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wRU5BXzZiMnMxUHBqdHZpOXpRRVBDUXZUWkJRTFpIWk1oNm1jMjMtN3IzUmxpMzE1Zl9ZcmFuc1RBbHRRYTVnaXoxbGJFZ0Q2N3NNNlh0U1NGTkt0aGE1djZucHNzOWZrOEpaazBCM1JrUdIBdkFVX3lxTE5lMmt4bTdsQnRlNE1VRVdvNkljZ2k2U0VHSWRVV1VxMDVXUTJsQXlFQ1IzbldaLXBhS0dvM0xxUXZpeW1ONXB5RU54RzcyUlJfa2pMNWdrSnBJV2VjcHZ5dnRPX0ZDOU4tRXV5UmZ4b0JDc05aTGc?oc=5",
       "summary": "[속보] 2026 총학, PASS가 이끈다 채널PNU",
@@ -14170,29 +14326,6 @@
       "id": "5498c7cfa865abb9d361",
       "category": "복지·문화",
       "collected_at": "2026-09-03T15:37:27.870545+00:00"
-    },
-    {
-      "title": "[단독]서울대 총학 입후보자 선거 무산…\"대학 자치에 무관심\" - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sTWVKY0dVNUxMVmhaa3RBYThvd19NS0FJQVpMZzBXSUdsRVJLdWtKZnVZVTBsaWdBNzg0ZmpodjNGeE1ncFF4YXEyNGNxYm5tSmdsYjJ4dTQ1LUUwUTZZctIBeEFVX3lxTE1xejBVQWRRZERVZFBnN0JpV2V1SkZMMVlQb3RUdDVXa0VPRGtiMG5CMUN5LVFYY3o1OVNQMW9kdkttdUNsNVl4cXlOVGI2SzZPMjdFSS0xYVRPUmZxTzFKdEdRODFWOUlIVFBYWExZOXRlaF9XQ0Nrcg?oc=5",
-      "summary": "[단독]서울대 총학 입후보자 선거 무산…\"대학 자치에 무관심\" 뉴시스",
-      "source": "뉴시스",
-      "published_at": "2025-10-27T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "id": "9a8ad82f6ceda73854fa",
-      "category": "선거·조직",
-      "collected_at": "2026-08-01T17:27:22.100078+00:00"
-    },
-    {
-      "title": "[단독]서울대 총학 입후보자 선거 무산…\"대학 자치에 무관심\" - newsis.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sTWVKY0dVNUxMVmhaa3RBYThvd19NS0FJQVpMZzBXSUdsRVJLdWtKZnVZVTBsaWdBNzg0ZmpodjNGeE1ncFF4YXEyNGNxYm5tSmdsYjJ4dTQ1LUUwUTZZctIBeEFVX3lxTE1xejBVQWRRZERVZFBnN0JpV2V1SkZMMVlQb3RUdDVXa0VPRGtiMG5CMUN5LVFYY3o1OVNQMW9kdkttdUNsNVl4cXlOVGI2SzZPMjdFSS0xYVRPUmZxTzFKdEdRODFWOUlIVFBYWExZOXRlaF9XQ0Nrcg?oc=5",
-      "summary": "[단독]서울대 총학 입후보자 선거 무산…\"대학 자치에 무관심\" newsis.com",
-      "source": "newsis.com",
-      "published_at": "2025-10-27T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "b3c4944bb09ba5160f9a",
-      "category": "선거·조직",
-      "collected_at": "2026-08-05T17:13:05.527010+00:00"
     }
   ]
 }
