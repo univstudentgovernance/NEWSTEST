@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-10-28T12:31:42.196959+09:00",
-  "item_count": 1214,
+  "updated_at": "2026-10-29T02:46:31.473948+09:00",
+  "item_count": 1215,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "대학 등록금 올리면 사용처까지 따진다…등심위 권한 강화 - 경북도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZNXV3RzdTa1A0YmduRlpPUHdZVVgwT1VPSXJ4ZHV2Zk14b2Y4UVFDS3BNd1dMZ2Ftbk1kdzlFNUE1ZHRJWkRBUC16NVBrZjI2dUNPOEVCRmJjTzZDS1luQUpiam5KMWxDYnc?oc=5",
+      "summary": "대학 등록금 올리면 사용처까지 따진다…등심위 권한 강화 경북도민일보",
+      "source": "경북도민일보",
+      "published_at": "2026-10-28T06:55:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "6cacd3e79a0b0eb4fc19",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-28T17:46:09.705883+00:00"
+    },
+    {
+      "title": "교육부, 대학 등록금심의위원회 제도 개선 추진…장학금 감면 대상 확대 - 한국강사신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00cDFMUUk0LWo1c1R1UTN2ejJPVnBZZ3Z0WFl5NmVyNkV4NzRZcktSOUduOGRrN1JZOV9vQ2NLVzBxUkJJOXJ5Wnh1UDFPOGFYa05PajQ0eDNway10a3I4b1ZLTWNEdHhUMVh4TnVVWDI?oc=5",
+      "summary": "교육부, 대학 등록금심의위원회 제도 개선 추진…장학금 감면 대상 확대 한국강사신문",
+      "source": "한국강사신문",
+      "published_at": "2026-10-28T04:36:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "3fa3cabe8de9c2ed576f",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-28T17:46:09.705914+00:00"
+    },
     {
       "title": "“등록금 인상 시 지출 계획 내세요” 등심위 역할 강화 - 충청신문",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uejJtV2Vpc0xqQ2U3Snp3dWQzUjlNWVd1WlFpcHdISURvRjhuYS0xS0hlTlJMU2hmeXhwOTNtbmRVXy1NMnpySm43NzJBdElET0lWNzlGWHFZaGVpQ3M3UDZrejdWT25HR3B6Vmdn0gFuQVVfeXFMTm56Mm1XZWlzTGpDZTdKend1ZDNSOU1ZV3VaUWlwd0hJRG9GOG5hLTFLSGVOUkxTaGZ5eHA5M21uZFVfLU0yenJKbjc3MkF0SURPSVY3OUZYcVloZWlDczdQNmt6N1ZPbkdHcHpWZ2c?oc=5",
@@ -255,6 +279,18 @@
       "id": "cc84a93c09bda9f253ca",
       "category": "선거·조직",
       "collected_at": "2026-10-26T18:04:01.094854+00:00"
+    },
+    {
+      "title": "학생회비 투명성 높이려 ‘전국대학생감사협의회’ 출범 “대학별 감사 기준 공유” - 한국대학신문",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TakZxTTdLTWNqbGxINTBRS3JjUWk0NUVaUE1CR0N6QXZWc1dHREJva3hMTjg2SEZ3dkNKS0Y3bWJSajkzN1Bqb05fbkNPaldtb1ZQNUtFM3R6eXYyWE5QWDJaZ3p2Zw?oc=5",
+      "summary": "학생회비 투명성 높이려 ‘전국대학생감사협의회’ 출범 “대학별 감사 기준 공유” 한국대학신문",
+      "source": "한국대학신문",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "3d72b919fac1851a8e4d",
+      "category": "재정·감사",
+      "collected_at": "2026-10-28T17:46:06.633841+00:00"
     },
     {
       "title": "강원대, 글로벌 올림픽·유학생 총학생회 설립 선포식 개최 - LG헬로비전",
@@ -14302,30 +14338,6 @@
       "id": "5a0863c7f8667f776eed",
       "category": "재정·감사",
       "collected_at": "2026-09-18T15:36:58.632844+00:00"
-    },
-    {
-      "title": "서울대 총학 입후보자 부재로 선거 무산 - 문화일보",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DS2dxWDl2d041aEdPemo1dDNaeGxBYm5PRV8taWxsVjZoTlVFWUhoX216ME5jd1hpOE9OMGR3ZjFCVGc2cEJ4bFVuNG1keEN2?oc=5",
-      "summary": "서울대 총학 입후보자 부재로 선거 무산 문화일보",
-      "source": "문화일보",
-      "published_at": "2025-10-28T07:00:00+00:00",
-      "matched_query": "총학생회 OR 총학",
-      "feed": "Google News RSS",
-      "id": "f5a2f5bf18e722e4d60a",
-      "category": "선거·조직",
-      "collected_at": "2026-08-30T15:51:12.972533+00:00"
-    },
-    {
-      "title": "경북대 \"30만원 쿠폰 뿌려요\" 총학 공약… \"4점대가 2점대에 학점 나눠줌\" 폭소 [영상] - 고양 in",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zU1RhLUVuUXRhVVd1MXp5bE9sS1hxTTM5aElaN1E4Q28zYkNLTmVvMWV4YjVEdVNCcmpmRnMtdlREd3NRYUdBZjA4bjNKZk8zR3NPaFdFdU5kamRDREhGamN6c1RoYkhNQnc?oc=5",
-      "summary": "경북대 \"30만원 쿠폰 뿌려요\" 총학 공약… \"4점대가 2점대에 학점 나눠줌\" 폭소 [영상] 고양 in",
-      "source": "고양 in",
-      "published_at": "2025-10-28T07:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "5498c7cfa865abb9d361",
-      "category": "복지·문화",
-      "collected_at": "2026-09-03T15:37:27.870545+00:00"
     }
   ]
 }
