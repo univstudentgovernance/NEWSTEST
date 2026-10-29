@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-10-29T02:46:31.473948+09:00",
-  "item_count": 1215,
+  "updated_at": "2026-10-29T12:54:02.461285+09:00",
+  "item_count": 1217,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "등록금 인상분 지출계획, 등심위가 요청…전문가 위원 임기 2년·연임 1회 - www.issueon.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vSEZYSzFTd1JsTXU0YnNDNXdDb1dSTHRCSUVTZTdvLXk5c3RpbDlIeF83bVdzSmczeXRqNlI1dGZYQzlVQTZwRnFaTlI3Y19MeDllZWJ6elFlZnlTLUk5WEtpWEhua2JzX0Jn?oc=5",
+      "summary": "등록금 인상분 지출계획, 등심위가 요청…전문가 위원 임기 2년·연임 1회 www.issueon.co.kr",
+      "source": "www.issueon.co.kr",
+      "published_at": "2026-10-29T02:04:28+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "429208c83f8c97da051f",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-29T03:53:35.894777+00:00"
+    },
+    {
+      "title": "서울대, 올해도 총학생회장 ‘구인난’ - 헤럴드경제 미주판",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIcXVicGphd09iaE14ZkpfemtxY21uREJGWlJUbFZUbTZWaHg3Rl9JcU5RNnh5UU84eUFVUEh6NVp3eHJYdzJTYWtTcUo1V2Z3UDBGQjBWbkcxd3ZWY3RjSw?oc=5",
+      "summary": "서울대, 올해도 총학생회장 ‘구인난’ 헤럴드경제 미주판",
+      "source": "헤럴드경제 미주판",
+      "published_at": "2026-10-28T10:22:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "dab66480af0325e41ee0",
+      "category": "기타",
+      "collected_at": "2026-10-29T03:53:31.122107+00:00"
+    },
     {
       "title": "대학 등록금 올리면 사용처까지 따진다…등심위 권한 강화 - 경북도민일보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZNXV3RzdTa1A0YmduRlpPUHdZVVgwT1VPSXJ4ZHV2Zk14b2Y4UVFDS3BNd1dMZ2Ftbk1kdzlFNUE1ZHRJWkRBUC16NVBrZjI2dUNPOEVCRmJjTzZDS1luQUpiam5KMWxDYnc?oc=5",
