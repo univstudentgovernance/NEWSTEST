@@ -1,9 +1,81 @@
 {
-  "updated_at": "2026-10-30T12:55:22.993650+09:00",
-  "item_count": 1221,
+  "updated_at": "2026-10-31T02:36:07.838407+09:00",
+  "item_count": 1226,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "총학생회비 27년 만 인상 확정 … 재정 부족 해소될까 - 고대신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkTG81RXdYU2dDX2JTYzllcjVkZXhiTnNBRENYcGRDRDdVbzF4a2VUNE5nUzRzM3llanpHY1l5SkNvUTdKaU03VFZpQ2RXSHBObzk4WVZNbTFuRVVMdUhtMFlQelZNWkJiYXc?oc=5",
+      "summary": "총학생회비 27년 만 인상 확정 … 재정 부족 해소될까 고대신문",
+      "source": "고대신문",
+      "published_at": "2026-10-30T14:50:27+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "a29f15c044d9af5c8a09",
+      "category": "재정·감사",
+      "collected_at": "2026-10-30T17:35:37.428325+00:00"
+    },
+    {
+      "title": "총학생회칙·선거시행세칙 일부개정 … “총학 공백 감소 기대” - 고대신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxdFBsdGV2bmRZZXBvNGdmRHZRU2YzSUdhcWg4UVM5elAxRzBTUG83THp5a1c5Z1FoZzRwQV9wR0xnZDJuQmd0MEtNeGE3cG1SeTVmVnlSODJmVGdRVXdtczhhTHVXSmo1WVE?oc=5",
+      "summary": "총학생회칙·선거시행세칙 일부개정 … “총학 공백 감소 기대” 고대신문",
+      "source": "고대신문",
+      "published_at": "2026-10-30T11:59:43+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ebb9f5a1c36ff2f50030",
+      "category": "선거·조직",
+      "collected_at": "2026-10-30T17:35:37.428496+00:00"
+    },
+    {
+      "title": "익산경찰서, 원광대학교 총학생회와 보이스피싱 예방 간담회 개최 - 익산시민뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMakJUU3ZNWWo4Sk9faTlTNjFqaEpGQW9YUnJzb3VYMllYUDlPNGQteWRNcHJvdDA4ZUtpYkYtTDJCY0VqM1Iwa2pwcmNIN3RMYUhXLWd4S0JkUWpNUUhSQ21vRllXb2RuYjlJ?oc=5",
+      "summary": "익산경찰서, 원광대학교 총학생회와 보이스피싱 예방 간담회 개최 익산시민뉴스",
+      "source": "익산시민뉴스",
+      "published_at": "2026-10-30T09:36:26+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "01f9f48329b29cb49e1b",
+      "category": "기타",
+      "collected_at": "2026-10-30T17:35:37.428423+00:00"
+    },
+    {
+      "title": "제 49대 총학생회장단 선거...오는 11월 17일부터 이틀간 본투표 진행 - KNSU 미디어",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfOGI5VW5XY1ludkFaWFFEZU5Oa0dlMW1udnJ5RS0xakJoZHQ5VzJRc0FUdHZSbEVEcG9rd19MeXNkeDFScFIxVTg1Q29kZDg5OUU1QTd0Yi1HUjZVZFNLRktBci1DZ28?oc=5",
+      "summary": "제 49대 총학생회장단 선거...오는 11월 17일부터 이틀간 본투표 진행 KNSU 미디어",
+      "source": "KNSU 미디어",
+      "published_at": "2026-10-30T09:01:45+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "909d4d338336b8448bec",
+      "category": "선거·조직",
+      "collected_at": "2026-10-30T17:35:37.428371+00:00"
+    },
+    {
+      "title": "서울총학, 학교 측에 고연전 좌석·입장권 배분 개선 요구 - 고대신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByU0VVb0tPSURpajJEaVFSdW92YXhzc1dwM0U3UGdnRU9wQXR5TTRuU3dGNzJkLXlmd1ZlZ1NGWVBIR3Q0aUQtTEFMME1nYnZGOWhTTmx6ZTFfbldhWUxYVENzdDhoOHg1b2c?oc=5",
+      "summary": "서울총학, 학교 측에 고연전 좌석·입장권 배분 개선 요구 고대신문",
+      "source": "고대신문",
+      "published_at": "2026-10-30T08:38:40+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "3e20df4aa6b42e8cfa91",
+      "category": "기타",
+      "collected_at": "2026-10-30T17:35:37.428590+00:00"
+    },
+    {
+      "title": "익산경찰서, 원광대 총학생회와 보이스피싱 예방 협력 - 투데이안",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41Z1lMOGUxUlhXZll4R1B2YzFwRGpYN1VKNW15b2pvZGJlem8tbG5xOERjNFpockVpVUoyVjV1MlljTmVzT3lyMjI5VHhtcllpRmh0LW5lb0ZyckVDb20waF9rUlZ0dUhVWGc?oc=5",
+      "summary": "익산경찰서, 원광대 총학생회와 보이스피싱 예방 협력 투데이안",
+      "source": "투데이안",
+      "published_at": "2026-10-30T06:24:56+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ea2db43108c152b3d219",
+      "category": "기타",
+      "collected_at": "2026-10-30T17:35:37.428399+00:00"
+    },
     {
       "title": "장로회신학대학교 총학생회 ‘온정’교내 중고책 바자회 수익금 에코나우에 학생기부 - 경기매일",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LSlROclU4LUszWkNUZnRYMlliUEVYalgyZkZ3MUN4cWt4WkZ5Z2ZDbE91R0pfS2I1R0VBRUY3S21BVWhPOGNtN2VTdk5QZjFOaGFfRmlvUklTYXhYdzJkYUFiSFdSZGc?oc=5",
@@ -75,6 +147,18 @@
       "id": "6cacd3e79a0b0eb4fc19",
       "category": "등록금·교육",
       "collected_at": "2026-10-28T17:46:09.705883+00:00"
+    },
+    {
+      "title": "부산 동서대학교 총학생회, 사랑의 김치 200박스 사상구 취약계층 위해 나눔 실천 - 오아시스뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42dmFUV0ZXZmdtRTRjNUxFRzNvakpZMFBKdERlaHk5TnBLQWVNbGhpRkJ0MnprdzNFZ3Z1Nm1IeEgwWDVSRl8yeHBLbVBKaDczR2NMTk1aalc2MVY3X3psVFptSy1Sc3ljU2E3UWVkMzXSAXRBVV95cUxPazExWmhyNEx6dkVCOWw5ZGU5QjNPSU9NTGN6Sl9JRWlhbnUzRUs5Z2dqX2RGSVU2bG00c0Z0LWxwb2VWYkkxNFpEVW1JS3dyazNjX0pFTlBOZmpSb3ZWV1lqU3ZVMWF1V0l3V1EyaWJwQjFBdg?oc=5",
+      "summary": "부산 동서대학교 총학생회, 사랑의 김치 200박스 사상구 취약계층 위해 나눔 실천 오아시스뉴스",
+      "source": "오아시스뉴스",
+      "published_at": "2026-10-28T04:58:54+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "27a56a455cc49c9760e3",
+      "category": "기타",
+      "collected_at": "2026-10-30T17:35:45.596729+00:00"
     },
     {
       "title": "교육부, 대학 등록금심의위원회 제도 개선 추진…장학금 감면 대상 확대 - 한국강사신문",
@@ -507,6 +591,18 @@
       "id": "661cf8d67d21e25dffb7",
       "category": "기타",
       "collected_at": "2026-10-27T03:16:30.849975+00:00"
+    },
+    {
+      "title": "대학총학 시국선언…‘국가기관이 참정권 침해’ - 동양일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83WXg1QnpfTDJ2RktFQ09GQmlRRThOT0wxVGp5VGFFQm4wNHQyT0Jhc0ZlYUpwdW9WR3h4a2RONE1rQndpMFNBLXZDNDJkUE5jNUlCMDFpN1NxalVEam5jczBMc2ZUb1VLMjhV?oc=5",
+      "summary": "대학총학 시국선언…‘국가기관이 참정권 침해’ 동양일보",
+      "source": "동양일보",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "a1989c570f36e330be3f",
+      "category": "기타",
+      "collected_at": "2026-10-30T17:35:40.658679+00:00"
     },
     {
       "title": "폴리텍대 아산, 제25대 ‘청오’ 총학생회 출범… “소통과 협력으로 발전할 것” - 충청뉴스",
@@ -13499,6 +13595,18 @@
       "collected_at": "2026-09-12T14:48:32.653430+00:00"
     },
     {
+      "title": "최교진 장관, 대학 등록금 관련 총학생회단체 면담 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EclR6X293SDQtLUNkSlBuaWRRT1hVbXVNb3I3dG5GQVIxcG94QXhycmZRTFZCSWpRMzdxRl9CSEcyVURFb3V6WEQydw?oc=5",
+      "summary": "최교진 장관, 대학 등록금 관련 총학생회단체 면담 뉴스1",
+      "source": "뉴스1",
+      "published_at": "2025-12-30T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "a7ad1c7cccc51b1e4369",
+      "category": "등록금·교육",
+      "collected_at": "2026-10-30T17:35:42.328350+00:00"
+    },
+    {
       "title": "국립창원대 총학생회, '통합 오디세이' 성공적 개최! - 베리타스알파",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RclpEU21LN1JQRlBKbXFZaV9Vbks2ZVRWaHF2dVgxU3Fta3NfWlkyeGkxRkQtY3Fnc1VUY214R09vUmE0WG5kM0JPSWhsSE1aWUsxRm9vbC04NWVTeGNUb2lxYUhDazhaSTdFRw?oc=5",
       "summary": "국립창원대 총학생회, '통합 오디세이' 성공적 개최! 베리타스알파",
@@ -14363,53 +14471,6 @@
       "id": "9cf774916382364a80f1",
       "category": "선거·조직",
       "collected_at": "2026-09-12T02:37:30.716239+00:00"
-    },
-    {
-      "title": "학생회비 빼돌린 전 인하대 학생자치기구 간부 징역형 집유 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0dHNzSkxhcFdtMGwwZkI5ZXdwNHZFMHh3OFFYd0VmOHFOdmMxSG05cjM2VUJIdmUxcmdxb3BqVUVCdFA1aGVDclNpcUIzS203SElmMHhtRWxaYVHSAWBBVV95cUxNeWJQcEhKQU12VFR4SGV3ektqM3RWMDVDN05qQ1RrWjBzVjVQQWdKMnhZelpOclM1MTlGdWhJaXp3Q3Z2TjV2LTlIVE5UbExiTXAzaks2bGM4RWxQQmMtelE?oc=5",
-      "summary": "학생회비 빼돌린 전 인하대 학생자치기구 간부 징역형 집유 연합뉴스",
-      "source": "연합뉴스",
-      "published_at": "2025-10-30T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "id": "a3682d205b9a8df4761f",
-      "category": "의결·자치",
-      "collected_at": "2026-08-01T17:27:22.099825+00:00"
-    },
-    {
-      "title": "학생회비 빼돌린 전 인하대 학생자치기구 간부 징역형 집유 - yna.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0dHNzSkxhcFdtMGwwZkI5ZXdwNHZFMHh3OFFYd0VmOHFOdmMxSG05cjM2VUJIdmUxcmdxb3BqVUVCdFA1aGVDclNpcUIzS203SElmMHhtRWxaYVHSAWBBVV95cUxNeWJQcEhKQU12VFR4SGV3ektqM3RWMDVDN05qQ1RrWjBzVjVQQWdKMnhZelpOclM1MTlGdWhJaXp3Q3Z2TjV2LTlIVE5UbExiTXAzaks2bGM4RWxQQmMtelE?oc=5",
-      "summary": "학생회비 빼돌린 전 인하대 학생자치기구 간부 징역형 집유 yna.co.kr",
-      "source": "yna.co.kr",
-      "published_at": "2025-10-30T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "c426488a503498797dfa",
-      "category": "의결·자치",
-      "collected_at": "2026-09-06T02:22:55.722135+00:00"
-    },
-    {
-      "title": "학생회비 횡령 혐의 인하대 전 학생 자치 기구 간부 징역형 집유 - 인천일보",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fekZmdEwxd09ueWlYRHhVcWJXUnNxUDhid09wLUJXMnBWTDUzMk9nUV9RdGprNHZUeTRvazdBZDk2TFl3VTIweTlHLVlVS21ZNWIzRWhlWDZHdHE3UW5RaVpqR2VaaFVRNm8zZUJ1cGQ?oc=5",
-      "summary": "학생회비 횡령 혐의 인하대 전 학생 자치 기구 간부 징역형 집유 인천일보",
-      "source": "인천일보",
-      "published_at": "2025-10-30T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "594e2b6f960c486d38e8",
-      "category": "재정·감사",
-      "collected_at": "2026-09-18T02:40:15.715622+00:00"
-    },
-    {
-      "title": "학생회비 횡령 혐의 인하대 전 학생 자치 기구 간부 징역형 집유 - incheonilbo.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fekZmdEwxd09ueWlYRHhVcWJXUnNxUDhid09wLUJXMnBWTDUzMk9nUV9RdGprNHZUeTRvazdBZDk2TFl3VTIweTlHLVlVS21ZNWIzRWhlWDZHdHE3UW5RaVpqR2VaaFVRNm8zZUJ1cGQ?oc=5",
-      "summary": "학생회비 횡령 혐의 인하대 전 학생 자치 기구 간부 징역형 집유 incheonilbo.com",
-      "source": "incheonilbo.com",
-      "published_at": "2025-10-30T07:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "5a0863c7f8667f776eed",
-      "category": "재정·감사",
-      "collected_at": "2026-09-18T15:36:58.632844+00:00"
     }
   ]
 }
