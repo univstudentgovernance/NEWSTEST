@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T02:36:07.838407+09:00",
-  "item_count": 1226,
+  "updated_at": "2026-10-31T12:39:53.740975+09:00",
+  "item_count": 1228,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -15,6 +15,18 @@
       "id": "a29f15c044d9af5c8a09",
       "category": "재정·감사",
       "collected_at": "2026-10-30T17:35:37.428325+00:00"
+    },
+    {
+      "title": "익산경찰서, 원광대 총학생회와 보이스피싱 예방 간담회 개최 - 뉴스티앤티",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eV80a3lzSTZGQjQwLWlZLVBINGhGU0NyS1o2U2VqQ1pucVloMkhwdHdwYm9JUThWdU9ZNlJjRGgzNlB4N2R6MWd3VWR5MmU3am5MRHhlM2hVN1Azc1QxYlFpN3dhN21fcUE?oc=5",
+      "summary": "익산경찰서, 원광대 총학생회와 보이스피싱 예방 간담회 개최 뉴스티앤티",
+      "source": "뉴스티앤티",
+      "published_at": "2026-10-30T12:38:33+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "87a666abb1b03f1b165c",
+      "category": "기타",
+      "collected_at": "2026-10-31T03:39:23.322626+00:00"
     },
     {
       "title": "총학생회칙·선거시행세칙 일부개정 … “총학 공백 감소 기대” - 고대신문",
@@ -9938,6 +9950,18 @@
       "id": "35258dd0204a7ba07d1a",
       "category": "복지·문화",
       "collected_at": "2026-08-02T07:55:06.143861+00:00"
+    },
+    {
+      "title": "미국 펜실베이니아대 한인 김재윤씨…274년만에 여성 첫 총학생회장 - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeWk4RHF2cGZBeXVESmcxTmRFelB2dFlBV0VVX0FnNUI4VkZEblNaMnJMWWZGckdpWHdvdUk4eHNwM2d2YnBoTlV5UFhhY1RhQlBKQmxBSFlmRk9zUzFySThqZl9pNGd4SnZPeXhfek9MRC05Z09CN1R3SUR3YndVTA?oc=5",
+      "summary": "미국 펜실베이니아대 한인 김재윤씨…274년만에 여성 첫 총학생회장 한겨레",
+      "source": "한겨레",
+      "published_at": "2026-05-23T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "71ad815231a0b4880c4a",
+      "category": "기타",
+      "collected_at": "2026-10-31T03:39:23.323035+00:00"
     },
     {
       "title": "[포토뉴스] 제39대 총학생회 축제 「2026 세종연회 : Hidden PIECE」 - 세종대학교 뉴스룸",
