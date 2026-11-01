@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T12:47:02.206726+09:00",
-  "item_count": 1231,
+  "updated_at": "2026-11-02T02:29:58.693761+09:00",
+  "item_count": 1232,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -363,6 +363,18 @@
       "id": "36b5b1583452fccbfc34",
       "category": "등록금·교육",
       "collected_at": "2026-10-27T03:16:50.956203+00:00"
+    },
+    {
+      "title": "등록금 올리려면 지출 계획 내세요…등심위 요구권 신설 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80ZzJTc0J5YmtINi1kSWxSUEtha0FHckI3c1N3bHVRM0tCYUJXRFMxR0F4a0ExQUtSRGUtTU45ZFZTUktrdzVaa0JoWnp4NlUyLUkyNy02MmVhQQ?oc=5",
+      "summary": "등록금 올리려면 지출 계획 내세요…등심위 요구권 신설 파이낸셜뉴스",
+      "source": "파이낸셜뉴스",
+      "published_at": "2026-10-27T03:01:08+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "85ab0670179374b831e6",
+      "category": "등록금·교육",
+      "collected_at": "2026-11-01T17:29:32.839229+00:00"
     },
     {
       "title": "“대학 등록금 올리면 어디에 쓰나”…등심위가 따져본다 - 이데일리",
