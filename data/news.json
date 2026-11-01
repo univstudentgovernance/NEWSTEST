@@ -1,9 +1,45 @@
 {
-  "updated_at": "2026-11-01T01:39:50.361707+09:00",
-  "item_count": 1228,
+  "updated_at": "2026-11-01T12:47:02.206726+09:00",
+  "item_count": 1231,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "‘반대 53%’에도 다시 통합?···충남대, 공주대 통합 재추진 의결",
+      "url": "https://www.khan.co.kr/article/202611011038001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": "지난 29일 학무회의 열고 재추진 의결“재투표 등 구체적 방식은 추후 논의”구성원 동의 확보·재정지원 대응 과제충남대와 국립공주대의 통합에 반대하는 내용의 근조화환이 충남대 교내에 설치돼 있다. 충남대 총학생회 비상대책위원회 제공충남대가 구성원 찬반 투표에서 부결된 국립공주대와의 통합을 다시 추진하기로 했다. 통합 반대가 과반을 차지한 상황에서 재추진을 결···",
+      "source": "경향신문",
+      "published_at": "2026-11-01T03:46:50.107240+00:00",
+      "matched_query": "",
+      "feed": "경향신문",
+      "id": "35a36252988f5a0952d9",
+      "category": "선거·조직",
+      "collected_at": "2026-11-01T03:46:50.108404+00:00"
+    },
+    {
+      "title": "한신대 총학 “강제출국 피해자 피눈물”…‘사건 각하’ 학교 인권센터 비판",
+      "url": "https://www.hani.co.kr/arti/area/capital/1285156.html",
+      "summary": "",
+      "source": "한겨레",
+      "published_at": "2026-11-01T03:46:47.706962+00:00",
+      "matched_query": "",
+      "feed": "한겨레",
+      "id": "fd0e75e5999a072e5f9d",
+      "category": "인권·갈등",
+      "collected_at": "2026-11-01T03:46:47.707327+00:00"
+    },
+    {
+      "title": "한신대 총학 “강제출국 피해자 피눈물”…‘사건 각하’ 학교 인권센터 비판 - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kVUF1R2Z2U2ZVVVd1UXV0ek40NnRlQWk4NVM3Tk8zdGkxOEJhNHBQYzBaaFJlSHVDcHpIcWtBMWdLNndMZk5JOVNpQlFXc3hwNEhaMk1KSWhsc0FrOHdUZ2t3NA?oc=5",
+      "summary": "한신대 총학 “강제출국 피해자 피눈물”…‘사건 각하’ 학교 인권센터 비판 한겨레",
+      "source": "한겨레",
+      "published_at": "2026-11-01T01:07:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "612548f2ff3f8a282d26",
+      "category": "인권·갈등",
+      "collected_at": "2026-11-01T03:46:29.533989+00:00"
+    },
     {
       "title": "총학생회비 27년 만 인상 확정 … 재정 부족 해소될까 - 고대신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkTG81RXdYU2dDX2JTYzllcjVkZXhiTnNBRENYcGRDRDdVbzF4a2VUNE5nUzRzM3llanpHY1l5SkNvUTdKaU03VFZpQ2RXSHBObzk4WVZNbTFuRVVMdUhtMFlQelZNWkJiYXc?oc=5",
