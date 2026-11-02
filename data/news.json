@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T12:51:46.253300+09:00",
-  "item_count": 1234,
+  "updated_at": "2026-11-03T06:16:18.667543+09:00",
+  "item_count": 1235,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -171,6 +171,18 @@
       "id": "2f8dac734b084551afc3",
       "category": "등록금·교육",
       "collected_at": "2026-10-29T17:53:23.793827+00:00"
+    },
+    {
+      "title": "등록금 인상분 지출계획, 등심위가 요청…전문가 위원 임기 2년·연임 1회 - issueon.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vSEZYSzFTd1JsTXU0YnNDNXdDb1dSTHRCSUVTZTdvLXk5c3RpbDlIeF83bVdzSmczeXRqNlI1dGZYQzlVQTZwRnFaTlI3Y19MeDllZWJ6elFlZnlTLUk5WEtpWEhua2JzX0Jn?oc=5",
+      "summary": "등록금 인상분 지출계획, 등심위가 요청…전문가 위원 임기 2년·연임 1회 issueon.co.kr",
+      "source": "issueon.co.kr",
+      "published_at": "2026-10-29T02:04:28+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "20711b7cd06e257998e0",
+      "category": "등록금·교육",
+      "collected_at": "2026-11-02T21:15:50.068513+00:00"
     },
     {
       "title": "서울대, 올해도 총학생회장 ‘구인난’ - 헤럴드경제 미주판",
