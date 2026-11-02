@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T02:29:58.693761+09:00",
-  "item_count": 1232,
+  "updated_at": "2026-11-02T12:51:46.253300+09:00",
+  "item_count": 1234,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -303,6 +303,18 @@
       "id": "1116fe27cce9620a75de",
       "category": "등록금·교육",
       "collected_at": "2026-10-27T17:12:44.904314+00:00"
+    },
+    {
+      "title": "동서대 총학생회, 사상구 주례2동에 사랑의 김치 200박스 기탁 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rQ196SE5iVXBGSWZCTW5MQTNHVTB6cE1faEVVUDJGWlBqSWZSQjlLdWUyOVYybWU3WmlidjZvZUZFc0tLaGViTWJ6Z1JKQ2xHSDEyNzk0eEVQQ24xY0UyQXF6RUFuUGZZX2hzNmJLWDV6UQ?oc=5",
+      "summary": "동서대 총학생회, 사상구 주례2동에 사랑의 김치 200박스 기탁 부산일보",
+      "source": "부산일보",
+      "published_at": "2026-10-27T06:08:34+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b7899cfe7b61acdaf23b",
+      "category": "기타",
+      "collected_at": "2026-11-02T03:51:16.569884+00:00"
     },
     {
       "title": "대학 등록금 올리면 지출계획도 심의…등심위 권한 강화 - 뉴스후플러스",
@@ -14356,6 +14368,18 @@
       "id": "4ecec4d02e4767649be3",
       "category": "선거·조직",
       "collected_at": "2026-10-27T03:16:34.096417+00:00"
+    },
+    {
+      "title": "서울대 총학 회계감사위 '자치언론기금' 해산 요구 논란 - OhmyNews",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WS0xVLUtORmh2eFRVODlCWlRiM1EzQ01VczZCeW1zWU5idlRBdU9QMG5zbWdvRU9QcmlCS0E2M1VURENILS1ldHFnRDJZUTQ3b3gyZ19EcFEyUVJxbmdvTzZnT3NtSHFxdnFLQl9ZbUNwM1FyWnd3?oc=5",
+      "summary": "서울대 총학 회계감사위 '자치언론기금' 해산 요구 논란 OhmyNews",
+      "source": "OhmyNews",
+      "published_at": "2025-11-19T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "353cc88b2081f1f88eda",
+      "category": "재정·감사",
+      "collected_at": "2026-11-02T03:51:17.817411+00:00"
     },
     {
       "title": "“깊이 사과드린다” 가톨릭대 총학생회 선본 ‘여운’ 선관위 징계 조치에 사과문 올려 - 대학알리",
