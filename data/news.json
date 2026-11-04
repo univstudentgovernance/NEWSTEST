@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T13:24:36.374206+09:00",
-  "item_count": 1243,
+  "updated_at": "2026-11-05T04:13:32.612923+09:00",
+  "item_count": 1244,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -14405,6 +14405,18 @@
       "id": "02e6aa21c716bd91cc5b",
       "category": "복지·문화",
       "collected_at": "2026-08-06T10:14:16.285801+00:00"
+    },
+    {
+      "title": "“여운 같은 신뢰를 남기겠다” 가톨릭대학교 총학생회 선거운동본부 ‘여운’을 만나다 - 대학알리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TOC1fd2NXOExwMnZkYXlCNncxa3M5NXhNSG81UXFUWk8waTJpaGMxUzV6dDR6SE5NMjBFVzlkb3pMeFdvMnlTbzZVV1ZHWWtPd0VLSHpGRUdvOThucGd0eg?oc=5",
+      "summary": "“여운 같은 신뢰를 남기겠다” 가톨릭대학교 총학생회 선거운동본부 ‘여운’을 만나다 대학알리",
+      "source": "대학알리",
+      "published_at": "2025-11-23T08:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "53a94b33198ae3bdc4de",
+      "category": "선거·조직",
+      "collected_at": "2026-11-04T19:13:06.570778+00:00"
     },
     {
       "title": "총학 후보 토론회, 현안 논했지만 구체성은 '글쎄' - 채널PNU",
