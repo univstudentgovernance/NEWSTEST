@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-11-04T03:55:44.702399+09:00",
-  "item_count": 1242,
+  "updated_at": "2026-11-04T13:24:36.374206+09:00",
+  "item_count": 1243,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "제주대 총학생회 '4.3정신계승기념비' 세운다 - 제주MBC",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MYWFmYnIxZDlUbVBFcHZLaTJvb3o2WFJJZEVpMkxnNFEwekJQZ1Q1djZTMVI1Rld4elNRYmZHMUVHdnlFREZVeFFWTWJHZ2M?oc=5",
+      "summary": "제주대 총학생회 '4.3정신계승기념비' 세운다 제주MBC",
+      "source": "제주MBC",
+      "published_at": "2026-11-03T22:30:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f1650253e479f8020f36",
+      "category": "기타",
+      "collected_at": "2026-11-04T04:24:04.980220+00:00"
+    },
     {
       "title": "멘사코리아, 서울대학교 총학생회와 특별 입회테스트 운영 협약 체결 - 국민기자뉴스",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wQ2Q4N25nNUYyZ1ptakg0LWNiR1lyX2NsaDZkM3dQSEJLcjlOTHZTRVJrdEFlUEpHRXRFZmVwUjVscjBDR0JGMHVtVTYzY19VVEFLdy1mLTJfSFpOb3NfMmxDQWjSAWdBVV95cUxPVjhnbFdldjlabzhEWWRWcUxaQU9GNGtYTFBySHllMFNQdnhtXzFSSEZZVUVCMGdTVlpQT3dNRDF6eGhqaUVsNXZLSVBMdlZoZGxJeTNnaGh5NWVhRFRMOXY3TzBPZVRF?oc=5",
