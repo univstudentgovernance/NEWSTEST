@@ -1,9 +1,50 @@
 {
-  "updated_at": "2026-11-06T13:40:24.124862+09:00",
-  "item_count": 1245,
+  "updated_at": "2026-11-07T03:45:33.755003+09:00",
+  "item_count": 1248,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [],
+  "failures": [
+    {
+      "source": "연합뉴스",
+      "error": "ParseError: not well-formed (invalid token): line 836, column 80"
+    }
+  ],
   "items": [
+    {
+      "title": "충남대 총학생회 비대위, 10일 통합 재투표 관련 '공동 시위' - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hQnhkcW52QkEzbkpieGxxTlQ1bHRCV2lOVHNKTlhYc0pnZVh6N2Vyd01GY0RGUTFTdWFUR0wxUTRQWmg1N20wVTV4SmdYODlvazBxeTh0TDdKbnY3VmVJRDBrTGZvb3hHeS1rS1Y0R1c?oc=5",
+      "summary": "충남대 총학생회 비대위, 10일 통합 재투표 관련 '공동 시위' 신아일보",
+      "source": "신아일보",
+      "published_at": "2026-11-06T08:32:12+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f2715c43d33e2c7eb3cd",
+      "category": "선거·조직",
+      "collected_at": "2026-11-06T18:45:01.821199+00:00"
+    },
+    {
+      "title": "경남대 총학생회 부마민주항쟁 47주년 기념 ‘2026 시월제’ 개최 - 베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00dHo4ZWdPR2pBNEZXVTBZcjhsVlp1RkVSenlUZ0JlZUN4dHZfTVlmMjhOeDlWSFBJUFhFU01pMzdLaWpJLW04c0lGeWZlSGQ4aFRYMzRGd25UbWRFeFRjbmMweFNXMEpUbU8zQQ?oc=5",
+      "summary": "경남대 총학생회 부마민주항쟁 47주년 기념 ‘2026 시월제’ 개최 베리타스알파",
+      "source": "베리타스알파",
+      "published_at": "2026-11-06T07:52:15+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ebf84e867ab8e9526a65",
+      "category": "기타",
+      "collected_at": "2026-11-06T18:45:01.821227+00:00"
+    },
+    {
+      "title": "[뉴스] [보도] – 당선 이후 약 7개월, 총학생회 공약 이행 현황은? - 경희대학교 미디어센터",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VYll5VnlNQXBBVDNHMGJIMWxtek9Kd2F6cGJ1WTJOVmpUaVRmRjJqOGd6YjNPR1M5Z29qWGtOa1ktcmJ3OFVqYzhfcmxacFRqOF9wMHp4dTJjRXhEUkxUVFhGS1B2NDJXSnMyWUFqNXoxOXM?oc=5",
+      "summary": "[뉴스] [보도] – 당선 이후 약 7개월, 총학생회 공약 이행 현황은? 경희대학교 미디어센터",
+      "source": "경희대학교 미디어센터",
+      "published_at": "2026-11-06T06:07:50+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ff07311489fd1235b057",
+      "category": "선거·조직",
+      "collected_at": "2026-11-06T18:45:01.821253+00:00"
+    },
     {
       "title": "“3개월짜리 해놓고 뭔 큰소리?!” 법사위, 서영교 ‘총학생회장’ 이력 놓고 충돌 [현장영상] - 채널A",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XUTBjUWtzWHkwMC1jOGV0VlFucGJSaXVjX2lDZVZBZzFfT0kxU0RoOEMwTmMzZ0JMQjA2a2FUb0JuU09rU2g5U0VKa1VyVEk1WXNUZkFoTm1Rb3lGTlHSAWNBVV95cUxOR1hSVlE0SElXNXJCVTF1aDFQSTFWVzNnS2ZKcENBenA0T3hoUXFoZ2NnZTVpcG5XdUZ4ZHZvQTVvcjBLYjlWQ1JsS1hVZGdfdGlaVWRzc0lIekw3R2lVR1hIVnc?oc=5",
