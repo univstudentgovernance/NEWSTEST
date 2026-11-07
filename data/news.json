@@ -1,13 +1,8 @@
 {
-  "updated_at": "2026-11-07T03:45:33.755003+09:00",
+  "updated_at": "2026-11-07T13:06:21.267682+09:00",
   "item_count": 1248,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
-    {
-      "source": "연합뉴스",
-      "error": "ParseError: not well-formed (invalid token): line 836, column 80"
-    }
-  ],
+  "failures": [],
   "items": [
     {
       "title": "충남대 총학생회 비대위, 10일 통합 재투표 관련 '공동 시위' - 신아일보",
