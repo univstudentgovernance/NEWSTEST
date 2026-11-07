@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T13:06:21.267682+09:00",
-  "item_count": 1248,
+  "updated_at": "2026-11-08T02:16:56.215697+09:00",
+  "item_count": 1240,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -663,6 +663,18 @@
       "id": "3d72b919fac1851a8e4d",
       "category": "재정·감사",
       "collected_at": "2026-10-28T17:46:06.633841+00:00"
+    },
+    {
+      "title": "가톨릭관동대 총학생회,축제 수익금 장학금 기부 - 한국대학신문",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGMWRfcHVuRnA4U2Fwc3YzYTlFZjJLdVdBaUxZT1ZyRnhaRGRFN05XenlvRVM0SGRkWmZuY0RueU91ek5MaGRpekt0ZllBOERFalZOVkM2cVdKMXl2STdvRUg0VDFFUQ?oc=5",
+      "summary": "가톨릭관동대 총학생회,축제 수익금 장학금 기부 한국대학신문",
+      "source": "한국대학신문",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "c26f1aef2eb689d88d30",
+      "category": "복지·문화",
+      "collected_at": "2026-11-07T17:16:33.058169+00:00"
     },
     {
       "title": "강원대, 글로벌 올림픽·유학생 총학생회 설립 선포식 개최 - LG헬로비전",
@@ -14630,111 +14642,6 @@
       "id": "bc63f7fe6f5ca1005488",
       "category": "선거·조직",
       "collected_at": "2026-08-03T12:39:43.385525+00:00"
-    },
-    {
-      "title": "부산대 총학생회장 선거, 9년 만에 삼자대결 - 채널PNU",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fdG92Ymh5dW9jWjBybmpSNGI0UGxyUmlzNkRGbGwwZXZ0RDg4QlVncE1vMTRTTXpmREEwTWpsbHpWWDdSUXEzRnh0N0dTRlZXT2ZtNHI5WFJIemo2ekw1ZFdMbkpPZWtJRGoxVWhMUFNFZ9IBdkFVX3lxTFB2b0JUZEotaGRRc25abHhaV3Zfc2RmUVc4TGpBT2dQUG1CQ1BqdENXdE1jV1JLT3hkY1F5RjI3N1NvcWZJS2c0V3lCT1RtLTJRclVpRjU0bWQyZ0lFY1RySWhHbk5KS3lsdkFkZTd1aXdPZnFTbWc?oc=5",
-      "summary": "부산대 총학생회장 선거, 9년 만에 삼자대결 채널PNU",
-      "source": "채널PNU",
-      "published_at": "2025-11-07T08:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "id": "a0c2462a88ec5c975916",
-      "category": "선거·조직",
-      "collected_at": "2026-08-01T17:27:22.100008+00:00"
-    },
-    {
-      "title": "[2026 총학선거] 40년간 '민주화 선봉'서 '축제 준비단'까지 - 채널PNU",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TREE3WmlwcnpsNHpZbHRib3RkN3pObTBHUW12WVdDdFVaMVlXNGJ4QzIybUUyeXBYQjY0eHJXVmRIclpqQUszX2hJTXkxdmxHdW82MXlpck9Za1ZCOXlwV1U4Q3JWdzBDMmh5dmlWVDZxUdIBdkFVX3lxTE9wWTJWTXFFaURGd0N1Wk1LV1NmSTNiM1hha1NYRDVZNEY5YUF0YmJWbDd1RmhCeGRHbm50b0ZUWklEcHRFMTJEMTE4UXNjaWdfSHdLRHBOd1BUNU1oVUduVGxHTGZNeFFuUENnRUtvTU9tMTBDcFE?oc=5",
-      "summary": "[2026 총학선거] 40년간 '민주화 선봉'서 '축제 준비단'까지 채널PNU",
-      "source": "채널PNU",
-      "published_at": "2025-11-07T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "id": "9c8cd6e4335d05085e99",
-      "category": "선거·조직",
-      "collected_at": "2026-08-01T17:27:38.659852+00:00"
-    },
-    {
-      "title": "[2026 총학 선거] “필요하지만 관심 없어” 총학을 외면하는 이유 - 채널PNU",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQQ0MwRmxiY2x3bTc0UzVhLXRoQ2R0U0dzdFg5TWRmS0ZrVzY0NDJGOGllV0hhcDRTVElqVE92aEU3djJMTnc0STVQQWlzUWtibjhZdEdnV1p4XzRsLVlIYTR2bWJFV3JqQTJ0V1JOenpWZ9IBdkFVX3lxTE15VDZmc19UeHhZM0NiNE1PYndpUmhuc3Z0VmNvNHBHQmlDQkxNQ2pTcnZiTWVfclBnd3dIR2U3cmlzT2J3bTV6V3I0WDJ3bDBFOHRvR1JVR3NlWEl6QmVta3RLenFEdnJybHExSXlBc2NZUkZoYWc?oc=5",
-      "summary": "[2026 총학 선거] “필요하지만 관심 없어” 총학을 외면하는 이유 채널PNU",
-      "source": "채널PNU",
-      "published_at": "2025-11-07T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "id": "00b4e5e17679e63189d5",
-      "category": "선거·조직",
-      "collected_at": "2026-08-01T17:27:38.659962+00:00"
-    },
-    {
-      "title": "부산대 총학생회장 선거, 9년 만에 삼자대결 - channelpnu.pusan.ac.kr",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fdG92Ymh5dW9jWjBybmpSNGI0UGxyUmlzNkRGbGwwZXZ0RDg4QlVncE1vMTRTTXpmREEwTWpsbHpWWDdSUXEzRnh0N0dTRlZXT2ZtNHI5WFJIemo2ekw1ZFdMbkpPZWtJRGoxVWhMUFNFZ9IBdkFVX3lxTFB2b0JUZEotaGRRc25abHhaV3Zfc2RmUVc4TGpBT2dQUG1CQ1BqdENXdE1jV1JLT3hkY1F5RjI3N1NvcWZJS2c0V3lCT1RtLTJRclVpRjU0bWQyZ0lFY1RySWhHbk5KS3lsdkFkZTd1aXdPZnFTbWc?oc=5",
-      "summary": "부산대 총학생회장 선거, 9년 만에 삼자대결 channelpnu.pusan.ac.kr",
-      "source": "channelpnu.pusan.ac.kr",
-      "published_at": "2025-11-07T08:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "c0ca20bf40b86c5843fa",
-      "category": "선거·조직",
-      "collected_at": "2026-08-10T12:53:49.256122+00:00"
-    },
-    {
-      "title": "부산대 총학생회장 선거, 9년 만에 삼자대결 - 부산대학교",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fdG92Ymh5dW9jWjBybmpSNGI0UGxyUmlzNkRGbGwwZXZ0RDg4QlVncE1vMTRTTXpmREEwTWpsbHpWWDdSUXEzRnh0N0dTRlZXT2ZtNHI5WFJIemo2ekw1ZFdMbkpPZWtJRGoxVWhMUFNFZ9IBdkFVX3lxTFB2b0JUZEotaGRRc25abHhaV3Zfc2RmUVc4TGpBT2dQUG1CQ1BqdENXdE1jV1JLT3hkY1F5RjI3N1NvcWZJS2c0V3lCT1RtLTJRclVpRjU0bWQyZ0lFY1RySWhHbk5KS3lsdkFkZTd1aXdPZnFTbWc?oc=5",
-      "summary": "부산대 총학생회장 선거, 9년 만에 삼자대결 부산대학교",
-      "source": "부산대학교",
-      "published_at": "2025-11-07T08:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "322e15a2bf8c01b50c2f",
-      "category": "선거·조직",
-      "collected_at": "2026-09-02T02:22:38.184765+00:00"
-    },
-    {
-      "title": "[2026 총학선거] 40년간 '민주화 선봉'서 '축제 준비단'까지 - 부산대학교",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TREE3WmlwcnpsNHpZbHRib3RkN3pObTBHUW12WVdDdFVaMVlXNGJ4QzIybUUyeXBYQjY0eHJXVmRIclpqQUszX2hJTXkxdmxHdW82MXlpck9Za1ZCOXlwV1U4Q3JWdzBDMmh5dmlWVDZxUdIBdkFVX3lxTE9wWTJWTXFFaURGd0N1Wk1LV1NmSTNiM1hha1NYRDVZNEY5YUF0YmJWbDd1RmhCeGRHbm50b0ZUWklEcHRFMTJEMTE4UXNjaWdfSHdLRHBOd1BUNU1oVUduVGxHTGZNeFFuUENnRUtvTU9tMTBDcFE?oc=5",
-      "summary": "[2026 총학선거] 40년간 '민주화 선봉'서 '축제 준비단'까지 부산대학교",
-      "source": "부산대학교",
-      "published_at": "2025-11-07T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "654555425fb51402046c",
-      "category": "선거·조직",
-      "collected_at": "2026-09-02T02:22:44.686007+00:00"
-    },
-    {
-      "title": "[2026 총학 선거] “필요하지만 관심 없어” 총학을 외면하는 이유 - 부산대학교",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQQ0MwRmxiY2x3bTc0UzVhLXRoQ2R0U0dzdFg5TWRmS0ZrVzY0NDJGOGllV0hhcDRTVElqVE92aEU3djJMTnc0STVQQWlzUWtibjhZdEdnV1p4XzRsLVlIYTR2bWJFV3JqQTJ0V1JOenpWZ9IBdkFVX3lxTE15VDZmc19UeHhZM0NiNE1PYndpUmhuc3Z0VmNvNHBHQmlDQkxNQ2pTcnZiTWVfclBnd3dIR2U3cmlzT2J3bTV6V3I0WDJ3bDBFOHRvR1JVR3NlWEl6QmVta3RLenFEdnJybHExSXlBc2NZUkZoYWc?oc=5",
-      "summary": "[2026 총학 선거] “필요하지만 관심 없어” 총학을 외면하는 이유 부산대학교",
-      "source": "부산대학교",
-      "published_at": "2025-11-07T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "3aec604fe37e49227e70",
-      "category": "선거·조직",
-      "collected_at": "2026-09-02T02:22:44.686128+00:00"
-    },
-    {
-      "title": "[2026 총학선거] 40년간 '민주화 선봉'서 '축제 준비단'까지 - channelpnu.pusan.ac.kr",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TREE3WmlwcnpsNHpZbHRib3RkN3pObTBHUW12WVdDdFVaMVlXNGJ4QzIybUUyeXBYQjY0eHJXVmRIclpqQUszX2hJTXkxdmxHdW82MXlpck9Za1ZCOXlwV1U4Q3JWdzBDMmh5dmlWVDZxUdIBdkFVX3lxTE9wWTJWTXFFaURGd0N1Wk1LV1NmSTNiM1hha1NYRDVZNEY5YUF0YmJWbDd1RmhCeGRHbm50b0ZUWklEcHRFMTJEMTE4UXNjaWdfSHdLRHBOd1BUNU1oVUduVGxHTGZNeFFuUENnRUtvTU9tMTBDcFE?oc=5",
-      "summary": "[2026 총학선거] 40년간 '민주화 선봉'서 '축제 준비단'까지 channelpnu.pusan.ac.kr",
-      "source": "channelpnu.pusan.ac.kr",
-      "published_at": "2025-11-07T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "80c8c58f25d88e9b2c2a",
-      "category": "선거·조직",
-      "collected_at": "2026-09-12T02:37:30.715927+00:00"
-    },
-    {
-      "title": "[2026 총학 선거] “필요하지만 관심 없어” 총학을 외면하는 이유 - channelpnu.pusan.ac.kr",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQQ0MwRmxiY2x3bTc0UzVhLXRoQ2R0U0dzdFg5TWRmS0ZrVzY0NDJGOGllV0hhcDRTVElqVE92aEU3djJMTnc0STVQQWlzUWtibjhZdEdnV1p4XzRsLVlIYTR2bWJFV3JqQTJ0V1JOenpWZ9IBdkFVX3lxTE15VDZmc19UeHhZM0NiNE1PYndpUmhuc3Z0VmNvNHBHQmlDQkxNQ2pTcnZiTWVfclBnd3dIR2U3cmlzT2J3bTV6V3I0WDJ3bDBFOHRvR1JVR3NlWEl6QmVta3RLenFEdnJybHExSXlBc2NZUkZoYWc?oc=5",
-      "summary": "[2026 총학 선거] “필요하지만 관심 없어” 총학을 외면하는 이유 channelpnu.pusan.ac.kr",
-      "source": "channelpnu.pusan.ac.kr",
-      "published_at": "2025-11-07T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "9cf774916382364a80f1",
-      "category": "선거·조직",
-      "collected_at": "2026-09-12T02:37:30.716239+00:00"
     }
   ]
 }
