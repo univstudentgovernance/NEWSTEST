@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-11-08T12:50:48.401389+09:00",
-  "item_count": 1240,
+  "updated_at": "2026-11-09T02:28:43.966731+09:00",
+  "item_count": 1241,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "경남대 총학생회 부마민주항쟁 47주년 기념 ‘2026 시월제’ 개최 - 경남도민신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80TEE0Uk4yRWp1aWktUlZ1ZngwVm1HcUw2Mk9Yc3pXMkFQMVVOOFV0dTFpNC01MUd3a01ta1NBRUtWdGR6TlJONWlmcS10SFZ2TGV6TnkzdjJkbkVtWlZ3aWRWdVFkdnlK?oc=5",
+      "summary": "경남대 총학생회 부마민주항쟁 47주년 기념 ‘2026 시월제’ 개최 경남도민신문",
+      "source": "경남도민신문",
+      "published_at": "2026-11-08T06:04:19+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f224e97b4deba5c66035",
+      "category": "기타",
+      "collected_at": "2026-11-08T17:28:12.428193+00:00"
+    },
     {
       "title": "충남대 총학생회 비대위, 10일 통합 재투표 관련 '공동 시위' - 신아일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hQnhkcW52QkEzbkpieGxxTlQ1bHRCV2lOVHNKTlhYc0pnZVh6N2Vyd01GY0RGUTFTdWFUR0wxUTRQWmg1N20wVTV4SmdYODlvazBxeTh0TDdKbnY3VmVJRDBrTGZvb3hHeS1rS1Y0R1c?oc=5",
