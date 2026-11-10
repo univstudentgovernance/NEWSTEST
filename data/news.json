@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-11-10T14:36:30.762217+09:00",
-  "item_count": 1243,
+  "updated_at": "2026-11-11T04:10:56.297414+09:00",
+  "item_count": 1244,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "충남대, 공주대와 통합 재추진 나선다…총학생회는 반발 집회 - 충청뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGUnUxMUZqcUNQSG51dTY1RUl0NnA4MWtTTlBVZk1sdjRtdlI2RTNPZHl0dTFnRzN3Qjk4eURuNU9HMU5OQ3M4dWJ3bUFjUVZJV0RGazZWRlQ5X2REODVzV1BZZlhMYXFzWE5r?oc=5",
+      "summary": "충남대, 공주대와 통합 재추진 나선다…총학생회는 반발 집회 충청뉴스",
+      "source": "충청뉴스",
+      "published_at": "2026-11-10T07:14:31+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "264b7dca8964b18db640",
+      "category": "인권·갈등",
+      "collected_at": "2026-11-10T19:10:25.513653+00:00"
+    },
     {
       "title": "\"총학생회·동아리연합 한자리에\"…서울시 '청년정책' 체계 점검 - 청년일보",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBybjBNUkRwWER1bk9ReXRMU1Ffdm9iS0pkXzMwOWhLMl9tSGJvay11S3V6UU5WVTN1eFh1RGM5a3QxbzJ2bFlJcDVjWUx6Yk91Tlg1bVQ4bURTWmJEVXNraTEwNXRMNWs?oc=5",
