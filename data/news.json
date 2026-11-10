@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-11-10T06:50:13.493622+09:00",
-  "item_count": 1241,
+  "updated_at": "2026-11-10T14:36:30.762217+09:00",
+  "item_count": 1243,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "\"총학생회·동아리연합 한자리에\"…서울시 '청년정책' 체계 점검 - 청년일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBybjBNUkRwWER1bk9ReXRMU1Ffdm9iS0pkXzMwOWhLMl9tSGJvay11S3V6UU5WVTN1eFh1RGM5a3QxbzJ2bFlJcDVjWUx6Yk91Tlg1bVQ4bURTWmJEVXNraTEwNXRMNWs?oc=5",
+      "summary": "\"총학생회·동아리연합 한자리에\"…서울시 '청년정책' 체계 점검 청년일보",
+      "source": "청년일보",
+      "published_at": "2026-11-10T02:23:15+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "3abd2c063e937a7b0d2a",
+      "category": "기타",
+      "collected_at": "2026-11-10T05:36:01.481382+00:00"
+    },
     {
       "title": "경남대 총학생회 부마민주항쟁 47주년 기념 ‘2026 시월제’ 개최 - 경남도민신문",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80TEE0Uk4yRWp1aWktUlZ1ZngwVm1HcUw2Mk9Yc3pXMkFQMVVOOFV0dTFpNC01MUd3a01ta1NBRUtWdGR6TlJONWlmcS10SFZ2TGV6TnkzdjJkbkVtWlZ3aWRWdVFkdnlK?oc=5",
@@ -363,6 +375,18 @@
       "id": "6cacd3e79a0b0eb4fc19",
       "category": "등록금·교육",
       "collected_at": "2026-10-28T17:46:09.705883+00:00"
+    },
+    {
+      "title": "대학 등록금 올리면 사용처까지 따진다…등심위 권한 강화 - hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZNXV3RzdTa1A0YmduRlpPUHdZVVgwT1VPSXJ4ZHV2Zk14b2Y4UVFDS3BNd1dMZ2Ftbk1kdzlFNUE1ZHRJWkRBUC16NVBrZjI2dUNPOEVCRmJjTzZDS1luQUpiam5KMWxDYnc?oc=5",
+      "summary": "대학 등록금 올리면 사용처까지 따진다…등심위 권한 강화 hidomin.com",
+      "source": "hidomin.com",
+      "published_at": "2026-10-28T06:55:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "7961e595a713cdd5a7ec",
+      "category": "등록금·교육",
+      "collected_at": "2026-11-10T05:36:06.195114+00:00"
     },
     {
       "title": "부산 동서대학교 총학생회, 사랑의 김치 200박스 사상구 취약계층 위해 나눔 실천 - 오아시스뉴스",
