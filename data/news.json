@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-11-11T13:08:28.164789+09:00",
+  "updated_at": "2026-11-12T04:07:34.195281+09:00",
   "item_count": 1245,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "양유준 제주대 총학생회장 “4·3 선배들의 용기와 정신, 미래 세대에 계승할 것” - BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44U0IxWjZCc1Bpb085VUJDODJZNHRxVk90ZU1IZlEteTI3TUJRVWhGTnVzaTNKcFcwWHVoRnpKYlc2RWx1cFAydDlRWHY5S3ZZN19DaTdMY0Z2WGlkTm9WSVFzeWZqYl8zdGh3?oc=5",
+      "summary": "양유준 제주대 총학생회장 “4·3 선배들의 용기와 정신, 미래 세대에 계승할 것” BBS불교방송",
+      "source": "BBS불교방송",
+      "published_at": "2026-11-11T06:25:39+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d716915a6f6843ff5257",
+      "category": "기타",
+      "collected_at": "2026-11-11T19:07:01.584418+00:00"
+    },
     {
       "title": "“또 같은 안으로 투표?”···충남대·공주대 통합 재추진에 삭발 투쟁까지",
       "url": "https://www.khan.co.kr/article/202611111049011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
@@ -483,6 +495,18 @@
       "id": "078fe9050c610f1486af",
       "category": "의결·자치",
       "collected_at": "2026-10-27T17:12:41.717582+00:00"
+    },
+    {
+      "title": "“대학 등록금 올리면 어디에 쓰나”…등심위가 따져본다 - edaily.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNkluLV9PSENGT0Z3SDZGQWNXM0R5ZWpmd2lYUV9mREtZa1dtbEY0cjh5M1c2RUIyMl81MjdFSGE4UkFITzUxNGVscGJBaW42VkpuM2tINmt3akstRVNzaUZVODlVc2ZMWlZKc3hRN0w3MTJzVnNTNGZkMmVhR2lWbg?oc=5",
+      "summary": "“대학 등록금 올리면 어디에 쓰나”…등심위가 따져본다 edaily.co.kr",
+      "source": "edaily.co.kr",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "010eaf4b8b7f380dad37",
+      "category": "등록금·교육",
+      "collected_at": "2026-11-11T19:07:06.472073+00:00"
     },
     {
       "title": "부산 동서대학교 총학생회, 사랑의 김치 200박스 사상구 주례2동에 기탁 - 국제신문",
@@ -14679,29 +14703,6 @@
       "id": "e012d5517cd34f2cfffc",
       "category": "선거·조직",
       "collected_at": "2026-09-12T02:37:30.716141+00:00"
-    },
-    {
-      "title": "인천대 총학생회, 국힘 시의원 선거 개입 규탄··· 학생 자치 침해 반발 - 인천투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4MWl3eUlwU0FjRldXTnlIbXJVWUlaZnNEV1EtbkMyZmxHSzFnSHo3YUpkRTFXanplRmdjQ0VZNERfZGRrc3RmTkFJMEp3Q3FRNGQ0UmFKSVBoYlNyNUVmUkp6YUg1WnBpODZhRlFJNDA?oc=5",
-      "summary": "인천대 총학생회, 국힘 시의원 선거 개입 규탄··· 학생 자치 침해 반발 인천투데이",
-      "source": "인천투데이",
-      "published_at": "2025-11-11T08:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "id": "d1b1e1b00c911a4134c6",
-      "category": "선거·조직",
-      "collected_at": "2026-08-01T17:27:22.099772+00:00"
-    },
-    {
-      "title": "인천대 총학생회, 국힘 시의원 선거 개입 규탄··· 학생 자치 침해 반발 - incheontoday.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4MWl3eUlwU0FjRldXTnlIbXJVWUlaZnNEV1EtbkMyZmxHSzFnSHo3YUpkRTFXanplRmdjQ0VZNERfZGRrc3RmTkFJMEp3Q3FRNGQ0UmFKSVBoYlNyNUVmUkp6YUg1WnBpODZhRlFJNDA?oc=5",
-      "summary": "인천대 총학생회, 국힘 시의원 선거 개입 규탄··· 학생 자치 침해 반발 incheontoday.com",
-      "source": "incheontoday.com",
-      "published_at": "2025-11-11T08:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "bc63f7fe6f5ca1005488",
-      "category": "선거·조직",
-      "collected_at": "2026-08-03T12:39:43.385525+00:00"
     }
   ]
 }
