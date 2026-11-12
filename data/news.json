@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-11-12T04:07:34.195281+09:00",
-  "item_count": 1245,
+  "updated_at": "2026-11-12T14:20:01.534831+09:00",
+  "item_count": 1246,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "인하대 총학생회 동문회 “'이승만 인하대 설립자' 주장은 역사 왜곡” - 인천투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RNUZYZUU0OWF3U2c3c1ljWG1VcVVua3VPbVdEYlBvY0xndm0xN3hhc3l2ZkpKU1pZT0paUTEtY2xPZ3RPOFd3V0dUTEdmLTJZeWZFWlNNUXNXSnNzSWJIM3lSa2czS1BERC1HN21MbVE?oc=5",
+      "summary": "인하대 총학생회 동문회 “'이승만 인하대 설립자' 주장은 역사 왜곡” 인천투데이",
+      "source": "인천투데이",
+      "published_at": "2026-11-12T01:57:59+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4cb3a5f78afd0534476b",
+      "category": "기타",
+      "collected_at": "2026-11-12T05:19:28.675242+00:00"
+    },
     {
       "title": "양유준 제주대 총학생회장 “4·3 선배들의 용기와 정신, 미래 세대에 계승할 것” - BBS불교방송",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44U0IxWjZCc1Bpb085VUJDODJZNHRxVk90ZU1IZlEteTI3TUJRVWhGTnVzaTNKcFcwWHVoRnpKYlc2RWx1cFAydDlRWHY5S3ZZN19DaTdMY0Z2WGlkTm9WSVFzeWZqYl8zdGh3?oc=5",
