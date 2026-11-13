@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T13:35:26.419992+09:00",
-  "item_count": 1248,
+  "updated_at": "2026-11-14T04:03:29.445786+09:00",
+  "item_count": 1249,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -147,6 +147,18 @@
       "id": "8f5905c58826966f2088",
       "category": "기타",
       "collected_at": "2026-11-05T04:40:08.183177+00:00"
+    },
+    {
+      "title": "[속보] 제59대 총학 선거, 단과대 학생회장 출신 맞대결 - 채널PNU",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sODF0YjhLWDdZT05EdDNITUswUkxQX2x0VGtPTHdTMUtaRkttcjZfU2dRTXNuY29ELURSZWxCZ3dwUzRQWUZoTHktTjlqeEJ0ak1rOXJOQmxiU1M0QlR3a3NkM1lHVE9ldnctaHFPd1pSd9IBdkFVX3lxTE85Y2RubnFQeE5tWjYxa2lwdmRKLXZSTnNaXzhMVnlnTlhxd1h2OUtZU0x4TEt3NXJKZEhPekpoRDVhTGNNVlBnS2FLR2VUakdvenE4T0pKZG9ETGJYNDAzbnpwVkR5MkpiVG52QmdxUDJCamJVYmc?oc=5",
+      "summary": "[속보] 제59대 총학 선거, 단과대 학생회장 출신 맞대결 채널PNU",
+      "source": "채널PNU",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "1c6203bb4dd0717da845",
+      "category": "선거·조직",
+      "collected_at": "2026-11-13T19:03:01.779583+00:00"
     },
     {
       "title": "제주대 총학생회 '4.3정신계승기념비' 세운다 - 제주MBC",
