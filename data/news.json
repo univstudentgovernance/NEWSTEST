@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T13:30:22.830370+09:00",
-  "item_count": 1250,
+  "updated_at": "2026-11-15T02:33:25.566937+09:00",
+  "item_count": 1248,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -12480,6 +12480,18 @@
       "collected_at": "2026-08-04T10:15:10.902694+00:00"
     },
     {
+      "title": "등록금심의위원회 구조 논란 지속···학생 참여 실효성·회의 투명성 도마 위로 - 이대학보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FRFE1alRaN1Z3VkU5UHdNNElEWmpzWDdCQlA4RlJMaTFEbW9JRWdBVWFFQkVlX3NoaWJmeUUtUWJvWUFGTlI2ektrSmtNYndQcnVzbE5BUGJ5S3l5dGx2ZTRWYkJNZGJXN0E?oc=5",
+      "summary": "등록금심의위원회 구조 논란 지속···학생 참여 실효성·회의 투명성 도마 위로 이대학보",
+      "source": "이대학보",
+      "published_at": "2026-03-08T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "e05d7a5e436217eda09c",
+      "category": "등록금·교육",
+      "collected_at": "2026-11-14T17:32:58.855352+00:00"
+    },
+    {
       "title": "광주대 2026년 입학식 & 학생자치기구 연합 출범식 - 베리타스알파",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LNGpwZFM1aUZJVzQtSktxel9qMUcyV1pFTnVhRVJuNjFUQUNGT1hhQkxudThDMjFIRzFTTEJQMzNIRE9pUmJHaHNyOU5aRDJGeERoNFpQSFR0Y3pCWnlCdDFHNm9SRThGV1YydA?oc=5",
       "summary": "광주대 2026년 입학식 & 학생자치기구 연합 출범식 베리타스알파",
@@ -14728,41 +14740,6 @@
       "id": "15ffc8f1de697b39aa7e",
       "category": "선거·조직",
       "collected_at": "2026-09-08T02:32:26.181504+00:00"
-    },
-    {
-      "title": "[2026 학생회] 투표 전 필독, 총학 세 후보가 말하는 비전 - 채널PNU",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NWXRMNWtiM3NRYXgxd211dk82QWVNaVc2Z2YxRnl0U1BFbjBKOVl1My01R1YtclAwOUhHbnZIUTFpOVgxZ2JUZzd2OHpoWGVZbEVCM2hucTY1ZHdQM19uTHVBdTNSSlZSM0w4UUJCNi1qd9IBdkFVX3lxTE9VeGRHaGg4Mk9sSzFHQ2d4azZycjVBX2hPMWNjc3M3QXNRS05aYW1nNmtJcElqYmE0eEc4SjhtYzlSVHZnLUExMTNTVU10aXBKUFFjRTVSNW1wMF8zV284Y09DVEN2cFhsMUs5QWcyYjl4ak1uWVE?oc=5",
-      "summary": "[2026 학생회] 투표 전 필독, 총학 세 후보가 말하는 비전 채널PNU",
-      "source": "채널PNU",
-      "published_at": "2025-11-14T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "id": "889bed1814b4f0681edc",
-      "category": "선거·조직",
-      "collected_at": "2026-08-01T17:27:38.659948+00:00"
-    },
-    {
-      "title": "[2026 학생회] 투표 전 필독, 총학 세 후보가 말하는 비전 - 부산대학교",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NWXRMNWtiM3NRYXgxd211dk82QWVNaVc2Z2YxRnl0U1BFbjBKOVl1My01R1YtclAwOUhHbnZIUTFpOVgxZ2JUZzd2OHpoWGVZbEVCM2hucTY1ZHdQM19uTHVBdTNSSlZSM0w4UUJCNi1qd9IBdkFVX3lxTE9VeGRHaGg4Mk9sSzFHQ2d4azZycjVBX2hPMWNjc3M3QXNRS05aYW1nNmtJcElqYmE0eEc4SjhtYzlSVHZnLUExMTNTVU10aXBKUFFjRTVSNW1wMF8zV284Y09DVEN2cFhsMUs5QWcyYjl4ak1uWVE?oc=5",
-      "summary": "[2026 학생회] 투표 전 필독, 총학 세 후보가 말하는 비전 부산대학교",
-      "source": "부산대학교",
-      "published_at": "2025-11-14T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "80c703963e5d3e1edbea",
-      "category": "선거·조직",
-      "collected_at": "2026-09-02T02:22:44.686104+00:00"
-    },
-    {
-      "title": "[2026 학생회] 투표 전 필독, 총학 세 후보가 말하는 비전 - channelpnu.pusan.ac.kr",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NWXRMNWtiM3NRYXgxd211dk82QWVNaVc2Z2YxRnl0U1BFbjBKOVl1My01R1YtclAwOUhHbnZIUTFpOVgxZ2JUZzd2OHpoWGVZbEVCM2hucTY1ZHdQM19uTHVBdTNSSlZSM0w4UUJCNi1qd9IBdkFVX3lxTE9VeGRHaGg4Mk9sSzFHQ2d4azZycjVBX2hPMWNjc3M3QXNRS05aYW1nNmtJcElqYmE0eEc4SjhtYzlSVHZnLUExMTNTVU10aXBKUFFjRTVSNW1wMF8zV284Y09DVEN2cFhsMUs5QWcyYjl4ak1uWVE?oc=5",
-      "summary": "[2026 학생회] 투표 전 필독, 총학 세 후보가 말하는 비전 channelpnu.pusan.ac.kr",
-      "source": "channelpnu.pusan.ac.kr",
-      "published_at": "2025-11-14T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "e012d5517cd34f2cfffc",
-      "category": "선거·조직",
-      "collected_at": "2026-09-12T02:37:30.716141+00:00"
     }
   ]
 }
