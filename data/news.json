@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-11-14T04:03:29.445786+09:00",
-  "item_count": 1249,
+  "updated_at": "2026-11-14T13:30:22.830370+09:00",
+  "item_count": 1250,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "서울총학에 ‘고대답게’ 단독 예비후보, 세종총학은 ‘WITH:U’, ‘FLOW’ 경선 - 고대신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XOGE4cXdmN2poNmtobGc5Z3BKWXYtMUViODR0NXd4Y1I2QzRZLWhUOEgxMWY0bnRTVkgzMHpDX3pGbHdaSWptOGoydS1aR1FXcXJQeGlvTVBSM0xRY0NkMzdHSWVOLUU0NlE?oc=5",
+      "summary": "서울총학에 ‘고대답게’ 단독 예비후보, 세종총학은 ‘WITH:U’, ‘FLOW’ 경선 고대신문",
+      "source": "고대신문",
+      "published_at": "2026-11-13T19:34:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "831a9ddefca862026c00",
+      "category": "선거·조직",
+      "collected_at": "2026-11-14T04:29:52.062110+00:00"
+    },
     {
       "title": "‘인하대 이승만 동상 재건 논란’ 동문들도 ‘들썩’…총학동문회 “설립자 이승만은 역사왜곡” - 인천일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqUUc1cmZxWGMtLXF4TzdqTnM5OEgtNzFKZVg0cnpLd1Y3aXB0RV9Odzd4c0UzX0hUZ1d2RUVSSDRIS1VONFQxYnp4X3I4el85cmVKRXBXUjZkOTZncTQ2akM3aEZDendOenN3ZEd6SGQ?oc=5",
