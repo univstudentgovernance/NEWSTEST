@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-11-16T03:21:37.279300+09:00",
-  "item_count": 1255,
+  "updated_at": "2026-11-16T13:17:25.517367+09:00",
+  "item_count": 1256,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "[뉴스] [보도] - 제59대 총학생회 선거, 오는 23일부터 실시 - 경희대학교 미디어센터",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kUXhzREpNV0xhVU5hdTUwYWtuUzZpSWlFQ3JaU0xZWjQtOFBwYThnSzgxYUVCaWVYTmhhbGg1eml0OVVwX25Ydy1vSV9jbHR5c3RBenN0NjFxVVVGX0FkdU9Lb3dLYXotTURTYVJnc3RhckU?oc=5",
+      "summary": "[뉴스] [보도] - 제59대 총학생회 선거, 오는 23일부터 실시 경희대학교 미디어센터",
+      "source": "경희대학교 미디어센터",
+      "published_at": "2026-11-16T01:45:45+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "741a6df083fed2fd838a",
+      "category": "선거·조직",
+      "collected_at": "2026-11-16T04:16:55.066880+00:00"
+    },
     {
       "title": "2027학년도 총학생회장단 후보 ‘이룸’, 공청회 현장 질문에 답하다 - KNSU 미디어",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WZTg5X1JBQ05PSU9MUng4QjBnRUtnOHdncWtROHU5UC1temxVTWpQTllsWkgxRUJuZzRxZXJGSmd6WXVVUFFjdXhBbXJkR0xyak9vaUJQMGo2YjIzQWpmMkRpWnVEOUU?oc=5",
