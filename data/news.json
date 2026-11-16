@@ -1,9 +1,26 @@
 {
-  "updated_at": "2026-11-16T13:17:25.517367+09:00",
-  "item_count": 1256,
+  "updated_at": "2026-11-17T06:30:27.185208+09:00",
+  "item_count": 1257,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [],
+  "failures": [
+    {
+      "query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+  ],
   "items": [
+    {
+      "title": "국립한국교통대 학생자치기구 '2026 Moonlight' 행사 수익금 전액 기부..지역사회 나눔 실천 - 베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QMU1qM3NPVWxiZ2dFTF9wdzZ3dWdRaFBMNFFZRXphYlRnSjhFZmd1N3VsTlN0SzQ2bFF4TmhGbGpzdGlkR0ItQzRGZ0xGdW83SVRKM1U0ZmJScXNWY2Jtc2Y5aEtuRlB1MHZTYw?oc=5",
+      "summary": "국립한국교통대 학생자치기구 '2026 Moonlight' 행사 수익금 전액 기부..지역사회 나눔 실천 베리타스알파",
+      "source": "베리타스알파",
+      "published_at": "2026-11-16T05:56:20+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "5ebddeaa415e037a4b26",
+      "category": "의결·자치",
+      "collected_at": "2026-11-16T21:29:57.473520+00:00"
+    },
     {
       "title": "[뉴스] [보도] - 제59대 총학생회 선거, 오는 23일부터 실시 - 경희대학교 미디어센터",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kUXhzREpNV0xhVU5hdTUwYWtuUzZpSWlFQ3JaU0xZWjQtOFBwYThnSzgxYUVCaWVYTmhhbGg1eml0OVVwX25Ydy1vSV9jbHR5c3RBenN0NjFxVVVGX0FkdU9Lb3dLYXotTURTYVJnc3RhckU?oc=5",
