@@ -1,14 +1,102 @@
 {
-  "updated_at": "2026-11-17T06:30:27.185208+09:00",
-  "item_count": 1257,
+  "updated_at": "2026-11-17T15:01:59.354260+09:00",
+  "item_count": 1264,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [
+    {
+      "query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
     {
       "query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
       "error": "HTTPError: HTTP Error 429: Too Many Requests"
     }
   ],
   "items": [
+    {
+      "title": "전국 15개 대학교 총학생회 \"공정한 응시 환경 보장할 실효성 있는 조치 시행하라\" - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPa3lDaEtnN0FTTTJzcm1lLTRKVFVYaFZRcnlJUVMyZUk3dEQyNDVldy0ydkZiamE0NkZ6bUhiSzdFZEpPYzUtSnczSVU1anBraGM0QVJtWTJ2Q0VYLVlKWGNQUTIwcDhGRVlpbUh5X0F1UTRNRDZhN3FpQjlaQUYtT1ZrTVVNRWZBRzFmR0dIa3NoRE5UYkplVGx6STNidUxESGtLTThmWTZoSWp1U3cwZS1wcTF1aWZqckRmdkcya04xeUVka0tXTENfeEdvcmYxWXRrX2lta0U1RkY0VVZ1Q1BKcEZPVkhjZElwNXNxREgxUWFNMWJnX0VGdE13ODVJQ0E?oc=5",
+      "summary": "전국 15개 대학교 총학생회 \"공정한 응시 환경 보장할 실효성 있는 조치 시행하라\" 데일리안",
+      "source": "데일리안",
+      "published_at": "2026-11-17T05:44:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "23261936b6fb9d55fc44",
+      "category": "기타",
+      "collected_at": "2026-11-17T06:01:27.461661+00:00"
+    },
+    {
+      "title": "\"정말, 노력은 배신하지 않는가\"…15개 대학 총학, 'AI 커닝' 교육당국 규탄 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNWVQ4T1pnSTUyNk5VRFlBem1NeXFyNEh6dy1vT1FFdkV1TFl5dnROaUlLX0tXMUU2UlM4MmhkcGpRV1Rfc2JZa05vdU1PaXNfcWoxX3MwdjNBdHhFU092SNIBeEFVX3lxTFBsZlVCakVKOU9XSTF1N3MyWVRqQ0N1dnIxODd6R1VWVnRreVdKOVl5dm9VVXprbFVTend4YWNxX3JvWlNqRU9xd1hjajZuTU42VXNTZFdnM1RjUnplaUpOX2k4Z2RCamQxZVptdUdYNVZrRmJ2QmxYQQ?oc=5",
+      "summary": "\"정말, 노력은 배신하지 않는가\"…15개 대학 총학, 'AI 커닝' 교육당국 규탄 뉴시스",
+      "source": "뉴시스",
+      "published_at": "2026-11-17T05:18:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "30dac704727fcdad2218",
+      "category": "기타",
+      "collected_at": "2026-11-17T06:01:27.461634+00:00"
+    },
+    {
+      "title": "전국 대학 총학생회 \"AI 부정행위로 공정 붕괴…각성해야\" - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tRjN1Q2Q4QzNWb1hhZ3dhcm82RWducy1ya0U5bGNVcGpXdVFueGFaN3BrNGtkLUlRaVR3RTgtN3FaZ0NqWkFyRUZDR2VmWFhVVmF0OGVR0gFQQVVfeXFMTmtGZmhjMVQ0amZDcWxhV2dhWHhlT0ZZOVd6ZWZXZk9NYkNCbGVGc182ZV8zbE91ejB2aGdVdFVhdUl6d2w0dE1udExyWV9tcms?oc=5",
+      "summary": "전국 대학 총학생회 \"AI 부정행위로 공정 붕괴…각성해야\" 더팩트",
+      "source": "더팩트",
+      "published_at": "2026-11-17T04:52:14+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e91518c812ac1eabfd81",
+      "category": "기타",
+      "collected_at": "2026-11-17T06:01:27.461684+00:00"
+    },
+    {
+      "title": "대학 총학생회들, AI 부정행위 규탄…\"공정 붕괴\" - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmOW9lekt4RHA4aVFGUDFXbHpEdWVXT1dRRWtHQTdadFFQWDFZTUhvNkVhRDZLUF8yeG0yN0hpbllwX2UxYzdsb3FiclNLOTU4Sl9WUjR3UDhUUQ?oc=5",
+      "summary": "대학 총학생회들, AI 부정행위 규탄…\"공정 붕괴\" 뉴스핌",
+      "source": "뉴스핌",
+      "published_at": "2026-11-17T04:43:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8f85c893d756f97a4829",
+      "category": "기타",
+      "collected_at": "2026-11-17T06:01:27.461606+00:00"
+    },
+    {
+      "title": "대학 총학생회들, AI 부정 규탄…공정성 조치 즉각 시행 촉구 - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNakNWcFNFMkhjUTFtOEY5SjVqWE43eTFZR3ljZlRUUGhYemdaUFBDaGx5WmJRV3lNUmFEMWtnd2xvMnk0SGRWRm8xRzFNeC11amJjSVItMHVrYkNuMWFYaGxuZlctVjF1YlFrcXo2d1FmSTduQ1FaSjU4aTM0ME1OOU9heDVLTVJ1WG10WnM4eVE?oc=5",
+      "summary": "대학 총학생회들, AI 부정 규탄…공정성 조치 즉각 시행 촉구 조선일보",
+      "source": "조선일보",
+      "published_at": "2026-11-17T03:29:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "7b4f10e9acd68870072f",
+      "category": "기타",
+      "collected_at": "2026-11-17T06:01:27.461508+00:00"
+    },
+    {
+      "title": "한국교통대 학생자치기구 행사 수익금 전액 기부 - 충청타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BNnVxZDViSUNFdk9PSUN5dlVCNkhPLW8zN3FjM0JBaHV6aDgxMU9JdUlBZ20zMld2NC1tbHNxTW9yWWFKejlITzBxbUlmdllna19XU2tHWjl6a3RDcFMyalVLRTgzNUlI?oc=5",
+      "summary": "한국교통대 학생자치기구 행사 수익금 전액 기부 충청타임즈",
+      "source": "충청타임즈",
+      "published_at": "2026-11-17T00:47:15+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "69fa2b8e9c26f7f4c279",
+      "category": "의결·자치",
+      "collected_at": "2026-11-17T06:01:29.037811+00:00"
+    },
+    {
+      "title": "학부 생활관자치회, 9년 7개월 만에 총학생회 전문기구로 돌아와 - 카이스트신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vQ1A1dWJGakdYbG1ibllkd1djWHNOTnJ6N19xQjRNSjVmVkEwR2w4VG1hZHc4TDQwNHpGejR5UDhzNEZsTWFHYzVjdzd4Vzc5Qy1NdDdQRzJnblJSS01zdnY1NkpsOHRpb3pv?oc=5",
+      "summary": "학부 생활관자치회, 9년 7개월 만에 총학생회 전문기구로 돌아와 카이스트신문",
+      "source": "카이스트신문",
+      "published_at": "2026-11-16T22:54:03+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f0a32c676e6a39bc090a",
+      "category": "기타",
+      "collected_at": "2026-11-17T06:01:27.461575+00:00"
+    },
     {
       "title": "국립한국교통대 학생자치기구 '2026 Moonlight' 행사 수익금 전액 기부..지역사회 나눔 실천 - 베리타스알파",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QMU1qM3NPVWxiZ2dFTF9wdzZ3dWdRaFBMNFFZRXphYlRnSjhFZmd1N3VsTlN0SzQ2bFF4TmhGbGpzdGlkR0ItQzRGZ0xGdW83SVRKM1U0ZmJScXNWY2Jtc2Y5aEtuRlB1MHZTYw?oc=5",
