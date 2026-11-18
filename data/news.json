@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-11-18T14:30:49.300824+09:00",
+  "updated_at": "2026-11-19T04:50:34.176129+09:00",
   "item_count": 1275,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "[교육소식] 한세대 총학생회, 대학 발전기금 1000만원 기탁 등 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91M3RYOF9iVjdFemVkLTdIMlk5ZVpKT0JpZ21uMi1RUmFhbXh0cWc0N0JzdzNrbXBUd05pZDJSd29HTVQxTkw1R3hWS2Rjcjk3bnc5ZnQ0RFcxZnlWTDJmetIBeEFVX3lxTFBldGNNeWhPSi1kUVYzNEdjcEl5NXl5QnRTcjFXQk9yM1FzOUZHNURFQlNBZzY1aVNNZFhIOTY5RC1RLW9Rem90X2NrTk45XzZLMHAzTGxoRGo2QzJLVmNBTGg2dk1tQ19tNkNOdmNvcS1YOFMzV1JpSw?oc=5",
+      "summary": "[교육소식] 한세대 총학생회, 대학 발전기금 1000만원 기탁 등 뉴시스",
+      "source": "뉴시스",
+      "published_at": "2026-11-18T07:09:53+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "834983d53e93d828be4d",
+      "category": "기타",
+      "collected_at": "2026-11-18T19:50:04.114758+00:00"
+    },
     {
       "title": "한세대 제73대 하리 총학생회, 자체 수익금 1천만 원 대학 발전기금 기탁 - 인천일보",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sN2VsNS02QktyZ3prSm9jaDlvXzh1ZmVvMkRXUEg4UmVqdzUwRVBFVUhtR1VuTWtJN2R5TXFLc1NPeUM0M0FZY0NPSVFFSWozTU8zQ19pZU4zd3AybEVRVTJTZzFWLXhkbHNScHJLTkM?oc=5",
@@ -123,6 +135,18 @@
       "id": "e2e0801da330d4e2538c",
       "category": "기타",
       "collected_at": "2026-11-18T05:30:23.208273+00:00"
+    },
+    {
+      "title": "대학 총학 “AI 부정행위로 공정 붕괴…정말 노력은 배신 않는가” - 미주중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uOHhTY3VTVVZJTUh4dmR5bWdJdE9rcnRGWU5HbF84WDROckpIVmVSNU0xazZvMGpWR3dvc1FlY3FYcUNBOTVCcEdHZ1ZJWXQwTWZybjd5YnhpZEFYaWFJX1pn?oc=5",
+      "summary": "대학 총학 “AI 부정행위로 공정 붕괴…정말 노력은 배신 않는가” 미주중앙일보",
+      "source": "미주중앙일보",
+      "published_at": "2026-11-17T05:52:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "67d131af99f60e570fda",
+      "category": "기타",
+      "collected_at": "2026-11-18T19:50:04.114953+00:00"
     },
     {
       "title": "전국 15개 대학교 총학생회 \"공정한 응시 환경 보장할 실효성 있는 조치 시행하라\" - 데일리안",
@@ -15040,30 +15064,6 @@
       "id": "353cc88b2081f1f88eda",
       "category": "재정·감사",
       "collected_at": "2026-11-02T03:51:17.817411+00:00"
-    },
-    {
-      "title": "“깊이 사과드린다” 가톨릭대 총학생회 선본 ‘여운’ 선관위 징계 조치에 사과문 올려 - 대학알리",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16NHpydm1VeF9oN1ZybDgwUkhNUEp0bVU2dWVtZUVIWW8xVW1ScEJTdFFCUUhqR0pWRDY0dDR6SmpiaGNYZjF5UVVSUVJiWWlfazgtYktBT3I2QkU?oc=5",
-      "summary": "“깊이 사과드린다” 가톨릭대 총학생회 선본 ‘여운’ 선관위 징계 조치에 사과문 올려 대학알리",
-      "source": "대학알리",
-      "published_at": "2025-11-18T08:00:00+00:00",
-      "matched_query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
-      "feed": "Google News RSS",
-      "id": "f8bfaf3b51be9cde5cf3",
-      "category": "선거·조직",
-      "collected_at": "2026-08-04T10:15:22.205362+00:00"
-    },
-    {
-      "title": "“깊이 사과드린다” 가톨릭대 총학생회 선본 ‘여운’ 선관위 징계 조치에 사과문 올려 - univalli.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16NHpydm1VeF9oN1ZybDgwUkhNUEp0bVU2dWVtZUVIWW8xVW1ScEJTdFFCUUhqR0pWRDY0dDR6SmpiaGNYZjF5UVVSUVJiWWlfazgtYktBT3I2QkU?oc=5",
-      "summary": "“깊이 사과드린다” 가톨릭대 총학생회 선본 ‘여운’ 선관위 징계 조치에 사과문 올려 univalli.com",
-      "source": "univalli.com",
-      "published_at": "2025-11-18T08:00:00+00:00",
-      "matched_query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
-      "feed": "Google News RSS",
-      "id": "15ffc8f1de697b39aa7e",
-      "category": "선거·조직",
-      "collected_at": "2026-09-08T02:32:26.181504+00:00"
     }
   ]
 }
