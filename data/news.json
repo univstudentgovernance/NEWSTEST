@@ -1,46 +1,129 @@
 {
-  "updated_at": "2026-11-18T05:21:26.591290+09:00",
-  "item_count": 1264,
+  "updated_at": "2026-11-18T14:30:49.300824+09:00",
+  "item_count": 1275,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
-    {
-      "query": "총학생회 OR 총학",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생자치",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 등록금 총학생회 OR 등록금심의위원회",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생총회 OR 전체학생대표자회의",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생회비 OR 자치비 OR 회계감사",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "source": "동아일보",
-      "error": "RemoteDisconnected: Remote end closed connection without response"
-    }
-  ],
+  "failures": [],
   "items": [
+    {
+      "title": "한세대 제73대 하리 총학생회, 자체 수익금 1천만 원 대학 발전기금 기탁 - 인천일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sN2VsNS02QktyZ3prSm9jaDlvXzh1ZmVvMkRXUEg4UmVqdzUwRVBFVUhtR1VuTWtJN2R5TXFLc1NPeUM0M0FZY0NPSVFFSWozTU8zQ19pZU4zd3AybEVRVTJTZzFWLXhkbHNScHJLTkM?oc=5",
+      "summary": "한세대 제73대 하리 총학생회, 자체 수익금 1천만 원 대학 발전기금 기탁 인천일보",
+      "source": "인천일보",
+      "published_at": "2026-11-18T05:03:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "a94c63d2ceee8a91ddc8",
+      "category": "기타",
+      "collected_at": "2026-11-18T05:30:23.208130+00:00"
+    },
+    {
+      "title": "한세대 총학, 대학에 발전기금 1천만원 기탁 - 기독일보",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mT3RJZk1DbzRKX21BTE9LN05qN0p6MzBDZnAxWXJUU0tlcnZqRUFZbmoxZ3c1Ym5TWm9wUWdhS2RNYjI0U3RrVjN4RjlGRXBjek1HTW10RdIBXEFVX3lxTE1nWm5ocGxWRWpyZ2dJbm5BcU9HUURRSDhxMkNZWnRONXA2NHhfMG1JVHBUTjZvSGM3LTdKbEF4SXVuZFlfOXluSGpFdFV0cEYzeF9kaTA2Z25DZ0lV?oc=5",
+      "summary": "한세대 총학, 대학에 발전기금 1천만원 기탁 기독일보",
+      "source": "기독일보",
+      "published_at": "2026-11-18T01:07:59+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "9b2c6c89a0db06f4b6cd",
+      "category": "기타",
+      "collected_at": "2026-11-18T05:30:23.208180+00:00"
+    },
+    {
+      "title": "한세대 총학 대학에 발전기금 1000만원 기탁 - 베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EMUlBOG82UGxRRk0tcGZuTDFpN3dTaE04MEhHVWNUNzVnektSeDFmazl4UGk1TGdiM0tSVzZ6bzFUYVR1Z21fMTNENkhsZUFLOHpacU9lbV9WV182eTBjZURTZVJwbktHZXBZag?oc=5",
+      "summary": "한세대 총학 대학에 발전기금 1000만원 기탁 베리타스알파",
+      "source": "베리타스알파",
+      "published_at": "2026-11-18T00:43:48+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "569203d45dba9e278ba1",
+      "category": "기타",
+      "collected_at": "2026-11-18T05:30:23.208161+00:00"
+    },
+    {
+      "title": "“정말 노력은 배신 않나…” 15개 대학 총학, AI 커닝 파문에 공동성명 - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ibWhVM1dwNkROczFDSnJLbjViY0tzXzRrb25oRDczZXRha1kzWFdmM2t6c2phcnpiR29USGJLXy1sNGJPYmY5R0hzWjVsYldTRTJoanNqUjJTWFp3UWg4UU5lTmtHVEVybnY5Y2VyM01tUQ?oc=5",
+      "summary": "“정말 노력은 배신 않나…” 15개 대학 총학, AI 커닝 파문에 공동성명 한겨레",
+      "source": "한겨레",
+      "published_at": "2026-11-17T09:31:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "07ce87d86fc44fe4c9d5",
+      "category": "인권·갈등",
+      "collected_at": "2026-11-18T05:30:23.208200+00:00"
+    },
+    {
+      "title": "한국대학총학생회공동포럼, 'AI 부정행위' 확산에 경고...“공정시험 환경 마련 절실” - CWN",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HZWFlT0tZY0NCeFNRdk9wMUhEUlB6ZTNWM0FNLThQUjdDdDVwTjNyUlhQVVA2UnpoNjhnLWV5SGNtblctVWlrS0ZDTmlLa1NJRlpmc1hmZ0Ywb3ZOU1p0aEFB?oc=5",
+      "summary": "한국대학총학생회공동포럼, 'AI 부정행위' 확산에 경고...“공정시험 환경 마련 절실” CWN",
+      "source": "CWN",
+      "published_at": "2026-11-17T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e4c9ae291c5488efad35",
+      "category": "기타",
+      "collected_at": "2026-11-18T05:30:23.208316+00:00"
+    },
+    {
+      "title": "15개 대학 총학생회, AI 부정행위 규탄 성명…\"공정 시험 보장하라\" - 연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uZmJya1R1VFlVVkQ4VFFWRWJQcmxzcUFHYjByOWplSk1kYUU3TENxcmZXNnBpNWJqN1Jiclo0WmVPRHNhakZoWlp5U3VJRzZJdEhjYzVxcWtZNFN1b0lqWlNSVFVCM28?oc=5",
+      "summary": "15개 대학 총학생회, AI 부정행위 규탄 성명…\"공정 시험 보장하라\" 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "published_at": "2026-11-17T06:18:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "729d301902b9a9595299",
+      "category": "인권·갈등",
+      "collected_at": "2026-11-18T05:30:23.208256+00:00"
+    },
+    {
+      "title": "[수능 D-2] 대학 총학생회 “AI 부정행위 우려… 공정성 조치 즉각 필요” - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeENzcFhpRHZOblZMVl9BVGxQX0g2S1VOMVpiNGZHZGNIMW1CaF9HS3VnWm9wbWVwN3FDUEtPS2ViazNOMDhhTVRYNHJfb3p3X0Y2a3hqVXVfUE1lal9RYUNvX0QteGxQVEI3amE1VWFOTEFaa1VkN0l1OEpxRjdlZEp0UEdMMlJaX3fSAZ4BQVVfeXFMTlVvTWlITC05S2tNaXpqYThjQnB0aEYzd2E0S2Z2UXJzU2dIVEY0YWREX29zem9GaDJVaXUtWV9SMENvMm02T0hTbmVVZExmZTdMVHAxLUpuZW5qd3ZDZ2YwV2I4ZEloY3h4S2lzcVdRNlRhSVdNclRSSGJVR1haYTVaeEhiSVV4UDBHNmhSeWRFeEdfdUd6U2RzOGdvM0E?oc=5",
+      "summary": "[수능 D-2] 대학 총학생회 “AI 부정행위 우려… 공정성 조치 즉각 필요” Chosunbiz",
+      "source": "Chosunbiz",
+      "published_at": "2026-11-17T06:18:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "0e2d67af82bca6bfe872",
+      "category": "기타",
+      "collected_at": "2026-11-18T05:30:23.208440+00:00"
+    },
+    {
+      "title": "전국 대학 총학들 “악착같이 노력할 권리 지켜야…수능 등 공정한 시험 환경 조성하라” - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13UUt4LWFfLWlJU1d1Nld3b3d1QWx1U29mcmlZX2ZURGJjZndxYjFwLWdhUVdxU0RTOVZCUVBrLU1lQWJzTDlTb2RoVHpxR01OM2pydUdfRlp4d9IBX0FVX3lxTE1HVWY2M0NBWUVsNG9WVGZaMnVoeVNxWjFkd3JVaW8xSEFyR0pIMjBtUTdXUEhTcGUwSkVDN1NtVVl1WUxFUXM3d1VlZ1ZxVVk0NWgzT211OFZUSVdvSXhv?oc=5",
+      "summary": "전국 대학 총학들 “악착같이 노력할 권리 지켜야…수능 등 공정한 시험 환경 조성하라” 경향신문",
+      "source": "경향신문",
+      "published_at": "2026-11-17T06:10:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "58d3217beac00df33d09",
+      "category": "기타",
+      "collected_at": "2026-11-18T05:30:23.208220+00:00"
+    },
+    {
+      "title": "\"정직한 성취마저 의심\"…16개 대학 총학, 'AI 커닝' 대책 촉구 - 노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFa29qMWtHb3lkYl9Jak0zczJzREZtcWl3eGR1NmZsSlpCSGJoRjNpLXpETlAxNnpFa0s1cEFjRUY3QWplRVgxcktQMXBENnVVUXc?oc=5",
+      "summary": "\"정직한 성취마저 의심\"…16개 대학 총학, 'AI 커닝' 대책 촉구 노컷뉴스",
+      "source": "노컷뉴스",
+      "published_at": "2026-11-17T05:55:09+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "564984340ea0355f54ba",
+      "category": "기타",
+      "collected_at": "2026-11-18T05:30:23.208477+00:00"
+    },
+    {
+      "title": "대학 총학 “AI 부정행위로 공정 붕괴…정말 노력은 배신 않는가” - 중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfWGR1S1FORlZwT3hIZUFEOHNVeUhZd3pxR2FJeG12ZTV4eE9DNTZVbFBFcmtybkZPVHFHWmRjZURDaUlyRGR1Mm13elV1cHdJbFRHZDhn?oc=5",
+      "summary": "대학 총학 “AI 부정행위로 공정 붕괴…정말 노력은 배신 않는가” 중앙일보",
+      "source": "중앙일보",
+      "published_at": "2026-11-17T05:52:53+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e2e0801da330d4e2538c",
+      "category": "기타",
+      "collected_at": "2026-11-18T05:30:23.208273+00:00"
+    },
     {
       "title": "전국 15개 대학교 총학생회 \"공정한 응시 환경 보장할 실효성 있는 조치 시행하라\" - 데일리안",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPa3lDaEtnN0FTTTJzcm1lLTRKVFVYaFZRcnlJUVMyZUk3dEQyNDVldy0ydkZiamE0NkZ6bUhiSzdFZEpPYzUtSnczSVU1anBraGM0QVJtWTJ2Q0VYLVlKWGNQUTIwcDhGRVlpbUh5X0F1UTRNRDZhN3FpQjlaQUYtT1ZrTVVNRWZBRzFmR0dIa3NoRE5UYkplVGx6STNidUxESGtLTThmWTZoSWp1U3cwZS1wcTF1aWZqckRmdkcya04xeUVka0tXTENfeEdvcmYxWXRrX2lta0U1RkY0VVZ1Q1BKcEZPVkhjZElwNXNxREgxUWFNMWJnX0VGdE13ODVJQ0E?oc=5",
@@ -52,6 +135,18 @@
       "id": "23261936b6fb9d55fc44",
       "category": "기타",
       "collected_at": "2026-11-17T06:01:27.461661+00:00"
+    },
+    {
+      "title": "15개 대학 총학 \"AI 커닝에 공정성 붕괴\"…전면 조사·관리 체계 개편 촉구 - 와이드경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LMjN4R2ZXa3hPaGlDRHRCMTZYbE5sR0w5RjY1NVI3dmZCS0Q4S2RubUp4bDdOQUg4RDhXUFk5Vm9PalNsMnIyTEhSbkFjZXk2a0ZaTklyaHY2RUltZFIyVHQ4UjFYRWxKcndxdg?oc=5",
+      "summary": "15개 대학 총학 \"AI 커닝에 공정성 붕괴\"…전면 조사·관리 체계 개편 촉구 와이드경제",
+      "source": "와이드경제",
+      "published_at": "2026-11-17T05:23:49+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "1a2edecc655ace2ec54c",
+      "category": "기타",
+      "collected_at": "2026-11-18T05:30:23.208389+00:00"
     },
     {
       "title": "\"정말, 노력은 배신하지 않는가\"…15개 대학 총학, 'AI 커닝' 교육당국 규탄 - 뉴시스",
