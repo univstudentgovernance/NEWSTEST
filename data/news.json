@@ -1,9 +1,81 @@
 {
-  "updated_at": "2026-11-19T14:29:29.806611+09:00",
-  "item_count": 1277,
+  "updated_at": "2026-11-20T04:50:40.200884+09:00",
+  "item_count": 1278,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "제59대 제주대 총학생회장 선거 이건웅 당선…과반 득표 - 지금제주",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Rb3F6OFcwR3pHLU10YTFHVGZUSTBreDlOY1h3M2tlSV9Ia3c2SHhQUlM1N3dCUC1BZ1lLbmE3YV8zdVBTMHVGVGstc29rUDRveV9BaWZUVHdmMFE0MlpEMzZRT0YtMWppbjZ1ekl3?oc=5",
+      "summary": "제59대 제주대 총학생회장 선거 이건웅 당선…과반 득표 지금제주",
+      "source": "지금제주",
+      "published_at": "2026-11-19T10:03:38+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "11177ca8b762eab28d5b",
+      "category": "선거·조직",
+      "collected_at": "2026-11-19T19:50:09.079057+00:00"
+    },
+    {
+      "title": "2027년 제주대 총학 선거 3파전 끝에 ‘이건웅’ 학생회장 당선 - 제주투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oaTVzQzF5M0NFcXQ4N2cxTVhMSWtNWHc2RnNSSUZ1cFFBQm9ZWnBUQk9YSnh3QzRFakZOT3lzb2Jad2ZRaWxjT05KM004VTM0YkhfUFVoWmpYeS15NnRZMVVGSVYxejhqbzBjOFR3?oc=5",
+      "summary": "2027년 제주대 총학 선거 3파전 끝에 ‘이건웅’ 학생회장 당선 제주투데이",
+      "source": "제주투데이",
+      "published_at": "2026-11-19T08:42:19+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "c66b79a232d8235ed63a",
+      "category": "선거·조직",
+      "collected_at": "2026-11-19T19:50:09.079028+00:00"
+    },
+    {
+      "title": "제주대 제59대 총학생회장에 이건웅 후보 당선 - 헤드라인제주",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNcTlmeGRfUnF6SFd0OURVWUFzalh1bE8zUHBmVER0SjYydmdXNWktMFBkRkl6RU1aX2kwZEU1aVFFMjRraE0wb0JISHNJSWFsei0wMnAzMXJzeDJwWFpwZ0hrak5Sc1dNR2ZqRURoeHpaTFk?oc=5",
+      "summary": "제주대 제59대 총학생회장에 이건웅 후보 당선 헤드라인제주",
+      "source": "헤드라인제주",
+      "published_at": "2026-11-19T06:41:07+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "2594f5b5642f368ed6ba",
+      "category": "선거·조직",
+      "collected_at": "2026-11-19T19:50:09.079001+00:00"
+    },
+    {
+      "title": "제주대 제59대 총학생회 ‘숨결’ 당선...회장에 이건웅씨 - 제주의소리",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00WC1MLXo1S3BvcHZydlVtTUtOZkR2b2lLOXRvcGdFWDl5LXVQcFZCUGIxTGZjc1ZoRHpwS2lkSGRWTTg4MjVxN3VENEhSRXM3NXRnRTBmOVlvYmVJYlljWVcwYlNBVFVla3hR?oc=5",
+      "summary": "제주대 제59대 총학생회 ‘숨결’ 당선...회장에 이건웅씨 제주의소리",
+      "source": "제주의소리",
+      "published_at": "2026-11-19T06:05:15+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "0b454028debee8af3de4",
+      "category": "선거·조직",
+      "collected_at": "2026-11-19T19:50:09.079043+00:00"
+    },
+    {
+      "title": "제주대 사회학과서 총학생회장 배출…‘숨결’ 당선 - 제민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8waTRCcWp0dGF5d2VZakdkckZkUkJuMHY5dmxFMzBZMFZydDNFUWhLSU9rZkUyLWVLVEs0NnRrTUl1ZGxSMU04Rk5WTUV1d0laMWhuSWNVNHhiU00xUEdfQy1KZ0puZ28?oc=5",
+      "summary": "제주대 사회학과서 총학생회장 배출…‘숨결’ 당선 제민일보",
+      "source": "제민일보",
+      "published_at": "2026-11-19T05:43:23+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4def9b89e3bb6550b859",
+      "category": "선거·조직",
+      "collected_at": "2026-11-19T19:50:09.079082+00:00"
+    },
+    {
+      "title": "제주대 제59대 총학생회장에 이건웅 후보 당선…2479표 획득 - BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NOXpiUk5TZnBlaG1QOW9lUDhlOGZHT002bGVwY3VOOWIxZ3dCeWZSajU0YkdhTDdFOVJGSnZrdHZTTF92VXAxWWxXYTRmUVB6UzZRWUVmeXVyZjNVd2JEMFpyUVJTRkJTdW5r?oc=5",
+      "summary": "제주대 제59대 총학생회장에 이건웅 후보 당선…2479표 획득 BBS불교방송",
+      "source": "BBS불교방송",
+      "published_at": "2026-11-19T05:32:36+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "34da0ae24877d5e72956",
+      "category": "선거·조직",
+      "collected_at": "2026-11-19T19:50:09.079070+00:00"
+    },
     {
       "title": "제주대 총학생회장에 이건웅 당선…‘숨결’ 승리 - 제주매일",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mdXl6YkY4emdXTm9DbE1rY1RMT0ZQYTI5ZGlCX0Y2WmkwTDJhdGpyd0RsZWl6dnpTU202WWVZenpSMVZTY2hYTHpyRkNTT2hNeDVjcjFoZVBIdG1oZGhNdEFRYy0wMXdVeWN4MA?oc=5",
@@ -15029,65 +15101,6 @@
       "id": "1709368c24f7ccff4916",
       "category": "선거·조직",
       "collected_at": "2026-09-02T02:22:44.686293+00:00"
-    },
-    {
-      "title": "[채Pick] 2026 부산대 총학생회 선거, 우리들의 선택은? - 채널PNU",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVSVVySWg5MWZ2RXExZ01BZWlPV09EazNzMVRZOUlSWTRxTWNPaWRReDhHaTdEenZVYmRIdUVvVENUNkIxT002aVVYZEc2OFJRNTVzU2lTSU0zQ0piTWZrZE1CcmFzUHdCS1pPZjdxTEoxUdIBdkFVX3lxTFA0V2VPcjJlUEFrZFBZZ3gyalBPWHIxUS1zdUEzQVRLS1M2Tk9LUXd2UU1xVVBQdXpZNGtsT2RHamI4b28zZzg4QXgwckcxSU5CMFMxb1NJdFdjVTVXUXEwM2R2MnlqQXc2TFFINzJjaWdqY0puMFE?oc=5",
-      "summary": "[채Pick] 2026 부산대 총학생회 선거, 우리들의 선택은? 채널PNU",
-      "source": "채널PNU",
-      "published_at": "2025-11-19T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "id": "3bccc90a7bf5e44b82af",
-      "category": "선거·조직",
-      "collected_at": "2026-08-01T17:27:38.660033+00:00"
-    },
-    {
-      "title": "[채Pick] 2026 부산대 총학생회 선거, 우리들의 선택은? - 부산대학교",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVSVVySWg5MWZ2RXExZ01BZWlPV09EazNzMVRZOUlSWTRxTWNPaWRReDhHaTdEenZVYmRIdUVvVENUNkIxT002aVVYZEc2OFJRNTVzU2lTSU0zQ0piTWZrZE1CcmFzUHdCS1pPZjdxTEoxUdIBdkFVX3lxTFA0V2VPcjJlUEFrZFBZZ3gyalBPWHIxUS1zdUEzQVRLS1M2Tk9LUXd2UU1xVVBQdXpZNGtsT2RHamI4b28zZzg4QXgwckcxSU5CMFMxb1NJdFdjVTVXUXEwM2R2MnlqQXc2TFFINzJjaWdqY0puMFE?oc=5",
-      "summary": "[채Pick] 2026 부산대 총학생회 선거, 우리들의 선택은? 부산대학교",
-      "source": "부산대학교",
-      "published_at": "2025-11-19T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "cd65f9c4fb33717b2600",
-      "category": "선거·조직",
-      "collected_at": "2026-09-02T02:22:44.686150+00:00"
-    },
-    {
-      "title": "[채Pick] 2026 부산대 총학생회 선거, 우리들의 선택은? - channelpnu.pusan.ac.kr",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVSVVySWg5MWZ2RXExZ01BZWlPV09EazNzMVRZOUlSWTRxTWNPaWRReDhHaTdEenZVYmRIdUVvVENUNkIxT002aVVYZEc2OFJRNTVzU2lTSU0zQ0piTWZrZE1CcmFzUHdCS1pPZjdxTEoxUdIBdkFVX3lxTFA0V2VPcjJlUEFrZFBZZ3gyalBPWHIxUS1zdUEzQVRLS1M2Tk9LUXd2UU1xVVBQdXpZNGtsT2RHamI4b28zZzg4QXgwckcxSU5CMFMxb1NJdFdjVTVXUXEwM2R2MnlqQXc2TFFINzJjaWdqY0puMFE?oc=5",
-      "summary": "[채Pick] 2026 부산대 총학생회 선거, 우리들의 선택은? channelpnu.pusan.ac.kr",
-      "source": "channelpnu.pusan.ac.kr",
-      "published_at": "2025-11-19T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "65335db1a43c9aa4dad5",
-      "category": "선거·조직",
-      "collected_at": "2026-09-12T02:37:30.716293+00:00"
-    },
-    {
-      "title": "[속보] 2025년 학생회 선거 투표 종료, 총학생회 선본 '우주' 당선 - 아주대학보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5obWdROWdkWWFfLXh0YS05RjNEU21YOFY2czFIekduMVFaS0JINmdzSGRZaWpLSElCSFJKMjZiZUdLWUZZbzJiZXl6TVZ2SmdLLVMxTFBlRGdHS3BqaEhmZU5ublpzMS1Na2c?oc=5",
-      "summary": "[속보] 2025년 학생회 선거 투표 종료, 총학생회 선본 '우주' 당선 아주대학보",
-      "source": "아주대학보",
-      "published_at": "2025-11-19T08:00:00+00:00",
-      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
-      "feed": "Google News RSS",
-      "id": "4ecec4d02e4767649be3",
-      "category": "선거·조직",
-      "collected_at": "2026-10-27T03:16:34.096417+00:00"
-    },
-    {
-      "title": "서울대 총학 회계감사위 '자치언론기금' 해산 요구 논란 - OhmyNews",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WS0xVLUtORmh2eFRVODlCWlRiM1EzQ01VczZCeW1zWU5idlRBdU9QMG5zbWdvRU9QcmlCS0E2M1VURENILS1ldHFnRDJZUTQ3b3gyZ19EcFEyUVJxbmdvTzZnT3NtSHFxdnFLQl9ZbUNwM1FyWnd3?oc=5",
-      "summary": "서울대 총학 회계감사위 '자치언론기금' 해산 요구 논란 OhmyNews",
-      "source": "OhmyNews",
-      "published_at": "2025-11-19T08:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "353cc88b2081f1f88eda",
-      "category": "재정·감사",
-      "collected_at": "2026-11-02T03:51:17.817411+00:00"
     }
   ]
 }
