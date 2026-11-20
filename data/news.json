@@ -1,18 +1,33 @@
 {
-  "updated_at": "2026-11-20T14:16:30.851962+09:00",
+  "updated_at": "2026-11-21T04:30:20.659971+09:00",
   "item_count": 1299,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
+  "failures": [],
+  "items": [
     {
-      "query": "대학 학생총회 OR 전체학생대표자회의",
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "title": "강원대 춘천캠퍼스 3년 만에 총학생회 출범…학생 자치 정상화 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IZlRCR21NYV9aaXRNWDVGaGJxNldmZXRyUjRLVVBLNTBtaFRNUTlDQjAwcWdKY3pFbXR5dUlRUERqVnRlVzRkX1ZwRVNJVXBEb2lWOEZXVmZ2b1RITXBjddIBYEFVX3lxTE9IZlRCR21NYV9aaXRNWDVGaGJxNldmZXRyUjRLVVBLNTBtaFRNUTlDQjAwcWdKY3pFbXR5dUlRUERqVnRlVzRkX1ZwRVNJVXBEb2lWOEZXVmZ2b1RITXBjdQ?oc=5",
+      "summary": "강원대 춘천캠퍼스 3년 만에 총학생회 출범…학생 자치 정상화 연합뉴스",
+      "source": "연합뉴스",
+      "published_at": "2026-11-20T06:37:19+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ded8438e6121ef161759",
+      "category": "기타",
+      "collected_at": "2026-11-20T19:29:47.728297+00:00"
     },
     {
-      "source": "한국경제",
-      "error": "HTTPError: HTTP Error 403: Forbidden"
-    }
-  ],
-  "items": [
+      "title": "강원대 춘천캠퍼스 3년 만에 정식 총학생회 출범 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NWW52Sk1HSDhaX3kyOGFJWFZYY2pmNHpvNjNFV01xLS12d1ZrMTltOWc0U2ZYXzZLWFpIRDkweS1yMV9VWjMzVWJQODQ2Mm10T0N3Vg?oc=5",
+      "summary": "강원대 춘천캠퍼스 3년 만에 정식 총학생회 출범 뉴스1",
+      "source": "뉴스1",
+      "published_at": "2026-11-20T06:19:52+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "bff39c8ed91ef02015ab",
+      "category": "기타",
+      "collected_at": "2026-11-20T19:29:47.728397+00:00"
+    },
     {
       "title": "총학 후보 토론회, 실현 가능성·차별성 공방 - 채널PNU",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YQTlpcy16TmJHU20yTEg1Yll1MjBHeEkxRHFzU0dxWFRmTk41eFB6a1A1VjB3bWpsS3hHNG9OVzl2WGFYa1NkQWFPU1dnWnZJZ2g5R2NQamxiRHFmc09GN3hST29uSkxhMGloSmdoVUkxWE5Mc0HSAXZBVV95cUxOWEE5aXMtek5iR1NtMkxINWJZdTIwR3hJMURxc1NHcVhUZk5ONXhQemtQNVYwd21qbEt4RzRvTlc5dlhhWGtTZEFhT1NXZ1p2SWdoOUdjUGpsYkRxZnNPRjd4Uk9vbkpMYTBpaEpnaFVJMVhOTHNB?oc=5",
@@ -15338,30 +15353,6 @@
       "id": "53a94b33198ae3bdc4de",
       "category": "선거·조직",
       "collected_at": "2026-11-04T19:13:06.570778+00:00"
-    },
-    {
-      "title": "총학 후보 토론회, 현안 논했지만 구체성은 '글쎄' - 채널PNU",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Smg4M0xkaHhiWVVQbXJpc0NzdmdxT1B5WGNDbEdubzZWcXZrYjY4TFBHVHQ4ZTBoenFoSmZicWVKX3hWVXFZZ1NhRXc5Ynd5WVA3OTFLcXRrcHBlVW9sZDB0UmYxa1BIUkVsS1hQbkFOQdIBdkFVX3lxTE54cy1kbUFWajZDcElGbW5WYk5tNE5UWkc5dzB4aHJseHJjelI5OVJfdV9XaGlrcFZ5MTBDMzFzRGFzQlVtdHFnSXpYaS1JYnNtZmNKX2ZMN0lfclV2d0o5c1Boc0wxMzlPYnpEcU9UbDEtMldSSkE?oc=5",
-      "summary": "총학 후보 토론회, 현안 논했지만 구체성은 '글쎄' 채널PNU",
-      "source": "채널PNU",
-      "published_at": "2025-11-20T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "2d035d941bdaf68f620e",
-      "category": "선거·조직",
-      "collected_at": "2026-08-21T00:55:53.516957+00:00"
-    },
-    {
-      "title": "총학 후보 토론회, 현안 논했지만 구체성은 '글쎄' - 부산대학교",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Smg4M0xkaHhiWVVQbXJpc0NzdmdxT1B5WGNDbEdubzZWcXZrYjY4TFBHVHQ4ZTBoenFoSmZicWVKX3hWVXFZZ1NhRXc5Ynd5WVA3OTFLcXRrcHBlVW9sZDB0UmYxa1BIUkVsS1hQbkFOQdIBdkFVX3lxTE54cy1kbUFWajZDcElGbW5WYk5tNE5UWkc5dzB4aHJseHJjelI5OVJfdV9XaGlrcFZ5MTBDMzFzRGFzQlVtdHFnSXpYaS1JYnNtZmNKX2ZMN0lfclV2d0o5c1Boc0wxMzlPYnpEcU9UbDEtMldSSkE?oc=5",
-      "summary": "총학 후보 토론회, 현안 논했지만 구체성은 '글쎄' 부산대학교",
-      "source": "부산대학교",
-      "published_at": "2025-11-20T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "1709368c24f7ccff4916",
-      "category": "선거·조직",
-      "collected_at": "2026-09-02T02:22:44.686293+00:00"
     }
   ]
 }
