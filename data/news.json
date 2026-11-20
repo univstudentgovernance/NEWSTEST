@@ -1,9 +1,42 @@
 {
-  "updated_at": "2026-11-20T04:50:40.200884+09:00",
-  "item_count": 1278,
+  "updated_at": "2026-11-20T14:16:30.851962+09:00",
+  "item_count": 1299,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [],
+  "failures": [
+    {
+      "query": "대학 학생총회 OR 전체학생대표자회의",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "source": "한국경제",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    }
+  ],
   "items": [
+    {
+      "title": "총학 후보 토론회, 실현 가능성·차별성 공방 - 채널PNU",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YQTlpcy16TmJHU20yTEg1Yll1MjBHeEkxRHFzU0dxWFRmTk41eFB6a1A1VjB3bWpsS3hHNG9OVzl2WGFYa1NkQWFPU1dnWnZJZ2g5R2NQamxiRHFmc09GN3hST29uSkxhMGloSmdoVUkxWE5Mc0HSAXZBVV95cUxOWEE5aXMtek5iR1NtMkxINWJZdTIwR3hJMURxc1NHcVhUZk5ONXhQemtQNVYwd21qbEt4RzRvTlc5dlhhWGtTZEFhT1NXZ1p2SWdoOUdjUGpsYkRxZnNPRjd4Uk9vbkpMYTBpaEpnaFVJMVhOTHNB?oc=5",
+      "summary": "총학 후보 토론회, 실현 가능성·차별성 공방 채널PNU",
+      "source": "채널PNU",
+      "published_at": "2026-11-20T02:19:28+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "635d1c716648847784f2",
+      "category": "선거·조직",
+      "collected_at": "2026-11-20T05:16:03.516042+00:00"
+    },
+    {
+      "title": "[화제] 제59대 제주대 총학생회장 선거 이건웅 당선…과반 득표 - 일간제주",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qRGlYOTNPZENXU0p4VVBxRmQyUXZmb0hUNHkycDQyNFBsUHN3Qk14TXFPWmdiT1lTTkQ3TFI4VENpb0dWT0ZYX3ZlNEhiQ0Zvcjg3bWVHMlRuVFdUNFpKTWFLRVlkT093MzZz?oc=5",
+      "summary": "[화제] 제59대 제주대 총학생회장 선거 이건웅 당선…과반 득표 일간제주",
+      "source": "일간제주",
+      "published_at": "2026-11-19T14:52:15+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "80faab5020bc2a64f31f",
+      "category": "선거·조직",
+      "collected_at": "2026-11-20T05:16:06.821898+00:00"
+    },
     {
       "title": "제59대 제주대 총학생회장 선거 이건웅 당선…과반 득표 - 지금제주",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Rb3F6OFcwR3pHLU10YTFHVGZUSTBreDlOY1h3M2tlSV9Ia3c2SHhQUlM1N3dCUC1BZ1lLbmE3YV8zdVBTMHVGVGstc29rUDRveV9BaWZUVHdmMFE0MlpEMzZRT0YtMWppbjZ1ekl3?oc=5",
@@ -29,6 +62,18 @@
       "collected_at": "2026-11-19T19:50:09.079028+00:00"
     },
     {
+      "title": "제주대학교 제59대 총학생회장 사회학과 이건웅씨 당선 - 삼다일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KMWxqdE5JbUN4TXdRcWllVzdFZWdUZFF1cm16bWZjd0F3N0luQUJKc0tPcVoyODZXaWNkaFdXMlQtTFBIZk5nampvT0RMbGpyb0tGVXAyU1pNLTVCaVE0TUgtV1hjZXZBRkJfbw?oc=5",
+      "summary": "제주대학교 제59대 총학생회장 사회학과 이건웅씨 당선 삼다일보",
+      "source": "삼다일보",
+      "published_at": "2026-11-19T07:06:06+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "bd6211dfe24aec3ff871",
+      "category": "선거·조직",
+      "collected_at": "2026-11-20T05:16:06.821947+00:00"
+    },
+    {
       "title": "제주대 제59대 총학생회장에 이건웅 후보 당선 - 헤드라인제주",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNcTlmeGRfUnF6SFd0OURVWUFzalh1bE8zUHBmVER0SjYydmdXNWktMFBkRkl6RU1aX2kwZEU1aVFFMjRraE0wb0JISHNJSWFsei0wMnAzMXJzeDJwWFpwZ0hrak5Sc1dNR2ZqRURoeHpaTFk?oc=5",
       "summary": "제주대 제59대 총학생회장에 이건웅 후보 당선 헤드라인제주",
@@ -39,6 +84,18 @@
       "id": "2594f5b5642f368ed6ba",
       "category": "선거·조직",
       "collected_at": "2026-11-19T19:50:09.079001+00:00"
+    },
+    {
+      "title": "제59대 제주대 총학생회장 선거 이건웅 당선…과반 득표 - newslinejeju.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YQ0dxb3dQQTVwU2pZQXkwTkNPVkRuT1k4YmZoQUtCRng5YjAwa2FIRlVOellKVnd3RUhyUFBJVU9vREs0Mkt1Yks2anVfdU4wUDF4Q1IzdHhzbm9ndGlDTW1TSUsybFhob2R2TThSSQ?oc=5",
+      "summary": "제59대 제주대 총학생회장 선거 이건웅 당선…과반 득표 newslinejeju.com",
+      "source": "newslinejeju.com",
+      "published_at": "2026-11-19T06:27:50+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "e5102e9ae69eab6ff6c1",
+      "category": "선거·조직",
+      "collected_at": "2026-11-20T05:16:06.821915+00:00"
     },
     {
       "title": "제주대 제59대 총학생회 ‘숨결’ 당선...회장에 이건웅씨 - 제주의소리",
@@ -89,6 +146,18 @@
       "collected_at": "2026-11-19T05:28:57.186012+00:00"
     },
     {
+      "title": "[채Pick] 2027 부산대 총학생회 선거 공약 핵심만 3분 정리 - 채널PNU",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vZDVoSU1BRklUWWNLbU5pWnI0MHZWRVdHVHJSWDhrSFE3S1ZFTmk2Zng3Z002ZHhUbWFNMVhhejY4TDdlZUgtTHBGbElCUk9obDdfd3VZczZTSklBM3dfc0M5NHNpUkNoTGtPd2RtYnZGUdIBdkFVX3lxTE90SFY3X1NsQ3NOQVpmRlB3WkNiTXZIWEQzRzhVMG1VNlUyNkRCM1pyVTZ2VmZTWTJ4M0t0R2h1MHNDM3gtUmF4RmF5M1pmeGF3SmsxYkgydHRZY2FoanV4THhIX1BRTS1QRzltd1dOQWQxbmtQVlE?oc=5",
+      "summary": "[채Pick] 2027 부산대 총학생회 선거 공약 핵심만 3분 정리 채널PNU",
+      "source": "채널PNU",
+      "published_at": "2026-11-19T03:02:06+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "80ef746c58dd62830074",
+      "category": "선거·조직",
+      "collected_at": "2026-11-20T05:16:03.516334+00:00"
+    },
+    {
       "title": "[단독] 제주대학교 총학생회 선거 3파전…개표 연기 - 제민일보",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zY1lXVElNSFo0el8wMDUwVU0xYjgtX25MUkotczR0SnlFdWM1U0tqaWhDNWRzeWExNjJfT3p2aVQxNnI1OGZlZjZjTlVrYlpqeFV0S0dVNzVDYTBXajNvNjZXYlFBUkU?oc=5",
       "summary": "[단독] 제주대학교 총학생회 선거 3파전…개표 연기 제민일보",
@@ -125,6 +194,18 @@
       "collected_at": "2026-11-18T05:30:23.208130+00:00"
     },
     {
+      "title": "한세대 총학, 대학에 발전기금 1천만원 기탁 - 유니메이트 알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zel9UYVpONEQ5Yy1Nak50SEQzelAzNWlUbTFPRHFidEsxa21CS3djYWpwSVhYSTFHUlhsc2lUVHo2aWd3dU9Tc2p2R3lVUDhEOHdSNmt1WEZPbWZaOVhtRUhBU3FjMnFUblR0WQ?oc=5",
+      "summary": "한세대 총학, 대학에 발전기금 1천만원 기탁 유니메이트 알파",
+      "source": "유니메이트 알파",
+      "published_at": "2026-11-18T04:03:59+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "742c470731fdf4a1604f",
+      "category": "기타",
+      "collected_at": "2026-11-20T05:16:05.177672+00:00"
+    },
+    {
       "title": "한세대 총학, 대학에 발전기금 1천만원 기탁 - 기독일보",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mT3RJZk1DbzRKX21BTE9LN05qN0p6MzBDZnAxWXJUU0tlcnZqRUFZbmoxZ3c1Ym5TWm9wUWdhS2RNYjI0U3RrVjN4RjlGRXBjek1HTW10RdIBXEFVX3lxTE1nWm5ocGxWRWpyZ2dJbm5BcU9HUURRSDhxMkNZWnRONXA2NHhfMG1JVHBUTjZvSGM3LTdKbEF4SXVuZFlfOXluSGpFdFV0cEYzeF9kaTA2Z25DZ0lV?oc=5",
       "summary": "한세대 총학, 대학에 발전기금 1천만원 기탁 기독일보",
@@ -159,6 +240,18 @@
       "id": "07ce87d86fc44fe4c9d5",
       "category": "인권·갈등",
       "collected_at": "2026-11-18T05:30:23.208200+00:00"
+    },
+    {
+      "title": "“정말 노력은 배신 않나…” 15개 대학 총학 공동 성명 - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ibWhVM1dwNkROczFDSnJLbjViY0tzXzRrb25oRDczZXRha1kzWFdmM2t6c2phcnpiR29USGJLXy1sNGJPYmY5R0hzWjVsYldTRTJoanNqUjJTWFp3UWg4UU5lTmtHVEVybnY5Y2VyM01tUQ?oc=5",
+      "summary": "“정말 노력은 배신 않나…” 15개 대학 총학 공동 성명 한겨레",
+      "source": "한겨레",
+      "published_at": "2026-11-17T07:48:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "cabdb050bc0d9e9e4172",
+      "category": "인권·갈등",
+      "collected_at": "2026-11-20T05:16:03.516285+00:00"
     },
     {
       "title": "한국대학총학생회공동포럼, 'AI 부정행위' 확산에 경고...“공정시험 환경 마련 절실” - CWN",
@@ -305,6 +398,18 @@
       "collected_at": "2026-11-17T06:01:27.461606+00:00"
     },
     {
+      "title": "[수능 AI커닝 비상] 대학 총학생회들, AI 부정행위 규탄…\"공정 붕괴\" - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LSVZQa3BrRWdOand3Ynd4ZGZiWGg5TkpXWFZHU1E5dU55VXE0dHM3WUp6T0Ewa2xTUWhST0xhanFNcHRuQkZSSjljMXhVbDU5Q3pCZ3ozdm1acHIt?oc=5",
+      "summary": "[수능 AI커닝 비상] 대학 총학생회들, AI 부정행위 규탄…\"공정 붕괴\" 뉴스핌",
+      "source": "뉴스핌",
+      "published_at": "2026-11-17T04:43:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e4040ca3ae0405979069",
+      "category": "기타",
+      "collected_at": "2026-11-20T05:16:03.516143+00:00"
+    },
+    {
       "title": "대학 총학생회들, AI 부정 규탄…공정성 조치 즉각 시행 촉구 - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNakNWcFNFMkhjUTFtOEY5SjVqWE43eTFZR3ljZlRUUGhYemdaUFBDaGx5WmJRV3lNUmFEMWtnd2xvMnk0SGRWRm8xRzFNeC11amJjSVItMHVrYkNuMWFYaGxuZlctVjF1YlFrcXo2d1FmSTduQ1FaSjU4aTM0ME1OOU9heDVLTVJ1WG10WnM4eVE?oc=5",
       "summary": "대학 총학생회들, AI 부정 규탄…공정성 조치 즉각 시행 촉구 조선일보",
@@ -365,6 +470,18 @@
       "collected_at": "2026-11-16T04:16:55.066880+00:00"
     },
     {
+      "title": "[보도] 2027 학생자치기구 선거 후보자 등록 완료 - 한림학보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCTjgxaVlZVXlKMFYxM2ZGMnpQZGlZUXl3Yjh5aEtSbjhHbjJ3VWNLUmFDczN3dUdnSDBlcTVmWVlQUGNJQ2M2X0g5cU9jcVRpdkN5ZERUNDRvdlJIdmZvOUVCd1E0SjVfWWtN?oc=5",
+      "summary": "[보도] 2027 학생자치기구 선거 후보자 등록 완료 한림학보",
+      "source": "한림학보",
+      "published_at": "2026-11-15T15:00:27+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "2fd33ae7e6ddf7229f47",
+      "category": "선거·조직",
+      "collected_at": "2026-11-20T05:16:05.177640+00:00"
+    },
+    {
       "title": "2027학년도 총학생회장단 후보 ‘이룸’, 공청회 현장 질문에 답하다 - KNSU 미디어",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WZTg5X1JBQ05PSU9MUng4QjBnRUtnOHdncWtROHU5UC1temxVTWpQTllsWkgxRUJuZzRxZXJGSmd6WXVVUFFjdXhBbXJkR0xyak9vaUJQMGo2YjIzQWpmMkRpWnVEOUU?oc=5",
       "summary": "2027학년도 총학생회장단 후보 ‘이룸’, 공청회 현장 질문에 답하다 KNSU 미디어",
@@ -413,6 +530,18 @@
       "collected_at": "2026-11-15T18:21:07.490879+00:00"
     },
     {
+      "title": "제59대 총학 선거 ‘이펙트’ 나홀로 출마 - 이대학보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tYzhQajBHcFcwWDF5Z0VvN0xNdm0wZnN5STJBRy01Wm5SOER6MG9HcnJpM25leDBKLU9yRHhYejBvWEh4eWFrSk9IWm5rUnd4a2M3VENpU0tvWE1lYklVZVFDTDlBSWtIZ2fSAW5BVV95cUxPaFhZX1BPMVhGMzZwSFpKVERZb2pnMm9ybXhQUU1CdV9qVlJmazh1d0RKTEZCXzhfS3FuLUJKUmdIdlZNX0VmdWQwS0I5Q3RuN21Dbk5MdDh5cmltcTNralpsNzM2cUNQZnBpUlc1QQ?oc=5",
+      "summary": "제59대 총학 선거 ‘이펙트’ 나홀로 출마 이대학보",
+      "source": "이대학보",
+      "published_at": "2026-11-15T06:59:40+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "b73e455046d6465979b4",
+      "category": "선거·조직",
+      "collected_at": "2026-11-20T05:16:03.516423+00:00"
+    },
+    {
       "title": "강원경찰청, 강원대 총학생회 손잡고 대학가 범죄예방 나선다 - 세계일보",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPSEVvTi1jc2gyd1hxXy1YVnVvRUsyYm51Y29sN2IxWWR2cU54WFI1R2NLeUNvNm9wN0FXNHNxZ3J6V1Y1N0Z4TTJTVG1YY1ExQzYtQzM3NFfSAVRBVV95cUxOdTdDdE50S3hxVTJvMURFbEpoT1RYc2NIS2VfVkZsZnRQdmc0eVlnUWptTHIyY0g0NXhqSWowb1NySTV2R1hqUFRsclRpaWtoME9tQ0s?oc=5",
       "summary": "강원경찰청, 강원대 총학생회 손잡고 대학가 범죄예방 나선다 세계일보",
@@ -449,6 +578,18 @@
       "collected_at": "2026-11-15T18:21:07.490932+00:00"
     },
     {
+      "title": "총학생회 선거는 무산, 단과대 선거는 계속된다 - 대학신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFellfalBhS2pkTHAwNEJCZE5EVEJmaE9jalVadnFOcVlvTTg5Y3A0d3J6LURGWjVTM3NZNmFZWmhLcVJHX3F2VGlfcHJldE96TDN5RFBpbjRYNVR4YkFGcG96Qk83UDTSAWtBVV95cUxOSkNTZUxvVW1KUmNSSFFsY0tZUVdwRDZydmFHWGdVTkdadG9vWjZjSk5yVmRLQ2dlMl9VMzdJNlppaGhBb1hZN2pwbEJVYzV1di1DYUJUZ1F5blpZYk9nM25WWHY2S0ZKdmx6UQ?oc=5",
+      "summary": "총학생회 선거는 무산, 단과대 선거는 계속된다 대학신문",
+      "source": "대학신문",
+      "published_at": "2026-11-14T17:46:16+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "7ca03aff40ecedb320ef",
+      "category": "선거·조직",
+      "collected_at": "2026-11-20T05:16:03.516409+00:00"
+    },
+    {
       "title": "서울총학에 ‘고대답게’ 단독 예비후보, 세종총학은 ‘WITH:U’, ‘FLOW’ 경선 - 고대신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XOGE4cXdmN2poNmtobGc5Z3BKWXYtMUViODR0NXd4Y1I2QzRZLWhUOEgxMWY0bnRTVkgzMHpDX3pGbHdaSWptOGoydS1aR1FXcXJQeGlvTVBSM0xRY0NkMzdHSWVOLUU0NlE?oc=5",
       "summary": "서울총학에 ‘고대답게’ 단독 예비후보, 세종총학은 ‘WITH:U’, ‘FLOW’ 경선 고대신문",
@@ -459,6 +600,18 @@
       "id": "831a9ddefca862026c00",
       "category": "선거·조직",
       "collected_at": "2026-11-14T04:29:52.062110+00:00"
+    },
+    {
+      "title": "[2027 학생회] 누굴 뽑을까, 총학 후보에게 묻다 - 채널PNU",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sY3VLRFFLZGtKTHo4bVdEbVR6LUxwRVVLUU1nWWxuQ0RwZHkybEViTWlfU0Qta1JFSnI2N1RjSnhjUklfVHhwWDVlS2dqZHJhT21FMURXaVdvX0NfQjRnOUpQY1V3RTVDSWJhVnh2ZExLMUZPZ1HSAXZBVV95cUxPbGN1S0RRS2RrSkx6OG1XRG1Uei1McEVVS1FNZ1lsbkNEcGR5MmxFYk1pX1NELWtSRUpyNjdUY0p4Y1JJX1R4cFg1ZUtnamRyYU9tRTFEV2lXb19DX0I0ZzlKUGNVd0U1Q0liYVZ4dmRMSzFGT2dR?oc=5",
+      "summary": "[2027 학생회] 누굴 뽑을까, 총학 후보에게 묻다 채널PNU",
+      "source": "채널PNU",
+      "published_at": "2026-11-12T10:07:04+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "409ab1c3566321bc2968",
+      "category": "선거·조직",
+      "collected_at": "2026-11-20T05:16:03.516554+00:00"
     },
     {
       "title": "‘인하대 이승만 동상 재건 논란’ 동문들도 ‘들썩’…총학동문회 “설립자 이승만은 역사왜곡” - 인천일보",
@@ -509,6 +662,18 @@
       "collected_at": "2026-11-11T19:07:01.584418+00:00"
     },
     {
+      "title": "가톨릭관동대 2027학년도 학생자치기구 선거 13일 전자투표.. '학생대표 14명 선출' - 베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KSkg5ZHBYOThlSXFkLVMtczNZdnJ5cXpSYkU4SEdVMmtpWjhuTGM0Yjc2YnlMYnJOTjEwaGZxMTQ5cmtaOXNFOXV5TmVTZS1CeXRaNU5pY01pdlhMaEVOU1BRcGh3bVFNSnRuSw?oc=5",
+      "summary": "가톨릭관동대 2027학년도 학생자치기구 선거 13일 전자투표.. '학생대표 14명 선출' 베리타스알파",
+      "source": "베리타스알파",
+      "published_at": "2026-11-11T05:39:53+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "5ed6f99f280f4289a9b0",
+      "category": "선거·조직",
+      "collected_at": "2026-11-20T05:16:05.177916+00:00"
+    },
+    {
       "title": "“또 같은 안으로 투표?”···충남대·공주대 통합 재추진에 삭발 투쟁까지",
       "url": "https://www.khan.co.kr/article/202611111049011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
       "summary": "통합신청서 원안 유지 의결통합추진위서 재투표 일정 확정 예정충남대와 국립공주대의 통합에 반대하는 내용의 근조화환이 충남대 교내에 설치돼 있다. 충남대 총학생회 비상대책위원회 제공충남대가 구성원 투표에서 반대 의견이 우세했던 국립공주대와의 통합신청서를 수정 없이 다시 투표에 부치기로 했다. 학생들은 요구가 반영되지 않은 채 재투표가 진행되면 투표 거부에 나서···",
@@ -543,6 +708,18 @@
       "id": "3abd2c063e937a7b0d2a",
       "category": "기타",
       "collected_at": "2026-11-10T05:36:01.481382+00:00"
+    },
+    {
+      "title": "진리자유학부 총학 의사결정기구 진입 또 무산··· 중운위·확운위 단위 신설안 부결 - 연세춘추",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tdTkyZFhQdjdDXzlLUUtiUGFDME96MEdhanplTjNlR3o2U3A4N1RrbkVnbnQxMGNhZHYxaGo4TE9BRW9MTXNCcDRZRmpqNW1leDFaNTJYekNGdjJRM29USC0wODk5WmZ2TWxRQmlWWQ?oc=5",
+      "summary": "진리자유학부 총학 의사결정기구 진입 또 무산··· 중운위·확운위 단위 신설안 부결 연세춘추",
+      "source": "연세춘추",
+      "published_at": "2026-11-08T14:56:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "1bad828764a119259016",
+      "category": "의결·자치",
+      "collected_at": "2026-11-20T05:16:03.516699+00:00"
     },
     {
       "title": "경남대 총학생회 부마민주항쟁 47주년 기념 ‘2026 시월제’ 개최 - 경남도민신문",
@@ -591,6 +768,18 @@
       "id": "ff07311489fd1235b057",
       "category": "선거·조직",
       "collected_at": "2026-11-06T18:45:01.821253+00:00"
+    },
+    {
+      "title": "“3개월짜리 해놓고 뭔 큰소리?!” 법사위, 서영교 ’총학생회장’ 이력 놓고 충돌 [현장영상] / 채널A - 채널A",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mSWNWaEpteXhSamdWd2pxR1V2dm9YRXUtZHhZTDRxU0xDbVZlMFVZMWxwM2xyRjlLNnhfa3RnSDdmSG5walBseTMxMkk1R29jWWtraHJXNnMxaW44QmhIelk2ZHpEMTAyendRa0FJamY?oc=5",
+      "summary": "“3개월짜리 해놓고 뭔 큰소리?!” 법사위, 서영교 ’총학생회장’ 이력 놓고 충돌 [현장영상] / 채널A 채널A",
+      "source": "채널A",
+      "published_at": "2026-11-05T08:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "c259b0c60cacda432f5a",
+      "category": "기타",
+      "collected_at": "2026-11-20T05:16:03.517224+00:00"
     },
     {
       "title": "“3개월짜리 해놓고 뭔 큰소리?!” 법사위, 서영교 ‘총학생회장’ 이력 놓고 충돌 [현장영상] - 채널A",
@@ -677,6 +866,30 @@
       "collected_at": "2026-11-03T18:55:11.393835+00:00"
     },
     {
+      "title": "2027 학생자치기구 정기선거 막 올라... 총학생회는 2파전 경선 구도 - 서울시립대신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HUkVVcjJ5bUVXYUczZ29JdlRsamlVRmhwZ01XTlFBZjV1OXQ0d3ZMREVpUXpLSTRraXgzTURrWVMySjhvT1lSdE9MSGVnUHp4S0hSVFRwaFYyTWIwMTJWdTdHejZrMTJH?oc=5",
+      "summary": "2027 학생자치기구 정기선거 막 올라... 총학생회는 2파전 경선 구도 서울시립대신문",
+      "source": "서울시립대신문",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "00243569cbc1b47d5b7d",
+      "category": "선거·조직",
+      "collected_at": "2026-11-20T05:16:03.516667+00:00"
+    },
+    {
+      "title": "강원대 삼척캠퍼스 학생자치단체, 수시 실기고사 수험생 응원 나서 - 대학IN",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hUTB1YmdsdXNsdkxlRktXakRodzRiMWlJcUZjdVBjeXFiTDZfVmptRUhyLUNyODd4RWRnVWg5NVdwRk12dndIcERfOGp5MFRtNG9ybkVtRVJDSHZFRktpTEJxRnpPNERxSnRPbNIBcEFVX3lxTE9PVHdDZkJ4czVlWlljQ0wxME5jcVBNZU9LdXVjcFRPd2pkTjVWM1JNRnUzQXNxQmFvdEp3b21URExKMnlPQ1NSNmpPZ3RfcktpYjFUZDVyZVFncVJMdHU3YzIwNS1lcU1ISTVMYXVCWDM?oc=5",
+      "summary": "강원대 삼척캠퍼스 학생자치단체, 수시 실기고사 수험생 응원 나서 대학IN",
+      "source": "대학IN",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "0a7a7c14eec238dc6bf2",
+      "category": "의결·자치",
+      "collected_at": "2026-11-20T05:16:05.177804+00:00"
+    },
+    {
       "title": "제주대 총학생회 '4.3정신 계승 기념비' 건립 추진...12월 제막한다 - 헤드라인제주",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54RUYyTmI1OWRhOTNVbzdGeHdjX21BakIzOUF3S0pWYjJVYUhPeXlGR25TR1Q3LVNSWXVrUmxDVmRVYVhEM0xzeEFOM1V2cEd4aUdCdkVZMWRaZ3JqcmVCRm1VSHJtdDJ0bW1xZkVxZUsyZUE?oc=5",
       "summary": "제주대 총학생회 '4.3정신 계승 기념비' 건립 추진...12월 제막한다 헤드라인제주",
@@ -747,6 +960,18 @@
       "id": "612548f2ff3f8a282d26",
       "category": "인권·갈등",
       "collected_at": "2026-11-01T03:46:29.533989+00:00"
+    },
+    {
+      "title": "총학생회칙·선거시행세칙 일부개정 … “총학 공백 가능성 최소화” - 고대신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxdFBsdGV2bmRZZXBvNGdmRHZRU2YzSUdhcWg4UVM5elAxRzBTUG83THp5a1c5Z1FoZzRwQV9wR0xnZDJuQmd0MEtNeGE3cG1SeTVmVnlSODJmVGdRVXdtczhhTHVXSmo1WVE?oc=5",
+      "summary": "총학생회칙·선거시행세칙 일부개정 … “총학 공백 가능성 최소화” 고대신문",
+      "source": "고대신문",
+      "published_at": "2026-10-31T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "ec0b4e1168c74cfa83ab",
+      "category": "선거·조직",
+      "collected_at": "2026-11-20T05:16:03.516823+00:00"
     },
     {
       "title": "총학생회비 27년 만 인상 확정 … 재정 부족 해소될까 - 고대신문",
@@ -1263,6 +1488,18 @@
       "id": "c26f1aef2eb689d88d30",
       "category": "복지·문화",
       "collected_at": "2026-11-07T17:16:33.058169+00:00"
+    },
+    {
+      "title": "동아대 총학생회, 개교 80주년 기념 행사 성료 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zNVZvQmRhSUpDYUV3VlhyOXRNTlRMbGVOVUlOOHJ2S2ZNbmJLXzAxYU1GN2NLb0NOOXg4Z1B0dGZzaXhhbVQxQmxEckE5YXFVNTctYlRXMXdFTHBzRnZCbWpqaE9MS0lORnB3Rm1LTzZRLUJhNkhldw?oc=5",
+      "summary": "동아대 총학생회, 개교 80주년 기념 행사 성료 부산일보",
+      "source": "부산일보",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d8ce962687cc3b9207da",
+      "category": "기타",
+      "collected_at": "2026-11-20T05:16:03.517188+00:00"
     },
     {
       "title": "강원대, 글로벌 올림픽·유학생 총학생회 설립 선포식 개최 - LG헬로비전",
@@ -9006,6 +9243,18 @@
       "collected_at": "2026-10-21T16:25:50.033711+00:00"
     },
     {
+      "title": "16개대 총학, 오늘 '투표용지 부족 사태 규탄' 시국선언 - SBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyR2wzUTM1ZDlJcjBXZTREQVM2TTI4dFF0VkQ4cEN5VXVCZE55eGlQYk9xMGM1bE5IRk9JQURhVnpjbERtOXljNk4wQTYyWUhLaEk4SmlZOXBBNEFZWlZndy1EcDlHMERsenc?oc=5",
+      "summary": "16개대 총학, 오늘 '투표용지 부족 사태 규탄' 시국선언 SBS 뉴스",
+      "source": "SBS 뉴스",
+      "published_at": "2026-06-10T07:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "8cdf048b0c71e0dba97b",
+      "category": "기타",
+      "collected_at": "2026-11-20T05:16:06.823057+00:00"
+    },
+    {
       "title": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 - 안동MBC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14QXZkc01Ub0VPSjBuZjNwMkJoOUhhRllkbFpGVFhvYWVKYmVzcnNyWjN1NHNQVW5HZmJNckNPanZ3NFJPT1ZxdTNJa2Z6X1BXVl82U0wxZ2ZuSXI1eGRtTFVyYVZqWExQ?oc=5",
       "summary": "'투표용지 부족 사태' 지역 대학 총학생회 대책 촉구 잇따라 안동MBC",
@@ -15019,6 +15268,18 @@
       "id": "fd70eb8a4b7e87f8cd8c",
       "category": "선거·조직",
       "collected_at": "2026-09-08T02:32:23.172271+00:00"
+    },
+    {
+      "title": "2026학년도 부산외대 학생자치기구 선거운동본부 공청회 총학생회 후보 ‘프라임’ - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zS0JnN0F5SjFSNDV3Y0NNUUhvaFM2X2lQSmE4eWhTVnk2N0Q2UG5Cd25DckFjTGtPMy00UXllYjd6MGVHMG8zdVpEQUJPVjA2ajdRZ1V2dG1SYTNZ?oc=5",
+      "summary": "2026학년도 부산외대 학생자치기구 선거운동본부 공청회 총학생회 후보 ‘프라임’ YouTube",
+      "source": "YouTube",
+      "published_at": "2025-11-25T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "8830c4d0a5615c1674b8",
+      "category": "선거·조직",
+      "collected_at": "2026-11-20T05:16:05.178729+00:00"
     },
     {
       "title": "대학 총학생회가 아니라 '엔터테인먼트 기획사' - OhmyNews",
