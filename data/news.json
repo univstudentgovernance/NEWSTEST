@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-11-21T04:30:20.659971+09:00",
-  "item_count": 1299,
+  "updated_at": "2026-11-21T14:09:40.834934+09:00",
+  "item_count": 1302,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "강원대 춘천캠 총학생회, 비대위 끝내고 3년 만에 '출범' - 노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tanhjeHc0ZE04WEtKSmVSeWtHV0lzMFd1cW04TTlTeUk2aDFtRTFyQlV0Mm9CSWEyNXFGWVZCZzdUN1poYWlnVUNCWEcxY2xwaGc?oc=5",
+      "summary": "강원대 춘천캠 총학생회, 비대위 끝내고 3년 만에 '출범' 노컷뉴스",
+      "source": "노컷뉴스",
+      "published_at": "2026-11-20T07:08:58+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "223895dcaa6a97105970",
+      "category": "선거·조직",
+      "collected_at": "2026-11-21T05:09:09.126861+00:00"
+    },
     {
       "title": "강원대 춘천캠퍼스 3년 만에 총학생회 출범…학생 자치 정상화 - 연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IZlRCR21NYV9aaXRNWDVGaGJxNldmZXRyUjRLVVBLNTBtaFRNUTlDQjAwcWdKY3pFbXR5dUlRUERqVnRlVzRkX1ZwRVNJVXBEb2lWOEZXVmZ2b1RITXBjddIBYEFVX3lxTE9IZlRCR21NYV9aaXRNWDVGaGJxNldmZXRyUjRLVVBLNTBtaFRNUTlDQjAwcWdKY3pFbXR5dUlRUERqVnRlVzRkX1ZwRVNJVXBEb2lWOEZXVmZ2b1RITXBjdQ?oc=5",
@@ -819,6 +831,18 @@
       "id": "1c6203bb4dd0717da845",
       "category": "선거·조직",
       "collected_at": "2026-11-13T19:03:01.779583+00:00"
+    },
+    {
+      "title": "[카드뉴스] 2017년 한양대학교 양 캠퍼스 총학생회 공약 알아보기 - 뉴스H",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DSUlvZHhUOGNWQVVFOEtnTDU2TjB4dG1JV0pyQWtpR0xLc0stQm81QTZBSnZtbjVxTmtIeks0UkthLWQ2dmxBakRtWjVER3ZZQnE1bnBCdDhoV0poX184S2UwUXZVNENN?oc=5",
+      "summary": "[카드뉴스] 2017년 한양대학교 양 캠퍼스 총학생회 공약 알아보기 뉴스H",
+      "source": "뉴스H",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "8cf344ce323e2d370ca4",
+      "category": "복지·문화",
+      "collected_at": "2026-11-21T05:09:16.797415+00:00"
     },
     {
       "title": "제주대 총학생회 '4.3정신계승기념비' 세운다 - 제주MBC",
@@ -15201,6 +15225,18 @@
       "id": "b4cd833744d581e8538b",
       "category": "선거·조직",
       "collected_at": "2026-10-27T17:12:41.718492+00:00"
+    },
+    {
+      "title": "총학생회 선거 ‘부정 투표 의혹’ 사실로 밝혀져··· ‘퀘스트’ 당선 보류 및 ‘선거 무효’ 안건 상정된다 - 경희대학교 미디어센터",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1YVl2dUxPSndhdk15aGhhbC1mS0JSVzE1Uy14UmhBSlNaeU5nTGU5SXl2bDc5dlk1MVpOZG5VOHg1aVRKaHdFZE1qOGt2SmtiNy1md0ZmNW1LME5MdEVsZzVrT1AzdXd5bEd0NlRlZjVSZlkyVGc?oc=5",
+      "summary": "총학생회 선거 ‘부정 투표 의혹’ 사실로 밝혀져··· ‘퀘스트’ 당선 보류 및 ‘선거 무효’ 안건 상정된다 경희대학교 미디어센터",
+      "source": "경희대학교 미디어센터",
+      "published_at": "2025-11-29T08:00:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "56ffb6e1061319843fd9",
+      "category": "선거·조직",
+      "collected_at": "2026-11-21T05:09:12.168425+00:00"
     },
     {
       "title": "[속보] 2026 총학, PASS가 이끈다 - 채널PNU",
