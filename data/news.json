@@ -1,9 +1,81 @@
 {
-  "updated_at": "2026-11-22T13:34:56.481971+09:00",
-  "item_count": 1311,
+  "updated_at": "2026-11-23T03:55:35.358806+09:00",
+  "item_count": 1318,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "[신촌·국제캠 선본 ‘Y-not’] 학생 권익 위해 투쟁도 불사, ‘3.0 버전 총학’ 만들겠다 - 연세춘추",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tbVgtRzU2cmNaSGEtLUxkdlgtaWdfRm96aElxdTNDUUU0aUdXdmFzSmlqM3ktcWFudHd2WUtXTTFBeTBoXzFjNzhsbXB4VjU0VWw5eGtYXzBPOHo2TkZ1VkJMV1kxcmJkVDJQRzJCWQ?oc=5",
+      "summary": "[신촌·국제캠 선본 ‘Y-not’] 학생 권익 위해 투쟁도 불사, ‘3.0 버전 총학’ 만들겠다 연세춘추",
+      "source": "연세춘추",
+      "published_at": "2026-11-22T12:49:10+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "7b24709edb86876ff4d4",
+      "category": "선거·조직",
+      "collected_at": "2026-11-22T18:55:04.610153+00:00"
+    },
+    {
+      "title": "[신촌·국제캠 선본 ‘WAVE’] 검증된 역량으로 학생사회의 변화 이끄는 ‘실무형 총학’ 만들겠다 - 연세춘추",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuT3B5M3VqeGpEOEM2c2N3V3lfb0hhV0cwTm0tdXJHTUtJZ2VpU3gtenNuYWs3TXJuZEd5UXE5YXRJVTlyWXphVi1RVzFhNHp5aWhGdUs5VjltYzJGRmtsQjc3RE5jcGFHdTc5ODVWNA?oc=5",
+      "summary": "[신촌·국제캠 선본 ‘WAVE’] 검증된 역량으로 학생사회의 변화 이끄는 ‘실무형 총학’ 만들겠다 연세춘추",
+      "source": "연세춘추",
+      "published_at": "2026-11-22T12:47:13+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4968285c43cceb3b8e3c",
+      "category": "선거·조직",
+      "collected_at": "2026-11-22T18:55:04.610421+00:00"
+    },
+    {
+      "title": "강원대 춘천캠퍼스 3년 만에 총학생회 출범 - 강원도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yNGstZjFodE8tMTVLYVl5Z1gtc0kzOHNxeGJjeWt6MUc4YnYya01FNEZSYkpGSWRhSXNKNTBmeFdSNXI4VnMyeUs5R2ZmT29oSHJCaFAwTXZxdEJSVnozb0xtbG5USjg?oc=5",
+      "summary": "강원대 춘천캠퍼스 3년 만에 총학생회 출범 강원도민일보",
+      "source": "강원도민일보",
+      "published_at": "2026-11-22T07:56:58+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8541834964802a91a98b",
+      "category": "기타",
+      "collected_at": "2026-11-22T18:55:04.610230+00:00"
+    },
+    {
+      "title": "송영길 의원, 인천지역 12개 대학 총학생회와 치맥 간담회 - 인천in 시민의 손으로 만드는 인터넷신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MdXpTckhoRWY2emhzT1ZGSTlZVHNMamJjUjljUGNEcEFJRmxEckZYUFdoME1VX2tRYXdpc1JZQ250MDQ2dGNTaVFoZmtKT2ZXTVJtOHEySGhIZFpIRXl4aW0tRlo1djBXc1AzYg?oc=5",
+      "summary": "송영길 의원, 인천지역 12개 대학 총학생회와 치맥 간담회 인천in 시민의 손으로 만드는 인터넷신문",
+      "source": "인천in 시민의 손으로 만드는 인터넷신문",
+      "published_at": "2026-11-22T05:55:53+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "046b79c818d322cf0b46",
+      "category": "기타",
+      "collected_at": "2026-11-22T18:55:04.610306+00:00"
+    },
+    {
+      "title": "강원대 춘천캠퍼스, 3년 만에 총학생회 출범 - 강원일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SOHZsREdINTBHc2g5NHNGd1g4anhSaUI0M1pFYVF0XzFBV0pvWE1wb015N2ZjQk5ISUhNbk1NT05RTmpkY2hzdjAwMk9hRWJVaDlLTnpzczlCN0U?oc=5",
+      "summary": "강원대 춘천캠퍼스, 3년 만에 총학생회 출범 강원일보",
+      "source": "강원일보",
+      "published_at": "2026-11-22T04:57:01+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "135665869e8729afc7af",
+      "category": "기타",
+      "collected_at": "2026-11-22T18:55:04.610194+00:00"
+    },
+    {
+      "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 뉴스줌",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBiRHgzRDhvS3ZpQWV0SkFmY1d6TzhjUzlwVUJQMTJzOGcycDlBc2h0cmxFYURfNWc2cEZOQzIyUGtHNUp4?oc=5",
+      "summary": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 뉴스줌",
+      "source": "뉴스줌",
+      "published_at": "2026-11-22T04:38:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "2fb941310acdce4adc1a",
+      "category": "인권·갈등",
+      "collected_at": "2026-11-22T18:55:04.610357+00:00"
+    },
     {
       "title": "송영길, 인천 12개 대학 총학생회와 청년 주거·취업 문제 논의 - 인천뉴스",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kVDBEUXBaU1VQbVhuTENNSkJWdEhqaktwR3dRTmZhX2Fmd1UzSVZlU05waEk4NHdqR0hBb2NfZGQ2YXJ6LWgwaXVualRUZFk2eG1qRFItMk9FT1llVjhxZFM4VzFPdmZVOXdKX01R?oc=5",
@@ -63,6 +135,18 @@
       "id": "3e9b370881596d36fd2b",
       "category": "인권·갈등",
       "collected_at": "2026-11-22T04:34:24.236167+00:00"
+    },
+    {
+      "title": "[신촌·국제캠 선본 ‘파란’] 직접 듣고 행동하는 ‘신문고 총학’ 만들겠다 - 연세춘추",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xS3VZWXdxSjBMQWVCNUJvUnJENkJZblo2TzhqS2h6SnlFQ1NxMG9MYjR1aGZLdlo1czN1VkZseE90WnNBeWh5RHFrUE9UWUhqSXExUGdfQjVuXy1nd3ZJZTNmNTIwN1BHbHprOEdrVQ?oc=5",
+      "summary": "[신촌·국제캠 선본 ‘파란’] 직접 듣고 행동하는 ‘신문고 총학’ 만들겠다 연세춘추",
+      "source": "연세춘추",
+      "published_at": "2026-11-20T08:19:35+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "3e4dd856d0d6dac2d3f3",
+      "category": "선거·조직",
+      "collected_at": "2026-11-22T18:55:04.610611+00:00"
     },
     {
       "title": "강원대 춘천캠 총학생회, 비대위 끝내고 3년 만에 '출범' - 노컷뉴스",
