@@ -1,9 +1,69 @@
 {
-  "updated_at": "2026-11-22T03:33:37.901922+09:00",
-  "item_count": 1302,
+  "updated_at": "2026-11-22T13:34:56.481971+09:00",
+  "item_count": 1311,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "송영길, 인천 12개 대학 총학생회와 청년 주거·취업 문제 논의 - 인천뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kVDBEUXBaU1VQbVhuTENNSkJWdEhqaktwR3dRTmZhX2Fmd1UzSVZlU05waEk4NHdqR0hBb2NfZGQ2YXJ6LWgwaXVualRUZFk2eG1qRFItMk9FT1llVjhxZFM4VzFPdmZVOXdKX01R?oc=5",
+      "summary": "송영길, 인천 12개 대학 총학생회와 청년 주거·취업 문제 논의 인천뉴스",
+      "source": "인천뉴스",
+      "published_at": "2026-11-22T04:18:28+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f9afe7844370aba64d67",
+      "category": "기타",
+      "collected_at": "2026-11-22T04:34:24.236237+00:00"
+    },
+    {
+      "title": "인천 청년·대학 총학생회 대표들, 송영길 의원과 주거·취업 현안 논의 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02X3dILUhMZnpfcnMyRXB1aWdoalphQnhpdDBxYUxaREstcW5OTjgwaWppM2FPY25RY1BVNHpqVl9qRXRzY19yZVh6bm5VYVNCUUpyTGxNdDVHa1hvWlRoZU1LeUtDYlBxQTBTcGJTT1k?oc=5",
+      "summary": "인천 청년·대학 총학생회 대표들, 송영길 의원과 주거·취업 현안 논의 신아일보",
+      "source": "신아일보",
+      "published_at": "2026-11-22T04:00:15+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "6a2796d94b087dfa1162",
+      "category": "기타",
+      "collected_at": "2026-11-22T04:34:24.236209+00:00"
+    },
+    {
+      "title": "송영길 의원, 인천 12개 대학 총학생회와 치맥 간담회 - 국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HSHNyRE1yTWYxeVZiNUkzanlSMDhDRXBUejVqLUx4Nmk4akRxcGFPcWw5d2FDX2lFczNUWEE2QnlwY1oySXNmQmM3c2l3QVJlSU5pQmlNNi1fMkdzV0NXSE54QXRsLTZKQ3F5akxR?oc=5",
+      "summary": "송영길 의원, 인천 12개 대학 총학생회와 치맥 간담회 국제뉴스",
+      "source": "국제뉴스",
+      "published_at": "2026-11-22T03:09:21+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "df9b160dc67cc98693d4",
+      "category": "기타",
+      "collected_at": "2026-11-22T04:34:24.236312+00:00"
+    },
+    {
+      "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 뉴스파이어",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HUzIwbjhCaldkd0JfeVgyZlJFcWN1OVhMaG9uRm9DSUdTV1k5bVY0YWdjNmd0Ym1XdWprSUhvTmotQU54ZjVsbllIMGhfT2w4N1dqTm9YNXFjSXlwOUN0N2YySVhBV3dFMHEySW5hMA?oc=5",
+      "summary": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 뉴스파이어",
+      "source": "뉴스파이어",
+      "published_at": "2026-11-22T02:50:13+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "2e433bd4e7a189886a13",
+      "category": "인권·갈등",
+      "collected_at": "2026-11-22T04:34:24.236265+00:00"
+    },
+    {
+      "title": "총학생회공동포럼, AI 부정행위 논란에 성명문 발표 - 대학신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQMmoxd3BZV0JlSGVIcmVJMEhsX0ZDR1h4bEhpcWEwQ2pDb21kWC1lUVYwalZpNjktTU9SOGRiRjdqdGF4bGZvTENzTEpLT3dCMms3MWtxSmFnc3pyNjBrMmdPQXpyb2lM?oc=5",
+      "summary": "총학생회공동포럼, AI 부정행위 논란에 성명문 발표 대학신문",
+      "source": "대학신문",
+      "published_at": "2026-11-21T21:14:31+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "3e9b370881596d36fd2b",
+      "category": "인권·갈등",
+      "collected_at": "2026-11-22T04:34:24.236167+00:00"
+    },
     {
       "title": "강원대 춘천캠 총학생회, 비대위 끝내고 3년 만에 '출범' - 노컷뉴스",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tanhjeHc0ZE04WEtKSmVSeWtHV0lzMFd1cW04TTlTeUk2aDFtRTFyQlV0Mm9CSWEyNXFGWVZCZzdUN1poYWlnVUNCWEcxY2xwaGc?oc=5",
@@ -473,6 +533,18 @@
       "collected_at": "2026-11-17T06:01:27.461575+00:00"
     },
     {
+      "title": "2027학년도 학생자치기구 정기선거 막 내려 - 서울시립대신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OS1RYRXUyci00R3ZOVnF0T2pBdDNpbl84cUctQ29PSUJQY3hBQks0dzBRM2hwNXpySXhDUUswVUhtdDZjamRrWnVIWm1XSnl4TDd5ZlRncl9IaUlJaXczMnpWQkhEWDdw?oc=5",
+      "summary": "2027학년도 학생자치기구 정기선거 막 내려 서울시립대신문",
+      "source": "서울시립대신문",
+      "published_at": "2026-11-16T07:46:43+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "e2434a10c7a8fa78d8bf",
+      "category": "선거·조직",
+      "collected_at": "2026-11-22T04:34:25.914191+00:00"
+    },
+    {
       "title": "국립한국교통대 학생자치기구 '2026 Moonlight' 행사 수익금 전액 기부..지역사회 나눔 실천 - 베리타스알파",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QMU1qM3NPVWxiZ2dFTF9wdzZ3dWdRaFBMNFFZRXphYlRnSjhFZmd1N3VsTlN0SzQ2bFF4TmhGbGpzdGlkR0ItQzRGZ0xGdW83SVRKM1U0ZmJScXNWY2Jtc2Y5aEtuRlB1MHZTYw?oc=5",
       "summary": "국립한국교통대 학생자치기구 '2026 Moonlight' 행사 수익금 전액 기부..지역사회 나눔 실천 베리타스알파",
@@ -675,6 +747,18 @@
       "id": "4cb3a5f78afd0534476b",
       "category": "기타",
       "collected_at": "2026-11-12T05:19:28.675242+00:00"
+    },
+    {
+      "title": "불안한 ‘신입생 OT의 계절’…대학-총학생회는 신경전 - JTBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1icUZpMGwybUlzNElpU2pEMUEtb0hZZHhTTzlaTHlCOFVJUHNCOThKaldIcE1ka0s0aGVvNTB4amlXek0xbVByODUxdlplOHVOOURUSA?oc=5",
+      "summary": "불안한 ‘신입생 OT의 계절’…대학-총학생회는 신경전 JTBC",
+      "source": "JTBC",
+      "published_at": "2026-11-12T01:50:12+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "a97ba2beb7c4a654a952",
+      "category": "기타",
+      "collected_at": "2026-11-22T04:34:24.237587+00:00"
     },
     {
       "title": "양유준 제주대 총학생회장 “4·3 선배들의 용기와 정신, 미래 세대에 계승할 것” - BBS불교방송",
@@ -14112,6 +14196,18 @@
       "collected_at": "2026-10-01T03:34:30.017146+00:00"
     },
     {
+      "title": "등록금 인상 계획 중단 및 재검토 요구 한국대학총학생회공동포럼 기자회견 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JeVYwdWMwMHpBY2tDajZCN19iMHRJTUZqQzZhaGNFenBGRFN2Rm1JZUt4OVBweFVwVU1kX0JSOU1RSFZiSjZqME9qSXFGYmpRMVZBRFFZMHQ1V0tFRW5aYw?oc=5",
+      "summary": "등록금 인상 계획 중단 및 재검토 요구 한국대학총학생회공동포럼 기자회견 뉴시스",
+      "source": "뉴시스",
+      "published_at": "2026-01-20T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "89c8eeb731c597ca32dc",
+      "category": "등록금·교육",
+      "collected_at": "2026-11-22T04:34:29.072393+00:00"
+    },
+    {
       "title": "5% 올리고 3% 또?...한국외대 총학생회 \"학교는 등록금 갑질 인상 멈춰라\" - 더에듀",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvUXk0V1gtSkNyQnplWFlGenlYSXlXNXViYUJRTHJwYmJHeEtKVzVtWGVsZk1JdzRPMGpNZFF5X3gwd1hHSVB4eThqaW5kSVRoOGdCY3VXTm9CdlU?oc=5",
       "summary": "5% 올리고 3% 또?...한국외대 총학생회 \"학교는 등록금 갑질 인상 멈춰라\" 더에듀",
@@ -15225,6 +15321,18 @@
       "id": "b4cd833744d581e8538b",
       "category": "선거·조직",
       "collected_at": "2026-10-27T17:12:41.718492+00:00"
+    },
+    {
+      "title": "한밭대, 2026학년도 학생자치기구 회장단 임명장 수여 - 충청뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RbU5iN3Q2bTVKd3VxZ2lvd2JUU2xjdmc3MzhUTmZSLXpLdFVsZVp1VFBLUFVaS3UzNF9CUGsybmJDcEd4WDBKalNXWkpNYUFhbDQtRE5xZDNVLWFjTThzYnhBRjhGNVZHcU5mTQ?oc=5",
+      "summary": "한밭대, 2026학년도 학생자치기구 회장단 임명장 수여 충청뉴스",
+      "source": "충청뉴스",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "4e432e55c19507fe662d",
+      "category": "의결·자치",
+      "collected_at": "2026-11-22T04:34:25.915535+00:00"
     },
     {
       "title": "총학생회 선거 ‘부정 투표 의혹’ 사실로 밝혀져··· ‘퀘스트’ 당선 보류 및 ‘선거 무효’ 안건 상정된다 - 경희대학교 미디어센터",
