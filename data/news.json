@@ -1,9 +1,57 @@
 {
-  "updated_at": "2026-11-23T14:10:53.530759+09:00",
-  "item_count": 1320,
+  "updated_at": "2026-11-24T08:12:51.777696+09:00",
+  "item_count": 1319,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "[가톨릭대학교 2026 총선거] '마주한 오늘, 함께할 내일', 제35대 총학생회장단 후보 기호 2번 'UNIT'을 만나다 - 가톨릭대학보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55UVJJN3FQbTlSQ3VHOFlHZXNVZGtGaHpwVm8yTEZTV2FlVGhobDZUTGNCanJ0ekhlTTFJOVJtTmYzekxnSzEwX2JlNTVSYm91UXBEMTJFbXlpdTJpckVvenNuN0UxV2ZZcGc?oc=5",
+      "summary": "[가톨릭대학교 2026 총선거] '마주한 오늘, 함께할 내일', 제35대 총학생회장단 후보 기호 2번 'UNIT'을 만나다 가톨릭대학보",
+      "source": "가톨릭대학보",
+      "published_at": "2026-11-23T15:43:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "0216c73f8fe934ea0fd2",
+      "category": "선거·조직",
+      "collected_at": "2026-11-23T23:12:20.189443+00:00"
+    },
+    {
+      "title": "[가톨릭대학교 2026 총선거] '성심의 물결 위, 우리의 별을 띄우다', 제35대 총학생회장단 후보 기호 1번 '성하'를 만나다 - 가톨릭대학보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uTGpXTnlWSzNuZnR4Ml9FMm5CV2Z4bm9CaWxaLWlZN3NNVDFQbnA3ZnlDTFZCUkNqa2JtdXhDQ05FbUlTNjg1aWR4eUIwVWNUTkM5cjdmazUwNVhEV1R2Q2g5Y2l1d0ZKaWc?oc=5",
+      "summary": "[가톨릭대학교 2026 총선거] '성심의 물결 위, 우리의 별을 띄우다', 제35대 총학생회장단 후보 기호 1번 '성하'를 만나다 가톨릭대학보",
+      "source": "가톨릭대학보",
+      "published_at": "2026-11-23T15:35:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "bedde3872fa0bf06c5cd",
+      "category": "선거·조직",
+      "collected_at": "2026-11-23T23:12:20.189676+00:00"
+    },
+    {
+      "title": "대전시교육청, 학생자치·매니페스토 발표 한마당 - www.briefingcc.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EOEh3dG5aamF5Q2tNd3JkR3B3Y2dBaC11SHBVMVRNMnJubGtpMHY4RUxZOFZXeVpsQzhvVC1LaTZEMUJlMFF5UlVHcGM4OV9sSmRjdzNBNF82aUVzQmxrc2txX1dTRkdxNXBOQw?oc=5",
+      "summary": "대전시교육청, 학생자치·매니페스토 발표 한마당 www.briefingcc.com",
+      "source": "www.briefingcc.com",
+      "published_at": "2026-11-23T08:10:03+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "8e84694e638063cbb900",
+      "category": "의결·자치",
+      "collected_at": "2026-11-23T23:12:21.852884+00:00"
+    },
+    {
+      "title": "제주대 총학생회장 이건웅 당선… 전체 투표 38.6% 무효 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WVVZhWDJhSEtVRHhuNFJ5M042dXdCVjhFVTl4eFZFbGFwYS1oejU0OXliQTk0NFlyUGdxWlNsWW13cVhiQkN5QWtYcGU4UUp0MlRybzhLOGRBQQ?oc=5",
+      "summary": "제주대 총학생회장 이건웅 당선… 전체 투표 38.6% 무효 파이낸셜뉴스",
+      "source": "파이낸셜뉴스",
+      "published_at": "2026-11-23T05:20:02+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "99c5e9d93cfff3abcf86",
+      "category": "선거·조직",
+      "collected_at": "2026-11-23T23:12:20.189546+00:00"
+    },
     {
       "title": "인천 12개 대학 총학·송영길 의원 치맥 간담회...주거·취업 현안 논의 - 미디어인천신문",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXYXFnWUF4ZGZFdzN2bmdDNGVaR2ZTT3pYWjNkSWl3NVpIei1sTW9xMElxSUhfNHNCRUNnRHMxNkJwQlpPcV92VUN3SzN5d19PTGx3cEVDSklmclU5RzNyU3hsWHVndXF5R0Zr?oc=5",
@@ -15547,64 +15595,6 @@
       "id": "8830c4d0a5615c1674b8",
       "category": "선거·조직",
       "collected_at": "2026-11-20T05:16:05.178729+00:00"
-    },
-    {
-      "title": "대학 총학생회가 아니라 '엔터테인먼트 기획사' - OhmyNews",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HMmgyNWpjd0RCMGJqYjhpM09QTURKTHhZblRCa1V5bGI2aHZfRnhfSllPcDZlRjRYdFlGVk4zXzZ1TkZrU1d0a0hkeUJQUDJTX2lGZWRmV3k0elkxZVdlN2Rfc05UT3pHM0w4OGdiLTVOa2tYSlNN?oc=5",
-      "summary": "대학 총학생회가 아니라 '엔터테인먼트 기획사' OhmyNews",
-      "source": "OhmyNews",
-      "published_at": "2025-11-23T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "id": "00fbcb4b9c99f5331c53",
-      "category": "기타",
-      "collected_at": "2026-08-01T17:27:38.659898+00:00"
-    },
-    {
-      "title": "[총학 공약점검-국제] 학문단위 조정·대학영어, 장기 과제로…버스노선 다변화 공약도 시행 미지수 - 경희대학교 미디어센터",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tWkhqZHA2b1cxNnFNQ1RfeVhiZ1k5QzVNV3dZTEtXSENTWkVPUHpsaVZFU0s2NVRmcXp5djNxRUVTVnhDN0RfaEFfd3lJTDNZaGItSXFpNWRlSTJPbVdiSFBmNHdyS1I3Z2Y4Xy1YVXB6TlhLVWc?oc=5",
-      "summary": "[총학 공약점검-국제] 학문단위 조정·대학영어, 장기 과제로…버스노선 다변화 공약도 시행 미지수 경희대학교 미디어센터",
-      "source": "경희대학교 미디어센터",
-      "published_at": "2025-11-23T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "id": "a693f27fc57e65cfa680",
-      "category": "복지·문화",
-      "collected_at": "2026-08-01T17:27:38.660006+00:00"
-    },
-    {
-      "title": "대학 총학생회가 아니라 '엔터테인먼트 기획사' - ohmynews.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HMmgyNWpjd0RCMGJqYjhpM09QTURKTHhZblRCa1V5bGI2aHZfRnhfSllPcDZlRjRYdFlGVk4zXzZ1TkZrU1d0a0hkeUJQUDJTX2lGZWRmV3k0elkxZVdlN2Rfc05UT3pHM0w4OGdiLTVOa2tYSlNN?oc=5",
-      "summary": "대학 총학생회가 아니라 '엔터테인먼트 기획사' ohmynews.com",
-      "source": "ohmynews.com",
-      "published_at": "2025-11-23T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "d31453f63ac3327e05fa",
-      "category": "기타",
-      "collected_at": "2026-08-04T18:13:27.215373+00:00"
-    },
-    {
-      "title": "[총학 공약점검-국제] 학문단위 조정·대학영어, 장기 과제로…버스노선 다변화 공약도 시행 미지수 - media.khu.ac.kr",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tWkhqZHA2b1cxNnFNQ1RfeVhiZ1k5QzVNV3dZTEtXSENTWkVPUHpsaVZFU0s2NVRmcXp5djNxRUVTVnhDN0RfaEFfd3lJTDNZaGItSXFpNWRlSTJPbVdiSFBmNHdyS1I3Z2Y4Xy1YVXB6TlhLVWc?oc=5",
-      "summary": "[총학 공약점검-국제] 학문단위 조정·대학영어, 장기 과제로…버스노선 다변화 공약도 시행 미지수 media.khu.ac.kr",
-      "source": "media.khu.ac.kr",
-      "published_at": "2025-11-23T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "02e6aa21c716bd91cc5b",
-      "category": "복지·문화",
-      "collected_at": "2026-08-06T10:14:16.285801+00:00"
-    },
-    {
-      "title": "“여운 같은 신뢰를 남기겠다” 가톨릭대학교 총학생회 선거운동본부 ‘여운’을 만나다 - 대학알리",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TOC1fd2NXOExwMnZkYXlCNncxa3M5NXhNSG81UXFUWk8waTJpaGMxUzV6dDR6SE5NMjBFVzlkb3pMeFdvMnlTbzZVV1ZHWWtPd0VLSHpGRUdvOThucGd0eg?oc=5",
-      "summary": "“여운 같은 신뢰를 남기겠다” 가톨릭대학교 총학생회 선거운동본부 ‘여운’을 만나다 대학알리",
-      "source": "대학알리",
-      "published_at": "2025-11-23T08:00:00+00:00",
-      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
-      "feed": "Google News RSS",
-      "id": "53a94b33198ae3bdc4de",
-      "category": "선거·조직",
-      "collected_at": "2026-11-04T19:13:06.570778+00:00"
     }
   ]
 }
