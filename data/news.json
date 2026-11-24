@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T08:12:51.777696+09:00",
-  "item_count": 1319,
+  "updated_at": "2026-11-24T16:55:28.599833+09:00",
+  "item_count": 1323,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
@@ -27,6 +27,18 @@
       "id": "bedde3872fa0bf06c5cd",
       "category": "선거·조직",
       "collected_at": "2026-11-23T23:12:20.189676+00:00"
+    },
+    {
+      "title": "충북대 대학원생들, 독자 총학생회 설립 추진 - 중부매일",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81Ni1kRHNWd2VVMy1ZVmY0dmlMYzd4WnJBSmsydEhZdEZmMUdnd05tbzZULTFwX2lpTXlkOHkwcVBWdEpOVl9Bb1Fac1NBa0pxMHFjOUxUWmVrYlZReGRDOE1WeGlVN1ZQcnRUSi1B0gFuQVVfeXFMTzU2LWREc1Z3ZVUzLVlWZjR2aUxjN3hackFKazJ0SFl0RmYxR2d3Tm1vNlQtMXBfaWlNeWQ4eTBxUFZ0Sk5WX0FvUVpzU0FrSnEwcWM5TFRaZWtiVlF4ZEM4TVZ4aVU3VlBydFRKLUE?oc=5",
+      "summary": "충북대 대학원생들, 독자 총학생회 설립 추진 중부매일",
+      "source": "중부매일",
+      "published_at": "2026-11-23T08:34:39+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "c852e3cc1f8736ec64b8",
+      "category": "기타",
+      "collected_at": "2026-11-24T07:54:57.045669+00:00"
     },
     {
       "title": "대전시교육청, 학생자치·매니페스토 발표 한마당 - www.briefingcc.com",
@@ -101,6 +113,18 @@
       "collected_at": "2026-11-23T05:10:23.634063+00:00"
     },
     {
+      "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 뉴스투게더",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PRURJYlRVdXVQNkVXUU5ESEIzMkk3NUhqV2luZVEzbldBU3ZVeDVKbklaRENDM1dRblR3c3VoMWpqbC1DUGIxU05vTEZfLUhoOVhJaWJJMVVpb1BTOGV3?oc=5",
+      "summary": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 뉴스투게더",
+      "source": "뉴스투게더",
+      "published_at": "2026-11-22T08:50:24+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4a95392ac43bdfde7e40",
+      "category": "인권·갈등",
+      "collected_at": "2026-11-24T07:54:57.046835+00:00"
+    },
+    {
       "title": "강원대 춘천캠퍼스 3년 만에 총학생회 출범 - 강원도민일보",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yNGstZjFodE8tMTVLYVl5Z1gtc0kzOHNxeGJjeWt6MUc4YnYya01FNEZSYkpGSWRhSXNKNTBmeFdSNXI4VnMyeUs5R2ZmT29oSHJCaFAwTXZxdEJSVnozb0xtbG5USjg?oc=5",
       "summary": "강원대 춘천캠퍼스 3년 만에 총학생회 출범 강원도민일보",
@@ -135,6 +159,18 @@
       "id": "135665869e8729afc7af",
       "category": "기타",
       "collected_at": "2026-11-22T18:55:04.610194+00:00"
+    },
+    {
+      "title": "제59대 총학생회 선거 D-1···이화인들이 차기 총학생회에 전하는 바람은 - 이대학보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55cDNMb3VHQ0RiRERPdDczUGRIZXd1b0lzVHRXaWlzUG5QRTFEbHZVanAxTVlWQXVVRjJTcEItV1ZINzJhTm5vc21PTU13dHdfa09UX25oOFdDQmc3MG1fUWdSUTRIWC1DSmfSAW5BVV95cUxOY19mWGJRVmNDVDJqUU9JU19QSXFpdlgwMGFrWThDRkRWTEdFal8xYW5EUE9hWlRyTkFKSThEc0ZIRnFNYVFqUHQ2R0Q1QVpuUUYzTlVBdDFMZGxraERHNTFXR2ZvS0VGSjBIVDJwQQ?oc=5",
+      "summary": "제59대 총학생회 선거 D-1···이화인들이 차기 총학생회에 전하는 바람은 이대학보",
+      "source": "이대학보",
+      "published_at": "2026-11-22T04:42:40+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "7a4aeb8fcc83e7dbd023",
+      "category": "선거·조직",
+      "collected_at": "2026-11-24T07:54:57.045868+00:00"
     },
     {
       "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 뉴스줌",
@@ -1851,6 +1887,18 @@
       "id": "f60b0b12f6b6af97b178",
       "category": "기타",
       "collected_at": "2026-10-25T15:23:09.340923+00:00"
+    },
+    {
+      "title": "김민석 대표도 거쳐갔는데…정치 입문 코스, 서울대 총학 선거 또 무산됐다 [세상&] - 헤럴드경제 미주판",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Bc3M0TXdZTDczcFJNRUx4M3JpRGV2ejZ2N2ZoYlFIVTZGVk5uUTRucHBQTjA4eFRWc2JLcGMtSGg0UllhODQ2ZmFNdkhTUTk3NHgzeVMtTGlOcTByUjY2YQ?oc=5",
+      "summary": "김민석 대표도 거쳐갔는데…정치 입문 코스, 서울대 총학 선거 또 무산됐다 [세상&] 헤럴드경제 미주판",
+      "source": "헤럴드경제 미주판",
+      "published_at": "2026-10-25T05:46:00+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "de6d01e4414f15a3d6f8",
+      "category": "선거·조직",
+      "collected_at": "2026-11-24T07:55:00.429545+00:00"
     },
     {
       "title": "강원대 외국인유학생 총학생회 설립⋯‘하나의 강원대’ 함께 만든다 - 강원일보",
