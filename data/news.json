@@ -1,9 +1,38 @@
 {
-  "updated_at": "2026-11-25T15:30:50.428027+09:00",
-  "item_count": 1331,
+  "updated_at": "2026-11-26T05:56:43.199158+09:00",
+  "item_count": 1333,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [],
+  "failures": [
+    {
+      "source": "동아일보",
+      "error": "RemoteDisconnected: Remote end closed connection without response"
+    }
+  ],
   "items": [
+    {
+      "title": "[속보] 제39대 세종총학에 선본 ‘FLOW’ 당선 - 고대신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CWklIR3BUS3dnVXhHQWVjQjVLYWpFZzNUcGpWbnUxeHlzVFRRMXltczB2a1pJa1RZOXdCWTdVVWxvN1B6bWVVTm1nOFo2U1o3SVZadWF0RXBwRkQ5UmN1RlpERUtpRi10dkE?oc=5",
+      "summary": "[속보] 제39대 세종총학에 선본 ‘FLOW’ 당선 고대신문",
+      "source": "고대신문",
+      "published_at": "2026-11-25T12:43:21+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "8ef25fac8b9006037b84",
+      "category": "선거·조직",
+      "collected_at": "2026-11-25T20:56:13.839897+00:00"
+    },
+    {
+      "title": "안산대 총학생회·푸드테라피학과, 축제 수익금 등 발전기금 기탁 - 경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lalYydlJ4RTlVbmhtMkdPRlhRWXpVNVJ5U3o4d0p6bGc1aVB6dkZkYlF4emk3dk0ydHhtSkZ3bDU3Z3BRTE5mU0lQejhPa3NvZUpwZU9taGxUenVuMVlwZk1B?oc=5",
+      "summary": "안산대 총학생회·푸드테라피학과, 축제 수익금 등 발전기금 기탁 경기신문",
+      "source": "경기신문",
+      "published_at": "2026-11-25T06:34:36+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "98c1b35ef4e908f7fa28",
+      "category": "복지·문화",
+      "collected_at": "2026-11-25T20:56:13.839946+00:00"
+    },
     {
       "title": "한예종 총학생회·아르코 노조 공동성명 성기숙 위원 사퇴해야 - 아주경제",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56bzNveW9IMG5BMWdYUFc1c1l2VDlhVDF2TGZZckdDTmRtbzNmdmlQZkJDa2lhcnY4NnoyMjcwRllYU2ZWRmlpeTI3T1NnaktFRkhGdnpJTmhUUdIBWEFVX3lxTE4tT1gtSFNIQXVVM0pvdENPWG01UVZKM3RGRWxKRTlrVWkzSm9sN3pJWmpkMGF2bWw3MzMwLS1wcmVRSkZWalNCMWRwcDI1LUpCTDRySXM4dXU?oc=5",
@@ -15,6 +44,18 @@
       "id": "9b61eddc965736672e82",
       "category": "인권·갈등",
       "collected_at": "2026-11-25T06:30:19.617920+00:00"
+    },
+    {
+      "title": "선 넘은 에타, 총학 후보 신상 털기·색깔론까지 - 채널PNU",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOTDY2WTctQlBqcUFtb2hVaF9CUndlY0JQSk1hY0VuSmIxdDJubUYzMkw1eW85ajM1bGdMZkdvbXpHNmhGZzEteXkzVUJhWGFyeF9WVkd3UHZ1Q2laWmVxSHNreVE4QmdnV1FCcGxodzFkd9IBdkFVX3lxTE93NlEzR0gwbmkyMDR3Qjl2VVVxWm1zeTNkTWJIcG1naWxpOXk3UVdPazl3MW9SUEJGek5RWTMyd25wN3RIYVE3LUEzdmc5Y0xzUFpvdXRCb1c5XzZCczAxSnhmNGtweUl1eFBYYWFxTzlHLW5fU0E?oc=5",
+      "summary": "선 넘은 에타, 총학 후보 신상 털기·색깔론까지 채널PNU",
+      "source": "채널PNU",
+      "published_at": "2026-11-25T04:41:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "2f687ddff7d90e0838bb",
+      "category": "선거·조직",
+      "collected_at": "2026-11-25T20:56:13.839927+00:00"
     },
     {
       "title": "[속보] 세종총학 선거 유효 투표율 돌파 - 고대신문",
@@ -87,6 +128,18 @@
       "id": "89c452f46b56c50cfca0",
       "category": "기타",
       "collected_at": "2026-11-25T06:30:19.618149+00:00"
+    },
+    {
+      "title": "안산대 제42대 총학생회 대학발전기금 200만원 기탁 - 베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WYWdGOXhPYUVVbDZZT1doTzhTNHlCbkZ6ZVRpZWNqOWpTZlFnTmNZSFBTemlIREM4dFlXTGNrSmktRWo2UWktcm50ZWJKLVZwZDhpQmwxMTZYWXFSbWl6Rzk0OGZzcm5JVF9DeQ?oc=5",
+      "summary": "안산대 제42대 총학생회 대학발전기금 200만원 기탁 베리타스알파",
+      "source": "베리타스알파",
+      "published_at": "2026-11-24T07:30:10+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "24a75dd30af5daf29022",
+      "category": "기타",
+      "collected_at": "2026-11-25T20:56:13.840164+00:00"
     },
     {
       "title": "[가톨릭대학교 2026 총선거] '마주한 오늘, 함께할 내일', 제35대 총학생회장단 후보 기호 2번 'UNIT'을 만나다 - 가톨릭대학보",
@@ -14883,6 +14936,18 @@
       "collected_at": "2026-09-04T02:25:38.210743+00:00"
     },
     {
+      "title": "전국총학생회협의회, 교육부에 \"올해 등록금 동결 기조 즉각 공표\" 요구 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YMHJHMk54NVhNZ1YzbjlGWUd3cnNmTEJ3czJyM2tocGU0N3RuWjZQNnJRRlNKckVONjljZHVpS0Zhb1BWLTduMWMxZFRiWjRTalVHTFZjM1M4aTNB?oc=5",
+      "summary": "전국총학생회협의회, 교육부에 \"올해 등록금 동결 기조 즉각 공표\" 요구 뉴스핌",
+      "source": "뉴스핌",
+      "published_at": "2026-01-14T08:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "aa13eb6e050e406dbe07",
+      "category": "등록금·교육",
+      "collected_at": "2026-11-25T20:56:18.635498+00:00"
+    },
+    {
       "title": "교육장관, 전국총학생회협의회 임원진과 등록금 정책 논의 - 연합뉴스",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42QUNiS3B6VzFtdUVCMFB3X0xVXzNlS3gzc2dQdVItMW9EeTZaQkZuVHBDdG1PUXBxdFdCUUFTN3FtR3p0Q1pyQ2hvS0ZVVGh3bkNGT3RtRE9DenfSAWBBVV95cUxQMkZHNElLMUdtWEl1UGp6VzJWVHJxTzZFQS1sMWhNaG05QWVjMEdaekFxZ3pDNzdqSllhcnF5QkFqcFUyM2VnYTNXNnBELTBzZnpvUXhFdDk4YUJ5ekVRRHU?oc=5",
       "summary": "교육장관, 전국총학생회협의회 임원진과 등록금 정책 논의 연합뉴스",
@@ -15704,41 +15769,6 @@
       "id": "b183698b1f9bb2089351",
       "category": "선거·조직",
       "collected_at": "2026-08-09T12:36:21.570832+00:00"
-    },
-    {
-      "title": "충북대 총학생회 선거, '극우 폭력 사태 연루' 의혹 후보자 논란 확산 - 대학알리",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vQXFpelk0ZGRpUmplbUU1NzBNU0xYTjVHVEQxNjRBRW5UOWVFM3BtenpEV011eUx6cFpqdGU0YXFYSVh0WUUwcmpmb1FDbFd5cExmT1FsRTd2Rkk?oc=5",
-      "summary": "충북대 총학생회 선거, '극우 폭력 사태 연루' 의혹 후보자 논란 확산 대학알리",
-      "source": "대학알리",
-      "published_at": "2025-11-25T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "id": "7cfb0265a85bcc096945",
-      "category": "선거·조직",
-      "collected_at": "2026-08-01T17:27:38.660093+00:00"
-    },
-    {
-      "title": "충북대 총학생회 선거, '극우 폭력 사태 연루' 의혹 후보자 논란 확산 - univalli.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vQXFpelk0ZGRpUmplbUU1NzBNU0xYTjVHVEQxNjRBRW5UOWVFM3BtenpEV011eUx6cFpqdGU0YXFYSVh0WUUwcmpmb1FDbFd5cExmT1FsRTd2Rkk?oc=5",
-      "summary": "충북대 총학생회 선거, '극우 폭력 사태 연루' 의혹 후보자 논란 확산 univalli.com",
-      "source": "univalli.com",
-      "published_at": "2025-11-25T08:00:00+00:00",
-      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "feed": "Google News RSS",
-      "id": "fd70eb8a4b7e87f8cd8c",
-      "category": "선거·조직",
-      "collected_at": "2026-09-08T02:32:23.172271+00:00"
-    },
-    {
-      "title": "2026학년도 부산외대 학생자치기구 선거운동본부 공청회 총학생회 후보 ‘프라임’ - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zS0JnN0F5SjFSNDV3Y0NNUUhvaFM2X2lQSmE4eWhTVnk2N0Q2UG5Cd25DckFjTGtPMy00UXllYjd6MGVHMG8zdVpEQUJPVjA2ajdRZ1V2dG1SYTNZ?oc=5",
-      "summary": "2026학년도 부산외대 학생자치기구 선거운동본부 공청회 총학생회 후보 ‘프라임’ YouTube",
-      "source": "YouTube",
-      "published_at": "2025-11-25T08:00:00+00:00",
-      "matched_query": "대학 학생자치",
-      "feed": "Google News RSS",
-      "id": "8830c4d0a5615c1674b8",
-      "category": "선거·조직",
-      "collected_at": "2026-11-20T05:16:05.178729+00:00"
     }
   ]
 }
