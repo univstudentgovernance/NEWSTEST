@@ -1,46 +1,93 @@
 {
-  "updated_at": "2026-11-25T06:51:17.836974+09:00",
-  "item_count": 1323,
+  "updated_at": "2026-11-25T15:30:50.428027+09:00",
+  "item_count": 1331,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
-    {
-      "query": "총학생회 OR 총학",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생자치",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 등록금 총학생회 OR 등록금심의위원회",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생총회 OR 전체학생대표자회의",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생회비 OR 자치비 OR 회계감사",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "source": "동아일보",
-      "error": "TimeoutError: The read operation timed out"
-    }
-  ],
+  "failures": [],
   "items": [
+    {
+      "title": "한예종 총학생회·아르코 노조 공동성명 성기숙 위원 사퇴해야 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56bzNveW9IMG5BMWdYUFc1c1l2VDlhVDF2TGZZckdDTmRtbzNmdmlQZkJDa2lhcnY4NnoyMjcwRllYU2ZWRmlpeTI3T1NnaktFRkhGdnpJTmhUUdIBWEFVX3lxTE4tT1gtSFNIQXVVM0pvdENPWG01UVZKM3RGRWxKRTlrVWkzSm9sN3pJWmpkMGF2bWw3MzMwLS1wcmVRSkZWalNCMWRwcDI1LUpCTDRySXM4dXU?oc=5",
+      "summary": "한예종 총학생회·아르코 노조 공동성명 성기숙 위원 사퇴해야 아주경제",
+      "source": "아주경제",
+      "published_at": "2026-11-25T05:49:32+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "9b61eddc965736672e82",
+      "category": "인권·갈등",
+      "collected_at": "2026-11-25T06:30:19.617920+00:00"
+    },
+    {
+      "title": "[속보] 세종총학 선거 유효 투표율 돌파 - 고대신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wX3B4Q19CSzNWV1NCcmtwQkc1bnVZWENvazdyTkcxaVhVdi1BdWZybjJ3cUtTLVVtb3ZScU5UQjljaW9HUXhQSHpSa2dYYXRHdGVuUHFuQW91UmNFcTBUekVGWTU3eDA1R1E?oc=5",
+      "summary": "[속보] 세종총학 선거 유효 투표율 돌파 고대신문",
+      "source": "고대신문",
+      "published_at": "2026-11-25T03:49:34+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "db8d6df6453cb39b7aa0",
+      "category": "선거·조직",
+      "collected_at": "2026-11-25T06:30:19.617881+00:00"
+    },
+    {
+      "title": "배움의 인연을 지역사랑으로…전북대 에코농산업벤처시스템학과 총학생회, 부안에 기부 - 더펜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pbXJXOU4wUW1NNHBBUVZXSjF6UjlNTGFMM0JnZXIzVjBSWS1ZYVJLT2RGX3hLZ1Y2YU5ublNTWHdVSWZaQXc3NWtoVmdRM01LMVQ5bG81akFqa1l3bUpablBBMA?oc=5",
+      "summary": "배움의 인연을 지역사랑으로…전북대 에코농산업벤처시스템학과 총학생회, 부안에 기부 더펜뉴스",
+      "source": "더펜뉴스",
+      "published_at": "2026-11-25T00:04:14+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "49258e9b4683ae31b14b",
+      "category": "기타",
+      "collected_at": "2026-11-25T06:30:19.618102+00:00"
+    },
+    {
+      "title": "[경북대] 총학생회·총동창회 '서울대 10개 만들기' 공동대응…연구실 안전교육 과기장관상…박창민 교수, 클래리베이트 '영향력 있는 연구자' 2년 연속 선정 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tSEM2ZjBIa2ZJcVVuVjVJeVVoOG1TdnQ5RUxSUENxQUtET0Q5eW1vWHpXODRadmI4ZzhwaE1iNE9oXzNxRXlwT1dnSjlRZF9xN2RPV0JzcTB3ZTFpZGkzZVZ4dXE5R0JuWmt0MzNJX0RGUQ?oc=5",
+      "summary": "[경북대] 총학생회·총동창회 '서울대 10개 만들기' 공동대응…연구실 안전교육 과기장관상…박창민 교수, 클래리베이트 '영향력 있는 연구자' 2년 연속 선정 웹이코노미",
+      "source": "웹이코노미",
+      "published_at": "2026-11-24T22:58:23+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d001ad6237280b0e4c3b",
+      "category": "기타",
+      "collected_at": "2026-11-25T06:30:19.617955+00:00"
+    },
+    {
+      "title": "전북대 에코농산업벤처시스템학과 총학생회, 부안 고향사랑기부금 100만원 기탁 - 영남신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kNkUxSmdkX3UyeDIzbmxnMUc4MHd6eFc0SEV1TVpBbVVJRVlpVTE5TGQ3WEhkenlPcEpTRjF4a21oc0QxcXBWbXF6MkRuN21yaWpKOC12TnNIYThKR1ZJMXVSYklYbk9pQ3FlNjRn?oc=5",
+      "summary": "전북대 에코농산업벤처시스템학과 총학생회, 부안 고향사랑기부금 100만원 기탁 영남신문",
+      "source": "영남신문",
+      "published_at": "2026-11-24T13:24:41+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "80cb067d24c3d8e0a875",
+      "category": "기타",
+      "collected_at": "2026-11-25T06:30:19.618126+00:00"
+    },
+    {
+      "title": "3년 만에 출범한 경북대 총학생회, 첫 행보는 ‘서울대 10개 만들기’ 추가 선정 촉구 - 프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QNkVfN1VXbW5FYUxCTTc3TV82VUVoeHdhR2MzQlREM0Y0RVoyTVZLS1VjVjNYUHluTFVhQXdXalotbkJpYkNGZW1qS2lWRFdOc3hVdUI4ZHQ1bWE5NTJoUUItUVpMRG9vakNB?oc=5",
+      "summary": "3년 만에 출범한 경북대 총학생회, 첫 행보는 ‘서울대 10개 만들기’ 추가 선정 촉구 프레시안",
+      "source": "프레시안",
+      "published_at": "2026-11-24T07:54:51+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "bc92452555d1c615b04c",
+      "category": "기타",
+      "collected_at": "2026-11-25T06:30:19.618173+00:00"
+    },
+    {
+      "title": "3년 만에 출범하는 경북대 총학생회 첫 주요 현안은 '서울대 10개 만들기' - 베리타스알파",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3Z0t1cGw5WEh2NDVvWlNzZ2ptVWpvV2UtTTYzMEhWRlZ2LVJlYmNxUTVvZEFsTlAwUjZlckIxYzJETGVwdjREWDVtT0ZCRWw3bnllVllqVFd3dXZCU0U0SUFFVEQtM1ppRzJjbw?oc=5",
+      "summary": "3년 만에 출범하는 경북대 총학생회 첫 주요 현안은 '서울대 10개 만들기' 베리타스알파",
+      "source": "베리타스알파",
+      "published_at": "2026-11-24T07:35:24+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "89c452f46b56c50cfca0",
+      "category": "기타",
+      "collected_at": "2026-11-25T06:30:19.618149+00:00"
+    },
     {
       "title": "[가톨릭대학교 2026 총선거] '마주한 오늘, 함께할 내일', 제35대 총학생회장단 후보 기호 2번 'UNIT'을 만나다 - 가톨릭대학보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55UVJJN3FQbTlSQ3VHOFlHZXNVZGtGaHpwVm8yTEZTV2FlVGhobDZUTGNCanJ0ekhlTTFJOVJtTmYzekxnSzEwX2JlNTVSYm91UXBEMTJFbXlpdTJpckVvenNuN0UxV2ZZcGc?oc=5",
@@ -112,6 +159,18 @@
       "id": "f9f2bab6a9b150a2247a",
       "category": "기타",
       "collected_at": "2026-11-23T05:10:23.633753+00:00"
+    },
+    {
+      "title": "언론 3사 주최 총학생회 후보 공청회 ‘대학 의사결정에 학생 참여 확대’ - 경희대학교 미디어센터",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzRC1ZNnpGVWdOQ09kd25EVkd6NFUyeG4xZ18xanF5TmlHRS1nTHE5MmROMDNXTFpxN0R1UnJlRXZsWWx2MVZyMjJqMm5QZDlMTXVxZ00tZktiZHhPT2FldUtNWFo0X19WZ3FxdHFfRzl1X3VjR0E?oc=5",
+      "summary": "언론 3사 주최 총학생회 후보 공청회 ‘대학 의사결정에 학생 참여 확대’ 경희대학교 미디어센터",
+      "source": "경희대학교 미디어센터",
+      "published_at": "2026-11-22T17:26:02+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "eeb92883f08d9e12400c",
+      "category": "선거·조직",
+      "collected_at": "2026-11-25T06:30:27.382266+00:00"
     },
     {
       "title": "[신촌·국제캠 선본 ‘Y-not’] 학생 권익 위해 투쟁도 불사, ‘3.0 버전 총학’ 만들겠다 - 연세춘추",
