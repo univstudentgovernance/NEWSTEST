@@ -1,8 +1,40 @@
 {
-  "updated_at": "2026-11-26T05:56:43.199158+09:00",
+  "updated_at": "2026-11-26T15:23:45.142574+09:00",
   "item_count": 1333,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [
+    {
+      "query": "총학생회 OR 총학",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "query": "대학 학생자치",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "query": "대학 학생총회 OR 전체학생대표자회의",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "query": "대학 학생회비 OR 자치비 OR 회계감사",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
+      "error": "HTTPError: HTTP Error 503: Service Unavailable"
+    },
     {
       "source": "동아일보",
       "error": "RemoteDisconnected: Remote end closed connection without response"
