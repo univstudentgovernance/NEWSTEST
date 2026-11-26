@@ -1,46 +1,57 @@
 {
-  "updated_at": "2026-11-26T15:23:45.142574+09:00",
-  "item_count": 1333,
+  "updated_at": "2026-11-27T05:48:30.513471+09:00",
+  "item_count": 1335,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [
-    {
-      "query": "총학생회 OR 총학",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생자치",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 등록금 총학생회 OR 등록금심의위원회",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생총회 OR 전체학생대표자회의",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 축제 OR 복지 OR 공약",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 학생회비 OR 자치비 OR 회계감사",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "query": "대학 총학생회 인권 OR 학내갈등 OR 징계",
-      "error": "HTTPError: HTTP Error 503: Service Unavailable"
-    },
-    {
-      "source": "동아일보",
-      "error": "RemoteDisconnected: Remote end closed connection without response"
-    }
-  ],
+  "failures": [],
   "items": [
+    {
+      "title": "[속보] 총학 선거 5년 연속 투표 연장 - 채널PNU",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KazhLWnQ2ZVNDYzJMcTdPSkZBZWZ1Rk9oeGR6WWRkQWhFN3VzZVVLQXBFX2F1M0xxMS1kczlBTDZqa3M0Qy1uR041bmlnYmtSb1lzdDRrbVgtX2doN0Z3M3pkX1VJc09vVTE2UktHRXNEa2JDT1HSAXZBVV95cUxOSms4S1p0NmVTQ2MyTHE3T0pGQWVmdUZPaHhkellkZEFoRTd1c2VVS0FwRV9hdTNMcTEtZHM5QUw2amtzNEMtbkdONW5pZ2JrUm9Zc3Q0a21YLV9naDdGdzN6ZF9VSXNPb1UxNlJLR0VzRGtiQ09R?oc=5",
+      "summary": "[속보] 총학 선거 5년 연속 투표 연장 채널PNU",
+      "source": "채널PNU",
+      "published_at": "2026-11-26T10:44:23+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "9192d5ce6be2bc9610a5",
+      "category": "선거·조직",
+      "collected_at": "2026-11-26T20:47:58.874260+00:00"
+    },
+    {
+      "title": "2027학년도 총학생회장 선거, 이석민·서혜원 학생 당선 - 경남대학교 대표",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hbVZsSF9QU1VXNG1yQVMtVERmWVNWMmtKVGpBSlpqMXl3bWtteEhSeW5vbXJybU0zaURWZlNtYlBVUHY1TUdwMWVwWXh0YkdkMlFXc1E1SWR5cW1rYW1qVjEwY3p1U3JZaFZSNXNHTQ?oc=5",
+      "summary": "2027학년도 총학생회장 선거, 이석민·서혜원 학생 당선 경남대학교 대표",
+      "source": "경남대학교 대표",
+      "published_at": "2026-11-26T09:17:05+00:00",
+      "matched_query": "대학 총학생회 축제 OR 복지 OR 공약",
+      "feed": "Google News RSS",
+      "id": "334e03e8782e5b457f70",
+      "category": "선거·조직",
+      "collected_at": "2026-11-26T20:48:06.746963+00:00"
+    },
+    {
+      "title": "경남대 2027학년도 총학생회장 선거, 이석민·서혜원 학생 당선 - 경남도민신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KUG9JUEl6anFySm8wTHJ3cUdEejc1cGRKZG5aYUJWOUtFVTZUbkdIakVtVG5wN0pKcjJ0akJXNEdyQ0xDSzZ4UEt1LVlRakluR1ZnaTl6STVLd2hZODROSU9kbjhQVThX?oc=5",
+      "summary": "경남대 2027학년도 총학생회장 선거, 이석민·서혜원 학생 당선 경남도민신문",
+      "source": "경남도민신문",
+      "published_at": "2026-11-26T07:22:57+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "3df4bb805e4d76eef229",
+      "category": "선거·조직",
+      "collected_at": "2026-11-26T20:47:58.874301+00:00"
+    },
+    {
+      "title": "3년 만에 출범한 경북대 총학생회, 첫 현안은 `서울대 10개 만들기` - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sNG54SlhTSUlZMmFTZnFuMVQ2QlBiVkU5SUVQS2N5dU9xVTZPa3R2c3o3ei0zMzlSQVlaUlJ3em5qOHl5OEltUmdDdDNIQzY0Vm9OM1B1MTZEX2RLMlZJenF3?oc=5",
+      "summary": "3년 만에 출범한 경북대 총학생회, 첫 현안은 `서울대 10개 만들기` 매일신문",
+      "source": "매일신문",
+      "published_at": "2026-11-26T07:06:36+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "61631f05692133185c9b",
+      "category": "기타",
+      "collected_at": "2026-11-26T20:47:58.874357+00:00"
+    },
     {
       "title": "[속보] 제39대 세종총학에 선본 ‘FLOW’ 당선 - 고대신문",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CWklIR3BUS3dnVXhHQWVjQjVLYWpFZzNUcGpWbnUxeHlzVFRRMXltczB2a1pJa1RZOXdCWTdVVWxvN1B6bWVVTm1nOFo2U1o3SVZadWF0RXBwRkQ5UmN1RlpERUtpRi10dkE?oc=5",
@@ -448,6 +459,18 @@
       "id": "223895dcaa6a97105970",
       "category": "선거·조직",
       "collected_at": "2026-11-21T05:09:09.126861+00:00"
+    },
+    {
+      "title": "강원대 춘천캠퍼스 3년 만에 총학생회 출범…학생 자치 정상화 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKZDYwX084aVc4ZmhrVE9DclBqNUs1OTAtXy1wYXVlMlhmaXpEdHhrS1JEMjVfb3Zfb19jOG1UckdFX21qZ1dqSzM0ajFGQkxHNWlaUjlyQ2hOQQ?oc=5",
+      "summary": "강원대 춘천캠퍼스 3년 만에 총학생회 출범…학생 자치 정상화 파이낸셜뉴스",
+      "source": "파이낸셜뉴스",
+      "published_at": "2026-11-20T06:38:07+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "d1015216a0dfd7145630",
+      "category": "기타",
+      "collected_at": "2026-11-26T20:47:58.875420+00:00"
     },
     {
       "title": "강원대 춘천캠퍼스 3년 만에 총학생회 출범…학생 자치 정상화 - 연합뉴스",
@@ -13269,6 +13292,18 @@
       "collected_at": "2026-10-04T03:46:40.784655+00:00"
     },
     {
+      "title": "학생 위원 우위 대학 5%뿐…'기울어진' 등심위 - EBS",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGluR3BHNTlfVUVMdkVVV2RBWkt1UlNVWFRTU1YxVVZYT192LXZpMWF1emdWck8xZERNcHlBUmdKbjdmZVlXNFJ4RkZvZ25TQ3FLWEVPeF96bzRZY2RSUi1VVjJ0eF9uZGR6b1VOMmhyUVNyOEpHOFlEQlBKVHR3R3VJcWwtbzE2RUFMY0V1S040aTlEMThzbWROekM?oc=5",
+      "summary": "학생 위원 우위 대학 5%뿐…'기울어진' 등심위 EBS",
+      "source": "EBS",
+      "published_at": "2026-03-23T07:00:00+00:00",
+      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
+      "feed": "Google News RSS",
+      "id": "28a9a81317addfd58e77",
+      "category": "등록금·교육",
+      "collected_at": "2026-11-26T20:48:03.626788+00:00"
+    },
+    {
       "title": "공약 검증의 장, 한양대 제54대 총학생회 보궐선거 정책공청회 개최 - newshyu.com",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEOVUwVmxtZmRYRHZHZVlrTGVBV1BzajRDczA3M2lpNFk1QkFnU0NGZlZ2Y0YwRkNRWFFnUV9wVm1Ba2VZLTZYQmdyLW14bC1iV3pJWmlIYUVUUGZJTTVUaTgzYl9Mc2ppV1FB?oc=5",
       "summary": "공약 검증의 장, 한양대 제54대 총학생회 보궐선거 정책공청회 개최 newshyu.com",
@@ -15754,53 +15789,6 @@
       "id": "0d40540b30717f0eec9e",
       "category": "기타",
       "collected_at": "2026-08-02T07:55:06.143586+00:00"
-    },
-    {
-      "title": "[에듀플러스]세종대 총학생회 등록금 인상 약속 미이행 성명…학교 측 “소통 과정에서 오해, 협의 마쳐” - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xT1RYcVcxZEVzMlVaN2tsb0xCYzUtZ3Z3S2VEaWVjSG1xdzhOV3RualJfbXdGSzR0aXg4c3RYbVdaMnE4b2pUdzJ2MHhaQQ?oc=5",
-      "summary": "[에듀플러스]세종대 총학생회 등록금 인상 약속 미이행 성명…학교 측 “소통 과정에서 오해, 협의 마쳐” 전자신문",
-      "source": "전자신문",
-      "published_at": "2025-11-26T08:00:00+00:00",
-      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
-      "id": "3f134de4d1a6f8ccc9bd",
-      "category": "등록금·교육",
-      "collected_at": "2026-08-01T17:27:30.595850+00:00"
-    },
-    {
-      "title": "[에듀플러스]세종대 총학생회 등록금 인상 약속 미이행 성명…학교 측 “소통 과정에서 오해, 협의 마쳐” - etnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xT1RYcVcxZEVzMlVaN2tsb0xCYzUtZ3Z3S2VEaWVjSG1xdzhOV3RualJfbXdGSzR0aXg4c3RYbVdaMnE4b2pUdzJ2MHhaQQ?oc=5",
-      "summary": "[에듀플러스]세종대 총학생회 등록금 인상 약속 미이행 성명…학교 측 “소통 과정에서 오해, 협의 마쳐” etnews.com",
-      "source": "etnews.com",
-      "published_at": "2025-11-26T08:00:00+00:00",
-      "matched_query": "대학 등록금 총학생회 OR 등록금심의위원회",
-      "feed": "Google News RSS",
-      "id": "d9013736428930164b75",
-      "category": "등록금·교육",
-      "collected_at": "2026-08-02T15:47:15.496062+00:00"
-    },
-    {
-      "title": "[뉴스] 2026학년도 서울캠 총학에 ‘퀘스트’ 당선…득표율 52.52% - 경희대학교 미디어센터",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzTUNYN3FIb0NpRXJjVmJWYVJsUGhiLVBnN3RaWlpOOUJrRkN1T0JsTG9YTnBHZ2lrQWhoWi1jc2t6SHY2VU5CNTRsT0dYdmRWeE51Y1BOYkZUQzBnOTNTeFkyUGhIWmtwQkNRVzFJdHJLZkdkUXc?oc=5",
-      "summary": "[뉴스] 2026학년도 서울캠 총학에 ‘퀘스트’ 당선…득표율 52.52% 경희대학교 미디어센터",
-      "source": "경희대학교 미디어센터",
-      "published_at": "2025-11-26T08:00:00+00:00",
-      "matched_query": "총학생회 OR 총학",
-      "feed": "Google News RSS",
-      "id": "bd16b41d26c5c6fc478f",
-      "category": "선거·조직",
-      "collected_at": "2026-08-08T04:17:31.773171+00:00"
-    },
-    {
-      "title": "[뉴스] 2026학년도 서울캠 총학에 ‘퀘스트’ 당선…득표율 52.52% - media.khu.ac.kr",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzTUNYN3FIb0NpRXJjVmJWYVJsUGhiLVBnN3RaWlpOOUJrRkN1T0JsTG9YTnBHZ2lrQWhoWi1jc2t6SHY2VU5CNTRsT0dYdmRWeE51Y1BOYkZUQzBnOTNTeFkyUGhIWmtwQkNRVzFJdHJLZkdkUXc?oc=5",
-      "summary": "[뉴스] 2026학년도 서울캠 총학에 ‘퀘스트’ 당선…득표율 52.52% media.khu.ac.kr",
-      "source": "media.khu.ac.kr",
-      "published_at": "2025-11-26T08:00:00+00:00",
-      "matched_query": "총학생회 OR 총학",
-      "feed": "Google News RSS",
-      "id": "b183698b1f9bb2089351",
-      "category": "선거·조직",
-      "collected_at": "2026-08-09T12:36:21.570832+00:00"
     }
   ]
 }
