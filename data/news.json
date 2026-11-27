@@ -1,9 +1,45 @@
 {
-  "updated_at": "2026-11-27T15:12:17.055406+09:00",
-  "item_count": 1340,
+  "updated_at": "2026-11-28T05:33:34.183277+09:00",
+  "item_count": 1344,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "세종총학 선본 ‘FLOW’ 당선 … 3개 단과대도 새 학생회 출범 - 고대신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uel9EV2lrVmo0RVd5RGR0dUYyNTNBUm9HZ3dRYWV6MTVuX29JMC0xanhmWjdKX2NpQ0g4SVdKam93bHZ6V2N5RTBjbEo5R0xHUEN4SDEyaldlSmZSS0tyMjZlZVhxUXV5RGc?oc=5",
+      "summary": "세종총학 선본 ‘FLOW’ 당선 … 3개 단과대도 새 학생회 출범 고대신문",
+      "source": "고대신문",
+      "published_at": "2026-11-27T13:13:42+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "36ab796f9eff948ec22d",
+      "category": "선거·조직",
+      "collected_at": "2026-11-27T20:33:02.136817+00:00"
+    },
+    {
+      "title": "투명성·소통 내세운 세종총학 ‘FLOW’, 학내 시선은 - 고대신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mN3k0YkVsMTNiY0NYS3JtTW1BdWpEaXo5UV81QzQzc2tNeGZtNlhIZS1qeTBNa1F3MU5xY29PMmlFSGF2RWxsRGYyd0NVVkljUkNXLTNhVERtcHg2UjJlSGJ5X3lKQi1MOWc?oc=5",
+      "summary": "투명성·소통 내세운 세종총학 ‘FLOW’, 학내 시선은 고대신문",
+      "source": "고대신문",
+      "published_at": "2026-11-27T11:09:17+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "af26c07b4efac75a42af",
+      "category": "기타",
+      "collected_at": "2026-11-27T20:33:02.136967+00:00"
+    },
+    {
+      "title": "무산, 무산, 또 무산된 서울총학선거 … “학생 자치 무관심 커질 것” - 고대신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlVEpCRUNvbHByTTFWc3kyQ2RpTlRsVnl4ODNtS3VBbmhvQlZlbVRTd0FodHRJLXRaMXk1amNfZHg3Q1lWcFNhRDBFdkZRU1Ytb25hRUI4WVlmNWNHSDg2NVBtSnp2VnFKN0E?oc=5",
+      "summary": "무산, 무산, 또 무산된 서울총학선거 … “학생 자치 무관심 커질 것” 고대신문",
+      "source": "고대신문",
+      "published_at": "2026-11-27T10:34:55+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "f63a4e2fa6b9b6fa7ddf",
+      "category": "선거·조직",
+      "collected_at": "2026-11-27T20:33:02.137178+00:00"
+    },
     {
       "title": "동덕여대 총학 \"학생 반대 의견 축소하는 교명 변경 추진 중단하라\" - MBC 뉴스",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4aWRCNEFOMVRaOEdacF9JZ3NlYlVmcUFBc3A2TENuU1JhZ2xfUUxpNnhoUEhydlowQVlzNUxsR1dPaGk5d0tDY3JqUy1jWW83M2hKSHBqeU9aSmFvWGdadGxvQ2VITWhLM2ZleVl0aG5HNzNVQkJZ0gF3QVVfeXFMTWR3Tmt1cWkwaFNDdXQzNnkxWkxxZDd3aGNDdHZid3Y1VkcxakNmVnVHWll1T1l0SlRkcXR5cF9tRXM2MEJLX1JLdktRckhOQVVJQ2h3dnhqWFpJZGMyNG5CX0VqOWN4eGNkbjFIbWRkZnowc3Fqc0E?oc=5",
@@ -735,6 +771,18 @@
       "id": "742c470731fdf4a1604f",
       "category": "기타",
       "collected_at": "2026-11-20T05:16:05.177672+00:00"
+    },
+    {
+      "title": "한세대 총학생회, 대학 발전기금 1천만원 기탁 - 대학IN",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HalZ5RHFtZUxoM1o5cnpSVGJCclcxU0RlNmVBQ21TMy1fTG9MZU56OW43X0FhbTBEd3lXZzB4RldsVGY5bnZVVXFydW1hT0lXUGNvZ0d2cHlMYVRDSF9ickZheTEwVFRjRGpGbtIBcEFVX3lxTFBtRWNDd29NM3lpUUJ2cTdxVy1scXU1aGRKSngtUUZqNm41TEFEZ2RZQU1UVXBuenBiZS1PWkdTaWlacUwwMnNOak1xT2xjOC01RUpvY2ljZmItWTZlWDVPTmV0M2tXVlFVVEVJSXhxTkc?oc=5",
+      "summary": "한세대 총학생회, 대학 발전기금 1천만원 기탁 대학IN",
+      "source": "대학IN",
+      "published_at": "2026-11-18T01:44:31+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "12ae4f971a1e049cbdea",
+      "category": "기타",
+      "collected_at": "2026-11-27T20:33:03.889200+00:00"
     },
     {
       "title": "한세대 총학, 대학에 발전기금 1천만원 기탁 - 기독일보",
