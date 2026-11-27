@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-11-27T05:48:30.513471+09:00",
-  "item_count": 1335,
+  "updated_at": "2026-11-27T15:12:17.055406+09:00",
+  "item_count": 1340,
   "collection_policy": "RSS metadata only; article pages are not crawled",
   "failures": [],
   "items": [
+    {
+      "title": "동덕여대 총학 \"학생 반대 의견 축소하는 교명 변경 추진 중단하라\" - MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4aWRCNEFOMVRaOEdacF9JZ3NlYlVmcUFBc3A2TENuU1JhZ2xfUUxpNnhoUEhydlowQVlzNUxsR1dPaGk5d0tDY3JqUy1jWW83M2hKSHBqeU9aSmFvWGdadGxvQ2VITWhLM2ZleVl0aG5HNzNVQkJZ0gF3QVVfeXFMTWR3Tmt1cWkwaFNDdXQzNnkxWkxxZDd3aGNDdHZid3Y1VkcxakNmVnVHWll1T1l0SlRkcXR5cF9tRXM2MEJLX1JLdktRckhOQVVJQ2h3dnhqWFpJZGMyNG5CX0VqOWN4eGNkbjFIbWRkZnowc3Fqc0E?oc=5",
+      "summary": "동덕여대 총학 \"학생 반대 의견 축소하는 교명 변경 추진 중단하라\" MBC 뉴스",
+      "source": "MBC 뉴스",
+      "published_at": "2026-11-27T05:23:25+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "4e0758c91f56ed234778",
+      "category": "기타",
+      "collected_at": "2026-11-27T06:11:44.055323+00:00"
+    },
+    {
+      "title": "세종대, 제40대 총학생회 선거 합동 공청회 진행 - 세종대학교 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTHRfcHI2dDVhdHFCM0V2WlNuTWxVSWRlNkw1RWlFU29aNmF1c0d2allDbzJKSTV5LXBKYnpjYTR2QTZKM1B6bTM5SnFEanZNUkYwZUk0eDZGSVRiS1R2TERZeE5FOUkxVHdMaGY3Y3F3cmo3RTJpd1pGY3JIaXh0a3diYw?oc=5",
+      "summary": "세종대, 제40대 총학생회 선거 합동 공청회 진행 세종대학교 뉴스룸",
+      "source": "세종대학교 뉴스룸",
+      "published_at": "2026-11-27T01:09:27+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "0e5affe597a4fc9584ad",
+      "category": "선거·조직",
+      "collected_at": "2026-11-27T06:11:44.055366+00:00"
+    },
     {
       "title": "[속보] 총학 선거 5년 연속 투표 연장 - 채널PNU",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KazhLWnQ2ZVNDYzJMcTdPSkZBZWZ1Rk9oeGR6WWRkQWhFN3VzZVVLQXBFX2F1M0xxMS1kczlBTDZqa3M0Qy1uR041bmlnYmtSb1lzdDRrbVgtX2doN0Z3M3pkX1VJc09vVTE2UktHRXNEa2JDT1HSAXZBVV95cUxOSms4S1p0NmVTQ2MyTHE3T0pGQWVmdUZPaHhkellkZEFoRTd1c2VVS0FwRV9hdTNMcTEtZHM5QUw2amtzNEMtbkdONW5pZ2JrUm9Zc3Q0a21YLV9naDdGdzN6ZF9VSXNPb1UxNlJLR0VzRGtiQ09R?oc=5",
@@ -15,6 +39,18 @@
       "id": "9192d5ce6be2bc9610a5",
       "category": "선거·조직",
       "collected_at": "2026-11-26T20:47:58.874260+00:00"
+    },
+    {
+      "title": "국제캠 총학생회 선거구 ‘코드’ 당선…7개 단과대·36개 학과 당선인 확정 > VOU뉴스 - 경희대학교 미디어센터",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uSC05b2dmUi1YLTBEQUdZR19kejdseEd0elhYNUtQNHRBN01iTmYtWTlGcHNLdmZKWUNKNlVRVVNfdWg0SDV4WUJBN1VQNmIzd2RSSFRuUmN5MjJoZEdQWFRMd1FBdTJ5LUFEYV9waDBTUDQ?oc=5",
+      "summary": "국제캠 총학생회 선거구 ‘코드’ 당선…7개 단과대·36개 학과 당선인 확정 > VOU뉴스 경희대학교 미디어센터",
+      "source": "경희대학교 미디어센터",
+      "published_at": "2026-11-26T09:46:30+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "e3f7505bf24daf10f9a6",
+      "category": "선거·조직",
+      "collected_at": "2026-11-27T06:11:44.055481+00:00"
     },
     {
       "title": "2027학년도 총학생회장 선거, 이석민·서혜원 학생 당선 - 경남대학교 대표",
@@ -231,6 +267,18 @@
       "id": "8e84694e638063cbb900",
       "category": "의결·자치",
       "collected_at": "2026-11-23T23:12:21.852884+00:00"
+    },
+    {
+      "title": "대전시교육청, 학생자치·매니페스토 발표 한마당 - briefingcc.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EOEh3dG5aamF5Q2tNd3JkR3B3Y2dBaC11SHBVMVRNMnJubGtpMHY4RUxZOFZXeVpsQzhvVC1LaTZEMUJlMFF5UlVHcGM4OV9sSmRjdzNBNF82aUVzQmxrc2txX1dTRkdxNXBOQw?oc=5",
+      "summary": "대전시교육청, 학생자치·매니페스토 발표 한마당 briefingcc.com",
+      "source": "briefingcc.com",
+      "published_at": "2026-11-23T08:10:03+00:00",
+      "matched_query": "대학 학생자치",
+      "feed": "Google News RSS",
+      "id": "10a556725f703ab1f64f",
+      "category": "의결·자치",
+      "collected_at": "2026-11-27T06:11:45.595670+00:00"
     },
     {
       "title": "제주대 총학생회장 이건웅 당선… 전체 투표 38.6% 무효 - 파이낸셜뉴스",
@@ -11872,6 +11920,18 @@
       "id": "e6781cea1f75008c9be5",
       "category": "기타",
       "collected_at": "2026-08-05T17:13:12.364683+00:00"
+    },
+    {
+      "title": "총학생회장 장종오 - 서울대저널",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DaGp3M0hxNG9Vd0MyWWdpZU5iU3RGMGlLaVYyWlZIa1F1Y1JoZ2x4dmQ4WVFvX3RmXzNqUEZXMmUyeXJkWllrdm14dnAxb0RqLXBYejBDX19CeHp0ZmhTeGZkMHU?oc=5",
+      "summary": "총학생회장 장종오 서울대저널",
+      "source": "서울대저널",
+      "published_at": "2026-05-10T20:07:21+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "004f09294076b4ee9f5d",
+      "category": "기타",
+      "collected_at": "2026-11-27T06:11:44.056127+00:00"
     },
     {
       "title": "[뉴스] 문과대학 감사위원회 발족… 학생회비 사적 운용 조사 - 경희대학교 미디어센터",
