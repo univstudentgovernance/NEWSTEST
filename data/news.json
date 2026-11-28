@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-11-28T05:33:34.183277+09:00",
-  "item_count": 1344,
+  "updated_at": "2026-11-28T14:52:25.872935+09:00",
+  "item_count": 1346,
   "collection_policy": "RSS metadata only; article pages are not crawled",
-  "failures": [],
+  "failures": [
+    {
+      "source": "동아일보",
+      "error": "RemoteDisconnected: Remote end closed connection without response"
+    }
+  ],
   "items": [
     {
       "title": "세종총학 선본 ‘FLOW’ 당선 … 3개 단과대도 새 학생회 출범 - 고대신문",
@@ -15,6 +20,18 @@
       "id": "36ab796f9eff948ec22d",
       "category": "선거·조직",
       "collected_at": "2026-11-27T20:33:02.136817+00:00"
+    },
+    {
+      "title": "[속보] 2027 총학생회, 전진 이끈다 - 채널PNU",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RYmI5cEtzWlRwQXgtMVlnc2h5dzBBWmlEWFJLbzEwUmNCcE0zWkQwcTc3WkswTVAxd0dHek1PZzRETy02azZrOEJXWVJ4dlZRZ2g3M2RKWVpobURYbXlzT20yRm4xNUcyNGVMR0kyOUFnUdIBdkFVX3lxTE9ES0Z5ZVdUaDd6a2YwbEJfRnZTS2xBWWpSaTBDU0k4UzUwbGx4NU04NUMtMHF6UzJOY1V1Q3FPWDcza1J4bnViX3Q1Q2RTNmVURVhzRzFwTkRtbVBJUWl6LU9lZFBOdFotMnZtVk1CMzFQT0VHMFE?oc=5",
+      "summary": "[속보] 2027 총학생회, 전진 이끈다 채널PNU",
+      "source": "채널PNU",
+      "published_at": "2026-11-27T12:00:00+00:00",
+      "matched_query": "총학생회 OR 총학",
+      "feed": "Google News RSS",
+      "id": "0c07548b20e315c8abc0",
+      "category": "기타",
+      "collected_at": "2026-11-28T05:51:55.180787+00:00"
     },
     {
       "title": "투명성·소통 내세운 세종총학 ‘FLOW’, 학내 시선은 - 고대신문",
@@ -531,6 +548,18 @@
       "id": "3e4dd856d0d6dac2d3f3",
       "category": "선거·조직",
       "collected_at": "2026-11-22T18:55:04.610611+00:00"
+    },
+    {
+      "title": "강원대 춘천캠퍼스 3년 만에 총학생회 출범…학생 자치 정상화 - 스포츠조선",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3Z1pCZ0dQSHdXRk4yR1BQdXQ2WFhiTDUyVDFSWHFhRGc2NklZcjhZV1IxZ3djOEh3dkdQZlp6aWVCQmcyOE5yTzFidnRCdTl1YTBRNXVlMHZMbXpsVlJxekFvRU01UDJXUlQtNHVmMV95LWI5eVdqYg?oc=5",
+      "summary": "강원대 춘천캠퍼스 3년 만에 총학생회 출범…학생 자치 정상화 스포츠조선",
+      "source": "스포츠조선",
+      "published_at": "2026-11-20T07:37:37+00:00",
+      "matched_query": "대학 총학생회 선거 OR 비상대책위원회 OR 비대위",
+      "feed": "Google News RSS",
+      "id": "29d02bcb51aa5c71c5c5",
+      "category": "기타",
+      "collected_at": "2026-11-28T05:51:59.368260+00:00"
     },
     {
       "title": "강원대 춘천캠 총학생회, 비대위 끝내고 3년 만에 '출범' - 노컷뉴스",
